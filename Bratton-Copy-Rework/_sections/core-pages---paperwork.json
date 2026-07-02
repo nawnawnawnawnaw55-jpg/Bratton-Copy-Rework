@@ -1,0 +1,103 @@
+{
+  "section": "Core Pages > Paperwork",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 5,
+  "snippets": {
+    "8431dbec001f": {
+      "id": "8431dbec001f",
+      "plainText": "Patient Paperwork Save time at your first visit by completing your paperwork ahead of time. Download and print the forms below, fill them out, and bring them with you. New Patient Forms New Patient Registration (PDF) Health History Questionnaire (PDF) HIPAA Privacy Notice (PDF) Consent for Treatment (PDF)",
+      "originalHtml": "<div class=\"container\" style=\"max-width:650px\">\r\n      <h1>Patient Paperwork</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Save time at your first visit by completing your paperwork ahead of time. Download and print the forms below, fill them out, and bring them with you.</p>\r\n\r\n      <div style=\"margin:24px 0\">\r\n        <h3>New Patient Forms</h3>\r\n        <ul style=\"line-height:2;font-size:1.05rem\">\r\n          <li><a href=\"#\">New Patient Registration</a> (PDF)</li>\r\n          <li><a href=\"#\">Health History Questionnaire</a> (PDF)</li>\r\n          <li><a href=\"#\">HIPAA Privacy Notice</a> (PDF)</li>\r\n          <li><a href=\"#\">Consent for Treatment</a> (PDF)</li>\r\n        </ul>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:650px\">\r\n      <h1>Patient Paperwork</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Save time at your first visit by completing your paperwork ahead of time. Download and print the forms below, fill them out, and bring them with you.</p>\r\n\r\n      <div style=\"margin:24px 0\">\r\n        <h3>New Patient Forms</h3>\r\n        <ul style=\"line-height:2;font-size:1.05rem\">\r\n          <li><a href=\"#\">New Patient Registration</a> (PDF)</li>\r\n          <li><a href=\"#\">Health History Questionnaire</a> (PDF)</li>\r\n          <li><a href=\"#\">HIPAA Privacy Notice</a> (PDF)</li>\r\n          <li><a href=\"#\">Consent for Treatment</a> (PDF)</li>\r\n        </ul>\r\n      </div>\r\n\r\n      <p>Don't have a printer? No problem — arrive 15 minutes early and we'll have everything ready for you.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Have Questions? Call Us</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer",
+      "textLength": 306,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "paperwork/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Paperwork",
+          "pageName": "paperwork",
+          "isMeta": false
+        }
+      ]
+    },
+    "5b98bb9b854d": {
+      "id": "5b98bb9b854d",
+      "plainText": "Don't have a printer? No problem — arrive 15 minutes early and we'll have everything ready for you.",
+      "originalHtml": "<p>Don't have a printer? No problem — arrive 15 minutes early and we'll have everything ready for you.</p>",
+      "tagName": "p",
+      "previewContext": "<li><a href=\"#\">New Patient Registration</a> (PDF)</li>\r\n          <li><a href=\"#\">Health History Questionnaire</a> (PDF)</li>\r\n          <li><a href=\"#\">HIPAA Privacy Notice</a> (PDF)</li>\r\n          <li><a href=\"#\">Consent for Treatment</a> (PDF)</li>\r\n        </ul>\r\n      </div>\r\n\r\n      <p>Don't have a printer? No problem — arrive 15 minutes early and we'll have everything ready for you.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Have Questions? Call Us</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 99,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "paperwork/index.html",
+          "selector": "p",
+          "category": "core-pages",
+          "section": "Core Pages > Paperwork",
+          "pageName": "paperwork",
+          "isMeta": false
+        }
+      ]
+    },
+    "4f186580ce96": {
+      "id": "4f186580ce96",
+      "plainText": "Have Questions? Call Us",
+      "originalHtml": "<p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Have Questions? Call Us</a></p>",
+      "tagName": "p",
+      "previewContext": "ire</a> (PDF)</li>\r\n          <li><a href=\"#\">HIPAA Privacy Notice</a> (PDF)</li>\r\n          <li><a href=\"#\">Consent for Treatment</a> (PDF)</li>\r\n        </ul>\r\n      </div>\r\n\r\n      <p>Don't have a printer? No problem — arrive 15 minutes early and we'll have everything ready for you.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Have Questions? Call Us</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 23,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "paperwork/index.html",
+          "selector": "p",
+          "category": "core-pages",
+          "section": "Core Pages > Paperwork",
+          "pageName": "paperwork",
+          "isMeta": false
+        }
+      ]
+    },
+    "bd57db2545fa": {
+      "id": "bd57db2545fa",
+      "plainText": "Patient Forms — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Patient Forms — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 54,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "paperwork/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Paperwork",
+          "pageName": "paperwork",
+          "isMeta": true
+        }
+      ]
+    },
+    "aaec242849d6": {
+      "id": "aaec242849d6",
+      "plainText": "Download new patient forms and paperwork for Bratton Physical Therapy in Slidell, LA.",
+      "originalHtml": "<meta name=\"description\" content=\"Download new patient forms and paperwork for Bratton Physical Therapy in Slidell, LA.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 85,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "paperwork/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Paperwork",
+          "pageName": "paperwork",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "section": "Medical Library > Legal",
+  "category": "medical-library",
+  "pageCount": 6,
+  "snippetCount": 10,
+  "snippets": {
+    "128118203634": {
+      "id": "128118203634",
+      "plainText": "Privacy Policy Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Privacy Policy</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Privacy Policy</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 169,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        }
+      ]
+    },
+    "cef7a0475045": {
+      "id": "cef7a0475045",
+      "plainText": "Privacy Policy — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Privacy Policy — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 55,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": true
+        },
+        {
+          "file": "privacy-policy/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Privacy Policy",
+          "pageName": "privacy-policy",
+          "isMeta": true
+        }
+      ]
+    },
+    "a9bb07f7abd7": {
+      "id": "a9bb07f7abd7",
+      "plainText": "Medical Library Privacy . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Privacy . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": true
+        }
+      ]
+    },
+    "a58ef8dff4df": {
+      "id": "a58ef8dff4df",
+      "plainText": "Medical Library Privacybar Privacy. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Privacybar Privacy. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 129,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": true
+        }
+      ]
+    },
+    "b6415631d7f0": {
+      "id": "b6415631d7f0",
+      "plainText": "Terms of Use Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Terms of Use</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Terms of Use</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 167,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        }
+      ]
+    },
+    "b116e0c598b1": {
+      "id": "b116e0c598b1",
+      "plainText": "Terms of Use — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Terms of Use — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": true
+        },
+        {
+          "file": "terms-of-use/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Terms Of Use",
+          "pageName": "terms-of-use",
+          "isMeta": true
+        }
+      ]
+    },
+    "48dffaf452e5": {
+      "id": "48dffaf452e5",
+      "plainText": "Medical Library Privacybar Terms. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Privacybar Terms. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 127,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": true
+        }
+      ]
+    },
+    "b49acd31c28d": {
+      "id": "b49acd31c28d",
+      "plainText": "Website Privacy Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Website Privacy</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Website Privacy</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 170,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        }
+      ]
+    },
+    "940787bbcee2": {
+      "id": "940787bbcee2",
+      "plainText": "Website Privacy — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Website Privacy — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 56,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": true
+        }
+      ]
+    },
+    "1b13a8b61690": {
+      "id": "1b13a8b61690",
+      "plainText": "Medical Library Privacybar Websiteprivacy. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Privacybar Websiteprivacy. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 136,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

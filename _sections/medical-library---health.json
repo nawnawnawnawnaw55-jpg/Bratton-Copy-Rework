@@ -1,0 +1,62 @@
+{
+  "section": "Medical Library > Health",
+  "category": "medical-library",
+  "pageCount": 2,
+  "snippetCount": 2,
+  "snippets": {
+    "9fbb8f3b3e71": {
+      "id": "9fbb8f3b3e71",
+      "plainText": "Ankle ← Back to Medical Library This article is being updated. Please browse our Medical Library for other resources. Neck Shoulder Back Elbow Wrist & Hand Hip Knee Leg Ankle & Foot",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <h1>Ankle</h1>\r\n  <a href=\"/library/\" class=\"ml-back-arrow\" aria-label=\"Back to Medical Library\"><span class=\"ml-back-arrow-icon\">←</span> Back to Medical Library</a>\r\n\r\n  <p>This article is being updated. Please browse our <a href=\"/library/\">Medical Library</a> for other resources.</p>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">Elbow</a><a href=\"/library/library_wrist/\" class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <h1>Ankle</h1>\r\n  <a href=\"/library/\" class=\"ml-back-arrow\" aria-label=\"Back to Medical Library\"><span class=\"ml-back-arrow-icon\">←</span> Back to Medical Library</a>\r\n\r\n  <p>This article is being updated. Please browse our <a href=\"/library/\">Medical Library</a> for other resources.</p>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">Elbow</a><a href=\"/library/library_wrist/\" class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n  <h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision o",
+      "textLength": 181,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_health/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Health",
+          "pageName": "library_health",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_nl_all/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Newsletter",
+          "pageName": "library_nl_all",
+          "isMeta": false
+        }
+      ]
+    },
+    "efb754c77f40": {
+      "id": "efb754c77f40",
+      "plainText": "Ankle — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Ankle — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 46,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_health/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Health",
+          "pageName": "library_health",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_nl_all/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Newsletter",
+          "pageName": "library_nl_all",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

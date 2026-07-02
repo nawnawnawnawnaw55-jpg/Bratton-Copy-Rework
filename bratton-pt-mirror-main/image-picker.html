@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bratton PT — Image Picker</title>
+<style>
+:root{--bg:#f4f6f9;--card:#fff;--pri:#2257a6;--acc:#f86f26;--ok:#28a745;--txt:#1a1a2e;--mut:#6c757d;--bor:#e0e0e0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,sans-serif;background:var(--bg);color:var(--txt);padding-bottom:120px}
+.top{position:sticky;top:0;z-index:100;background:var(--pri);color:#fff;padding:12px 24px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;box-shadow:0 2px 12px rgba(0,0,0,.15)}
+.top h1{font-size:1.15rem}
+.top .badge{background:var(--acc);padding:5px 14px;border-radius:20px;font-size:.82rem;font-weight:600}
+.add-row{background:#fff;border-bottom:2px solid var(--bor);padding:10px 24px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.add-row label{font-weight:700;font-size:.85rem;color:var(--pri);white-space:nowrap}
+.add-row input{flex:1;min-width:260px;padding:9px 12px;border:2px solid var(--bor);border-radius:8px;font-size:.84rem;font-family:monospace}
+.add-row input:focus{outline:none;border-color:var(--pri)}
+.add-row button{background:var(--pri);color:#fff;padding:9px 20px;border:none;border-radius:8px;font-weight:600;cursor:pointer;font-size:.84rem}
+.add-row button:hover{background:#1a3d6f}
+.add-row .pool-n{font-size:.78rem;color:var(--mut)}
+.how{background:#e7f0ff;padding:8px 24px;font-size:.8rem;color:var(--pri);border-bottom:1px solid #c8d9f0}
+.how a{color:var(--acc)}
+.ct{max-width:1320px;margin:0 auto;padding:20px 16px}
+.svc{margin-bottom:34px;background:var(--card);border-radius:14px;padding:20px 18px;border:1px solid var(--bor);box-shadow:0 2px 8px rgba(0,0,0,.04)}
+.svc.done{border-color:var(--ok);box-shadow:0 0 0 3px rgba(40,167,69,.10)}
+.svc-h{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px;margin-bottom:4px}
+.svc-h h2{font-size:1rem;font-weight:700;color:var(--pri)}
+.svc-h .st{font-size:.74rem;padding:3px 12px;border-radius:14px;font-weight:600}
+.st-e{background:#fff3cd;color:#856404}
+.st-ok{background:#d4edda;color:#155724}
+.svc-s{margin-bottom:8px;font-size:.76rem}
+.svc-s a{color:var(--acc);text-decoration:none;font-weight:600}
+.svc-s a:hover{text-decoration:underline}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:8px}
+.card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;border:3px solid transparent;background:#dee2e6;aspect-ratio:4/2.6;transition:border-color .12s,transform .12s}
+.card:hover{transform:translateY(-2px);box-shadow:0 5px 14px rgba(0,0,0,.10)}
+.card.sel{border-color:var(--ok);box-shadow:0 0 0 4px rgba(40,167,69,.18)}
+.card.sel::after{content:'\2713';position:absolute;top:6px;right:6px;background:var(--ok);color:#fff;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.7rem;z-index:2}
+.card img{width:100%;height:100%;object-fit:cover;display:block}
+.card .err{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:#f8d7da;color:#721c24;font-size:.7rem;text-align:center;padding:4px}
+.acts{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.btn{padding:8px 16px;border-radius:8px;border:none;font-size:.82rem;font-weight:600;cursor:pointer}
+.btn:active{transform:scale(.96)}
+.btn-more{background:#e7f0ff;color:var(--pri)}.btn-more:hover{background:#d0e2ff}
+.btn-clr{background:#fff3cd;color:#856404}.btn-clr:hover{background:#ffe69c}
+.bar{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:2px solid var(--bor);padding:12px 24px;display:flex;align-items:center;justify-content:center;gap:12px;z-index:200;box-shadow:0 -4px 14px rgba(0,0,0,.06)}
+.bar .cnt{font-size:.9rem;color:var(--mut);font-weight:600}
+.bar .btn-go{background:var(--ok);color:#fff;padding:12px 30px;font-size:.95rem;border-radius:10px;border:none;font-weight:600;cursor:pointer}
+.bar .btn-go:hover{background:#1e7e34}
+.bar .btn-go:disabled{background:#bbb;cursor:not-allowed}
+.bar .btn-rst{background:#fff3cd;color:#856404;padding:12px 18px;font-size:.82rem;border-radius:10px;border:none;font-weight:600;cursor:pointer}
+.bar .btn-rst:hover{background:#ffe69c}
+.result{display:none;background:#d4edda;border:2px solid var(--ok);padding:14px 24px;text-align:center;font-weight:600;color:#155724}
+.result.err{background:#f8d7da;border-color:#dc3545;color:#721c24}
+</style>
+<script src="/m<script>
+(function(){
+var w=window.innerWidth,ua=navigator.userAgent||"";
+if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua)||w<=768){
+document.body.className+=" mobile handheld smartphone";
+}
+})();
+</script>
+);
+    } catch(e) {}
+  }
+})();
+
+</script>
+
+
+
+
+<div class="top"><h1>Bratton PT — Service Image Picker</h1><span class="badge" id="gc">0/12</span></div>
+<div class="add-row">
+  <label>+ Add Photo:</label>
+  <input type="text" id="ai" placeholder="Paste Unsplash URL: https://unsplash.com/photos/abc123-def456"/>
+  <button onclick="addPhoto()">Add to Pool</button>
+  <span class="pool-n" id="pn">Pool: 12 photos</span>
+</div>
+<div class="how"><b>How to find photos:</b> Click a <b>"Search Unsplash →"</b> link below → browse → click a photo → copy the URL → paste above → <b>Add to Pool</b>. Then click a card to pick it for that service. <a href="https://unsplash.com" target="_blank">Open Unsplash.com →</a></div>
+<div class="result" id="result"></div>
+<div class="ct" id="ct"></div>
+<div class="bar">
+  <button class="btn-rst" onclick="clearAll()">Clear All</button>
+  <span class="cnt" id="bc">0 of 12 picked</span>
+  <button class="btn-go" id="bg" disabled onclick="applySelections()">Apply to Website</button>
+</div>
+<script>
+var SV=[
+  {id:'patient-education',n:'Patient Education',s:'doctor-patient-education-consultation'},
+  {id:'therapeutic-exercise',n:'Therapeutic Exercise',s:'physical-therapy-exercise-stretching'},
+  {id:'strength-conditioning',n:'Strength & Conditioning',s:'strength-training-gym-weights'},
+  {id:'dry-needling',n:'Dry Needling Certified',s:'dry-needling-acupuncture-therapy'},
+  {id:'blood-flow-restriction',n:'Blood Flow Restriction',s:'blood-flow-restriction-training-bands'},
+  {id:'mckenzie-method',n:'McKenzie Method',s:'spine-extension-back-physical-therapy'},
+  {id:'mulligan-technique',n:'Mulligan Technique',s:'manual-therapy-mobilization-physical'},
+  {id:'cupping',n:'Cupping',s:'cupping-therapy-treatment'},
+  {id:'gait-balance',n:'Gait / Balance Training',s:'gait-training-balance-walking-physical-therapy'},
+  {id:'moist-heat-ice',n:'Moist Heat / Ice',s:'heat-ice-therapy-cold-pack'},
+  {id:'electrical-stimulation',n:'Electrical Stimulation',s:'electrical-stimulation-tens-physical-therapy'},
+  {id:'workers-compensation',n:'Workers Compensation',s:'workplace-safety-injury-rehabilitation'}
+];
+var PH=['photo-1576091160550-2173dba999ef','photo-1571019614242-c5c5dee9f50b','photo-1534438327276-14e5300c3a48','photo-1588776814546-1ffcf47267a5','photo-1571019613454-1cb2f99b2d8b','photo-1544367567-0f2fcb009e0b','photo-1598256989800-fe5f95da9787','photo-1519823551278-64ac92734fb1','photo-1512069772995-ec65ed528483','photo-1581093588401-fbb62a02f120','photo-1582213782179-e0d53f98f2ca','photo-1597452485669-2c7bb5fef90d'];
+var GS=6,sel={};
+function uf(i){return 'https://images.unsplash.com/'+PH[i]+'?w=400&h=260&fit=crop';}
+function uc(){
+  var n=Object.keys(sel).length;
+  document.getElementById('gc').textContent=n+'/12';
+  document.getElementById('bc').textContent=n+' of 12 picked';
+  var b=document.getElementById('bg');
+  b.disabled=(n===0);
+  b.textContent=n===12?'Apply All 12 to Website':'Apply to Website ('+n+'/12)';
+}
+function mc(sid,sig){
+  var c=document.createElement('div');c.className='card';
+  c.setAttribute('data-sid',sid);c.setAttribute('data-sig',sig);
+  var img=document.createElement('img');img.alt='...';img.src=uf(sig%PH.length);
+  var t=setTimeout(function(){if(!img.complete&&!img.naturalWidth){img.style.display='none';var e=document.createElement('div');e.className='err';e.textContent='Timeout';c.appendChild(e);}},10000);
+  img.onload=function(){clearTimeout(t);if(img.naturalWidth<10){img.style.display='none';return;}c.setAttribute('data-url',img.currentSrc||img.src);};
+  img.onerror=function(){clearTimeout(t);img.style.display='none';var e=document.createElement('div');e.className='err';e.textContent='Failed';c.appendChild(e);};
+  c.appendChild(img);c.addEventListener('click',function(){pc(sid,c);});
+  return c;
+}
+function pc(sid,card){
+  var sec=card.closest('.svc');
+  sec.querySelectorAll('.card.sel').forEach(function(x){x.classList.remove('sel');});
+  if(card.classList.contains('sel')){card.classList.remove('sel');delete sel[sid];sec.classList.remove('done');sec.querySelector('.st').textContent='No image picked';sec.querySelector('.st').className='st st-e';uc();return;}
+  card.classList.add('sel');
+  var u=card.getAttribute('data-url');
+  sel[sid]=u||(card.querySelector('img').currentSrc||card.querySelector('img').src);
+  sec.classList.add('done');sec.querySelector('.st').textContent='Image selected';sec.querySelector('.st').className='st st-ok';uc();
+}
+function rb(){
+  var ct=document.getElementById('ct');ct.innerHTML='';
+  SV.forEach(function(svc){bs(ct,svc);});
+  Object.keys(sel).forEach(function(sid){
+    var sec=document.getElementById('sec-'+sid);if(!sec)return;
+    sec.querySelectorAll('.card').forEach(function(card){
+      if(card.getAttribute('data-url')===sel[sid]){card.classList.add('sel');sec.classList.add('done');sec.querySelector('.st').textContent='Image selected';sec.querySelector('.st').className='st st-ok';}
+    });
+  });
+  uc();
+}
+function sm(sid){
+  var sec=document.getElementById('sec-'+sid);if(!sec)return;
+  var g=sec.querySelector('.grid');var ex=new Set();
+  g.querySelectorAll('.card').forEach(function(c){ex.add(parseInt(c.getAttribute('data-sig')));});
+  var ns=ex.size;for(var i=0;i<GS;i++){g.appendChild(mc(sid,ns++));}
+}
+function cl(sid){
+  var sec=document.getElementById('sec-'+sid);if(!sec)return;
+  sec.querySelectorAll('.card.sel').forEach(function(c){c.classList.remove('sel');});
+  delete sel[sid];sec.classList.remove('done');sec.querySelector('.st').textContent='No image picked';sec.querySelector('.st').className='st st-e';uc();
+}
+function ca(){
+  if(!confirm('Clear ALL?'))return;sel={};
+  SV.forEach(function(svc){var sec=document.getElementById('sec-'+svc.id);if(!sec)return;sec.querySelectorAll('.card.sel').forEach(function(c){c.classList.remove('sel');});sec.classList.remove('done');sec.querySelector('.st').textContent='No image picked';sec.querySelector('.st').className='st st-e';});
+  uc();
+}
+function ap(){
+  var inp=document.getElementById('ai');var raw=inp.value.trim();
+  if(!raw){alert('Paste a URL or photo ID');return;}
+  var m=raw.match(/photo-\d+-[a-f0-9]+/i);if(!m){alert('No photo ID found');return;}
+  var id=m[0];if(PH.indexOf(id)!==-1){alert('Already in pool');return;}
+  var test=new Image();
+  test.onload=function(){PH.push(id);document.getElementById('pn').textContent='Pool: '+PH.length+' photos';rb();inp.value='';inp.focus();};
+  test.onerror=function(){alert('Image failed to load');};
+  test.src='https://images.unsplash.com/'+id+'?w=100&h=65&fit=crop';
+}
+function bs(ct,svc){
+  var sec=document.createElement('div');sec.className='svc';sec.id='sec-'+svc.id;
+  var u='https://unsplash.com/s/photos/'+encodeURIComponent(svc.s||svc.n.toLowerCase().replace(/[^a-z0-9]+/g,'-'));
+  sec.innerHTML='<div class="svc-h"><h2>'+svc.n+'</h2><span class="st st-e">No image picked</span></div><div class="svc-s"><a href="'+u+'" target="_blank" rel="noopener">Search Unsplash for "'+svc.n+'" </a>(copy URL, paste above)</div><div class="grid"></div><div class="acts"><button class="btn btn-more" data-more="'+svc.id+'">Show More</button><button class="btn btn-clr" data-clr="'+svc.id+'">Clear</button></div>';
+  var grid=sec.querySelector('.grid');var lim=Math.min(GS,PH.length);
+  for(var i=0;i<lim;i++){grid.appendChild(mc(svc.id,i));}
+  sec.querySelector('[data-more]').addEventListener('click',function(){sm(svc.id);});
+  sec.querySelector('[data-clr]').addEventListener('click',function(){cl(svc.id);});
+  ct.appendChild(sec);
+}
+function bu(){var ct=document.getElementById('ct');SV.forEach(function(svc){bs(ct,svc);});document.getElementById('pn').textContent='Pool: '+PH.length+' photos';uc();}
+function applySelections(){
+  var n=Object.keys(sel).length;if(n===0){alert('Pick at least one image first.');return;}
+  var data={};
+  SV.forEach(function(svc){data[svc.id]=sel[svc.id]||null;});
+  var xhr=new XMLHttpRequest();
+  xhr.open('POST','/apply',true);
+  xhr.setRequestHeader('Content-Type','application/json');
+  var result=document.getElementById('result');
+  xhr.onload=function(){
+    result.style.display='block';
+    if(xhr.status===200){
+      result.className='result';result.innerHTML='<b>Applied!</b> '+xhr.responseText;
+    }else{
+      result.className='result err';result.textContent='Error: '+xhr.responseText;
+    }
+  };
+  xhr.onerror=function(){result.style.display='block';result.className='result err';result.textContent='Connection failed. Is the Python server running?';};
+  xhr.send(JSON.stringify(data));
+}
+document.getElementById('ai').addEventListener('keydown',function(e){if(e.key==='Enter')ap();});
+bu();
+</script>
+</body>
+</html>

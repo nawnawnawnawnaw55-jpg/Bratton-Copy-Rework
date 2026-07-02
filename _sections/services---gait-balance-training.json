@@ -1,0 +1,84 @@
+{
+  "section": "Services > Gait Balance Training",
+  "category": "services",
+  "pageCount": 1,
+  "snippetCount": 4,
+  "snippets": {
+    "64b6ca722c26": {
+      "id": "64b6ca722c26",
+      "plainText": "Gait / Balance Training",
+      "originalHtml": "<div class=\"container\">\r\n      <h1>Gait / Balance Training</h1>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "=\"/files/services/gait-balance-training.jpg\">\r\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\r\n  <link rel=\"stylesheet\" href=\"/css/main.css\">\r\n  <link rel=\"stylesheet\" href=\"/css/header.css\">\r\n  \r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n<main>\r\n  <section class=\"svc-hero\">\r\n    <div class=\"container\">\r\n      <h1>Gait / Balance Training</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/gait-balance-training.jpg\" alt=\"Gait / Balance Training\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc",
+      "textLength": 23,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/gait-balance-training/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Gait Balance Training",
+          "pageName": "gait-balance-training",
+          "isMeta": false
+        }
+      ]
+    },
+    "f01dbdc14292": {
+      "id": "f01dbdc14292",
+      "plainText": "Gait examination is the analysis of walking problems by visually examining the interaction of the low back and the joints of the thighs, legs, and feet during the various stages of walking. When performing a gait examination various stages of walking are observed including, initial contact, loading response, mid stance, terminal stance, pre swing, mid swing, and terminal swing. Many back, thigh, leg, ankle, and foot problems may be caused by or manifest themselves in subtle gait abnormalities. Gait training involves retraining the patient to improve their ability to walk as close to normal again. This training may involve: Stretching Strengthening Endurance exercise Balance exercises Visual/video training with feedback Verbal cues to improve walking patterns Training on different surfaces (grass, stairs, pavement, uneven surfaces) There are a number of patients that can benefit from gait training including: Post-surgical hip, knee, ankle, foot patients Post-fracture patients Post-surgical spine surgery patients Patients with injuries to joints Patients with spinal cord injuries Vestibular/vertigo patients Neurologically involved patients Patients at risk for falls Stroke patients Numerous others For more information about how we can help you or a loved one with our gait training services, please contact us at (985) 641-5825.",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>Gait examination is the analysis of walking problems by visually examining the interaction of the low back and the joints of the thighs, legs, and feet during the various stages of walking.</p>\r\n<p>When performing a gait examination various stages of walking are observed including, initial contact, loading response, mid stance, terminal stance, pre swing, mid swing, and terminal swing.</p>\r\n<p>Many back, thigh, leg, ankle, and foot problems may be caused by or manifest themselves in subtle gait abnormalities.</p>\r\n<p>Gait training involves retraining the patient to improve their ability to walk as close to normal again. This training may involve:</p>\r\n<ul>\r\n<li>Stretching</li>\r\n<li>Strengthening</li>\r\n<li>Endurance exercise</li>\r\n<li>Balance exercises</li>\r\n<li>Visual/video training with feedback</li>\r\n<li>Verbal cues to improve walking patterns</li>\r\n<li>Training on different surfaces (grass, stairs, pavement, uneven surfaces)</li>\r\n</ul>\r\n<p>There are a number of patients that can benefit from gait training including:</p>\r\n<ul>\r\n<li>Post-surgical hip, knee, ankle, foot patients</li>\r\n<li>Post-fracture patients</li>\r\n<li>Post-surgical spine surgery patients</li>\r\n<li>Patients with injuries to joints</li>\r\n<li>Patients with spinal cord injuries</li>\r\n<li>Vestibular/vertigo patients</li>\r\n<li>Neurologically involved patients</li>\r\n<li>Patients at risk for falls</li>\r\n<li>Stroke patients</li>\r\n<li>Numerous others</li>\r\n</ul>\r\n<p>For more information about how we can help you or a loved one with our gait training services, please contact us at (985) 641-5825.</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/gait-balance-training.jpg\" alt=\"Gait / Balance Training\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>Gait examination is the analysis of walking problems by visually examining the interaction of the low back and the joints of the thighs, legs, and feet during the various stages of walking.</p>\r\n<p>When performing a gait examination various stages of walking are observed including, initial contact, loading response, mid stance, terminal stance, pre swing, mid swing, and terminal swing.</p>\r\n<p>Many back, thigh, leg, ankle, and foot problems may be caused by or manifest themselves in subtle gait abnormalities.</p>\r\n<p>Gait training involves retraining the patient to improve their ability to walk as close to normal again. This training may involve:</p>\r\n<ul>\r\n<li>Stretching</li>\r\n<li>Strengthening</li>\r\n<li>Endurance exercise</li>\r\n<li>Balance exercises</li>\r\n<li>Visual/video training with feedback</li>\r\n<li>Verbal cues to improve walking patterns</li>\r\n<li>Training on different surfaces (grass, stairs, pavement, uneven surfaces)</li>\r\n</ul>\r\n<p>There are a number of patients that can benefit from gait training including:</p>\r\n<ul>\r\n<li>Post-surgical hip, knee, ankle, foot patients</li>\r\n<li>Post-fracture patients</li>\r\n<li>Post-surgical spine surgery patients</li>\r\n<li>Patients with injuries to joints</li>\r\n<li>Patients with spinal cord injuries</li>\r\n<li>Vestibular/vertigo patients</li>\r\n<li>Neurologically involved patients</li>\r\n<li>Patients at risk for falls</li>\r\n<li>Stroke patients</li>\r\n<li>Numerous others</li>\r\n</ul>\r\n<p>For more information about how we can help you or a loved one with our gait training services, please contact us at (985) 641-5825.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1346,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/gait-balance-training/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Gait Balance Training",
+          "pageName": "gait-balance-training",
+          "isMeta": false
+        }
+      ]
+    },
+    "e2ad2a136913": {
+      "id": "e2ad2a136913",
+      "plainText": "Gait / Balance Training — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Gait / Balance Training — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/gait-balance-training/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Gait Balance Training",
+          "pageName": "gait-balance-training",
+          "isMeta": true
+        }
+      ]
+    },
+    "dc1f77db149f": {
+      "id": "dc1f77db149f",
+      "plainText": "Gait and balance training physical therapy in Slidell, LA. Improve walking ability, prevent falls, and recover mobility. Call 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Gait and balance training physical therapy in Slidell, LA. Improve walking ability, prevent falls, and recover mobility. Call 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 139,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/gait-balance-training/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Gait Balance Training",
+          "pageName": "gait-balance-training",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

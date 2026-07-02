@@ -1,0 +1,84 @@
+{
+  "section": "Core Pages > Contact",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 4,
+  "snippets": {
+    "bf1f63c293cb": {
+      "id": "bf1f63c293cb",
+      "plainText": "Contact Us Ready to start your recovery? We're here to help. Call us to schedule your initial evaluation or stop by our clinic in Slidell. Phone (985) 641-5825 Address 1346 Lindberg Drive Suite 3 Slidell, LA 70458 Hours Monday: 7:00 AM – 5:30 PM Tuesday: 7:00 AM – 5:30 PM Wednesday: 7:00 AM – 5:30 PM Thursday: 7:00 AM – 5:30 PM Friday: 7:00 AM – 2:00 PM Saturday: 8:00 AM – 12:00 PM Sunday: Closed",
+      "originalHtml": "<div class=\"container\" style=\"max-width:700px\">\r\n      <h1>Contact Us</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Ready to start your recovery? We're here to help. Call us to schedule your initial evaluation or stop by our clinic in Slidell.</p>\r\n\r\n      <div style=\"background:var(--light-gray);padding:24px;border-radius:8px;margin:24px 0\">\r\n        <h3 style=\"margin-top:0\">Phone</h3>\r\n        <p style=\"font-size:1.3rem;font-weight:700\"><a href=\"tel:9856415825\" style=\"color:var(--primary);text-decoration:none\">(985) 641-5825</a></p>\r\n\r\n        <h3>Address</h3>\r\n        <p>1346 Lindberg Drive Suite 3<br>Slidell, LA 70458</p>\r\n\r\n        <h3>Hours</h3>\r\n        <p style=\"line-height:1.8\">\r\n          Monday: 7:00 AM – 5:30 PM<br>\r\n          Tuesday: 7:00 AM – 5:30 PM<br>\r\n          Wednesday: 7:00 AM – 5:30 PM<br>\r\n          Thursday: 7:00 AM – 5:30 PM<br>\r\n          Friday: 7:00 AM – 2:00 PM<br>\r\n          Saturday: 8:00 AM – 12:00 PM<br>\r\n          Sunday: Closed\r\n        </p>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:700px\">\r\n      <h1>Contact Us</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Ready to start your recovery? We're here to help. Call us to schedule your initial evaluation or stop by our clinic in Slidell.</p>\r\n\r\n      <div style=\"background:var(--light-gray);padding:24px;border-radius:8px;margin:24px 0\">\r\n        <h3 style=\"margin-top:0\">Phone</h3>\r\n        <p style=\"font-size:1.3rem;font-weight:700\"><a href=\"tel:9856415825\" style=\"color:var(--primary);text-decoration:none\">(985) 641-5825</a></p>\r\n\r\n        <h3>Address</h3>\r\n        <p>1346 Lindberg Drive Suite 3<br>Slidell, LA 70458</p>\r\n\r\n        <h3>Hours</h3>\r\n        <p style=\"line-height:1.8\">\r\n          Monday: 7:00 AM – 5:30 PM<br>\r\n          Tuesday: 7:00 AM – 5:30 PM<br>\r\n          Wednesday: 7:00 AM – 5:30 PM<br>\r\n          Thursday: 7:00 AM – 5:30 PM<br>\r\n          Friday: 7:00 AM – 2:00 PM<br>\r\n          Saturday: 8:00 AM – 12:00 PM<br>\r\n          Sunday: Closed\r\n        </p>\r\n      </div>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 399,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "contact/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Contact",
+          "pageName": "contact",
+          "isMeta": false
+        }
+      ]
+    },
+    "67258683f2b7": {
+      "id": "67258683f2b7",
+      "plainText": "Call (985) 641-5825",
+      "originalHtml": "<p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a></p>",
+      "tagName": "p",
+      "previewContext": "7:00 AM – 5:30 PM<br>\r\n          Tuesday: 7:00 AM – 5:30 PM<br>\r\n          Wednesday: 7:00 AM – 5:30 PM<br>\r\n          Thursday: 7:00 AM – 5:30 PM<br>\r\n          Friday: 7:00 AM – 2:00 PM<br>\r\n          Saturday: 8:00 AM – 12:00 PM<br>\r\n          Sunday: Closed\r\n        </p>\r\n      </div>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 19,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "contact/index.html",
+          "selector": "p",
+          "category": "core-pages",
+          "section": "Core Pages > Contact",
+          "pageName": "contact",
+          "isMeta": false
+        }
+      ]
+    },
+    "a06b2e5b91e2": {
+      "id": "a06b2e5b91e2",
+      "plainText": "Contact Us — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Contact Us — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 51,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "contact/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Contact",
+          "pageName": "contact",
+          "isMeta": true
+        }
+      ]
+    },
+    "9fecba6956e6": {
+      "id": "9fecba6956e6",
+      "plainText": "Contact Bratton Physical Therapy in Slidell, LA. Call (985) 641-5825 or visit us at 1346 Lindberg Drive Suite 3, Slidell, LA 70458.",
+      "originalHtml": "<meta name=\"description\" content=\"Contact Bratton Physical Therapy in Slidell, LA. Call (985) 641-5825 or visit us at 1346 Lindberg Drive Suite 3, Slidell, LA 70458.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 131,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "contact/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Contact",
+          "pageName": "contact",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

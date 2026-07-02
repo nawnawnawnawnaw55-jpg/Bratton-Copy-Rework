@@ -1,0 +1,179 @@
+{
+  "section": "Conditions > Sports Injuries",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 9,
+  "snippets": {
+    "5e5a140b91e1": {
+      "id": "5e5a140b91e1",
+      "plainText": "Sports Injury Rehabilitation Whether you're a competitive athlete or weekend warrior, sports injuries shouldn't sideline you forever. Our one-on-one rehabilitation in Slidell uses evidence-based techniques to get you back to your sport safely and quickly. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Sports Injury Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Whether you're a competitive athlete or weekend warrior, sports injuries shouldn't sideline you forever. Our one-on-one rehabilitation in Slidell uses evidence-based techniques to get you back to your sport safely and quickly.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Sports Injury Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Whether you're a competitive athlete or weekend warrior, sports injuries shouldn't sideline you forever. Our one-on-one rehabilitation in Slidell uses evidence-based techniques to get you back to your sport safely and quickly.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Sports Injuries We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Tears</",
+      "textLength": 295,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "2530f88f1b07": {
+      "id": "2530f88f1b07",
+      "plainText": "Common Sports Injuries We Treat ACL Tears Meniscus Tears Rotator Cuff Tears Labral Tears Sprains & Strains Shoulder Impingement",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Sports Injuries We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Tears</a>\r\n        <a href=\"/meniscus-tear/\" class=\"condition-pill\">Meniscus Tears</a>\r\n        <a href=\"/rotator-cuff-tear/\" class=\"condition-pill\">Rotator Cuff Tears</a>\r\n        <a href=\"/labral-tear/\" class=\"condition-pill\">Labral Tears</a>\r\n        <a href=\"/sprains-strains-tendinitis/\" class=\"condition-pill\">Sprains & Strains</a>\r\n        <a href=\"/shoulder-impingement/\" class=\"condition-pill\">Shoulder Impingement</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Sports Injuries We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Tears</a>\r\n        <a href=\"/meniscus-tear/\" class=\"condition-pill\">Meniscus Tears</a>\r\n        <a href=\"/rotator-cuff-tear/\" class=\"condition-pill\">Rotator Cuff Tears</a>\r\n        <a href=\"/labral-tear/\" class=\"condition-pill\">Labral Tears</a>\r\n        <a href=\"/sprains-strains-tendinitis/\" class=\"condition-pill\">Sprains & Strains</a>\r\n        <a href=\"/shoulder-impingement/\" class=\"condition-pill\">Shoulder Impingement</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Sports Rehab Approach</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"backgr",
+      "textLength": 127,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "5663e41df35b": {
+      "id": "5663e41df35b",
+      "plainText": "Our Sports Rehab Approach Acute Care Immediate post-injury management to control swelling and protect injured tissues",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Sports Rehab Approach</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Acute Care</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Immediate post-injury management to control swelling and protect injured tissues</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "on-pill\">Labral Tears</a>\r\n        <a href=\"/sprains-strains-tendinitis/\" class=\"condition-pill\">Sprains & Strains</a>\r\n        <a href=\"/shoulder-impingement/\" class=\"condition-pill\">Shoulder Impingement</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Sports Rehab Approach</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Acute Care</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Immediate post-injury management to control swelling and protect injured tissues</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Targeted Rehab</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Sport-specific strengthening,",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "5fa43f65ea49": {
+      "id": "5fa43f65ea49",
+      "plainText": "Targeted Rehab Sport-specific strengthening, balance training, and movement retraining",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Targeted Rehab</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Sport-specific strengthening, balance training, and movement retraining</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Acute Care</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Immediate post-injury management to control swelling and protect injured tissues</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Targeted Rehab</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Sport-specific strengthening, balance training, and movement retraining</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Safe Return</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return-to-play testing and injur",
+      "textLength": 86,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "77407ed8ecb7": {
+      "id": "77407ed8ecb7",
+      "plainText": "Safe Return Return-to-play testing and injury prevention programs to reduce re-injury risk",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Safe Return</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return-to-play testing and injury prevention programs to reduce re-injury risk</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": ":var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Targeted Rehab</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Sport-specific strengthening, balance training, and movement retraining</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Safe Return</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return-to-play testing and injury prevention programs to reduce re-injury risk</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Athletes Choose Us</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "d9b9f757806b": {
+      "id": "d9b9f757806b",
+      "plainText": "Why Athletes Choose Us One-on-one sessions — your therapist is with you the entire time 45–60 minute appointments for thorough care Return-to-sport testing to ensure you're ready Injury prevention programs to keep you in the game No referral needed in Louisiana — Direct Access",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Athletes Choose Us</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Return-to-sport testing to ensure you're ready</li>\r\n        <li>Injury prevention programs to keep you in the game</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "olor:var(--accent);font-size:1.1rem\">Safe Return</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return-to-play testing and injury prevention programs to reduce re-injury risk</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Athletes Choose Us</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Return-to-sport testing to ensure you're ready</li>\r\n        <li>Injury prevention programs to keep you in the game</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Back in the Game</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12",
+      "textLength": 277,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "bca151c34766": {
+      "id": "bca151c34766",
+      "plainText": "Get Back in the Game Don't let a sports injury keep you on the sidelines. Call or book online today. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Back in the Game</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Don't let a sports injury keep you on the sidelines. Call or book online today.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sting to ensure you're ready</li>\r\n        <li>Injury prevention programs to keep you in the game</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Back in the Game</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Don't let a sports injury keep you on the sidelines. Call or book online today.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 140,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "75d4b8650479": {
+      "id": "75d4b8650479",
+      "plainText": "Sports Injury Treatment & Rehab — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Sports Injury Treatment & Rehab — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 72,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": true
+        }
+      ]
+    },
+    "190dd399c031": {
+      "id": "190dd399c031",
+      "plainText": "Expert sports injury rehabilitation in Slidell, LA. Treating sprains, strains, ACL tears, shoulder injuries, and more. One-on-one PT. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert sports injury rehabilitation in Slidell, LA. Treating sprains, strains, ACL tears, shoulder injuries, and more. One-on-one PT. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 154,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sports-injuries/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Sports Injuries",
+          "pageName": "sports-injuries",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1180 @@
+{
+  "section": "Medical Library > Wrist & Hand",
+  "category": "medical-library",
+  "pageCount": 10,
+  "snippetCount": 60,
+  "snippets": {
+    "055caaf87478": {
+      "id": "055caaf87478",
+      "plainText": "Wrist & Hand Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Wrist & Hand</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Wrist & Hand</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 167,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        }
+      ]
+    },
+    "0a26ba6c28f7": {
+      "id": "0a26ba6c28f7",
+      "plainText": "Wrist/Hand Articles Skier's Thumb (Gamekeeper's thumb) Carpal Tunnel Syndrome Guyon&rsquo;s Canal Syndrome (Handlebar Palsy) De Quervain's Tenosynovitis Fractures of the Forearm/Wrist Distal Radius Fracture Colles, Smith Fractures Scaphoid Fracture Fracture of the Hook of Hamate Mallet (Baseball) Finger",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Wrist/Hand Articles</h2><ul><li><a href='/library/library_wrist_36/'>Skier's Thumb (Gamekeeper's thumb)</a></li><li><a href='/library/library_wrist_37/'>Carpal Tunnel Syndrome</a></li><li><a href='/library/library_wrist_38/'>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</a></li><li><a href='/library/library_wrist_39/'>De Quervain's Tenosynovitis</a></li><li><a href='/library/library_wrist_40/'>Fractures of the Forearm/Wrist</a></li><li><a href='/library/library_wrist_41/'>Distal Radius Fracture Colles, Smith Fractures</a></li><li><a href='/library/library_wrist_42/'>Scaphoid Fracture</a></li><li><a href='/library/library_wrist_44/'>Fracture of the Hook of Hamate</a></li><li><a href='/library/library_wrist_46/'>Mallet (Baseball) Finger</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Wrist/Hand Articles</h2><ul><li><a href='/library/library_wrist_36/'>Skier's Thumb (Gamekeeper's thumb)</a></li><li><a href='/library/library_wrist_37/'>Carpal Tunnel Syndrome</a></li><li><a href='/library/library_wrist_38/'>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</a></li><li><a href='/library/library_wrist_39/'>De Quervain's Tenosynovitis</a></li><li><a href='/library/library_wrist_40/'>Fractures of the Forearm/Wrist</a></li><li><a href='/library/library_wrist_41/'>Distal Radius Fracture Colles, Smith Fractures</a></li><li><a href='/library/library_wrist_42/'>Scaphoid Fracture</a></li><li><a href='/library/library_wrist_44/'>Fracture of the Hook of Hamate</a></li><li><a href='/library/library_wrist_46/'>Mallet (Baseball) Finger</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 304,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        }
+      ]
+    },
+    "955842955890": {
+      "id": "955842955890",
+      "plainText": "Wrist & Hand — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Wrist & Hand — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": true
+        }
+      ]
+    },
+    "75259183ce03": {
+      "id": "75259183ce03",
+      "plainText": "Medical Library Wrist . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": true
+        }
+      ]
+    },
+    "2678b1c02ebb": {
+      "id": "2678b1c02ebb",
+      "plainText": "← Back to Wrist & Hand Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-z59tbs\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-z59tbs-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-z59tbs\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-z59tbs-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-z59tbs-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb)</h4>\r\n<img src=\"/assets/files/remote-images/v2_fhg22y_skithumb.gif\" width=\"",
+      "textLength": 105,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        }
+      ]
+    },
+    "ec433ea899bd": {
+      "id": "ec433ea899bd",
+      "plainText": "Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb) Skier&rsquo;s Thumb is caused by a traumatic force on the thumb that forces it out (thumb abduction and/or extension are the anatomical directions) damaging the ulnar collateral ligament at the metacarpophalangeal (MCP) joint . It often occurs with skiing and football. Signs and symptoms include pain in the knuckle of the thumb, swelling, and an unstable joint. X-rays often show a small fragment of the metacarpal that has been pulled off by the ligament (called an avulsion fracture). Treatment usually consists of bracing or splinting of partial tears and in some cases, surgical repair if the tear is complete.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-z59tbs-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb)</h4>\r\n<img src=\"/assets/files/remote-images/v2_fhg22y_skithumb.gif\" width=\"300\" height=\"299\" ALT=\"Skiers Thumb\"/>\r\n\r\n<p>Skier&rsquo;s Thumb is caused by a traumatic force on the thumb that forces it out (thumb abduction and/or extension are the anatomical directions) damaging the ulnar collateral ligament at the metacarpophalangeal (MCP) joint . It often occurs with skiing and football.</p>\r\n<p>Signs and symptoms include pain in the knuckle of the thumb, swelling, and an unstable joint. X-rays often show a small fragment of the metacarpal that has been pulled off by the ligament (called an avulsion fracture).</p>\r\n<p>Treatment usually consists of bracing or splinting of partial tears and in some cases, surgical repair if the tear is complete.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "z59tbs-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-z59tbs-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-z59tbs-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb)</h4>\r\n<img src=\"/assets/files/remote-images/v2_fhg22y_skithumb.gif\" width=\"300\" height=\"299\" ALT=\"Skiers Thumb\"/>\r\n\r\n<p>Skier&rsquo;s Thumb is caused by a traumatic force on the thumb that forces it out (thumb abduction and/or extension are the anatomical directions) damaging the ulnar collateral ligament at the metacarpophalangeal (MCP) joint . It often occurs with skiing and football.</p>\r\n<p>Signs and symptoms include pain in the knuckle of the thumb, swelling, and an unstable joint. X-rays often show a small fragment of the metacarpal that has been pulled off by the ligament (called an avulsion fracture).</p>\r\n<p>Treatment usually consists of bracing or splinting of partial tears and in some cases, surgical repair if the tear is complete.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 663,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        }
+      ]
+    },
+    "e4b2496eebf2": {
+      "id": "e4b2496eebf2",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Hand Active Range of Motion ▶ Video Isometric Exercise ▶ Video Physical Agents Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "stable joint. X-rays often show a small fragment of the metacarpal that has been pulled off by the ligament (called an avulsion fracture).</p>\r\n<p>Treatment usually consists of bracing or splinting of partial tears and in some cases, surgical repair if the tear is complete.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Propr",
+      "textLength": 292,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        }
+      ]
+    },
+    "876d86c94c63": {
+      "id": "876d86c94c63",
+      "plainText": "Decrease Risk of Reoccurrence Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Improve Proprioception Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 208,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        }
+      ]
+    },
+    "141dec3b5a61": {
+      "id": "141dec3b5a61",
+      "plainText": "3d Anatomy of the wrist and hand",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "eoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-z59tbs-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 32,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "783758f40880": {
+      "id": "783758f40880",
+      "plainText": "Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 87,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": true
+        }
+      ]
+    },
+    "bd65744c299d": {
+      "id": "bd65744c299d",
+      "plainText": "Medical Library Wrist 36. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 36. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": true
+        }
+      ]
+    },
+    "7d176426ffbe": {
+      "id": "7d176426ffbe",
+      "plainText": "← Back to Wrist & Hand Possible Treatments Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Possible Treatments</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-166gih\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-166gih-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Possible Treatments</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-166gih\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-166gih-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-166gih-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><img src=\"/assets/files/remote-images/v2_qtq7sh_a44a.gif\" width=\"300\" heigh=\"320\"  />\r\n\r\n<p>Carpal tunnel syndrome is a compre",
+      "textLength": 78,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        }
+      ]
+    },
+    "c1fb1a7c9e31": {
+      "id": "c1fb1a7c9e31",
+      "plainText": "Carpal tunnel syndrome is a compression of the median nerve within the carpal tunnel. There is pain, tingling, and in severe cases, numbness in the thumb, index middle and &frac12; of the ring finger. It is typically caused by repetitive tasks involving the hand and wrist. Typing with the wrists resting on hard surfaces can result in this problem. It is often worse at night or with driving and can lead to loss of grip strength and coordination. As the problem progresses, atrophy (muscle wasting) of the thumb muscles may occur. Treatment typically consists of splinting the wrist in a neutral position (no bend in the wrist in either direction), anti-inflammatory medication, and most importantly, activity modification such as wearing a padded glove during cycling. Surgical release of the transverse carpal ligament is often performed before muscle wasting occurs. Physical therapy follows to help restore range of motion, strength, and to educate the patient of factors that can lead to a reoccurrence of the problem.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-166gih-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><img src=\"/assets/files/remote-images/v2_qtq7sh_a44a.gif\" width=\"300\" heigh=\"320\"  />\r\n\r\n<p>Carpal tunnel syndrome is a compression of the median nerve within the carpal tunnel. There is pain, tingling, and in severe cases, numbness in the thumb, index middle and &frac12; of the ring finger. It is typically caused by repetitive tasks involving the hand and wrist. Typing with the wrists resting on hard surfaces can result in this problem.</p>\r\n<p>It is often worse at night or with driving and can lead to loss of grip strength and coordination. As the problem progresses, atrophy (muscle wasting) of the thumb muscles may occur.</p><p>Treatment typically consists of splinting the wrist in a neutral position (no bend in the wrist in either direction), anti-inflammatory medication, and most importantly, activity modification such as wearing a padded glove during cycling. Surgical release of the transverse carpal ligament is often performed before muscle wasting occurs. Physical therapy follows to help restore range of motion, strength, and to educate the patient of factors that can lead to a reoccurrence of the problem.</p></div>",
+      "tagName": "div",
+      "previewContext": "166gih-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-166gih-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-166gih-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><img src=\"/assets/files/remote-images/v2_qtq7sh_a44a.gif\" width=\"300\" heigh=\"320\"  />\r\n\r\n<p>Carpal tunnel syndrome is a compression of the median nerve within the carpal tunnel. There is pain, tingling, and in severe cases, numbness in the thumb, index middle and &frac12; of the ring finger. It is typically caused by repetitive tasks involving the hand and wrist. Typing with the wrists resting on hard surfaces can result in this problem.</p>\r\n<p>It is often worse at night or with driving and can lead to loss of grip strength and coordination. As the problem progresses, atrophy (muscle wasting) of the thumb muscles may occur.</p><p>Treatment typically consists of splinting the wrist in a neutral position (no bend in the wrist in either direction), anti-inflammatory medication, and most importantly, activity modification such as wearing a padded glove during cycling. Surgical release of the transverse carpal ligament is often performed before muscle wasting occurs. Physical therapy follows to help restore range of motion, strength, and to educate the patient of factors that can lead to a reoccurrence of the problem.</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 1025,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        }
+      ]
+    },
+    "b6d676cd41e7": {
+      "id": "b6d676cd41e7",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Isometric Exercise ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "glove during cycling. Surgical release of the transverse carpal ligament is often performed before muscle wasting occurs. Physical therapy follows to help restore range of motion, strength, and to educate the patient of factors that can lead to a reoccurrence of the problem.</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Ox",
+      "textLength": 299,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        }
+      ]
+    },
+    "311609847c3b": {
+      "id": "311609847c3b",
+      "plainText": "Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Decrease Nerve Compression Increase Oxygen to Tissues Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthog",
+      "textLength": 257,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        }
+      ]
+    },
+    "e99a6359189f": {
+      "id": "e99a6359189f",
+      "plainText": "3d Anatomy of the wrist and hand Patient Guide to Carpal Tunnel Syndrome",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/hand/carpal-tunnel-syndrome.html\" target=\"_blank\" rel=\"noopener\">Patient Guide to Carpal Tunnel Syndrome</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "gth and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-166gih-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/hand/carpal-tunnel-syndrome.html\" target=\"_blank\" rel=\"noopener\">Patient Guide to Carpal Tunnel Syndrome</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 72,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        }
+      ]
+    },
+    "09977d7dfde0": {
+      "id": "09977d7dfde0",
+      "plainText": "Medical Library Wrist 37. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 37. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": true
+        }
+      ]
+    },
+    "4af10da942e8": {
+      "id": "4af10da942e8",
+      "plainText": "← Back to Wrist & Hand Guyon&rsquo;s Canal Syndrome (Handlebar Palsy) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-94oz76\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-94oz76-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-94oz76\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-94oz76-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-94oz76-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</h4>\r\n<table>\r\n<tr valign=\"top\">\r\n\r\n<img src=\"/assets/files/remote-images/image",
+      "textLength": 105,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        }
+      ]
+    },
+    "492f1a0113cf": {
+      "id": "492f1a0113cf",
+      "plainText": "Guyon&rsquo;s Canal Syndrome (Handlebar Palsy) Like Carpal Tunnel Syndrome, this condition is often seen in cyclists when the ulnar nerve is compressed in its canal over the wrist. Resting the palms of the hands on bicycle handlebars is typically the cause. Treatment is similar to that for Carpal Tunnel Syndrome - activity modification, such as wearing a padded glove during cycling, rest, splinting, hand therapy - including ultrasound/iontophoresis, exercise, and less often, surgery.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-94oz76-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</h4>\r\n<table>\r\n<tr valign=\"top\">\r\n\r\n<img src=\"/assets/files/remote-images/v2_raru6o_a45a.gif\" width=\"300\" height=\"480\" alt=\"Guyons' Canal Syndrome\" />\r\n<p>Like Carpal Tunnel Syndrome, this condition is often seen in cyclists when the ulnar nerve is compressed in its canal over the wrist. Resting the palms of the hands on bicycle handlebars is typically the cause.</p>\r\n<p>Treatment is similar to that for Carpal Tunnel Syndrome - activity modification, such as wearing a padded glove during cycling, rest, splinting, hand therapy - including ultrasound/iontophoresis, exercise, and less often, surgery.</p>\r\n\r\n</tr>\r\n</table></div>",
+      "tagName": "div",
+      "previewContext": "94oz76-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-94oz76-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-94oz76-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)</h4>\r\n<table>\r\n<tr valign=\"top\">\r\n\r\n<img src=\"/assets/files/remote-images/v2_raru6o_a45a.gif\" width=\"300\" height=\"480\" alt=\"Guyons' Canal Syndrome\" />\r\n<p>Like Carpal Tunnel Syndrome, this condition is often seen in cyclists when the ulnar nerve is compressed in its canal over the wrist. Resting the palms of the hands on bicycle handlebars is typically the cause.</p>\r\n<p>Treatment is similar to that for Carpal Tunnel Syndrome - activity modification, such as wearing a padded glove during cycling, rest, splinting, hand therapy - including ultrasound/iontophoresis, exercise, and less often, surgery.</p>\r\n\r\n</tr>\r\n</table></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 488,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        }
+      ]
+    },
+    "de9938994fcf": {
+      "id": "de9938994fcf",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Hand Active Range of Motion ▶ Video Isometric Exercise ▶ Video Iontophoresis Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pically the cause.</p>\r\n<p>Treatment is similar to that for Carpal Tunnel Syndrome - activity modification, such as wearing a padded glove during cycling, rest, splinting, hand therapy - including ultrasound/iontophoresis, exercise, and less often, surgery.</p>\r\n\r\n</tr>\r\n</table></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>I",
+      "textLength": 435,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        }
+      ]
+    },
+    "2abca5b9fb66": {
+      "id": "2abca5b9fb66",
+      "plainText": "Decrease Risk of Reoccurrence Improve Muscle Strength and Power Decrease Nerve Compression Increase Oxygen to Tissues Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthog",
+      "textLength": 225,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        }
+      ]
+    },
+    "71eb45f5fd4b": {
+      "id": "71eb45f5fd4b",
+      "plainText": "3d Anatomy of the wrist and hand Guyon's Canal Syndrome",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/hand/guyons-canal-syndrome.html\" target=\"_blank\" rel=\"noopener\">Guyon&#039;s Canal Syndrome</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "<li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-94oz76-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/hand/guyons-canal-syndrome.html\" target=\"_blank\" rel=\"noopener\">Guyon&#039;s Canal Syndrome</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 55,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        }
+      ]
+    },
+    "be832bb4dd64": {
+      "id": "be832bb4dd64",
+      "plainText": "Guyon&rsquo;s Canal Syndrome (Handlebar Palsy) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Guyon&rsquo;s Canal Syndrome (Handlebar Palsy) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 87,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": true
+        }
+      ]
+    },
+    "202a7008afc2": {
+      "id": "202a7008afc2",
+      "plainText": "Medical Library Wrist 38. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 38. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": true
+        }
+      ]
+    },
+    "67edfdba07d4": {
+      "id": "67edfdba07d4",
+      "plainText": "← Back to Wrist & Hand De Quervain's Tenosynovitis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>De Quervain&#039;s Tenosynovitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-brtuqs\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-brtuqs-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>De Quervain&#039;s Tenosynovitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-brtuqs\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-brtuqs-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-brtuqs-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>De Quervain's Tenosynovitis</h4>\r\n<img src=\"/assets/files/remote-images/v2_4szgdw_DeQuervains.gif\" width='300' height='350",
+      "textLength": 86,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        }
+      ]
+    },
+    "84b694e406a4": {
+      "id": "84b694e406a4",
+      "plainText": "De Quervain's Tenosynovitis This is a common condition in which the tendons that extend or straighten the thumb and their surrounding sheaths (extensor pollicus brevis and abductor pollicus longus) become inflamed. Pain is located at the base of the thumb and wrist. De Quarvain's tenosynovitis is common with repetitive work activities such as wringing and scissoring tasks. Treatment includes rest, splinting, and rehabilitation to restore flexibility, reduce inflammation and modify tasks and activities. Surgery is rarely indicated, but a steroid injection is occasionally neccessary.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-brtuqs-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>De Quervain's Tenosynovitis</h4>\r\n<img src=\"/assets/files/remote-images/v2_4szgdw_DeQuervains.gif\" width='300' height='350'>\r\n\r\n<p>This is a common condition in which the tendons that extend or straighten  the thumb and their surrounding sheaths (extensor pollicus brevis and abductor pollicus longus) become inflamed. Pain is located at the base of the thumb and wrist.</p>\r\n\r\n<p>De Quarvain's tenosynovitis is common with repetitive work activities such as wringing and scissoring tasks. Treatment includes rest, splinting, and rehabilitation to restore flexibility, reduce inflammation and modify tasks and activities.  Surgery is rarely indicated, but  a steroid injection is occasionally neccessary.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "brtuqs-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-brtuqs-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-brtuqs-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>De Quervain's Tenosynovitis</h4>\r\n<img src=\"/assets/files/remote-images/v2_4szgdw_DeQuervains.gif\" width='300' height='350'>\r\n\r\n<p>This is a common condition in which the tendons that extend or straighten  the thumb and their surrounding sheaths (extensor pollicus brevis and abductor pollicus longus) become inflamed. Pain is located at the base of the thumb and wrist.</p>\r\n\r\n<p>De Quarvain's tenosynovitis is common with repetitive work activities such as wringing and scissoring tasks. Treatment includes rest, splinting, and rehabilitation to restore flexibility, reduce inflammation and modify tasks and activities.  Surgery is rarely indicated, but  a steroid injection is occasionally neccessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 588,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        }
+      ]
+    },
+    "88c160d85e05": {
+      "id": "88c160d85e05",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Hand Active Range of Motion ▶ Video Isometric Exercise ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "tive work activities such as wringing and scissoring tasks. Treatment includes rest, splinting, and rehabilitation to restore flexibility, reduce inflammation and modify tasks and activities.  Surgery is rarely indicated, but  a steroid injection is occasionally neccessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxatio",
+      "textLength": 365,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        }
+      ]
+    },
+    "2f4a8a308e24": {
+      "id": "2f4a8a308e24",
+      "plainText": "Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthog",
+      "textLength": 200,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        }
+      ]
+    },
+    "90b7ae43af54": {
+      "id": "90b7ae43af54",
+      "plainText": "3d Anatomy of the wrist and hand DeQuervain's Tenosynovitis",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/wrist/de-quervains-tenosynovitis.html\" target=\"_blank\" rel=\"noopener\">DeQuervain&#039;s Tenosynovitis</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "nction</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-brtuqs-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/wrist/de-quervains-tenosynovitis.html\" target=\"_blank\" rel=\"noopener\">DeQuervain&#039;s Tenosynovitis</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        }
+      ]
+    },
+    "d8b53e980ec8": {
+      "id": "d8b53e980ec8",
+      "plainText": "De Quervain's Tenosynovitis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>De Quervain's Tenosynovitis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": true
+        }
+      ]
+    },
+    "e4e2e668b7bc": {
+      "id": "e4e2e668b7bc",
+      "plainText": "Medical Library Wrist 39. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 39. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": true
+        }
+      ]
+    },
+    "7c5b020413e9": {
+      "id": "7c5b020413e9",
+      "plainText": "← Back to Wrist & Hand Fractures of the Forearm/Wrist Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Fractures of the Forearm/Wrist</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-vbk052\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-vbk052-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Fractures of the Forearm/Wrist</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-vbk052\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-vbk052-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-vbk052-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures of the Forearm/Wrist</h4>\r\n\r\n<p>Fractures of the wrist and hands are commonly named for their anatomical location, h",
+      "textLength": 89,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        }
+      ]
+    },
+    "0d236873bb40": {
+      "id": "0d236873bb40",
+      "plainText": "Fractures of the Forearm/Wrist Fractures of the wrist and hands are commonly named for their anatomical location, how they occurred, or a doctor that discovered or studied the given type of fracture. The fingers are susceptible to fracture in household mishaps, recreational injuries and work-related trauma. Most hand fractures are stable and do not require surgery. However, occasionally, fractures will not heal without appropriate surgical intervention. Internal support or \"hardware\" is necessary to stabilize fractures. The therapist may apply a form fitting, custom thermoplastic splint to protect the fracture during healing. These splints may be removed for exercise and hygiene. Most therapy programs commence days to 3 or 4 weeks post op, to regain motion, decrease pain, and reduce swelling. Rehabilitation may continue for weeks or months to restore range of motion (ROM) and strength.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-vbk052-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures of the Forearm/Wrist</h4>\r\n\r\n<p>Fractures of the wrist and hands are commonly named for their anatomical location, how they occurred, or a doctor that discovered or studied the given type of fracture.</p>\r\n<p>The fingers are susceptible to fracture in household mishaps, recreational injuries and work-related trauma.</p> \r\n<p>Most hand fractures are stable and do not require surgery.  However, occasionally, fractures will not heal without appropriate surgical intervention.  Internal support or \"hardware\" is necessary to stabilize fractures.  The therapist may apply a form fitting, custom thermoplastic splint to protect the fracture during healing.  These splints may be removed for exercise and hygiene.</p> \r\n<p>Most therapy programs commence days to 3 or 4 weeks post op, to regain motion, decrease pain, and reduce swelling. Rehabilitation may continue for weeks or months to restore range of motion (ROM) and strength.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "vbk052-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vbk052-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-vbk052-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures of the Forearm/Wrist</h4>\r\n\r\n<p>Fractures of the wrist and hands are commonly named for their anatomical location, how they occurred, or a doctor that discovered or studied the given type of fracture.</p>\r\n<p>The fingers are susceptible to fracture in household mishaps, recreational injuries and work-related trauma.</p> \r\n<p>Most hand fractures are stable and do not require surgery.  However, occasionally, fractures will not heal without appropriate surgical intervention.  Internal support or \"hardware\" is necessary to stabilize fractures.  The therapist may apply a form fitting, custom thermoplastic splint to protect the fracture during healing.  These splints may be removed for exercise and hygiene.</p> \r\n<p>Most therapy programs commence days to 3 or 4 weeks post op, to regain motion, decrease pain, and reduce swelling. Rehabilitation may continue for weeks or months to restore range of motion (ROM) and strength.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 898,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        }
+      ]
+    },
+    "6758d73c96d6": {
+      "id": "6758d73c96d6",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Hand Active Range of Motion ▶ Video Isometric Exercise ▶ Video Physical Agents Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "These splints may be removed for exercise and hygiene.</p> \r\n<p>Most therapy programs commence days to 3 or 4 weeks post op, to regain motion, decrease pain, and reduce swelling. Rehabilitation may continue for weeks or months to restore range of motion (ROM) and strength.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-ca",
+      "textLength": 262,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        }
+      ]
+    },
+    "a5635e96abfe": {
+      "id": "a5635e96abfe",
+      "plainText": "Improve Function Improve Muscle Strength and Power Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo",
+      "textLength": 155,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        }
+      ]
+    },
+    "e54d1596dc4a": {
+      "id": "e54d1596dc4a",
+      "plainText": "3d Anatomy of the wrist and hand Wrist Fractures",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/\" target=\"_blank\" rel=\"noopener\">Wrist Fractures</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vbk052-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/\" target=\"_blank\" rel=\"noopener\">Wrist Fractures</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 48,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        }
+      ]
+    },
+    "087739558752": {
+      "id": "087739558752",
+      "plainText": "Fractures of the Forearm/Wrist — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Fractures of the Forearm/Wrist — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": true
+        }
+      ]
+    },
+    "0b12b52daa65": {
+      "id": "0b12b52daa65",
+      "plainText": "Medical Library Wrist 40. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 40. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": true
+        }
+      ]
+    },
+    "ff01a76f8f18": {
+      "id": "ff01a76f8f18",
+      "plainText": "← Back to Wrist & Hand Distal Radius Fracture Colles, Smith Fractures Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Distal Radius Fracture Colles, Smith Fractures</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-xox0fk\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-xox0fk-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Distal Radius Fracture Colles, Smith Fractures</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-xox0fk\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-xox0fk-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-xox0fk-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Distal Radius Fracture Colles, Smith Fractures</h4>\r\n<img src=\"/assets/files/remote-images/v2_p7cql8_collessmith.gif\" widt",
+      "textLength": 105,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        }
+      ]
+    },
+    "911d45d79431": {
+      "id": "911d45d79431",
+      "plainText": "Distal Radius Fracture Colles, Smith Fractures These fractures often result from a fall onto an outstretched hand or because of a direct blow. Pain, tenderness, and deformity are common. X-rays are used to rule in/out a fracture. Treatment for a fracture involves &ldquo;closed reduction&rdquo; in which the bones are moved back into alignment. If the bones cannot be moved back into the proper position manually, open reduction and often internal fixation is used. This means that the bones are surgically positioned next to each other and might be pinned, screwed or wired together. Early intervention/rehabilitation is helpful to reduce pain, increase range of motion, and ultimately restore strength and function. Wrist supports and custom splints are helpful to protect the area so optimal healing can occur.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-xox0fk-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Distal Radius Fracture Colles, Smith Fractures</h4>\r\n<img src=\"/assets/files/remote-images/v2_p7cql8_collessmith.gif\" width='300' height='400'>\r\n\r\n<p>These fractures often result from a fall onto an outstretched hand or because of a direct blow. Pain, tenderness, and deformity are common. X-rays are used to rule in/out a fracture.</p>\r\n<p>Treatment for a fracture involves &ldquo;closed reduction&rdquo; in which the bones are moved back into alignment.</p>\r\n<p>If the bones cannot be moved back into the proper position manually, open reduction and often internal fixation is used. This means that the bones are surgically positioned next to each other and might be pinned, screwed or wired together.</p>\r\n<p>Early intervention/rehabilitation is helpful to reduce pain, increase range of motion, and ultimately restore strength and function.  Wrist supports and custom splints are helpful to protect the area so optimal healing can occur.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "xox0fk-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xox0fk-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-xox0fk-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Distal Radius Fracture Colles, Smith Fractures</h4>\r\n<img src=\"/assets/files/remote-images/v2_p7cql8_collessmith.gif\" width='300' height='400'>\r\n\r\n<p>These fractures often result from a fall onto an outstretched hand or because of a direct blow. Pain, tenderness, and deformity are common. X-rays are used to rule in/out a fracture.</p>\r\n<p>Treatment for a fracture involves &ldquo;closed reduction&rdquo; in which the bones are moved back into alignment.</p>\r\n<p>If the bones cannot be moved back into the proper position manually, open reduction and often internal fixation is used. This means that the bones are surgically positioned next to each other and might be pinned, screwed or wired together.</p>\r\n<p>Early intervention/rehabilitation is helpful to reduce pain, increase range of motion, and ultimately restore strength and function.  Wrist supports and custom splints are helpful to protect the area so optimal healing can occur.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 813,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        }
+      ]
+    },
+    "c3cfbabc2ffb": {
+      "id": "c3cfbabc2ffb",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "e pinned, screwed or wired together.</p>\r\n<p>Early intervention/rehabilitation is helpful to reduce pain, increase range of motion, and ultimately restore strength and function.  Wrist supports and custom splints are helpful to protect the area so optimal healing can occur.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symp",
+      "textLength": 289,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        }
+      ]
+    },
+    "ae06e85e6288": {
+      "id": "ae06e85e6288",
+      "plainText": "Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Range of Motion Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xox0fk-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo",
+      "textLength": 123,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        }
+      ]
+    },
+    "eeb8b5143516": {
+      "id": "eeb8b5143516",
+      "plainText": "Distal Radius Fracture Colles, Smith Fractures — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Distal Radius Fracture Colles, Smith Fractures — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 87,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": true
+        }
+      ]
+    },
+    "ac0fef39e12a": {
+      "id": "ac0fef39e12a",
+      "plainText": "Medical Library Wrist 41. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 41. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": true
+        }
+      ]
+    },
+    "b471c5e6696c": {
+      "id": "b471c5e6696c",
+      "plainText": "← Back to Wrist & Hand Scaphoid Fracture Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Scaphoid Fracture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-cxln9k\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-cxln9k-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Scaphoid Fracture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-cxln9k\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-cxln9k-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-cxln9k-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Scaphoid Fracture</h4>\r\n<img src=\"/assets/files/remote-images/v2_ggftgs_ScaphoidFracture.gif\" width='200' height='300'>",
+      "textLength": 76,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        }
+      ]
+    },
+    "c579b34a6b67": {
+      "id": "c579b34a6b67",
+      "plainText": "Scaphoid Fracture This is a common carpal wrist bone fracture. Often wrongly diagnosed as a wrist sprain, there is tenderness or pain where the base of the thumb meets the wrist, an area called the anatomical snuffbox. It usually occurs in the adolescent or young adult with a fall on the outstretched hand or with high velocity wrist injuries (like motorcycle accidents). Treatment for a scaphoid fracture can be difficult. If there is just a crack in the scaphoid bone, it requires a thumb splint for 6 weeks or until healed. If the bone is completely broken apart, it will require surgical fixation. Because of the unusual blood supply, the fracture may not heal completely (delayed union) or avascular necrosis (death of the bone because of loss of the blood supply) may result.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-cxln9k-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Scaphoid Fracture</h4>\r\n<img src=\"/assets/files/remote-images/v2_ggftgs_ScaphoidFracture.gif\" width='200' height='300'>\r\n\r\n<p>This is a common carpal wrist bone fracture. Often wrongly diagnosed as a wrist sprain, there is tenderness or pain where the base of the thumb meets the wrist, an area called the anatomical snuffbox. It usually occurs in the adolescent or young adult with a fall on the outstretched hand or with high velocity wrist injuries (like motorcycle accidents).</p>\r\n<p>Treatment for a scaphoid fracture can be difficult. If there is just a crack in the scaphoid bone, it requires a thumb splint for 6 weeks or until healed. If the bone is completely broken apart, it will require surgical fixation. Because of the unusual blood supply, the fracture may not heal completely (delayed union) or avascular necrosis (death of the bone because of loss of the blood supply) may result.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "cxln9k-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cxln9k-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-cxln9k-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Scaphoid Fracture</h4>\r\n<img src=\"/assets/files/remote-images/v2_ggftgs_ScaphoidFracture.gif\" width='200' height='300'>\r\n\r\n<p>This is a common carpal wrist bone fracture. Often wrongly diagnosed as a wrist sprain, there is tenderness or pain where the base of the thumb meets the wrist, an area called the anatomical snuffbox. It usually occurs in the adolescent or young adult with a fall on the outstretched hand or with high velocity wrist injuries (like motorcycle accidents).</p>\r\n<p>Treatment for a scaphoid fracture can be difficult. If there is just a crack in the scaphoid bone, it requires a thumb splint for 6 weeks or until healed. If the bone is completely broken apart, it will require surgical fixation. Because of the unusual blood supply, the fracture may not heal completely (delayed union) or avascular necrosis (death of the bone because of loss of the blood supply) may result.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cxln9k-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 782,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        }
+      ]
+    },
+    "7afcf5481491": {
+      "id": "7afcf5481491",
+      "plainText": "3d Anatomy of the wrist and hand Hand Fractures",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cxln9k-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/hand-fractures/\" target=\"_blank\" rel=\"noopener\">Hand Fractures</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": ">\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cxln9k-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cxln9k-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/hand-fractures/\" target=\"_blank\" rel=\"noopener\">Hand Fractures</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 47,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        }
+      ]
+    },
+    "fc038b78b847": {
+      "id": "fc038b78b847",
+      "plainText": "Scaphoid Fracture — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Scaphoid Fracture — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": true
+        }
+      ]
+    },
+    "98e646e7ee2e": {
+      "id": "98e646e7ee2e",
+      "plainText": "Medical Library Wrist 42. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 42. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": true
+        }
+      ]
+    },
+    "edf867abdc1b": {
+      "id": "edf867abdc1b",
+      "plainText": "← Back to Wrist & Hand Fracture of the Hook of Hamate Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Fracture of the Hook of Hamate</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-cqf92s\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-cqf92s-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Fracture of the Hook of Hamate</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-cqf92s\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-cqf92s-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-cqf92s-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fracture of the Hook of Hamate</h4>\r\n<img src=\"/assets/files/remote-images/v2_ksa5os_HamateHookFracture.gif\" width='300' h",
+      "textLength": 89,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        }
+      ]
+    },
+    "9d1c4003c960": {
+      "id": "9d1c4003c960",
+      "plainText": "Fracture of the Hook of Hamate This is a fracture of a small region on the palm of the hand opposite the thumb. It typically occurs when the golf club impacts the ground. Signs and symptoms consist of point tenderness and pain in the palm of the hand. X-rays are used to rule this in/out.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-cqf92s-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fracture of the Hook of Hamate</h4>\r\n<img src=\"/assets/files/remote-images/v2_ksa5os_HamateHookFracture.gif\" width='300' height='300'>\r\n\r\n<p>This is a fracture of a small region on the palm of the hand opposite the thumb. It typically occurs when the golf club impacts the ground. Signs and symptoms consist of point tenderness and pain in the palm of the hand. X-rays are used to rule this in/out.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "cqf92s-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-cqf92s-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-cqf92s-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fracture of the Hook of Hamate</h4>\r\n<img src=\"/assets/files/remote-images/v2_ksa5os_HamateHookFracture.gif\" width='300' height='300'>\r\n\r\n<p>This is a fracture of a small region on the palm of the hand opposite the thumb. It typically occurs when the golf club impacts the ground. Signs and symptoms consist of point tenderness and pain in the palm of the hand. X-rays are used to rule this in/out.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 288,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        }
+      ]
+    },
+    "8c9abea2e5e9": {
+      "id": "8c9abea2e5e9",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Hand Active Range of Motion ▶ Video Isometric Exercise ▶ Video Physical Agents Stretching/Flexibility Exercise ▶ Video Wrist Active Range of Motion ▶ Video Wrist Joint Mobilization ▶ Video Wrist Passive Range of Motion ▶ Video Wrist Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ght='300'>\r\n\r\n<p>This is a fracture of a small region on the palm of the hand opposite the thumb. It typically occurs when the golf club impacts the ground. Signs and symptoms consist of point tenderness and pain in the palm of the hand. X-rays are used to rule this in/out.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_49/\">Hand Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_87/\">Wrist Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_88/\">Wrist Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Impr",
+      "textLength": 302,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        }
+      ]
+    },
+    "aeb0287db620": {
+      "id": "aeb0287db620",
+      "plainText": "Improve Function Improve Muscle Strength and Power Decrease Nerve Compression Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "deo</span></a></li>\r\n  <li><a href=\"/library/library_treatments_89/\">Wrist Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_90/\">Wrist Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-cqf92s-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n  <li><a href=\"https://orthoinfo",
+      "textLength": 182,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        }
+      ]
+    },
+    "458429e7a1f0": {
+      "id": "458429e7a1f0",
+      "plainText": "Fracture of the Hook of Hamate — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Fracture of the Hook of Hamate — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": true
+        }
+      ]
+    },
+    "4dfdcc0bd136": {
+      "id": "4dfdcc0bd136",
+      "plainText": "Medical Library Wrist 44. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 44. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": true
+        }
+      ]
+    },
+    "06f972065c38": {
+      "id": "06f972065c38",
+      "plainText": "← Back to Wrist & Hand Mallet (Baseball) Finger Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Mallet (Baseball) Finger</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-fg374v\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-fg374v-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_wrist/\" class=\"ml-back-arrow\" aria-label=\"Back to Wrist & Hand\"><span class=\"ml-back-arrow-icon\">←</span> Back to Wrist & Hand</a>\r\n  <h1>Mallet (Baseball) Finger</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-fg374v\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-fg374v-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-fg374v-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Mallet (Baseball) Finger</h4>\r\n<img src=\"/assets/files/remote-images/v2_ppb8zh_MalletFinger.gif\" width='300' height='284'>",
+      "textLength": 83,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "7f2b374a83e0": {
+      "id": "7f2b374a83e0",
+      "plainText": "Mallet (Baseball) Finger This fracture results from a trauma to tip of the finger forcing it into flexion (rapidly bending it down toward the palm) and avulsing the extensor tendon. This injury commonly occurs in baseball and basketball when attempting to catch a ball. Signs and symptoms include pain, swelling, and an inability to straighten out the last digit of the involved finger. Treatment includes splinting of the finger in the straight position for 6-8 weeks. In some cases, surgical pinning of the finger in a straight position along with splinting is necessary.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-fg374v-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Mallet (Baseball) Finger</h4>\r\n<img src=\"/assets/files/remote-images/v2_ppb8zh_MalletFinger.gif\" width='300' height='284'>\r\n\r\n<p>This fracture results from a trauma to tip of the finger forcing it into flexion (rapidly bending it down toward the palm) and avulsing the extensor tendon. This injury commonly occurs in baseball and basketball when attempting to catch a ball. Signs and symptoms include pain, swelling, and an inability to straighten out the last digit of the involved finger.</p>\r\n<p>Treatment includes splinting of the finger in the straight position for 6-8 weeks. In some cases, surgical pinning of the finger in a straight position along with splinting is necessary.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "fg374v-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fg374v-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-fg374v-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Mallet (Baseball) Finger</h4>\r\n<img src=\"/assets/files/remote-images/v2_ppb8zh_MalletFinger.gif\" width='300' height='284'>\r\n\r\n<p>This fracture results from a trauma to tip of the finger forcing it into flexion (rapidly bending it down toward the palm) and avulsing the extensor tendon. This injury commonly occurs in baseball and basketball when attempting to catch a ball. Signs and symptoms include pain, swelling, and an inability to straighten out the last digit of the involved finger.</p>\r\n<p>Treatment includes splinting of the finger in the straight position for 6-8 weeks. In some cases, surgical pinning of the finger in a straight position along with splinting is necessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fg374v-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 573,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "8dd8e85b8eeb": {
+      "id": "8dd8e85b8eeb",
+      "plainText": "Improve Function Improve Muscle Strength and Power Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fg374v-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ents_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fg374v-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fg374v-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/hand\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the wrist and hand</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 72,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "a73377f96ba5": {
+      "id": "a73377f96ba5",
+      "plainText": "Mallet (Baseball) Finger — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Mallet (Baseball) Finger — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 65,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": true
+        }
+      ]
+    },
+    "83ef71152947": {
+      "id": "83ef71152947",
+      "plainText": "Medical Library Wrist 46. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Wrist 46. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

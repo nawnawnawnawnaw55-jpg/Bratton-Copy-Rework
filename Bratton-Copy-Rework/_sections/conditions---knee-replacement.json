@@ -1,0 +1,160 @@
+{
+  "section": "Conditions > Knee Replacement",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 8,
+  "snippets": {
+    "e2e79d9d0261": {
+      "id": "e2e79d9d0261",
+      "plainText": "Knee Replacement Rehabilitation Recovering from a total or partial knee replacement takes dedicated rehabilitation. Our one-on-one physical therapy in Slidell helps you regain range of motion, rebuild strength, and return to the activities you love. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Knee Replacement Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Recovering from a total or partial knee replacement takes dedicated rehabilitation. Our one-on-one physical therapy in Slidell helps you regain range of motion, rebuild strength, and return to the activities you love.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Knee Replacement Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Recovering from a total or partial knee replacement takes dedicated rehabilitation. Our one-on-one physical therapy in Slidell helps you regain range of motion, rebuild strength, and return to the activities you love.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Your Recovery Roadmap</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white",
+      "textLength": 289,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": false
+        }
+      ]
+    },
+    "f1031a9ff13a": {
+      "id": "f1031a9ff13a",
+      "plainText": "Your Recovery Roadmap Early Recovery Manage swelling, regain knee extension and flexion, activate quadriceps, and begin walking",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Your Recovery Roadmap</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Early Recovery</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manage swelling, regain knee extension and flexion, activate quadriceps, and begin walking</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "15825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Your Recovery Roadmap</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Early Recovery</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manage swelling, regain knee extension and flexion, activate quadriceps, and begin walking</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Building Strength</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Progressive strengthening,",
+      "textLength": 127,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": false
+        }
+      ]
+    },
+    "af6ed015d6d6": {
+      "id": "af6ed015d6d6",
+      "plainText": "Building Strength Progressive strengthening, balance training, and gait retraining for normal walking",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Building Strength</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Progressive strengthening, balance training, and gait retraining for normal walking</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ox-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Early Recovery</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manage swelling, regain knee extension and flexion, activate quadriceps, and begin walking</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Building Strength</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Progressive strengthening, balance training, and gait retraining for normal walking</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Advanced Function</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return to stairs, driving,",
+      "textLength": 101,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": false
+        }
+      ]
+    },
+    "99e2c77a89f9": {
+      "id": "99e2c77a89f9",
+      "plainText": "Advanced Function Return to stairs, driving, recreational activities, and full independence",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Advanced Function</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return to stairs, driving, recreational activities, and full independence</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "d);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Building Strength</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Progressive strengthening, balance training, and gait retraining for normal walking</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Advanced Function</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return to stairs, driving, recreational activities, and full independence</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Choose Bratton PT After Knee Replacement</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with yo",
+      "textLength": 91,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": false
+        }
+      ]
+    },
+    "b9962ac6a519": {
+      "id": "b9962ac6a519",
+      "plainText": "Why Choose Bratton PT After Knee Replacement One-on-one sessions — your therapist is with you for every minute 45–60 minute appointments for thorough, unhurried care Manual therapy to reduce scar tissue and improve joint mobility Personalized progression — we meet you where you are Close communication with your surgeon when needed No referral needed — we coordinate directly with your orthopedist",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Choose Bratton PT After Knee Replacement</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you for every minute</li>\r\n        <li>45–60 minute appointments for thorough, unhurried care</li>\r\n        <li>Manual therapy to reduce scar tissue and improve joint mobility</li>\r\n        <li>Personalized progression — we meet you where you are</li>\r\n        <li>Close communication with your surgeon when needed</li>\r\n        <li>No referral needed — we coordinate directly with your orthopedist</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "lor:var(--accent);font-size:1.1rem\">Advanced Function</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Return to stairs, driving, recreational activities, and full independence</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Choose Bratton PT After Knee Replacement</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you for every minute</li>\r\n        <li>45–60 minute appointments for thorough, unhurried care</li>\r\n        <li>Manual therapy to reduce scar tissue and improve joint mobility</li>\r\n        <li>Personalized progression — we meet you where you are</li>\r\n        <li>Close communication with your surgeon when needed</li>\r\n        <li>No referral needed — we coordinate directly with your orthopedist</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get the Most from Your New Knee</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;ma",
+      "textLength": 398,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": false
+        }
+      ]
+    },
+    "3faea8e1d032": {
+      "id": "3faea8e1d032",
+      "plainText": "Get the Most from Your New Knee Call or book online to schedule your post-operative rehabilitation. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get the Most from Your New Knee</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Call or book online to schedule your post-operative rehabilitation.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ere you are</li>\r\n        <li>Close communication with your surgeon when needed</li>\r\n        <li>No referral needed — we coordinate directly with your orthopedist</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get the Most from Your New Knee</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Call or book online to schedule your post-operative rehabilitation.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 139,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": false
+        }
+      ]
+    },
+    "ae93697b9d03": {
+      "id": "ae93697b9d03",
+      "plainText": "Knee Replacement Rehab — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Knee Replacement Rehab — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 63,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": true
+        }
+      ]
+    },
+    "26a7413fb24d": {
+      "id": "26a7413fb24d",
+      "plainText": "Expert physical therapy after knee replacement surgery in Slidell, LA. One-on-one rehab to restore motion, strength, and function. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy after knee replacement surgery in Slidell, LA. One-on-one rehab to restore motion, strength, and function. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 151,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-replacement/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Knee Replacement",
+          "pageName": "knee-replacement",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

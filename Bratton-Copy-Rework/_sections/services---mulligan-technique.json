@@ -1,0 +1,65 @@
+{
+  "section": "Services > Mulligan Technique",
+  "category": "services",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "16e9ade90bc3": {
+      "id": "16e9ade90bc3",
+      "plainText": "Mulligan Techniques are a type of manual therapy intervention developed by Brian Mulligan, a renowned physiotherapist from New Zealand. These techniques focus on Mobilization with Movement (MWM) , where gentle, pain-free joint mobilizations are combined with active or functional movements. The goal is to restore normal joint mechanics and reduce pain during movement. Mulligan Techniques are particularly effective in treating musculoskeletal conditions involving joints, soft tissues, and nerves. They are non-invasive and emphasize patient participation, making them a practical and efficient method for improving mobility and function. Physical therapists play a critical role in implementing Mulligan Techniques to help patients manage pain and regain function. By carefully assessing a patient's movement restrictions or pain, a physical therapist applies precise, sustained mobilizations while the patient actively moves the joint in question. This approach can quickly improve range of motion, reduce discomfort, and enable patients to perform daily activities more comfortably. Physical therapists also teach patients self-sustaining techniques and exercises that promote long-term recovery and independence, empowering them to maintain the progress made in therapy.",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>Mulligan Techniques are a type of manual therapy intervention developed by Brian Mulligan, a renowned physiotherapist from New Zealand. These techniques focus on <em>Mobilization with Movement (MWM)</em>, where gentle, pain-free joint mobilizations are combined with active or functional movements.</p>\r\n<p>The goal is to restore normal joint mechanics and reduce pain during movement. Mulligan Techniques are particularly effective in treating musculoskeletal conditions involving joints, soft tissues, and nerves. They are non-invasive and emphasize patient participation, making them a practical and efficient method for improving mobility and function.</p>\r\n<p>Physical therapists play a critical role in implementing Mulligan Techniques to help patients manage pain and regain function. By carefully assessing a patient's movement restrictions or pain, a physical therapist applies precise, sustained mobilizations while the patient actively moves the joint in question. This approach can quickly improve range of motion, reduce discomfort, and enable patients to perform daily activities more comfortably.</p>\r\n<p>Physical therapists also teach patients self-sustaining techniques and exercises that promote long-term recovery and independence, empowering them to maintain the progress made in therapy.</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "hnique</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/mulligan-technique.jpg\" alt=\"Mulligan Technique\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>Mulligan Techniques are a type of manual therapy intervention developed by Brian Mulligan, a renowned physiotherapist from New Zealand. These techniques focus on <em>Mobilization with Movement (MWM)</em>, where gentle, pain-free joint mobilizations are combined with active or functional movements.</p>\r\n<p>The goal is to restore normal joint mechanics and reduce pain during movement. Mulligan Techniques are particularly effective in treating musculoskeletal conditions involving joints, soft tissues, and nerves. They are non-invasive and emphasize patient participation, making them a practical and efficient method for improving mobility and function.</p>\r\n<p>Physical therapists play a critical role in implementing Mulligan Techniques to help patients manage pain and regain function. By carefully assessing a patient's movement restrictions or pain, a physical therapist applies precise, sustained mobilizations while the patient actively moves the joint in question. This approach can quickly improve range of motion, reduce discomfort, and enable patients to perform daily activities more comfortably.</p>\r\n<p>Physical therapists also teach patients self-sustaining techniques and exercises that promote long-term recovery and independence, empowering them to maintain the progress made in therapy.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1276,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/mulligan-technique/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Mulligan Technique",
+          "pageName": "mulligan-technique",
+          "isMeta": false
+        }
+      ]
+    },
+    "ec82c8828ef0": {
+      "id": "ec82c8828ef0",
+      "plainText": "Mulligan Technique — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Mulligan Technique — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/mulligan-technique/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Mulligan Technique",
+          "pageName": "mulligan-technique",
+          "isMeta": true
+        }
+      ]
+    },
+    "dd626f4a12c7": {
+      "id": "dd626f4a12c7",
+      "plainText": "Mulligan Technique physical therapy in Slidell, LA. Gentle, pain-free joint mobilizations to restore mobility and reduce pain. Call 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Mulligan Technique physical therapy in Slidell, LA. Gentle, pain-free joint mobilizations to restore mobility and reduce pain. Call 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 145,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/mulligan-technique/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Mulligan Technique",
+          "pageName": "mulligan-technique",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

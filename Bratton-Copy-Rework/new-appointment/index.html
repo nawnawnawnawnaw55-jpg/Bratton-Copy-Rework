@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>New Appointment — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Schedule a new appointment at Bratton Physical Therapy in Slidell, LA. Call (985) 641-5825 to book your initial evaluation.">
+<meta property="og:title" content="New Appointment — Bratton Physical Therapy">
+<meta property="og:description" content="Schedule your first visit at Bratton Physical Therapy in Slidell, LA.">
+<meta property="og:url" content="/new-appointment/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<style>
+  .clinic-hours {
+    margin: 0;
+  }
+  .clinic-hours .hours-sep {
+    display: inline;
+  }
+  @media (max-width: 600px) {
+    .clinic-hours .hours-sep {
+      display: none;
+    }
+    .clinic-hours .hours-day {
+      display: block;
+      margin-bottom: 2px;
+    }
+  }
+</style>
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:650px">
+      <h1>Schedule an Appointment</h1>
+      <p style="font-size:1.15rem;line-height:1.7">Ready to get started? Call us directly to schedule your initial evaluation. We'll verify your insurance, answer your questions, and find a time that works for you.</p>
+
+      <div class="cta-card" style="text-align:center;background:var(--light-gray);padding:32px 24px;border-radius:8px;margin:24px 0">
+        <h2 style="margin-top:0">Book Online — Available 24/7</h2>
+        <p>Schedule your appointment anytime — day or night. It takes just a few clicks.</p>
+        <p><a href="/booking/" class="btn btn--accent btn--lg" style="margin-top:8px">
+          <svg width="22" height="22" style="vertical-align:middle;fill:currentColor;margin-right:6px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z"/><path d="M12 13h5v5h-5z"/></svg>
+          Book Online
+        </a></p>
+        <hr style="border:none;border-top:1px solid #ddd;margin:24px 0;width:60%">
+        <h2>Prefer to Call?</h2>
+        <p style="font-size:1.3rem;font-weight:700"><a href="tel:9856415825" style="color:var(--primary);text-decoration:none">(985) 641-5825</a></p>
+        <p class="clinic-hours"><span class="hours-day">Monday – Thursday: 7:00 AM – 5:30 PM</span> <span class="hours-sep">|</span> <span class="hours-day">Friday: 7:00 AM – 2:00 PM</span> <span class="hours-sep">|</span> <span class="hours-day">Saturday: 8:00 AM – 12:00 PM</span></p>
+      </div>
+
+      <h2>What to Bring</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>Photo ID</li>
+        <li>Insurance card</li>
+        <li>Comfortable clothing (athletic wear recommended)</li>
+        <li>List of current medications</li>
+        <li>Any relevant MRI/X-ray reports (optional)</li>
+      </ul>
+
+      <h2>What to Expect</h2>
+      <p>Your first visit includes a one-on-one evaluation with a licensed physical therapist. We'll discuss your history, assess your movement and strength, and develop a personalized treatment plan — all in a private, unhurried setting.</p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

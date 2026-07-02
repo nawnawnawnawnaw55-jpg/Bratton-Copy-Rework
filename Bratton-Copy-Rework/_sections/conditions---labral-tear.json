@@ -1,0 +1,141 @@
+{
+  "section": "Conditions > Labral Tear",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 7,
+  "snippets": {
+    "a79702317bb2": {
+      "id": "a79702317bb2",
+      "plainText": "Labral Tear Rehabilitation Labral tears — whether in the shoulder or hip — can cause pain, clicking, and instability. Our one-on-one rehabilitation in Slidell helps you recover strength and function, whether you've had surgery or are pursuing conservative management. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Labral Tear Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Labral tears — whether in the shoulder or hip — can cause pain, clicking, and instability. Our one-on-one rehabilitation in Slidell helps you recover strength and function, whether you've had surgery or are pursuing conservative management.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Labral Tear Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Labral tears — whether in the shoulder or hip — can cause pain, clicking, and instability. Our one-on-one rehabilitation in Slidell helps you recover strength and function, whether you've had surgery or are pursuing conservative management.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Types of Labral Tears We Treat</h2>\r\n      <div class=\"grid grid--2\" style=\"text-align:center\">\r\n        <div style=\"background:va",
+      "textLength": 307,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": false
+        }
+      ]
+    },
+    "cfdb6b69b920": {
+      "id": "cfdb6b69b920",
+      "plainText": "Types of Labral Tears We Treat Shoulder Labral Tears SLAP tears, Bankart lesions, and posterior labral injuries — common in throwers, swimmers, and after shoulder dislocations",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Types of Labral Tears We Treat</h2>\r\n      <div class=\"grid grid--2\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:32px 24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Labral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">SLAP tears, Bankart lesions, and posterior labral injuries — common in throwers, swimmers, and after shoulder dislocations</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "15825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Types of Labral Tears We Treat</h2>\r\n      <div class=\"grid grid--2\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:32px 24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Labral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">SLAP tears, Bankart lesions, and posterior labral injuries — common in throwers, swimmers, and after shoulder dislocations</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:32px 24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent)\">Hip Labral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Anterior, posterior, and superior labra",
+      "textLength": 175,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": false
+        }
+      ]
+    },
+    "77e9313546ab": {
+      "id": "77e9313546ab",
+      "plainText": "Hip Labral Tears Anterior, posterior, and superior labral tears — often associated with FAI (femoroacetabular impingement) and sports",
+      "originalHtml": "<div style=\"background:var(--white);padding:32px 24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent)\">Hip Labral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Anterior, posterior, and superior labral tears — often associated with FAI (femoroacetabular impingement) and sports</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "-sm)\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Labral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">SLAP tears, Bankart lesions, and posterior labral injuries — common in throwers, swimmers, and after shoulder dislocations</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:32px 24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent)\">Hip Labral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Anterior, posterior, and superior labral tears — often associated with FAI (femoroacetabular impingement) and sports</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Our Approach to Labral Tear Rehab</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Thorough evaluation of joint stability, range of motion, a",
+      "textLength": 133,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": false
+        }
+      ]
+    },
+    "bd1525a2cb0b": {
+      "id": "bd1525a2cb0b",
+      "plainText": "Our Approach to Labral Tear Rehab Thorough evaluation of joint stability, range of motion, and mechanics Pain management using manual therapy and modalities Progressive strengthening of rotator cuff or hip stabilizers Post-surgical protocols protecting the repair while restoring function Return-to-sport testing for athletes One-on-one sessions with 45–60 minute appointments No referral needed in Louisiana — Direct Access",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Our Approach to Labral Tear Rehab</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Thorough evaluation of joint stability, range of motion, and mechanics</li>\r\n        <li>Pain management using manual therapy and modalities</li>\r\n        <li>Progressive strengthening of rotator cuff or hip stabilizers</li>\r\n        <li>Post-surgical protocols protecting the repair while restoring function</li>\r\n        <li>Return-to-sport testing for athletes</li>\r\n        <li>One-on-one sessions with 45–60 minute appointments</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "bral Tears</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Anterior, posterior, and superior labral tears — often associated with FAI (femoroacetabular impingement) and sports</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Our Approach to Labral Tear Rehab</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Thorough evaluation of joint stability, range of motion, and mechanics</li>\r\n        <li>Pain management using manual therapy and modalities</li>\r\n        <li>Progressive strengthening of rotator cuff or hip stabilizers</li>\r\n        <li>Post-surgical protocols protecting the repair while restoring function</li>\r\n        <li>Return-to-sport testing for athletes</li>\r\n        <li>One-on-one sessions with 45–60 minute appointments</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Recover from a Labral Tear</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-",
+      "textLength": 424,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": false
+        }
+      ]
+    },
+    "89d3a315313f": {
+      "id": "89d3a315313f",
+      "plainText": "Recover from a Labral Tear Call or book online to start your personalized rehabilitation plan. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Recover from a Labral Tear</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Call or book online to start your personalized rehabilitation plan.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "o-sport testing for athletes</li>\r\n        <li>One-on-one sessions with 45–60 minute appointments</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Recover from a Labral Tear</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Call or book online to start your personalized rehabilitation plan.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 134,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": false
+        }
+      ]
+    },
+    "5f0880c3ca83": {
+      "id": "5f0880c3ca83",
+      "plainText": "Labral Tear Treatment & Rehab — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Labral Tear Treatment & Rehab — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 70,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": true
+        }
+      ]
+    },
+    "7199f76efc54": {
+      "id": "7199f76efc54",
+      "plainText": "Expert physical therapy for shoulder and hip labral tears in Slidell, LA. Post-surgical and non-operative rehab. One-on-one PT. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy for shoulder and hip labral tears in Slidell, LA. Post-surgical and non-operative rehab. One-on-one PT. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 148,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "labral-tear/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Labral Tear",
+          "pageName": "labral-tear",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

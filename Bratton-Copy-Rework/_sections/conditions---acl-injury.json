@@ -1,0 +1,179 @@
+{
+  "section": "Conditions > Acl Injury",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 9,
+  "snippets": {
+    "bed6459abee4": {
+      "id": "bed6459abee4",
+      "plainText": "ACL Injury Rehabilitation Whether you've chosen surgery or a non-operative path, our one-on-one ACL rehabilitation in Slidell guides you from initial injury through full return to sport. We follow evidence-based protocols to protect your knee while restoring strength, balance, and confidence. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>ACL Injury Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Whether you've chosen surgery or a non-operative path, our one-on-one ACL rehabilitation in Slidell guides you from initial injury through full return to sport. We follow evidence-based protocols to protect your knee while restoring strength, balance, and confidence.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>ACL Injury Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Whether you've chosen surgery or a non-operative path, our one-on-one ACL rehabilitation in Slidell guides you from initial injury through full return to sport. We follow evidence-based protocols to protect your knee while restoring strength, balance, and confidence.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">ACL Rehabilitation Phases</h2>\r\n      <div class=\"grid grid--4\" style=\"text-align:center\">\r\n        <div style=\"background:var(--p",
+      "textLength": 333,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "0b3e455ac0db": {
+      "id": "0b3e455ac0db",
+      "plainText": "ACL Rehabilitation Phases Phase 1 Reduce swelling, restore range of motion, activate quadriceps",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">ACL Rehabilitation Phases</h2>\r\n      <div class=\"grid grid--4\" style=\"text-align:center\">\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 1</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Reduce swelling, restore range of motion, activate quadriceps</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "15825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">ACL Rehabilitation Phases</h2>\r\n      <div class=\"grid grid--4\" style=\"text-align:center\">\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 1</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Reduce swelling, restore range of motion, activate quadriceps</p>\r\n        </div>\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 2</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Build strength, improve balance an",
+      "textLength": 95,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "eb067b2a4aa4": {
+      "id": "eb067b2a4aa4",
+      "plainText": "Phase 2 Build strength, improve balance and proprioception",
+      "originalHtml": "<div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 2</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Build strength, improve balance and proprioception</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 1</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Reduce swelling, restore range of motion, activate quadriceps</p>\r\n        </div>\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 2</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Build strength, improve balance and proprioception</p>\r\n        </div>\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 3</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Advanced strengthening, agility dr",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "35c26d122566": {
+      "id": "35c26d122566",
+      "plainText": "Phase 3 Advanced strengthening, agility drills, plyometrics",
+      "originalHtml": "<div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 3</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Advanced strengthening, agility drills, plyometrics</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": ");color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 2</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Build strength, improve balance and proprioception</p>\r\n        </div>\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 3</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Advanced strengthening, agility drills, plyometrics</p>\r\n        </div>\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 4</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Sport-specific training and return",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "b5debdc095ac": {
+      "id": "b5debdc095ac",
+      "plainText": "Phase 4 Sport-specific training and return-to-play testing",
+      "originalHtml": "<div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 4</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Sport-specific training and return-to-play testing</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": ";color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 3</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Advanced strengthening, agility drills, plyometrics</p>\r\n        </div>\r\n        <div style=\"background:var(--primary);color:var(--white);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--white);font-size:1rem\">Phase 4</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Sport-specific training and return-to-play testing</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Our Approach to ACL Recovery</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire tim",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "4724b1120f18": {
+      "id": "4724b1120f18",
+      "plainText": "Our Approach to ACL Recovery One-on-one sessions — your therapist is with you the entire time 45–60 minute appointments for thorough care Evidence-based protocols following latest ACL research Return-to-sport testing to ensure readiness and reduce re-injury risk No referral needed in Louisiana — Direct Access",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Our Approach to ACL Recovery</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Evidence-based protocols following latest ACL research</li>\r\n        <li>Return-to-sport testing to ensure readiness and reduce re-injury risk</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "<h3 style=\"color:var(--white);font-size:1rem\">Phase 4</h3>\r\n          <p style=\"font-size:0.9rem;line-height:1.5;margin-top:8px;opacity:0.95\">Sport-specific training and return-to-play testing</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Our Approach to ACL Recovery</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Evidence-based protocols following latest ACL research</li>\r\n        <li>Return-to-sport testing to ensure readiness and reduce re-injury risk</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your ACL Recovery</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top",
+      "textLength": 310,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "80e389e1f515": {
+      "id": "80e389e1f515",
+      "plainText": "Start Your ACL Recovery Call or book online to begin your personalized rehab program. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your ACL Recovery</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Call or book online to begin your personalized rehab program.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "research</li>\r\n        <li>Return-to-sport testing to ensure readiness and reduce re-injury risk</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your ACL Recovery</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Call or book online to begin your personalized rehab program.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 125,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": false
+        }
+      ]
+    },
+    "2347fbd8c270": {
+      "id": "2347fbd8c270",
+      "plainText": "ACL Injury Treatment & Rehab — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>ACL Injury Treatment & Rehab — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": true
+        }
+      ]
+    },
+    "1f609aa21536": {
+      "id": "1f609aa21536",
+      "plainText": "Expert ACL injury rehabilitation in Slidell, LA. Pre- and post-surgical ACL rehab, non-operative management. One-on-one PT. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert ACL injury rehabilitation in Slidell, LA. Pre- and post-surgical ACL rehab, non-operative management. One-on-one PT. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 144,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "acl-injury/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Acl Injury",
+          "pageName": "acl-injury",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

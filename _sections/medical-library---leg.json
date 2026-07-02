@@ -1,0 +1,236 @@
+{
+  "section": "Medical Library > Leg",
+  "category": "medical-library",
+  "pageCount": 4,
+  "snippetCount": 12,
+  "snippets": {
+    "24474563459d": {
+      "id": "24474563459d",
+      "plainText": "Leg Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Leg</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Leg</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 158,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        }
+      ]
+    },
+    "5281fc622309": {
+      "id": "5281fc622309",
+      "plainText": "Leg Articles Fractures (Broken Bones) Stress Fractures Gastrocnemius/Calf Strain",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Leg Articles</h2><ul><li><a href='/library/library_leg_23/'>Fractures (Broken Bones)</a></li><li><a href='/library/library_leg_47/'>Stress Fractures</a></li><li><a href='/library/library_leg_74/'>Gastrocnemius/Calf Strain</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Leg Articles</h2><ul><li><a href='/library/library_leg_23/'>Fractures (Broken Bones)</a></li><li><a href='/library/library_leg_47/'>Stress Fractures</a></li><li><a href='/library/library_leg_74/'>Gastrocnemius/Calf Strain</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 80,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        }
+      ]
+    },
+    "4a1e61b16845": {
+      "id": "4a1e61b16845",
+      "plainText": "Leg — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Leg — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 44,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": true
+        }
+      ]
+    },
+    "843351bca2ae": {
+      "id": "843351bca2ae",
+      "plainText": "Medical Library Leg . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Leg . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 115,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": true
+        }
+      ]
+    },
+    "1a6e96fce963": {
+      "id": "1a6e96fce963",
+      "plainText": "← Back to Leg Fractures (Broken Bones) Overview Treatments Goals",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_leg/\" class=\"ml-back-arrow\" aria-label=\"Back to Leg\"><span class=\"ml-back-arrow-icon\">←</span> Back to Leg</a>\r\n  <h1>Fractures (Broken Bones)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-7ddmya\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-7ddmya-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7ddmya-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7ddmya-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_leg/\" class=\"ml-back-arrow\" aria-label=\"Back to Leg\"><span class=\"ml-back-arrow-icon\">←</span> Back to Leg</a>\r\n  <h1>Fractures (Broken Bones)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-7ddmya\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-7ddmya-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7ddmya-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7ddmya-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-7ddmya-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures (Broken Bones)</h4>\r\n\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/Bone_fractures.gif\" width=\"300\" height=\"2",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        }
+      ]
+    },
+    "7372b69bd397": {
+      "id": "7372b69bd397",
+      "plainText": "← Back to Leg Stress Fractures Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_leg/\" class=\"ml-back-arrow\" aria-label=\"Back to Leg\"><span class=\"ml-back-arrow-icon\">←</span> Back to Leg</a>\r\n  <h1>Stress Fractures</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-36lu6h\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-36lu6h-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-36lu6h-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-36lu6h-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-36lu6h-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_leg/\" class=\"ml-back-arrow\" aria-label=\"Back to Leg\"><span class=\"ml-back-arrow-icon\">←</span> Back to Leg</a>\r\n  <h1>Stress Fractures</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-36lu6h\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-36lu6h-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-36lu6h-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-36lu6h-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-36lu6h-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-36lu6h-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Stress Fractures</h4>\r\n\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a6a.gif\" alt=\"Stress Fractures\" width=\"300\" heigh",
+      "textLength": 66,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        }
+      ]
+    },
+    "92ad6024f652": {
+      "id": "92ad6024f652",
+      "plainText": "← Back to Leg Gastrocnemius/Calf Muscle Strain Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_leg/\" class=\"ml-back-arrow\" aria-label=\"Back to Leg\"><span class=\"ml-back-arrow-icon\">← Back to Leg</a>\r\n  <h1>Gastrocnemius/Calf Muscle Strain</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-pxs395\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-pxs395-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_leg/\" class=\"ml-back-arrow\" aria-label=\"Back to Leg\"><span class=\"ml-back-arrow-icon\">← Back to Leg</a>\r\n  <h1>Gastrocnemius/Calf Muscle Strain</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-pxs395\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-pxs395-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-pxs395-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Gastrocnemius/Calf Muscle Strain</h4>\r\n\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/PosteriorLegStrain.gif\" width=\"30",
+      "textLength": 82,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        }
+      ]
+    },
+    "b53ef7599cac": {
+      "id": "b53ef7599cac",
+      "plainText": "Gastrocnemius/Calf Muscle Strain This injury is commonly the result of quick sprints while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; more commonly at the inner region of the back of the leg. The pain is aggravated by walking, descending stairs, or raising the heel of the affected leg off the ground.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-pxs395-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Gastrocnemius/Calf Muscle Strain</h4>\r\n\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/PosteriorLegStrain.gif\" width=\"300\" height=\"447\" alt=\"Gastrocnemius/Calf Muscle Strain\" />\r\n\r\n\r\n\r\n<p class='listtext'>This injury is commonly the result of quick sprints while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; more commonly at the inner region of the back of the leg. The pain is aggravated by walking, descending stairs, or raising the heel of the affected leg off the ground.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pxs395-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-pxs395-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-pxs395-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Gastrocnemius/Calf Muscle Strain</h4>\r\n\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/PosteriorLegStrain.gif\" width=\"300\" height=\"447\" alt=\"Gastrocnemius/Calf Muscle Strain\" />\r\n\r\n\r\n\r\n<p class='listtext'>This injury is commonly the result of quick sprints while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; more commonly at the inner region of the back of the leg. The pain is aggravated by walking, descending stairs, or raising the heel of the affected leg off the ground.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_",
+      "textLength": 344,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        }
+      ]
+    },
+    "36369d8a671b": {
+      "id": "36369d8a671b",
+      "plainText": "Ankle Active Range of Motion ▶ Video Ankle Joint Mobilization ▶ Video Ankle Joint Passive Range of Motion ▶ Video Ankle Progressive Resistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Isotonics ▶ Video Ice Massage ▶ Video Proprioception Exercises ▶ Video Stationary Cycling ▶ Video Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video Ultrasound ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_32/\">Isotonics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_55/\">Ice Massage <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_34/\">Stationary Cycling <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_86/\">Ultrasound <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "uick sprints while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; more commonly at the inner region of the back of the leg. The pain is aggravated by walking, descending stairs, or raising the heel of the affected leg off the ground.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_32/\">Isotonics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_55/\">Ice Massage <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_34/\">Stationary Cycling <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_86/\">Ultrasound <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Impro",
+      "textLength": 489,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        }
+      ]
+    },
+    "81206b60ba00": {
+      "id": "81206b60ba00",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Improve Proprioception Improve Range of Motion Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_86/\">Ultrasound <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://search.nlm.",
+      "textLength": 237,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        }
+      ]
+    },
+    "ba492584731d": {
+      "id": "ba492584731d",
+      "plainText": "3d Anatomy of the calf and foot Leg Injuries from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://search.nlm.nih.gov/medlineplus/query?FUNCTION=search&PARAMETER=calf+strain&DISAMBIGUATION=true&SERVER1=server1&SERVER2=server2&START=0&END=0&MAX=500&ASPECT=-1&SHOWTOPICS=5\" target=\"_blank\" rel=\"noopener\">Leg Injuries from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-pxs395-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://search.nlm.nih.gov/medlineplus/query?FUNCTION=search&PARAMETER=calf+strain&DISAMBIGUATION=true&SERVER1=server1&SERVER2=server2&START=0&END=0&MAX=500&ASPECT=-1&SHOWTOPICS=5\" target=\"_blank\" rel=\"noopener\">Leg Injuries from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 62,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        }
+      ]
+    },
+    "c6b332fdfe78": {
+      "id": "c6b332fdfe78",
+      "plainText": "Gastrocnemius/Calf Muscle Strain — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Gastrocnemius/Calf Muscle Strain — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

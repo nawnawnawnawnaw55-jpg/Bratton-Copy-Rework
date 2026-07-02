@@ -1,0 +1,274 @@
+{
+  "section": "Conditions > Pre Post Surgical Rehabilitation",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 14,
+  "snippets": {
+    "20ed4f224ec8": {
+      "id": "20ed4f224ec8",
+      "plainText": "Pre & Post-Surgical Rehabilitation Surgeons routinely refer post-surgical patients to our physical therapists to help them recover strength, function, and mobility. We provide one-on-one, evidence-based treatment to facilitate your recovery and return to daily life. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Pre & Post-Surgical Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Surgeons routinely refer post-surgical patients to our physical therapists to help them recover strength, function, and mobility. We provide one-on-one, evidence-based treatment to facilitate your recovery and return to daily life.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Pre & Post-Surgical Rehabilitation</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Surgeons routinely refer post-surgical patients to our physical therapists to help them recover strength, function, and mobility. We provide one-on-one, evidence-based treatment to facilitate your recovery and return to daily life.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Post-Operative Procedures We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">The rehabilitative process depends on the injury and type of surgery. We help pa",
+      "textLength": 306,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "7a745d4899fa": {
+      "id": "7a745d4899fa",
+      "plainText": "Post-Operative Procedures We Treat The rehabilitative process depends on the injury and type of surgery. We help patients recover and rehabilitate from a variety of orthopedic post-operative procedures, including: ✓ Knee, hip and shoulder joint replacements ✓ ACL, MCL, PCL, and LCL reconstruction ✓ Arthroscopic knee surgeries (meniscectomies, meniscal repairs) ✓ Ligament and tendon repair (including Achilles) ✓ Arthroscopic hip surgeries (labral repairs) ✓ Nerve releases (cubital, radial, carpal, tarsal tunnel) ✓ Neck and back surgery (fusions, laminectomy, discectomy) ✓ Bone or joint fusion (arthrodesis) ✓ Tendon transfers ✓ Surgical fixation of fractures (ORIF) ✓ Rotator cuff and labral tear repairs ✓ SLAP tear/lesion and shoulder arthroscopy",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Post-Operative Procedures We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">The rehabilitative process depends on the injury and type of surgery. We help patients recover and rehabilitate from a variety of orthopedic post-operative procedures, including:</p>\r\n      <ul style=\"line-height:2.2;font-size:1.05rem;list-style:none;padding-left:0;display:grid;grid-template-columns:1fr 1fr;gap:8px 24px\">\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Knee, hip and shoulder joint replacements</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> ACL, MCL, PCL, and LCL reconstruction</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Arthroscopic knee surgeries (meniscectomies, meniscal repairs)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Ligament and tendon repair (including Achilles)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Arthroscopic hip surgeries (labral repairs)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Nerve releases (cubital, radial, carpal, tarsal tunnel)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Neck and back surgery (fusions, laminectomy, discectomy)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Bone or joint fusion (arthrodesis)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Tendon transfers</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Surgical fixation of fractures (ORIF)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Rotator cuff and labral tear repairs</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> SLAP tear/lesion and shoulder arthroscopy</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Post-Operative Procedures We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">The rehabilitative process depends on the injury and type of surgery. We help patients recover and rehabilitate from a variety of orthopedic post-operative procedures, including:</p>\r\n      <ul style=\"line-height:2.2;font-size:1.05rem;list-style:none;padding-left:0;display:grid;grid-template-columns:1fr 1fr;gap:8px 24px\">\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Knee, hip and shoulder joint replacements</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> ACL, MCL, PCL, and LCL reconstruction</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Arthroscopic knee surgeries (meniscectomies, meniscal repairs)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Ligament and tendon repair (including Achilles)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Arthroscopic hip surgeries (labral repairs)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Nerve releases (cubital, radial, carpal, tarsal tunnel)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Neck and back surgery (fusions, laminectomy, discectomy)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Bone or joint fusion (arthrodesis)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Tendon transfers</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Surgical fixation of fractures (ORIF)</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> Rotator cuff and labral tear repairs</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> SLAP tear/lesion and shoulder arthroscopy</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"margin-bottom:24px\">Therapies We Use</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">To help you regain movement and reduce pain, swelling, a",
+      "textLength": 754,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "6beeb59fc822": {
+      "id": "6beeb59fc822",
+      "plainText": "Therapies We Use To help you regain movement and reduce pain, swelling, and stiffness, we may use one or more of the following: Manual Therapy Hands-on techniques to mobilize joints and soft tissues",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"margin-bottom:24px\">Therapies We Use</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">To help you regain movement and reduce pain, swelling, and stiffness, we may use one or more of the following:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to mobilize joints and soft tissues</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "cess);margin-right:8px\">&#10003;</span> Rotator cuff and labral tear repairs</li>\r\n        <li><span style=\"color:var(--success);margin-right:8px\">&#10003;</span> SLAP tear/lesion and shoulder arthroscopy</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"margin-bottom:24px\">Therapies We Use</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">To help you regain movement and reduce pain, swelling, and stiffness, we may use one or more of the following:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to mobilize joints and soft tissues</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Joint Mobilization</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Gentle movements to restore",
+      "textLength": 198,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "15e111106047": {
+      "id": "15e111106047",
+      "plainText": "Joint Mobilization Gentle movements to restore normal joint mechanics",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Joint Mobilization</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Gentle movements to restore normal joint mechanics</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to mobilize joints and soft tissues</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Joint Mobilization</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Gentle movements to restore normal joint mechanics</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Muscle Energy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Active techniques to improve fle",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "d4f41beac5e4": {
+      "id": "d4f41beac5e4",
+      "plainText": "Muscle Energy Active techniques to improve flexibility and alignment",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Muscle Energy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Active techniques to improve flexibility and alignment</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": ":20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Joint Mobilization</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Gentle movements to restore normal joint mechanics</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Muscle Energy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Active techniques to improve flexibility and alignment</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Gait & Balance Training</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Improving walking patt",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "909b3a95577d": {
+      "id": "909b3a95577d",
+      "plainText": "Gait & Balance Training Improving walking patterns and stability",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Gait & Balance Training</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Improving walking patterns and stability</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "g:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Muscle Energy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Active techniques to improve flexibility and alignment</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Gait & Balance Training</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Improving walking patterns and stability</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">TENS & Electrical Stimulation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Electrical muscl",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "95711e1aeedc": {
+      "id": "95711e1aeedc",
+      "plainText": "TENS & Electrical Stimulation Electrical muscle and nerve stimulation for pain relief",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">TENS & Electrical Stimulation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Electrical muscle and nerve stimulation for pain relief</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "dding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Gait & Balance Training</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Improving walking patterns and stability</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">TENS & Electrical Stimulation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Electrical muscle and nerve stimulation for pain relief</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Functional strength train",
+      "textLength": 85,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "1313ad844299": {
+      "id": "1313ad844299",
+      "plainText": "Therapeutic Exercise Functional strength training tailored to your needs",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Functional strength training tailored to your needs</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">TENS & Electrical Stimulation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Electrical muscle and nerve stimulation for pain relief</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Functional strength training tailored to your needs</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ultrasound</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Deep heating to promote tissue heal",
+      "textLength": 72,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "362964ae13d1": {
+      "id": "362964ae13d1",
+      "plainText": "Ultrasound Deep heating to promote tissue healing",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ultrasound</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Deep heating to promote tissue healing</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Functional strength training tailored to your needs</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ultrasound</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Deep heating to promote tissue healing</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Functional Re-Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Exercises to increase",
+      "textLength": 49,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "3442c08ec3fa": {
+      "id": "3442c08ec3fa",
+      "plainText": "Functional Re-Education Exercises to increase strength, endurance, motion, balance, and coordination",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Functional Re-Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Exercises to increase strength, endurance, motion, balance, and coordination</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ultrasound</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Deep heating to promote tissue healing</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Functional Re-Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Exercises to increase strength, endurance, motion, balance, and coordination</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>When to Seek Help</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">Whether you're preparing for surgery or recovering from one, physical therapy can signific",
+      "textLength": 100,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "7e1aa8d3bb50": {
+      "id": "7e1aa8d3bb50",
+      "plainText": "When to Seek Help Whether you're preparing for surgery or recovering from one, physical therapy can significantly improve your outcomes. We work closely with your surgeon to ensure the best possible recovery. To see all our Conditions click here .",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>When to Seek Help</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">Whether you're preparing for surgery or recovering from one, physical therapy can significantly improve your outcomes. We work closely with your surgeon to ensure the best possible recovery.</p>\r\n      <p style=\"font-size:1.05rem;margin-top:16px\">To see all our Conditions <a href=\"/conditions/\" style=\"font-weight:700\">click here</a>.</p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "(--accent);font-size:1rem\">Functional Re-Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Exercises to increase strength, endurance, motion, balance, and coordination</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>When to Seek Help</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">Whether you're preparing for surgery or recovering from one, physical therapy can significantly improve your outcomes. We work closely with your surgeon to ensure the best possible recovery.</p>\r\n      <p style=\"font-size:1.05rem;margin-top:16px\">To see all our Conditions <a href=\"/conditions/\" style=\"font-weight:700\">click here</a>.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your Recovery Journey</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin",
+      "textLength": 247,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "88f1fac2a919": {
+      "id": "88f1fac2a919",
+      "plainText": "Start Your Recovery Journey No referral needed in Louisiana — call us or request an appointment online. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your Recovery Journey</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">No referral needed in Louisiana — call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sure the best possible recovery.</p>\r\n      <p style=\"font-size:1.05rem;margin-top:16px\">To see all our Conditions <a href=\"/conditions/\" style=\"font-weight:700\">click here</a>.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your Recovery Journey</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">No referral needed in Louisiana — call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 143,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": false
+        }
+      ]
+    },
+    "e8ec21dc9836": {
+      "id": "e8ec21dc9836",
+      "plainText": "Pre & Post-Surgical Rehabilitation — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Pre & Post-Surgical Rehabilitation — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 75,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": true
+        }
+      ]
+    },
+    "fe7897cace16": {
+      "id": "fe7897cace16",
+      "plainText": "Expert pre and post-surgical physical therapy in Slidell, LA. One-on-one care for knee, hip, shoulder replacements, ligament repair, and more. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert pre and post-surgical physical therapy in Slidell, LA. One-on-one care for knee, hip, shoulder replacements, ligament repair, and more. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 163,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "pre-post-surgical-rehabilitation/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Pre Post Surgical Rehabilitation",
+          "pageName": "pre-post-surgical-rehabilitation",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

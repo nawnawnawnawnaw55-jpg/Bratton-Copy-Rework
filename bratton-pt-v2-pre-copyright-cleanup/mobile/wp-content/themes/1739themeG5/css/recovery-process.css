@@ -1,0 +1,167 @@
+/*
+ALL STYLES FOR RECOVERY PROCESS IN THIS FILE
+*/
+
+#tm-recovery-process {
+	/*background-image: url(https://blogsdir.imgix.net/1799/files/images/shape.png?monochrome=%23888888),url(https://blogsdir.imgix.net/1799/files/images/shape.png?monochrome=%23888888);
+	background-attachment: fixed, fixed;
+	background-repeat: no-repeat, no-repeat;
+	background-position: -800px top, 800px bottom;
+	background-size: contain, contain;*/
+	}
+
+	#tm-recovery-process [data-uk-switcher] > li > figure {position: relative;border-radius: 50%}
+
+	#tm-recovery-process [data-uk-switcher] > li > figure > span {
+	position: absolute;
+	left: 0;
+	right: 0;
+	font-size: 44px;
+	line-height: 44px;
+	z-index: 3;
+	font-weight: 800;
+	}
+
+	#tm-recovery-process [data-uk-switcher] > li > figure > span {color: #fff;text-shadow: 0.04em 0.045em 0.06em rgba(0,0,0,.7);}
+
+	#tm-recovery-process [data-uk-switcher] > li.uk-active + li > figure > span, 
+	#tm-recovery-process [data-uk-switcher] > li.uk-active + li + li > figure > span, 
+	#tm-recovery-process [data-uk-switcher] > li.uk-active + li + li + li > figure > span, 
+	#tm-recovery-process [data-uk-switcher] > li.uk-active + li + li + li + li > figure > span {color: #222;text-shadow: none;}
+
+	#tm-recovery-process [data-uk-switcher] > li > figure > div {
+	border-radius: 50%;
+	border: 2px solid #b4ccdd;
+	display: block;
+	font-size: 44px;
+	line-height: 2.25em;
+	text-align: center;
+	position: relative;
+	transform: rotate(0deg);
+	transition: all 1s ease-in-out;
+	z-index: 2;
+	}
+
+	#tm-recovery-process [data-uk-switcher] > li > figure > div:before {
+	content: "\f0d8";
+	color: #ddd;
+	position: absolute;
+	top: -36px;
+	left: 0;
+	right: 0;
+	font-family: FontAwesome;
+	display: inline-block;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1;
+	transition: all 0.5s ease;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	}
+
+	#tm-recovery-process [data-uk-switcher] > li.uk-active > figure > div:before {color: #9bc53d;}
+
+	#tm-recovery-process [data-uk-switcher] > li > figure > div > a {display: block;}
+	#tm-recovery-process [data-uk-switcher] > li.uk-active > figure > div {border: 5px solid #ffffff;transform: rotate(180deg);}
+
+	#tm-recovery-process #tm-recovery-switcher > li > ul >li img {width: 300px;}
+
+/* EXPANDING DOTTED LINE */
+	#tm-recovery-process [data-uk-switcher] li:before {
+	content: "";
+	border-top: 5px dotted #F86F26;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	right: 0;
+	width:  0;
+	transition: width .5s;
+	z-index: -1;
+	}
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li.uk-active:before {width: 25%;}
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li.uk-active:before {width: 50%;}
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li + li.uk-active:before {width: 75%;}
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li + li + li.uk-active:before {width: 100%;}
+
+/* CIRCLE BACKGROUNDS */	
+	/* STEP 1 */
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) > figure {background: #f53737;color: #ffffff;}
+
+	/* STEP 2 */
+	#tm-recovery-process [data-uk-switcher] li.uk-active:nth-child(1) + li > figure {background: #fff;}
+
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li > figure {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f53737+0,ffbf72+100 */
+	background: rgb(255,113,113); /* Old browsers */
+	background: -moz-linear-gradient(left,  rgba(245,55,55,1) 0%, rgba(255,191,114,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(245,55,55,1) 0%,rgba(255,191,114,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(245,55,55,1) 0%,rgba(255,191,114,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f53737', endColorstr='#ffbf72',GradientType=1 ); /* IE6-9 */
+	}
+
+	/* STEP 3 */
+	#tm-recovery-process [data-uk-switcher] li.uk-active:nth-child(1) + li + li > figure, 
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li.uk-active + li > figure {background: #fff; color: #555;}
+
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li > figure {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffbf72+0,fafc71+100 */
+	background: rgb(255,191,114); /* Old browsers */
+	background: -moz-linear-gradient(left,  rgba(255,191,114,1) 0%, rgba(250,252,113,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(255,191,114,1) 0%,rgba(250,252,113,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(255,191,114,1) 0%,rgba(250,252,113,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffbf72', endColorstr='#fafc71',GradientType=1 ); /* IE6-9 */
+	}
+
+	/* STEP 4 */
+	#tm-recovery-process [data-uk-switcher] li.uk-active:nth-child(1) + li + li + li > figure, 
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li.uk-active + li + li > figure, 
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li.uk-active + li > figure {background: #fff;color: #555;}
+
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li + li > figure {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fafc71+0,00a300+100 */
+	background: rgb(250,252,113); /* Old browsers */
+	background: -moz-linear-gradient(left,  rgba(250,252,113,1) 0%, rgba(0,163,0,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(250,252,113,1) 0%,rgba(0,163,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(250,252,113,1) 0%,rgba(0,163,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafc71', endColorstr='#00a300',GradientType=1 ); /* IE6-9 */
+	}
+
+	/* STEP 5 */
+	#tm-recovery-process [data-uk-switcher] li:nth-child(1) + li + li + li + li.uk-active > figure div {background: #00a300;}
+	#tm-recovery-process [data-uk-switcher] > li.uk-active + li > figure > span, #tm-recovery-process [data-uk-switcher] > li.uk-active + li + li > figure > span, #tm-recovery-process [data-uk-switcher] > li.uk-active + li + li + li > figure > span, #tm-recovery-process [data-uk-switcher] > li.uk-active + li + li + li + li > figure > span {
+	color: #222;
+	text-shadow: none;
+	background: #FFF !important;
+	border-radius: 50% !important;
+	}
+
+/* MEDIA QUERIES */
+	@media only screen and (max-width: 767px) {
+		#tm-recovery-process [data-uk-switcher] > li > figure > div {
+			width: 50px;
+			height: 50px;
+		}
+		#tm-recovery-process [data-uk-switcher] > li > figure > span {
+			font-size: 22px;
+			line-height: 22px;
+		}
+		#tm-recovery-process [data-uk-switcher] > li > figure > div:before {
+		    font-size: .5em;
+		    top: -22px;
+		}
+		#tm-recovery-process {
+    		background-position: -180px top, 180px bottom;
+    	}
+
+    	#tm-recovery-process #tm-recovery-switcher h3 {
+    		font-size: 30px;
+    		line-height: 1.2em;
+    	}
+	}
+
+	@media only screen and (min-width: 768px) {
+		#tm-recovery-process [data-uk-switcher] > li > figure > div {
+			width: 100px;
+			height: 100px;
+		}
+	}

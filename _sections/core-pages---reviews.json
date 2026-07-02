@@ -1,0 +1,84 @@
+{
+  "section": "Core Pages > Reviews",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 4,
+  "snippets": {
+    "54ba6c8e237b": {
+      "id": "54ba6c8e237b",
+      "plainText": "Patient Reviews Hear from real patients about their experience at Bratton Physical Therapy",
+      "originalHtml": "<div class=\"container\">\r\n      <div class=\"section-title\">\r\n        <h1>Patient Reviews</h1>\r\n        <p>Hear from real patients about their experience at Bratton Physical Therapy</p>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "ss/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section reviews-page\">\r\n    <div class=\"container\">\r\n      <div class=\"section-title\">\r\n        <h1>Patient Reviews</h1>\r\n        <p>Hear from real patients about their experience at Bratton Physical Therapy</p>\r\n      </div>\r\n      <div class=\"overall-stats\" id=\"overall-stats\">Loading...</div>\r\n      <div class=\"reviews-page-grid\" id=\"reviews-page-grid\">Loading reviews...</div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--accent\" style=\"text-align:center\"><div class=\"container\"><h2>Ready to Feel Bett",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "reviews/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Reviews",
+          "pageName": "reviews",
+          "isMeta": false
+        }
+      ]
+    },
+    "5d00e52f4aa9": {
+      "id": "5d00e52f4aa9",
+      "plainText": "Ready to Feel Better? Schedule your initial evaluation and let's make things happen! Request Appointment",
+      "originalHtml": "<div class=\"container\"><h2>Ready to Feel Better?</h2><p style=\"font-size:1.1rem;margin-bottom:20px\">Schedule your initial evaluation and let's make things happen!</p><a href=\"/new-appointment/\" class=\"btn btn--accent btn--lg\"> Request Appointment</a></div>",
+      "tagName": "div",
+      "previewContext": "at Bratton Physical Therapy</p>\r\n      </div>\r\n      <div class=\"overall-stats\" id=\"overall-stats\">Loading...</div>\r\n      <div class=\"reviews-page-grid\" id=\"reviews-page-grid\">Loading reviews...</div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--accent\" style=\"text-align:center\"><div class=\"container\"><h2>Ready to Feel Better?</h2><p style=\"font-size:1.1rem;margin-bottom:20px\">Schedule your initial evaluation and let's make things happen!</p><a href=\"/new-appointment/\" class=\"btn btn--accent btn--lg\"> Request Appointment</a></div></section>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n</main>\r\n\r\n\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 104,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "reviews/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Reviews",
+          "pageName": "reviews",
+          "isMeta": false
+        }
+      ]
+    },
+    "5824f754a2d8": {
+      "id": "5824f754a2d8",
+      "plainText": "Patient Reviews - Bratton Physical Therapy Slidell LA",
+      "originalHtml": "<title>Patient Reviews - Bratton Physical Therapy Slidell LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "reviews/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Reviews",
+          "pageName": "reviews",
+          "isMeta": true
+        }
+      ]
+    },
+    "cb0a53249229": {
+      "id": "cb0a53249229",
+      "plainText": "Read what our patients say about Bratton Physical Therapy in Slidell, LA.",
+      "originalHtml": "<meta name=\"description\" content=\"Read what our patients say about Bratton Physical Therapy in Slidell, LA.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "reviews/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Reviews",
+          "pageName": "reviews",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

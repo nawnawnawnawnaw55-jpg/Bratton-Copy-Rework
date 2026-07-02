@@ -1,0 +1,42 @@
+import os, re
+
+services_dir = r'bratton-pt-mirror-main\services'
+pages = [
+    'blood-flow-restriction-therapy',
+    'cupping',
+    'electrical-stimulation',
+    'gait-balance-training',
+    'mckenzie-method',
+    'moist-heat-ice',
+    'mulligan-technique',
+    'patient-education',
+    'strength-conditioning',
+    'therapeutic-exercise',
+    'vasopneumatic-compression',
+]
+
+for page in pages:
+    path = os.path.join(services_dir, page, 'index.html')
+    if not os.path.exists(path):
+        print(f'=== {page}: FILE NOT FOUND ===')
+        continue
+    with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+        html = f.read()
+    
+    title_match = re.search(r'<h1[^>]*class=\"[^\"]*g5-page-title[^\"]*\"[^>]*>(.*?)</h1>', html, re.DOTALL)
+    title = title_match.group(1).strip() if title_match else 'NO TITLE'
+    
+    content_match = re.search(r'<div class=\"nst-entry-content\">(.*?)</div>\s*<!--\s*\.entry-content', html, re.DOTALL)
+    if not content_match:
+        content_match = re.search(r'<div class=\"nst-entry-content\">(.*?)</div>', html, re.DOTALL)
+    content = content_match.group(1).strip() if content_match else 'NO CONTENT'
+    
+    # Remove WordPress-specific classes but keep the HTML structure
+    # Simplify: replace uk- prefixed classes with v3 equivalents
+    
+    print(f'=== {page} ===')
+    print(f'TITLE: {title}')
+    print(f'CONTENT ({len(content)} chars):')
+    print(content[:500])
+    print('...')
+    print()

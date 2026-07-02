@@ -1,0 +1,350 @@
+{
+  "section": "Services > Workers Compensation",
+  "category": "services",
+  "pageCount": 1,
+  "snippetCount": 18,
+  "snippets": {
+    "52c3e6a90c5d": {
+      "id": "52c3e6a90c5d",
+      "plainText": "Workers' Compensation Physical Therapy in Slidell Helping You Recover and Return to Work Faster Fast scheduling, job-specific rehab, and clear communication so nothing slows your recovery down. Call (985) 641-5825",
+      "originalHtml": "<div class=\"container\">\r\n      <h1>Workers' Compensation Physical Therapy in Slidell</h1>\r\n      <img src=\"/files/services/workers-compensation.jpg\" alt=\"Workers' Compensation Physical Therapy\" loading=\"lazy\">\r\n      <p style=\"font-size:1.2rem;font-weight:600;margin-bottom:8px\">Helping You Recover and Return to Work Faster</p>\r\n      <p style=\"max-width:700px;margin:0 auto 24px\">Fast scheduling, job-specific rehab, and clear communication so nothing slows your recovery down.</p>\r\n      <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\" style=\"margin-right:8px\">Call (985) 641-5825</a>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "LA. Fast scheduling, job-specific rehab, and clear communication. Call 985-641-5825.\">\r\n  <link rel=\"stylesheet\" href=\"/css/main.css\">\r\n  <link rel=\"stylesheet\" href=\"/css/header.css\">\r\n  \r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main>\r\n  <!-- Hero -->\r\n  <section class=\"wc-hero\">\r\n    <div class=\"container\">\r\n      <h1>Workers' Compensation Physical Therapy in Slidell</h1>\r\n      <img src=\"/files/services/workers-compensation.jpg\" alt=\"Workers' Compensation Physical Therapy\" loading=\"lazy\">\r\n      <p style=\"font-size:1.2rem;font-weight:600;margin-bottom:8px\">Helping You Recover and Return to Work Faster</p>\r\n      <p style=\"max-width:700px;margin:0 auto 24px\">Fast scheduling, job-specific rehab, and clear communication so nothing slows your recovery down.</p>\r\n      <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\" style=\"margin-right:8px\">Call (985) 641-5825</a>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Intro -->\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"text-align:center;max-width:800px\">\r\n      <h2>If you've been injured at work, getting the right care quickly matters.</h2>\r\n      <p>At Bratton Physical Therapy, we help injured workers recover safely",
+      "textLength": 213,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "1dbcaabccd3d": {
+      "id": "1dbcaabccd3d",
+      "plainText": "If you've been injured at work, getting the right care quickly matters. At Bratton Physical Therapy, we help injured workers recover safely, reduce downtime, and return to work with confidence. We bridge the gap between medical care and employment by working closely with employers and case managers to keep the process simple.",
+      "originalHtml": "<div class=\"container\" style=\"text-align:center;max-width:800px\">\r\n      <h2>If you've been injured at work, getting the right care quickly matters.</h2>\r\n      <p>At Bratton Physical Therapy, we help injured workers recover safely, reduce downtime, and return to work with confidence. We bridge the gap between medical care and employment by working closely with employers and case managers to keep the process simple.</p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "4px\">Fast scheduling, job-specific rehab, and clear communication so nothing slows your recovery down.</p>\r\n      <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\" style=\"margin-right:8px\">Call (985) 641-5825</a>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Intro -->\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"text-align:center;max-width:800px\">\r\n      <h2>If you've been injured at work, getting the right care quickly matters.</h2>\r\n      <p>At Bratton Physical Therapy, we help injured workers recover safely, reduce downtime, and return to work with confidence. We bridge the gap between medical care and employment by working closely with employers and case managers to keep the process simple.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- How It Works -->\r\n  <section class=\"section\" style=\"background:var(--light-bg)\">\r\n    <div class=\"container\">\r\n      <h2 style=\"text-align:center\">How It Works</h2>\r\n      <div class=\"steps\">\r\n        <div class=\"step-card\"><strong>1. Quick Evaluation</strong>Seen within 24–",
+      "textLength": 327,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "dca455afa890": {
+      "id": "dca455afa890",
+      "plainText": "How It Works 1. Quick Evaluation Seen within 24–48 hours of referral.",
+      "originalHtml": "<div class=\"container\">\r\n      <h2 style=\"text-align:center\">How It Works</h2>\r\n      <div class=\"steps\">\r\n        <div class=\"step-card\"><strong>1. Quick Evaluation</strong>Seen within 24–48 hours of referral.</div>",
+      "tagName": "div",
+      "previewContext": "me, and return to work with confidence. We bridge the gap between medical care and employment by working closely with employers and case managers to keep the process simple.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- How It Works -->\r\n  <section class=\"section\" style=\"background:var(--light-bg)\">\r\n    <div class=\"container\">\r\n      <h2 style=\"text-align:center\">How It Works</h2>\r\n      <div class=\"steps\">\r\n        <div class=\"step-card\"><strong>1. Quick Evaluation</strong>Seen within 24–48 hours of referral.</div>\r\n        <div class=\"step-card\"><strong>2. Customized Rehab</strong>Based specifically on your job demands.</div>\r\n        <div class=\"step-card\"><strong>3. Clear Communication</strong>Ongoing updates for everyone involved.</div>\r\n        <div class=\"step-card\"><strong>4. Safe Progression</strong>A",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "b06cfa1d4537": {
+      "id": "b06cfa1d4537",
+      "plainText": "2. Customized Rehab Based specifically on your job demands.",
+      "originalHtml": "<div class=\"step-card\"><strong>2. Customized Rehab</strong>Based specifically on your job demands.</div>",
+      "tagName": "div",
+      "previewContext": "-->\r\n  <section class=\"section\" style=\"background:var(--light-bg)\">\r\n    <div class=\"container\">\r\n      <h2 style=\"text-align:center\">How It Works</h2>\r\n      <div class=\"steps\">\r\n        <div class=\"step-card\"><strong>1. Quick Evaluation</strong>Seen within 24–48 hours of referral.</div>\r\n        <div class=\"step-card\"><strong>2. Customized Rehab</strong>Based specifically on your job demands.</div>\r\n        <div class=\"step-card\"><strong>3. Clear Communication</strong>Ongoing updates for everyone involved.</div>\r\n        <div class=\"step-card\"><strong>4. Safe Progression</strong>A structured plan for return-to-work.</div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Return-to-Work Progra",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.step-card",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "db7380718669": {
+      "id": "db7380718669",
+      "plainText": "3. Clear Communication Ongoing updates for everyone involved.",
+      "originalHtml": "<div class=\"step-card\"><strong>3. Clear Communication</strong>Ongoing updates for everyone involved.</div>",
+      "tagName": "div",
+      "previewContext": "=\"text-align:center\">How It Works</h2>\r\n      <div class=\"steps\">\r\n        <div class=\"step-card\"><strong>1. Quick Evaluation</strong>Seen within 24–48 hours of referral.</div>\r\n        <div class=\"step-card\"><strong>2. Customized Rehab</strong>Based specifically on your job demands.</div>\r\n        <div class=\"step-card\"><strong>3. Clear Communication</strong>Ongoing updates for everyone involved.</div>\r\n        <div class=\"step-card\"><strong>4. Safe Progression</strong>A structured plan for return-to-work.</div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Return-to-Work Program -->\r\n  <section class=\"rtw-section\">\r\n    <div class=\"container\" style=\"display:flex;flex-wrap:wrap;align-items:ce",
+      "textLength": 61,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.step-card",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "139630720b09": {
+      "id": "139630720b09",
+      "plainText": "4. Safe Progression A structured plan for return-to-work.",
+      "originalHtml": "<div class=\"step-card\"><strong>4. Safe Progression</strong>A structured plan for return-to-work.</div>",
+      "tagName": "div",
+      "previewContext": "valuation</strong>Seen within 24–48 hours of referral.</div>\r\n        <div class=\"step-card\"><strong>2. Customized Rehab</strong>Based specifically on your job demands.</div>\r\n        <div class=\"step-card\"><strong>3. Clear Communication</strong>Ongoing updates for everyone involved.</div>\r\n        <div class=\"step-card\"><strong>4. Safe Progression</strong>A structured plan for return-to-work.</div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Return-to-Work Program -->\r\n  <section class=\"rtw-section\">\r\n    <div class=\"container\" style=\"display:flex;flex-wrap:wrap;align-items:center;gap:32px\">\r\n      <div style=\"flex:1 1 300px\">\r\n        <h2>The Bratton Return-to-Work Program</h2>",
+      "textLength": 57,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.step-card",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "407b47f1adbe": {
+      "id": "407b47f1adbe",
+      "plainText": "The Bratton Return-to-Work Program Job-specific rehab & functional training Work conditioning & injury prevention Direct communication with adjusters",
+      "originalHtml": "<div class=\"container\" style=\"display:flex;flex-wrap:wrap;align-items:center;gap:32px\">\r\n      <div style=\"flex:1 1 300px\">\r\n        <h2>The Bratton Return-to-Work Program</h2>\r\n        <ul>\r\n          <li>Job-specific rehab & functional training</li>\r\n          <li>Work conditioning & injury prevention</li>\r\n          <li>Direct communication with adjusters</li>\r\n        </ul>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "Clear Communication</strong>Ongoing updates for everyone involved.</div>\r\n        <div class=\"step-card\"><strong>4. Safe Progression</strong>A structured plan for return-to-work.</div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Return-to-Work Program -->\r\n  <section class=\"rtw-section\">\r\n    <div class=\"container\" style=\"display:flex;flex-wrap:wrap;align-items:center;gap:32px\">\r\n      <div style=\"flex:1 1 300px\">\r\n        <h2>The Bratton Return-to-Work Program</h2>\r\n        <ul>\r\n          <li>Job-specific rehab & functional training</li>\r\n          <li>Work conditioning & injury prevention</li>\r\n          <li>Direct communication with adjusters</li>\r\n        </ul>\r\n      </div>\r\n      <div style=\"flex:1 1 200px;text-align:center\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Start Your Program Today</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Audience Sections -->\r\n  <section class=\"section\">\r\n    <div class=\"container\">\r\n      <div class=\"a",
+      "textLength": 149,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "55f9c3d5eb8a": {
+      "id": "55f9c3d5eb8a",
+      "plainText": "Start Your Program Today",
+      "originalHtml": "<div style=\"flex:1 1 200px;text-align:center\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Start Your Program Today</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "yle=\"flex:1 1 300px\">\r\n        <h2>The Bratton Return-to-Work Program</h2>\r\n        <ul>\r\n          <li>Job-specific rehab & functional training</li>\r\n          <li>Work conditioning & injury prevention</li>\r\n          <li>Direct communication with adjusters</li>\r\n        </ul>\r\n      </div>\r\n      <div style=\"flex:1 1 200px;text-align:center\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Start Your Program Today</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Audience Sections -->\r\n  <section class=\"section\">\r\n    <div class=\"container\">\r\n      <div class=\"audience-grid\">\r\n        <div class=\"audience-card\">\r\n          <h3>Injured Workers</h3>\r\n          <p>Don't get the runaround. We focus on getting you in quickly a",
+      "textLength": 24,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "1e4190c5a0de": {
+      "id": "1e4190c5a0de",
+      "plainText": "Injured Workers Don't get the runaround. We focus on getting you in quickly and helping you recover based on your specific job duties. Schedule Evaluation",
+      "originalHtml": "<div class=\"container\">\r\n      <div class=\"audience-grid\">\r\n        <div class=\"audience-card\">\r\n          <h3>Injured Workers</h3>\r\n          <p>Don't get the runaround. We focus on getting you in quickly and helping you recover based on your specific job duties.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Schedule Evaluation</a>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "adjusters</li>\r\n        </ul>\r\n      </div>\r\n      <div style=\"flex:1 1 200px;text-align:center\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Start Your Program Today</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Audience Sections -->\r\n  <section class=\"section\">\r\n    <div class=\"container\">\r\n      <div class=\"audience-grid\">\r\n        <div class=\"audience-card\">\r\n          <h3>Injured Workers</h3>\r\n          <p>Don't get the runaround. We focus on getting you in quickly and helping you recover based on your specific job duties.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Schedule Evaluation</a>\r\n        </div>\r\n        <div class=\"audience-card\">\r\n          <h3>Employers</h3>\r\n          <p>Reduce delays and downtime. We provide consistent updates and focus on safe, efficient return-to-work goals.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Refer a Patient</a>",
+      "textLength": 154,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "a5a5b19dd1aa": {
+      "id": "a5a5b19dd1aa",
+      "plainText": "Employers Reduce delays and downtime. We provide consistent updates and focus on safe, efficient return-to-work goals. Refer a Patient",
+      "originalHtml": "<div class=\"audience-card\">\r\n          <h3>Employers</h3>\r\n          <p>Reduce delays and downtime. We provide consistent updates and focus on safe, efficient return-to-work goals.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Refer a Patient</a>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "<h3>Injured Workers</h3>\r\n          <p>Don't get the runaround. We focus on getting you in quickly and helping you recover based on your specific job duties.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Schedule Evaluation</a>\r\n        </div>\r\n        <div class=\"audience-card\">\r\n          <h3>Employers</h3>\r\n          <p>Reduce delays and downtime. We provide consistent updates and focus on safe, efficient return-to-work goals.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Refer a Patient</a>\r\n        </div>\r\n        <div class=\"audience-card\">\r\n          <h3>Case Managers & Adjusters</h3>\r\n          <p>We prioritize timely evaluations and objective progress updates to keep your cases moving forward properly.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Contact Us<",
+      "textLength": 134,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.audience-card",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "c2673c317f31": {
+      "id": "c2673c317f31",
+      "plainText": "Case Managers & Adjusters We prioritize timely evaluations and objective progress updates to keep your cases moving forward properly. Contact Us",
+      "originalHtml": "<div class=\"audience-card\">\r\n          <h3>Case Managers & Adjusters</h3>\r\n          <p>We prioritize timely evaluations and objective progress updates to keep your cases moving forward properly.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Contact Us</a>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "dience-card\">\r\n          <h3>Employers</h3>\r\n          <p>Reduce delays and downtime. We provide consistent updates and focus on safe, efficient return-to-work goals.</p>\r\n          <a href=\"tel:9856415825\" class=\"btn btn--accent\" style=\"margin-top:12px\">Refer a Patient</a>\r\n        </div>\r\n        <div class=\"audience-card\">\r\n          <h3>Case Managers & Adjusters</h3>\r\n          <p>We prioritize timely evaluations and objective progress updates to keep your cases moving forward properly.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Contact Us</a>\r\n        </div>\r\n        <div class=\"audience-card\">\r\n          <h3>Referring Providers</h3>\r\n          <p>Expect prompt evaluations and a focus on functional outcomes without gaps in care for your patients.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Send Referral</a>",
+      "textLength": 144,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.audience-card",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "49cd6e8a56a6": {
+      "id": "49cd6e8a56a6",
+      "plainText": "Referring Providers Expect prompt evaluations and a focus on functional outcomes without gaps in care for your patients. Send Referral",
+      "originalHtml": "<div class=\"audience-card\">\r\n          <h3>Referring Providers</h3>\r\n          <p>Expect prompt evaluations and a focus on functional outcomes without gaps in care for your patients.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Send Referral</a>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "e-card\">\r\n          <h3>Case Managers & Adjusters</h3>\r\n          <p>We prioritize timely evaluations and objective progress updates to keep your cases moving forward properly.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Contact Us</a>\r\n        </div>\r\n        <div class=\"audience-card\">\r\n          <h3>Referring Providers</h3>\r\n          <p>Expect prompt evaluations and a focus on functional outcomes without gaps in care for your patients.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Send Referral</a>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- FAQ -->\r\n  <section class=\"section\" style=\"background:var(--light-bg)\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Frequently Asked Questions</h2>\r\n      <div class=\"faq-item\">",
+      "textLength": 134,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.audience-card",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "50931a66a151": {
+      "id": "50931a66a151",
+      "plainText": "Frequently Asked Questions Do I need a referral? Most workers' comp cases require a physician's referral to initiate treatment. Contact us and we can help guide you.",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Frequently Asked Questions</h2>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do I need a referral?</button>\r\n        <div class=\"faq-a\">Most workers' comp cases require a physician's referral to initiate treatment. Contact us and we can help guide you.</div>",
+      "tagName": "div",
+      "previewContext": "tional outcomes without gaps in care for your patients.</p>\r\n          <a href=\"/contact/\" class=\"btn btn--accent\" style=\"margin-top:12px\">Send Referral</a>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- FAQ -->\r\n  <section class=\"section\" style=\"background:var(--light-bg)\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Frequently Asked Questions</h2>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do I need a referral?</button>\r\n        <div class=\"faq-a\">Most workers' comp cases require a physician's referral to initiate treatment. Contact us and we can help guide you.</div>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How quickly can I start?</button>\r\n        <div class=\"faq-a\">We aim to schedule evaluations within 24–48 hours of receiving authorization.</div>\r\n      </div>\r\n      <di",
+      "textLength": 165,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "b06683a83a99": {
+      "id": "b06683a83a99",
+      "plainText": "How quickly can I start? We aim to schedule evaluations within 24–48 hours of receiving authorization.",
+      "originalHtml": "<div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How quickly can I start?</button>\r\n        <div class=\"faq-a\">We aim to schedule evaluations within 24–48 hours of receiving authorization.</div>",
+      "tagName": "div",
+      "previewContext": "\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do I need a referral?</button>\r\n        <div class=\"faq-a\">Most workers' comp cases require a physician's referral to initiate treatment. Contact us and we can help guide you.</div>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How quickly can I start?</button>\r\n        <div class=\"faq-a\">We aim to schedule evaluations within 24–48 hours of receiving authorization.</div>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do you communicate with employers and adjusters?</button>\r\n        <div class=\"faq-a\">Yes, we provide regular progress reports and updates to ensure all parties are align",
+      "textLength": 102,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.faq-item",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "c82c3486bfca": {
+      "id": "c82c3486bfca",
+      "plainText": "Do you communicate with employers and adjusters? Yes, we provide regular progress reports and updates to ensure all parties are aligned on the recovery timeline.",
+      "originalHtml": "<div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do you communicate with employers and adjusters?</button>\r\n        <div class=\"faq-a\">Yes, we provide regular progress reports and updates to ensure all parties are aligned on the recovery timeline.</div>",
+      "tagName": "div",
+      "previewContext": "iv>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How quickly can I start?</button>\r\n        <div class=\"faq-a\">We aim to schedule evaluations within 24–48 hours of receiving authorization.</div>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do you communicate with employers and adjusters?</button>\r\n        <div class=\"faq-a\">Yes, we provide regular progress reports and updates to ensure all parties are aligned on the recovery timeline.</div>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How long does therapy take?</button>\r\n        <div class=\"faq-a\">The duration depends on the severity of the injury and the physical demands of your specific job.</div>",
+      "textLength": 161,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.faq-item",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "2cb19fff9813": {
+      "id": "2cb19fff9813",
+      "plainText": "How long does therapy take? The duration depends on the severity of the injury and the physical demands of your specific job.",
+      "originalHtml": "<div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How long does therapy take?</button>\r\n        <div class=\"faq-a\">The duration depends on the severity of the injury and the physical demands of your specific job.</div>",
+      "tagName": "div",
+      "previewContext": "utton class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">Do you communicate with employers and adjusters?</button>\r\n        <div class=\"faq-a\">Yes, we provide regular progress reports and updates to ensure all parties are aligned on the recovery timeline.</div>\r\n      </div>\r\n      <div class=\"faq-item\">\r\n        <button class=\"faq-q\" onclick=\"this.parentElement.classList.toggle('open')\">How long does therapy take?</button>\r\n        <div class=\"faq-a\">The duration depends on the severity of the injury and the physical demands of your specific job.</div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <!-- Final CTA -->\r\n  <section class=\"wc-cta\">\r\n    <div class=\"container\">\r\n      <h2>Ready to get started?</h2>\r\n      <p style=\"margin-bottom:24px;font-size:1.1rem\">Call us or request an appointment today.</p>\r\n       <a href=\"tel:9856415825\" class=\"b",
+      "textLength": 125,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.faq-item",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "2f9f5f7a7812": {
+      "id": "2f9f5f7a7812",
+      "plainText": "Workers' Compensation Physical Therapy in Slidell, LA | Bratton Physical Therapy",
+      "originalHtml": "<title>Workers' Compensation Physical Therapy in Slidell, LA | Bratton Physical Therapy</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 80,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": true
+        }
+      ]
+    },
+    "168b6fb1ab68": {
+      "id": "168b6fb1ab68",
+      "plainText": "Bratton Physical Therapy provides workers",
+      "originalHtml": "<meta name=\"description\" content=\"Bratton Physical Therapy provides workers\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 41,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

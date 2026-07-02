@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.log
+preview-context/
+assets/
+Bratton_Local/
+bratton-pt-v2/
+bratton-pt-v3/
+bratton-pt-v3-angular-backup/
+bratton-pt-v3-backup/
+deploy_logs.zip
+pages_logs.zip

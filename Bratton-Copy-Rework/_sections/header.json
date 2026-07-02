@@ -1,0 +1,255 @@
+{
+  "section": "Header",
+  "category": "templates",
+  "pageCount": 1,
+  "snippetCount": 13,
+  "snippets": {
+    "cc367b544fab": {
+      "id": "cc367b544fab",
+      "plainText": "Skip to main content",
+      "originalHtml": "<a href=\"#main-content\" class=\"sr-only\" style=\"position:absolute;top:0;left:0;z-index:9999;padding:8px;background:var(--primary);color:#fff\">Skip to main content</a>",
+      "tagName": "a",
+      "previewContext": "<a href=\"#main-content\" class=\"sr-only\" style=\"position:absolute;top:0;left:0;z-index:9999;padding:8px;background:var(--primary);color:#fff\">Skip to main content</a>\r\n\r\n<header class=\"header\">\r\n  <div class=\"header__cta-bar\"><div class=\"container\"><a href=\"/booking/\" class=\"btn\">Request Appointment</a><a href=\"/services/workers-compensation/\" class=\"btn\">Work Injury? Start Here</a></div></div>\r\n  <div class=\"container\"><div class=\"header__top\">\r\n    <a href=\"/\"",
+      "textLength": 20,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "a.sr-only",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "89c1af7e3fae": {
+      "id": "89c1af7e3fae",
+      "plainText": "Request Appointment Work Injury? Start Here",
+      "originalHtml": "<div class=\"header__cta-bar\"><div class=\"container\"><a href=\"/booking/\" class=\"btn\">Request Appointment</a><a href=\"/services/workers-compensation/\" class=\"btn\">Work Injury? Start Here</a></div>",
+      "tagName": "div",
+      "previewContext": "<a href=\"#main-content\" class=\"sr-only\" style=\"position:absolute;top:0;left:0;z-index:9999;padding:8px;background:var(--primary);color:#fff\">Skip to main content</a>\r\n\r\n<header class=\"header\">\r\n  <div class=\"header__cta-bar\"><div class=\"container\"><a href=\"/booking/\" class=\"btn\">Request Appointment</a><a href=\"/services/workers-compensation/\" class=\"btn\">Work Injury? Start Here</a></div></div>\r\n  <div class=\"container\"><div class=\"header__top\">\r\n    <a href=\"/\" class=\"header__logo\"><img src=\"/files/logo/BRATTON-ai.svg\" width=\"200\" height=\"89\" alt=\"Bratton Physical Therapy\"></a>\r\n    <div class=\"header__contact\">\r\n      <div class=\"header__address\"><a href=\"/location/\" style=\"color:",
+      "textLength": 43,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.header__cta-bar",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "5f6fa9c1b7b3": {
+      "id": "5f6fa9c1b7b3",
+      "plainText": "1346 Lindberg Drive Suite 3, Slidell, LA 70458",
+      "originalHtml": "<div class=\"container\"><div class=\"header__top\">\r\n    <a href=\"/\" class=\"header__logo\"><img src=\"/files/logo/BRATTON-ai.svg\" width=\"200\" height=\"89\" alt=\"Bratton Physical Therapy\"></a>\r\n    <div class=\"header__contact\">\r\n      <div class=\"header__address\"><a href=\"/location/\" style=\"color:inherit;text-decoration:none\">1346 Lindberg Drive Suite 3, Slidell, LA 70458</a></div>",
+      "tagName": "div",
+      "previewContext": "px;background:var(--primary);color:#fff\">Skip to main content</a>\r\n\r\n<header class=\"header\">\r\n  <div class=\"header__cta-bar\"><div class=\"container\"><a href=\"/booking/\" class=\"btn\">Request Appointment</a><a href=\"/services/workers-compensation/\" class=\"btn\">Work Injury? Start Here</a></div></div>\r\n  <div class=\"container\"><div class=\"header__top\">\r\n    <a href=\"/\" class=\"header__logo\"><img src=\"/files/logo/BRATTON-ai.svg\" width=\"200\" height=\"89\" alt=\"Bratton Physical Therapy\"></a>\r\n    <div class=\"header__contact\">\r\n      <div class=\"header__address\"><a href=\"/location/\" style=\"color:inherit;text-decoration:none\">1346 Lindberg Drive Suite 3, Slidell, LA 70458</a></div>\r\n      <div class=\"header__phone\"><span class=\"header__label\">Call Now:</span><a href=\"tel:9856415825\"><span class=\"header__icon\">&#x260E;</span> (985) 641-5825</a></div>\r\n    </div>\r\n    <a href=\"/location/\" class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>\r\n<a href=\"/book",
+      "textLength": 46,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.container",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "093e667f7c41": {
+      "id": "093e667f7c41",
+      "plainText": "Call Now: &#x260E; (985) 641-5825",
+      "originalHtml": "<div class=\"header__phone\"><span class=\"header__label\">Call Now:</span><a href=\"tel:9856415825\"><span class=\"header__icon\">&#x260E;</span> (985) 641-5825</a></div>",
+      "tagName": "div",
+      "previewContext": "o\"><img src=\"/files/logo/BRATTON-ai.svg\" width=\"200\" height=\"89\" alt=\"Bratton Physical Therapy\"></a>\r\n    <div class=\"header__contact\">\r\n      <div class=\"header__address\"><a href=\"/location/\" style=\"color:inherit;text-decoration:none\">1346 Lindberg Drive Suite 3, Slidell, LA 70458</a></div>\r\n      <div class=\"header__phone\"><span class=\"header__label\">Call Now:</span><a href=\"tel:9856415825\"><span class=\"header__icon\">&#x260E;</span> (985) 641-5825</a></div>\r\n    </div>\r\n    <a href=\"/location/\" class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>\r\n<a href=\"/booking/\" class=\"header__mobile-cta\"> Schedule</a>\r\n    <button class=\"mobile-menu-btn\" id=\"menu-toggle\" aria-label=\"Menu\">&#x2630;</button>\r\n  </div></div>\r\n</header>\r\n\r\n<nav",
+      "textLength": 33,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.header__phone",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "ce5bf5513794": {
+      "id": "ce5bf5513794",
+      "plainText": "Location",
+      "originalHtml": "<a href=\"/location/\" class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>",
+      "tagName": "a",
+      "previewContext": "/location/\" style=\"color:inherit;text-decoration:none\">1346 Lindberg Drive Suite 3, Slidell, LA 70458</a></div>\r\n      <div class=\"header__phone\"><span class=\"header__label\">Call Now:</span><a href=\"tel:9856415825\"><span class=\"header__icon\">&#x260E;</span> (985) 641-5825</a></div>\r\n    </div>\r\n    <a href=\"/location/\" class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>\r\n<a href=\"/booking/\" class=\"header__mobile-cta\"> Schedule</a>\r\n    <button class=\"mobile-menu-btn\" id=\"menu-toggle\" aria-label=\"Menu\">&#x2630;</button>\r\n  </div></div>\r\n</header>\r\n\r\n<nav class=\"nav nav--mobile\" id=\"main-nav\"><div class=\"container\"><div class=\"nav__inner\">\r\n    <a href=\"/\" class=\"na",
+      "textLength": 8,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "a.header__mobile-cta",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "25f7347236b5": {
+      "id": "25f7347236b5",
+      "plainText": "Schedule",
+      "originalHtml": "<a href=\"/booking/\" class=\"header__mobile-cta\"> Schedule</a>",
+      "tagName": "a",
+      "previewContext": "0458</a></div>\r\n      <div class=\"header__phone\"><span class=\"header__label\">Call Now:</span><a href=\"tel:9856415825\"><span class=\"header__icon\">&#x260E;</span> (985) 641-5825</a></div>\r\n    </div>\r\n    <a href=\"/location/\" class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>\r\n<a href=\"/booking/\" class=\"header__mobile-cta\"> Schedule</a>\r\n    <button class=\"mobile-menu-btn\" id=\"menu-toggle\" aria-label=\"Menu\">&#x2630;</button>\r\n  </div></div>\r\n</header>\r\n\r\n<nav class=\"nav nav--mobile\" id=\"main-nav\"><div class=\"container\"><div class=\"nav__inner\">\r\n    <a href=\"/\" class=\"nav__link nav__link--active\">Home</a>\r\n    <div class=\"nav__drop",
+      "textLength": 8,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "a.header__mobile-cta",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "bfb3d7632a4d": {
+      "id": "bfb3d7632a4d",
+      "plainText": "&#x2630;",
+      "originalHtml": "<button class=\"mobile-menu-btn\" id=\"menu-toggle\" aria-label=\"Menu\">&#x2630;</button>",
+      "tagName": "button",
+      "previewContext": "er__label\">Call Now:</span><a href=\"tel:9856415825\"><span class=\"header__icon\">&#x260E;</span> (985) 641-5825</a></div>\r\n    </div>\r\n    <a href=\"/location/\" class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>\r\n<a href=\"/booking/\" class=\"header__mobile-cta\"> Schedule</a>\r\n    <button class=\"mobile-menu-btn\" id=\"menu-toggle\" aria-label=\"Menu\">&#x2630;</button>\r\n  </div></div>\r\n</header>\r\n\r\n<nav class=\"nav nav--mobile\" id=\"main-nav\"><div class=\"container\"><div class=\"nav__inner\">\r\n    <a href=\"/\" class=\"nav__link nav__link--active\">Home</a>\r\n    <div class=\"nav__dropdown\"><a href=\"/about/\" class=\"nav__link\">About Us</a><div class=\"nav__dropdown-menu\"><a h",
+      "textLength": 8,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "button#menu-toggle",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "fd48fa65002b": {
+      "id": "fd48fa65002b",
+      "plainText": "Home About Us Staff Join Our Team Location",
+      "originalHtml": "<div class=\"container\"><div class=\"nav__inner\">\r\n    <a href=\"/\" class=\"nav__link nav__link--active\">Home</a>\r\n    <div class=\"nav__dropdown\"><a href=\"/about/\" class=\"nav__link\">About Us</a><div class=\"nav__dropdown-menu\"><a href=\"/staff/\" class=\"nav__link\">Staff</a><a href=\"/join-our-team/\" class=\"nav__link\">Join Our Team</a><a href=\"/location/\" class=\"nav__link\">Location</a></div>",
+      "tagName": "div",
+      "previewContext": "class=\"header__mobile-cta\" style=\"background:var(--primary)\"> Location</a>\r\n<a href=\"/booking/\" class=\"header__mobile-cta\"> Schedule</a>\r\n    <button class=\"mobile-menu-btn\" id=\"menu-toggle\" aria-label=\"Menu\">&#x2630;</button>\r\n  </div></div>\r\n</header>\r\n\r\n<nav class=\"nav nav--mobile\" id=\"main-nav\"><div class=\"container\"><div class=\"nav__inner\">\r\n    <a href=\"/\" class=\"nav__link nav__link--active\">Home</a>\r\n    <div class=\"nav__dropdown\"><a href=\"/about/\" class=\"nav__link\">About Us</a><div class=\"nav__dropdown-menu\"><a href=\"/staff/\" class=\"nav__link\">Staff</a><a href=\"/join-our-team/\" class=\"nav__link\">Join Our Team</a><a href=\"/location/\" class=\"nav__link\">Location</a></div></div>\r\n    <div class=\"nav__dropdown\"><a href=\"/conditions/\" class=\"nav__link\">Conditions</a><div class=\"nav__dropdown-menu\"><a href=\"/shoulder-pain/\" class=\"nav__link\">Shoulder Pain</a><a href=\"/knee-pain/\" class=\"nav__link\">Knee Pain</a><a href=\"/back-pain-sciatica/\" class=\"nav__link\">Back Pain</",
+      "textLength": 42,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.container",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "184489ee4052": {
+      "id": "184489ee4052",
+      "plainText": "Conditions Shoulder Pain Knee Pain Back Pain Sports Injuries Joint Pain & Arthritis Rotator Cuff Tear Shoulder Impingement Sprains, Strains & Tendinitis Walking & Balance Problems Pre- & Post-Surgical Rehab Work-Related Injuries View All",
+      "originalHtml": "<div class=\"nav__dropdown\"><a href=\"/conditions/\" class=\"nav__link\">Conditions</a><div class=\"nav__dropdown-menu\"><a href=\"/shoulder-pain/\" class=\"nav__link\">Shoulder Pain</a><a href=\"/knee-pain/\" class=\"nav__link\">Knee Pain</a><a href=\"/back-pain-sciatica/\" class=\"nav__link\">Back Pain</a><a href=\"/sports-injuries/\" class=\"nav__link\">Sports Injuries</a><a href=\"/joint-pain-arthritis/\" class=\"nav__link\">Joint Pain & Arthritis</a><a href=\"/rotator-cuff-tear/\" class=\"nav__link\">Rotator Cuff Tear</a><a href=\"/shoulder-impingement/\" class=\"nav__link\">Shoulder Impingement</a><a href=\"/sprains-strains-tendinitis/\" class=\"nav__link\">Sprains, Strains & Tendinitis</a><a href=\"/walking-balance-problems/\" class=\"nav__link\">Walking & Balance Problems</a><a href=\"/pre-post-surgical-rehabilitation/\" class=\"nav__link\">Pre- & Post-Surgical Rehab</a><a href=\"/work-related-injuries/\" class=\"nav__link\">Work-Related Injuries</a><a href=\"/conditions/\" class=\"nav__link\">View All</a></div>",
+      "tagName": "div",
+      "previewContext": "ve\">Home</a>\r\n    <div class=\"nav__dropdown\"><a href=\"/about/\" class=\"nav__link\">About Us</a><div class=\"nav__dropdown-menu\"><a href=\"/staff/\" class=\"nav__link\">Staff</a><a href=\"/join-our-team/\" class=\"nav__link\">Join Our Team</a><a href=\"/location/\" class=\"nav__link\">Location</a></div></div>\r\n    <div class=\"nav__dropdown\"><a href=\"/conditions/\" class=\"nav__link\">Conditions</a><div class=\"nav__dropdown-menu\"><a href=\"/shoulder-pain/\" class=\"nav__link\">Shoulder Pain</a><a href=\"/knee-pain/\" class=\"nav__link\">Knee Pain</a><a href=\"/back-pain-sciatica/\" class=\"nav__link\">Back Pain</a><a href=\"/sports-injuries/\" class=\"nav__link\">Sports Injuries</a><a href=\"/joint-pain-arthritis/\" class=\"nav__link\">Joint Pain & Arthritis</a><a href=\"/rotator-cuff-tear/\" class=\"nav__link\">Rotator Cuff Tear</a><a href=\"/shoulder-impingement/\" class=\"nav__link\">Shoulder Impingement</a><a href=\"/sprains-strains-tendinitis/\" class=\"nav__link\">Sprains, Strains & Tendinitis</a><a href=\"/walking-balance-problems/\" class=\"nav__link\">Walking & Balance Problems</a><a href=\"/pre-post-surgical-rehabilitation/\" class=\"nav__link\">Pre- & Post-Surgical Rehab</a><a href=\"/work-related-injuries/\" class=\"nav__link\">Work-Related Injuries</a><a href=\"/conditions/\" class=\"nav__link\">View All</a></div></div>\r\n    <div class=\"nav__dropdown\"><a href=\"/services/\" class=\"nav__link\">Services</a><div class=\"nav__dropdown-menu\"><a href=\"/services/patient-education/\" class=\"nav__link\">Patient Education</a><a href=\"/services/therapeutic-exercise/\" class=\"nav__link\">Therapeutic Exercise</a><a href=\"/servic",
+      "textLength": 237,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.nav__dropdown",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "ff94b38f8048": {
+      "id": "ff94b38f8048",
+      "plainText": "Services Patient Education Therapeutic Exercise Strength & Conditioning Dry Needling Blood Flow Restriction McKenzie Method Mulligan Technique Cupping Gait & Balance Vasopneumatic Compression Moist Heat / Ice Electrical Stimulation Workers Comp",
+      "originalHtml": "<div class=\"nav__dropdown\"><a href=\"/services/\" class=\"nav__link\">Services</a><div class=\"nav__dropdown-menu\"><a href=\"/services/patient-education/\" class=\"nav__link\">Patient Education</a><a href=\"/services/therapeutic-exercise/\" class=\"nav__link\">Therapeutic Exercise</a><a href=\"/services/strength-conditioning/\" class=\"nav__link\">Strength & Conditioning</a><a href=\"/services/dry-needling-certified/\" class=\"nav__link\">Dry Needling</a><a href=\"/services/blood-flow-restriction-therapy/\" class=\"nav__link\">Blood Flow Restriction</a><a href=\"/services/mckenzie-method/\" class=\"nav__link\">McKenzie Method</a><a href=\"/services/mulligan-technique/\" class=\"nav__link\">Mulligan Technique</a><a href=\"/services/cupping/\" class=\"nav__link\">Cupping</a><a href=\"/services/gait-balance-training/\" class=\"nav__link\">Gait & Balance</a><a href=\"/services/vasopneumatic-compression/\" class=\"nav__link\">Vasopneumatic Compression</a><a href=\"/services/moist-heat-ice/\" class=\"nav__link\">Moist Heat / Ice</a><a href=\"/services/electrical-stimulation/\" class=\"nav__link\">Electrical Stimulation</a><a href=\"/services/workers-compensation/\" class=\"nav__link\">Workers Comp</a></div>",
+      "tagName": "div",
+      "previewContext": "problems/\" class=\"nav__link\">Walking & Balance Problems</a><a href=\"/pre-post-surgical-rehabilitation/\" class=\"nav__link\">Pre- & Post-Surgical Rehab</a><a href=\"/work-related-injuries/\" class=\"nav__link\">Work-Related Injuries</a><a href=\"/conditions/\" class=\"nav__link\">View All</a></div></div>\r\n    <div class=\"nav__dropdown\"><a href=\"/services/\" class=\"nav__link\">Services</a><div class=\"nav__dropdown-menu\"><a href=\"/services/patient-education/\" class=\"nav__link\">Patient Education</a><a href=\"/services/therapeutic-exercise/\" class=\"nav__link\">Therapeutic Exercise</a><a href=\"/services/strength-conditioning/\" class=\"nav__link\">Strength & Conditioning</a><a href=\"/services/dry-needling-certified/\" class=\"nav__link\">Dry Needling</a><a href=\"/services/blood-flow-restriction-therapy/\" class=\"nav__link\">Blood Flow Restriction</a><a href=\"/services/mckenzie-method/\" class=\"nav__link\">McKenzie Method</a><a href=\"/services/mulligan-technique/\" class=\"nav__link\">Mulligan Technique</a><a href=\"/services/cupping/\" class=\"nav__link\">Cupping</a><a href=\"/services/gait-balance-training/\" class=\"nav__link\">Gait & Balance</a><a href=\"/services/vasopneumatic-compression/\" class=\"nav__link\">Vasopneumatic Compression</a><a href=\"/services/moist-heat-ice/\" class=\"nav__link\">Moist Heat / Ice</a><a href=\"/services/electrical-stimulation/\" class=\"nav__link\">Electrical Stimulation</a><a href=\"/services/workers-compensation/\" class=\"nav__link\">Workers Comp</a></div></div>\r\n    <div class=\"nav__dropdown\"><a href=\"/patcenter/\" class=\"nav__link\">Patient Center</a><div class=\"nav__dropdown-menu\"><a href=\"/library/\" class=\"nav__link\">Medical Library</a><a href=\"/insurance/\" class=\"nav__link\">Insurance</a><a href=\"/reviews/\" class=\"nav__link\">Reviews</a><a href=\"/fa",
+      "textLength": 244,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.nav__dropdown",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "71b3a58bea6b": {
+      "id": "71b3a58bea6b",
+      "plainText": "Patient Center Medical Library Insurance Reviews FAQ",
+      "originalHtml": "<div class=\"nav__dropdown\"><a href=\"/patcenter/\" class=\"nav__link\">Patient Center</a><div class=\"nav__dropdown-menu\"><a href=\"/library/\" class=\"nav__link\">Medical Library</a><a href=\"/insurance/\" class=\"nav__link\">Insurance</a><a href=\"/reviews/\" class=\"nav__link\">Reviews</a><a href=\"/faq/\" class=\"nav__link\">FAQ</a></div>",
+      "tagName": "div",
+      "previewContext": "ss=\"nav__link\">Vasopneumatic Compression</a><a href=\"/services/moist-heat-ice/\" class=\"nav__link\">Moist Heat / Ice</a><a href=\"/services/electrical-stimulation/\" class=\"nav__link\">Electrical Stimulation</a><a href=\"/services/workers-compensation/\" class=\"nav__link\">Workers Comp</a></div></div>\r\n    <div class=\"nav__dropdown\"><a href=\"/patcenter/\" class=\"nav__link\">Patient Center</a><div class=\"nav__dropdown-menu\"><a href=\"/library/\" class=\"nav__link\">Medical Library</a><a href=\"/insurance/\" class=\"nav__link\">Insurance</a><a href=\"/reviews/\" class=\"nav__link\">Reviews</a><a href=\"/faq/\" class=\"nav__link\">FAQ</a></div></div>\r\n    <a href=\"/contact/\" class=\"nav__link\">Contact</a>\r\n  </div></div></nav>",
+      "textLength": 52,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "div.nav__dropdown",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "bbaff1280050": {
+      "id": "bbaff1280050",
+      "plainText": "Contact",
+      "originalHtml": "<a href=\"/contact/\" class=\"nav__link\">Contact</a>",
+      "tagName": "a",
+      "previewContext": "\"/patcenter/\" class=\"nav__link\">Patient Center</a><div class=\"nav__dropdown-menu\"><a href=\"/library/\" class=\"nav__link\">Medical Library</a><a href=\"/insurance/\" class=\"nav__link\">Insurance</a><a href=\"/reviews/\" class=\"nav__link\">Reviews</a><a href=\"/faq/\" class=\"nav__link\">FAQ</a></div></div>\r\n    <a href=\"/contact/\" class=\"nav__link\">Contact</a>\r\n  </div></div></nav>",
+      "textLength": 7,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "a.nav__link",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": false
+        }
+      ]
+    },
+    "a0a3593a61ae": {
+      "id": "a0a3593a61ae",
+      "plainText": "templates/header.html",
+      "originalHtml": "<title>templates/header.html</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 21,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/header.html",
+          "selector": "title",
+          "category": "templates",
+          "section": "Header",
+          "pageName": "Global Header",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

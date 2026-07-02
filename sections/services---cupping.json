@@ -1,0 +1,65 @@
+{
+  "section": "Services > Cupping",
+  "category": "services",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "7c26e36c0ce9": {
+      "id": "7c26e36c0ce9",
+      "plainText": "Cupping is a traditional Chinese medicine (TCM) practice that involves placing cups on the skin to create suction. This practice dates back over 2,000 years but has received recent attention due to its use by world-class athletes for injury relief. The cups used in cupping are typically made of bamboo, glass, or earthenware. It's believed that the effect of suction on the skin helps increase blood flow and promotes healing; however, the way in which cupping may have an effect on the body is unclear. A study in PLoS One researchers concluded that cupping could be effective in treating the pain and disability associated with chronic neck pain and chronic low-back pain in the short term. Cupping is generally safe for healthy people when performed by one of our trained health professionals. Some of the side effects like bruising and soreness are possible. Ask your physical therapist how cupping might help you. Cupping is a helpful alternative treatment for some. Please share your complete health history with your therapist and they will discuss the benefits and possible side effects of cupping to make sure it is right for you. call us at (985) 641-5825 for More Information",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>Cupping is a traditional Chinese medicine (TCM) practice that involves placing cups on the skin to create suction. This practice dates back over 2,000 years but has received recent attention due to its use by world-class athletes for injury relief.</p>\r\n<p>The cups used in cupping are typically made of bamboo, glass, or earthenware.</p>\r\n<p>It's believed that the effect of suction on the skin helps increase blood flow and promotes healing; however, the way in which cupping may have an effect on the body is unclear. A study in PLoS One researchers concluded that cupping could be effective in treating the pain and disability associated with chronic neck pain and chronic low-back pain in the short term.</p>\r\n<p>Cupping is generally safe for healthy people when performed by one of our trained health professionals.</p>\r\n<p>Some of the side effects like bruising and soreness are possible.</p>\r\n<p><strong>Ask your physical therapist how cupping might help you.</strong></p>\r\n<p>Cupping is a helpful alternative treatment for some. Please share your complete health history with your therapist and they will discuss the benefits and possible side effects of cupping to make sure it is right for you.</p>\r\n<p>call us at (985) 641-5825 for More Information</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ntainer\">\r\n      <h1>Cupping</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/cupping.jpg\" alt=\"Cupping\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>Cupping is a traditional Chinese medicine (TCM) practice that involves placing cups on the skin to create suction. This practice dates back over 2,000 years but has received recent attention due to its use by world-class athletes for injury relief.</p>\r\n<p>The cups used in cupping are typically made of bamboo, glass, or earthenware.</p>\r\n<p>It's believed that the effect of suction on the skin helps increase blood flow and promotes healing; however, the way in which cupping may have an effect on the body is unclear. A study in PLoS One researchers concluded that cupping could be effective in treating the pain and disability associated with chronic neck pain and chronic low-back pain in the short term.</p>\r\n<p>Cupping is generally safe for healthy people when performed by one of our trained health professionals.</p>\r\n<p>Some of the side effects like bruising and soreness are possible.</p>\r\n<p><strong>Ask your physical therapist how cupping might help you.</strong></p>\r\n<p>Cupping is a helpful alternative treatment for some. Please share your complete health history with your therapist and they will discuss the benefits and possible side effects of cupping to make sure it is right for you.</p>\r\n<p>call us at (985) 641-5825 for More Information</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1187,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/cupping/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Cupping",
+          "pageName": "cupping",
+          "isMeta": false
+        }
+      ]
+    },
+    "15489a3dfaa8": {
+      "id": "15489a3dfaa8",
+      "plainText": "Cupping — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Cupping — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 48,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/cupping/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Cupping",
+          "pageName": "cupping",
+          "isMeta": true
+        }
+      ]
+    },
+    "421ed19a85e4": {
+      "id": "421ed19a85e4",
+      "plainText": "Cupping therapy in Slidell, LA. A traditional practice using suction cups to promote healing and relieve pain. Call Bratton Physical Therapy at 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Cupping therapy in Slidell, LA. A traditional practice using suction cups to promote healing and relieve pain. Call Bratton Physical Therapy at 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 157,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/cupping/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Cupping",
+          "pageName": "cupping",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

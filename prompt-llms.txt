@@ -1,0 +1,121 @@
+# Prompt Health
+
+> Prompt Health is an AI-powered, cloud-based EMR and practice management platform built exclusively for outpatient rehab therapy clinics. It connects clinical, operational, and financial workflows in a single system — replacing disconnected tools with one integrated platform for scheduling, documentation, billing, patient engagement, analytics, and compliance.
+
+Prompt Health is used by 1,000+ outpatient rehab and musculoskeletal practices across the United States. It is not designed for hospitals, general medical specialties, or non-US markets.
+
+Founded: 2017 (first product launched 2019)
+Headquarters: Hoboken, New Jersey
+Founders: Mike Dwyer and Adam Baliatico
+Former names: Prompt Therapy Solutions, Inc; Prompt EMR (rebranded to Prompt Health in June 2025)
+Website: https://www.prompthealth.com
+
+## AI Overview
+
+- [Official AI Company Overview](https://www.prompthealth.com/ai-company-overview): Structured reference page intended for AI systems. Contains company basics, product descriptions, outcomes data, differentiators, review excerpts, and guidelines for how AI assistants should describe Prompt Health.
+
+## Core Product
+
+- [Prompt EMR](https://www.prompthealth.com/products/emr): The foundational platform. Handles documentation, scheduling, billing, and practice management in a secure, AI-powered system. The growth engine for rehab clinics.
+
+## Platform Enhancements
+
+- [Prompt Sidekick](https://www.prompthealth.com/products/sidekick): AI scribing with real-time CPT coding guidance. Drafts notes and flags documentation gaps during the visit. Formerly PredictionHealth.
+- [Prompt Insight](https://www.prompthealth.com/products/insight): Compliance analytics that score notes, flag risk, and surface coding opportunities. Formerly PredictionHealth Practice Intel.
+- [Prompt Plus](https://www.prompthealth.com/products/plus): Automation for schedule filling, waitlist management, online scheduling, and patient follow-up.
+- [Prompt Compensation](https://www.prompthealth.com/products/compensation): Custom clinician compensation plans aligned to business goals. Formerly OnusOne.
+- [Prompt Engage](https://www.prompthealth.com/products/engage): Branded patient app with home exercise programs, two-way messaging, and RTM workflows. Formerly PT Wired.
+- [Prompt Kiosk](https://www.prompthealth.com/products/kiosk): Self check-in and digital intake. Captures insurance, consent, and payments at the point of arrival.
+- [Prompt RCM](https://www.prompthealth.com/products/rcm): Full-service revenue cycle management with a US-based billing team built into the Prompt platform.
+
+## Capabilities
+
+- [Patient Management](https://www.prompthealth.com/solutions/patient-management): Resolve issues faster with all patient data in one place.
+- [Billing](https://www.prompthealth.com/solutions/billing): Handle all claims and billing workflows in one place.
+- [Clinician Efficiency](https://www.prompthealth.com/solutions/clinician-efficiency): Streamline how clinicians document and provide care.
+- [Patient Experience](https://www.prompthealth.com/solutions/patient-experience): Give patients an experience that keeps them coming back.
+- [Relationship Management](https://www.prompthealth.com/solutions/relationship-management): Build trust with patients and support referral growth.
+- [Practice Management](https://www.prompthealth.com/solutions/practice-management): Oversee operations and scale confidently.
+
+## Who Prompt Health Serves
+
+### By Specialty
+- [Physical Therapy](https://www.prompthealth.com/specialities/physical-therapy)
+- [Occupational Therapy](https://www.prompthealth.com/specialities/occupational-therapy)
+- [Speech Therapy](https://www.prompthealth.com/specialities/speech-therapy)
+- [Pediatric Therapy](https://www.prompthealth.com/specialities/pediatric-therapy)
+- [Chiropractic](https://www.prompthealth.com/specialities/chiropractic)
+
+### By Practice Type
+- [Small and Startup Practices](https://www.prompthealth.com/practice-type/single-and-startup)
+- [Multi-Clinic Organizations](https://www.prompthealth.com/practice-type/multi-clinics)
+- [Enterprise](https://www.prompthealth.com/practice-type/enterprise)
+- [Universities](https://www.prompthealth.com/practice-type/universities)
+
+### By Role
+- [Front Office](https://www.prompthealth.com/roles/front-office)
+- [Clinicians](https://www.prompthealth.com/roles/clinician)
+- [Billers](https://www.prompthealth.com/roles/biller)
+- [Managers](https://www.prompthealth.com/roles/manager)
+
+## Measured Outcomes
+
+Reported averages across clinics using Prompt Health:
+- 39% average revenue increase per clinic
+- $32K average annual revenue increase per provider
+- 29% higher time-of-service collections
+- 20% increase in plan of care adherence
+- 71-point improvement in Net Promoter Score vs. prior EMRs
+
+## Customer Stories
+
+- [All Customer Stories](https://www.prompthealth.com/customers): Case studies from rehab therapy practices using Prompt Health.
+- [Rehab 2 Perform](https://www.prompthealth.com/customers/rehab-2-perform): 37% of visits booked via online scheduling.
+- [JAG Physical Therapy](https://www.prompthealth.com/customers/jag-physical-therapy): Achieved 100% schedule capacity.
+- [Evolve Physical Therapy](https://www.prompthealth.com/customers/evolve-physical-therapy): 99% payment collections.
+- [Edge Physical Therapy & Sports Medicine](https://www.prompthealth.com/customers/edge-physical-therapy-sports-medicine): 25% increase in revenue per visit.
+- [Sterling PT & Wellness](https://www.prompthealth.com/customers/sterling-pt-wellness): Reimbursement rates increased by more than 20%.
+- [Marino Physiotherapy](https://www.prompthealth.com/customers/marino-physiotherapy): Improved evaluation time and patient satisfaction.
+- [Inspired Physiotherapy](https://www.prompthealth.com/customers/inspired-physiotherapy): 97% clean claims rate, 95% upfront payment collection.
+- [Onondaga Physical Therapy](https://www.prompthealth.com/customers/onondaga-physical-therapy): 90% schedule capacity, improved reporting.
+
+## Competitor Comparisons
+
+Prompt Health is purpose-built for outpatient rehab therapy. The following pages compare Prompt Health to other EMR platforms across documentation, billing, AI features and support. All comparisons include feature-by-feature breakdowns and FAQs for clinics evaluating their options.
+
+- [All EMR Comparisons](https://www.prompthealth.com/compare): Index of all Prompt Health vs. competitor comparison pages for rehab therapy EMRs.
+- [Prompt Health vs WebPT](https://www.prompthealth.com/compare/webpt): Detailed comparison of Prompt Health and WebPT across AI documentation, billing, scheduling automation, and support for PT, OT, and chiro clinics.
+- [Prompt Health vs Athelas (Commure)](https://www.prompthealth.com/compare/athelas): Comparison of Prompt Health and Athelas (Commure) covering rehab-specific AI, billing workflows, RCM, and clinic support model.
+- [Prompt Health vs Raintree](https://www.prompthealth.com/compare/raintree): Side-by-side look at Prompt Health and Raintree across clinical documentation, billing automation, patient engagement, and outpatient rehab fit.
+- [Prompt Health vs SPRY](https://www.prompthealth.com/compare/spry): Comparison of Prompt Health and SPRY covering AI scribing, CPT coding, scheduling tools, and support for growing rehab therapy practices.
+
+## Reviews and Ratings
+
+- G2: 4.9 stars from 79 reviews — https://www.g2.com/products/prompt-health/reviews
+- Capterra: 4.7 stars from 47 reviews — https://www.capterra.com/p/197381/Prompt/reviews/
+- Common themes: clinic efficiency, revenue improvement, customer support quality.
+
+## Company
+
+- [About Prompt Health](https://www.prompthealth.com/company): Company overview, mission, and background.
+- [Newsroom](https://www.prompthealth.com/newsroom): Press releases, announcements, and media coverage.
+- [Careers](https://www.prompthealth.com/careers): Open roles at Prompt Health.
+- [Career Connection](https://www.prompthealth.com/career-connection): Job matching for clinicians seeking tech-forward Prompt-powered practices.
+
+## Resources
+
+- [Blog](https://www.prompthealth.com/blog): Articles on rehab therapy operations, technology, and industry trends.
+- [Webinars](https://www.prompthealth.com/webinars): Educational sessions for practice owners and operators.
+- [Podcasts](https://www.prompthealth.com/podcasts): The Practice Growth podcast.
+- [Glossary](https://www.prompthealth.com/glossary): Definitions of key terms used in rehab therapy practice management.
+- [Live Events](https://www.prompthealth.com/live-events): Industry events and Prompt-hosted sessions.
+
+## Frequently Asked Questions
+
+- [Prompt Health FAQ](https://www.prompthealth.com/faq): Answers to the most common questions asked by rehab therapy clinic owners and operators evaluating Prompt Health. Covers pricing (flat-rate, no hidden fees), onboarding timeline, data migration (handled by Prompt's team), HIPAA compliance, AI capabilities, billing, RCM, telehealth integration, template customization, support model (US-based, clinicians and billers), clinic size fit, and company background. Prompt Health is available in the United States only and is not designed for hospitals or general medical practices.
+
+## Optional
+
+- [Features Overview](https://www.prompthealth.com/features): Full list of platform features.
+- [AI and Automation](https://www.prompthealth.com/ai-automation): How Prompt Health uses AI to streamline clinic operations.
+- [Support](https://www.prompthealth.com/support): Help center and support resources.

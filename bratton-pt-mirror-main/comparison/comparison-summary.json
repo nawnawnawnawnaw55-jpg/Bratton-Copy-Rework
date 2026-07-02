@@ -1,0 +1,228 @@
+{
+  "homepage": {
+    "iphone-se": [
+      "  body_classes: real has set(), local has {'g5-eq-default', 'wp-singular', 'page-template-default', 'page-home', 'g5-lt-large', 'smartphone', 'g5-lt-small', 'uk-height-1-1', 'page', 'mobile', 'wp-child-theme-1739themeG5', 'desktop', 'wp-theme-gfive', 'handheld', 'page-id-3', 'home', 'g5-lt-medium', 'g5-lt-xlarge'}",
+      "  mobile_menu: real=False, local=None",
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  header: real=False, local=None",
+      "  hero: real=False, local=None",
+      "  orange_bars: real=False, local=None",
+      "  logo_img: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "iphone-12": [
+      "  body_classes: real has set(), local has {'g5-eq-default', 'wp-singular', 'page-template-default', 'page-home', 'g5-lt-large', 'smartphone', 'g5-lt-small', 'uk-height-1-1', 'page', 'mobile', 'wp-child-theme-1739themeG5', 'desktop', 'wp-theme-gfive', 'handheld', 'page-id-3', 'home', 'g5-lt-medium', 'g5-lt-xlarge'}",
+      "  mobile_menu: real=False, local=None",
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  header: real=False, local=None",
+      "  hero: real=False, local=None",
+      "  orange_bars: real=False, local=None",
+      "  logo_img: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "ipad": [
+      "  body_classes: real has set(), local has {'wp-singular', 'page-template-default', 'page-home', 'g5-lt-large', 'smartphone', 'g5-gt-default', 'uk-height-1-1', 'page', 'g5-gt-small', 'g5-eq-medium', 'mobile', 'wp-child-theme-1739themeG5', 'desktop', 'wp-theme-gfive', 'handheld', 'page-id-3', 'home', 'g5-lt-xlarge'}",
+      "  mobile_menu: real=False, local=None",
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  header: real=False, local=None",
+      "  hero: real=False, local=None",
+      "  orange_bars: real=False, local=None",
+      "  logo_img: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "tablet": [
+      "  body_classes: real has set(), local has {'wp-singular', 'page-template-default', 'uk-height-1-1', 'page-home', 'wp-child-theme-1739themeG5', 'desktop', 'g5-gt-default', 'wp-theme-gfive', 'page', 'page-id-3', 'g5-gt-medium', 'home', 'g5-gt-small', 'g5-lt-xlarge', 'g5-eq-large'}",
+      "  mobile_menu: real=False, local=None",
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  header: real=False, local=None",
+      "  hero: real=False, local=None",
+      "  orange_bars: real=False, local=None",
+      "  logo_img: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-sm": [
+      "  body_classes: real has set(), local has {'wp-singular', 'page-template-default', 'uk-height-1-1', 'page-home', 'wp-child-theme-1739themeG5', 'desktop', 'g5-gt-default', 'wp-theme-gfive', 'page', 'page-id-3', 'g5-gt-medium', 'home', 'g5-gt-small', 'g5-gt-large', 'g5-eq-xlarge'}",
+      "  mobile_menu: real=False, local=None",
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  header: real=False, local=None",
+      "  hero: real=False, local=None",
+      "  orange_bars: real=False, local=None",
+      "  logo_img: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-lg": [
+      "  body_classes: real has set(), local has {'wp-singular', 'page-template-default', 'uk-height-1-1', 'page-home', 'wp-child-theme-1739themeG5', 'desktop', 'g5-gt-default', 'wp-theme-gfive', 'page', 'page-id-3', 'g5-gt-medium', 'home', 'g5-gt-small', 'g5-gt-large', 'g5-eq-xlarge'}",
+      "  mobile_menu: real=False, local=None",
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  header: real=False, local=None",
+      "  hero: real=False, local=None",
+      "  orange_bars: real=False, local=None",
+      "  logo_img: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ]
+  },
+  "cupping": {
+    "iphone-se": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "iphone-12": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "ipad": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "tablet": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-sm": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-lg": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ]
+  },
+  "about": {
+    "iphone-se": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "iphone-12": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "ipad": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "tablet": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-sm": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-lg": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ]
+  },
+  "contact": {
+    "iphone-se": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "iphone-12": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "ipad": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "tablet": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-sm": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-lg": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ]
+  },
+  "services": {
+    "iphone-se": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "iphone-12": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "ipad": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "tablet": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-sm": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ],
+    "desktop-lg": [
+      "  quick_access: real=False, local=None",
+      "  navbar: real=False, local=None",
+      "  address_line: real=False, local=None",
+      "  phone_link: real=False, local=None"
+    ]
+  }
+}

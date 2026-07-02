@@ -1,0 +1,179 @@
+{
+  "section": "Conditions > Knee Pain",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 9,
+  "snippets": {
+    "f0ae84d43db2": {
+      "id": "f0ae84d43db2",
+      "plainText": "Knee Pain Treatment Whether you're dealing with a sports injury, arthritis, or recovering from surgery, our one-on-one knee rehabilitation programs in Slidell help you regain strength, mobility, and confidence. We treat a wide range of knee conditions using evidence-based techniques. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Knee Pain Treatment</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Whether you're dealing with a sports injury, arthritis, or recovering from surgery, our one-on-one knee rehabilitation programs in Slidell help you regain strength, mobility, and confidence. We treat a wide range of knee conditions using evidence-based techniques.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Knee Pain Treatment</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Whether you're dealing with a sports injury, arthritis, or recovering from surgery, our one-on-one knee rehabilitation programs in Slidell help you regain strength, mobility, and confidence. We treat a wide range of knee conditions using evidence-based techniques.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Knee Conditions We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Injurie",
+      "textLength": 324,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "eab4268e3423": {
+      "id": "eab4268e3423",
+      "plainText": "Common Knee Conditions We Treat ACL Injuries Meniscus Tears Knee Replacement Arthritis & Joint Pain Sports Injuries Patellofemoral Pain",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Knee Conditions We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Injuries</a>\r\n        <a href=\"/meniscus-tear/\" class=\"condition-pill\">Meniscus Tears</a>\r\n        <a href=\"/knee-replacement/\" class=\"condition-pill\">Knee Replacement</a>\r\n        <a href=\"/joint-pain-arthritis/\" class=\"condition-pill\">Arthritis & Joint Pain</a>\r\n        <a href=\"/sports-injuries/\" class=\"condition-pill\">Sports Injuries</a>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Patellofemoral Pain</span>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Knee Conditions We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Injuries</a>\r\n        <a href=\"/meniscus-tear/\" class=\"condition-pill\">Meniscus Tears</a>\r\n        <a href=\"/knee-replacement/\" class=\"condition-pill\">Knee Replacement</a>\r\n        <a href=\"/joint-pain-arthritis/\" class=\"condition-pill\">Arthritis & Joint Pain</a>\r\n        <a href=\"/sports-injuries/\" class=\"condition-pill\">Sports Injuries</a>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Patellofemoral Pain</span>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Approach to Knee Rehabilitation</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div sty",
+      "textLength": 135,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "d67c11324220": {
+      "id": "d67c11324220",
+      "plainText": "Our Approach to Knee Rehabilitation Thorough Evaluation We assess your movement patterns, strength, range of motion, and functional limitations to create a personalized plan",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Approach to Knee Rehabilitation</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Thorough Evaluation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">We assess your movement patterns, strength, range of motion, and functional limitations to create a personalized plan</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "/a>\r\n        <a href=\"/sports-injuries/\" class=\"condition-pill\">Sports Injuries</a>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Patellofemoral Pain</span>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Approach to Knee Rehabilitation</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Thorough Evaluation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">We assess your movement patterns, strength, range of motion, and functional limitations to create a personalized plan</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Relief First</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, modalities",
+      "textLength": 173,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "9e8c8bd62766": {
+      "id": "9e8c8bd62766",
+      "plainText": "Pain Relief First Manual therapy, modalities, and targeted exercises to reduce pain and inflammation",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Relief First</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, modalities, and targeted exercises to reduce pain and inflammation</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "<h3 style=\"color:var(--accent);font-size:1.1rem\">Thorough Evaluation</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">We assess your movement patterns, strength, range of motion, and functional limitations to create a personalized plan</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Relief First</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, modalities, and targeted exercises to reduce pain and inflammation</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Progressive Strengthening</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Graduated exercise",
+      "textLength": 100,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "486b0c060b15": {
+      "id": "486b0c060b15",
+      "plainText": "Progressive Strengthening Graduated exercise programs to restore strength, stability, and function for daily activities and sports",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Progressive Strengthening</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Graduated exercise programs to restore strength, stability, and function for daily activities and sports</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Relief First</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, modalities, and targeted exercises to reduce pain and inflammation</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Progressive Strengthening</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Graduated exercise programs to restore strength, stability, and function for daily activities and sports</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Patients Choose Us for Knee Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the en",
+      "textLength": 130,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "f1c2b696c709": {
+      "id": "f1c2b696c709",
+      "plainText": "Why Patients Choose Us for Knee Pain One-on-one sessions — your therapist is with you the entire time 45–60 minute appointments for thorough care Evidence-based treatment including manual therapy and therapeutic exercise No referral needed in Louisiana — Direct Access",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Patients Choose Us for Knee Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Evidence-based treatment including manual therapy and therapeutic exercise</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "gressive Strengthening</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Graduated exercise programs to restore strength, stability, and function for daily activities and sports</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Patients Choose Us for Knee Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Evidence-based treatment including manual therapy and therapeutic exercise</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your Knee Recovery Today</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;mar",
+      "textLength": 268,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "fc882ccdd287": {
+      "id": "fc882ccdd287",
+      "plainText": "Start Your Knee Recovery Today Don't let knee pain limit your life. Call us or request an appointment online. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your Knee Recovery Today</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Don't let knee pain limit your life. Call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "care</li>\r\n        <li>Evidence-based treatment including manual therapy and therapeutic exercise</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Start Your Knee Recovery Today</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Don't let knee pain limit your life. Call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 149,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "5be56c74892d": {
+      "id": "5be56c74892d",
+      "plainText": "Knee Pain Treatment — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Knee Pain Treatment — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 60,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": true
+        }
+      ]
+    },
+    "5d4d1ba2ed5f": {
+      "id": "5d4d1ba2ed5f",
+      "plainText": "Expert physical therapy for knee pain in Slidell, LA. Treating ACL tears, meniscus injuries, knee replacement recovery, and more. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy for knee pain in Slidell, LA. Treating ACL tears, meniscus injuries, knee replacement recovery, and more. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 150,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "knee-pain/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Knee Pain",
+          "pageName": "knee-pain",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

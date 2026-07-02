@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terms of Use — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Terms of Use for Bratton Physical Therapy website — conditions and guidelines for using our site.">
+<meta property="og:title" content="Terms of Use — Bratton Physical Therapy">
+<meta property="og:description" content="Terms of Use for Bratton Physical Therapy in Slidell, LA.">
+<meta property="og:url" content="/terms-of-use/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h1>Terms of Use</h1>
+      <p style="font-size:1.15rem;line-height:1.7">By accessing and using the Bratton Physical Therapy website, you agree to comply with and be bound by the following Terms of Use. Please review them carefully.</p>
+
+      <h2>Acceptance of Terms</h2>
+      <p>By accessing this website, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use. If you do not agree, please do not use this website.</p>
+
+      <h2>Medical Disclaimer</h2>
+      <p>The information provided on this website is for general informational purposes only and is not intended as medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition. Do not disregard professional medical advice or delay seeking it because of something you have read on this website.</p>
+      <p>If you think you may have a medical emergency, call your doctor or 911 immediately.</p>
+
+      <h2>No Provider-Patient Relationship</h2>
+      <p>Use of this website does not establish a provider-patient relationship with Bratton Physical Therapy or any of its therapists. A provider-patient relationship is only established after an in-person evaluation and the completion of appropriate intake paperwork.</p>
+
+      <h2>Website Content</h2>
+      <p>We strive to keep our website content accurate and up to date, but we make no warranties or representations about the completeness, accuracy, or reliability of any information on this site. Content may be changed or updated without notice.</p>
+
+      <h2>Intellectual Property</h2>
+      <p>All content on this website — including text, images, logos, graphics, and design elements — is the property of Bratton Physical Therapy unless otherwise noted. Unauthorized use, reproduction, or distribution of any content is prohibited.</p>
+
+      <h2>Links to Third-Party Sites</h2>
+      <p>Our website may contain links to third-party websites. These links are provided for your convenience only. We do not endorse or assume responsibility for the content, privacy policies, or practices of any third-party sites.</p>
+
+      <h2>Limitation of Liability</h2>
+      <p>Bratton Physical Therapy shall not be liable for any damages arising from the use or inability to use this website, including but not limited to direct, indirect, incidental, or consequential damages.</p>
+
+      <h2>Changes to These Terms</h2>
+      <p>We reserve the right to modify these Terms of Use at any time. Changes will be effective immediately upon posting. Your continued use of the website after changes are posted constitutes acceptance of the modified terms.</p>
+
+      <h2>Contact Information</h2>
+      <p>If you have questions about these Terms of Use, please contact us:</p>
+      <p>Bratton Physical Therapy<br>1346 Lindberg Drive Suite 3, Slidell, LA 70458<br>Phone: (985) 641-5825</p>
+
+      <p style="margin-top:16px;font-size:.85rem;color:var(--text-muted)">Last updated: January 2026</p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>fetch('/templates/footer.html').then(function(r){return r.text()}).then(function(f){document.getElementById('site-footer').innerHTML=f});</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

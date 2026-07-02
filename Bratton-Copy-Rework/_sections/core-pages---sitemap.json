@@ -1,0 +1,65 @@
+{
+  "section": "Core Pages > Sitemap",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "96839197f84e": {
+      "id": "96839197f84e",
+      "plainText": "Sitemap Main Pages Home About Us Staff Join Our Team Location Contact Reviews FAQ Sitemap Conditions All Conditions Shoulder Pain Knee Pain Back Pain & Sciatica Neck Pain Sports Injuries ACL Injury Labral Tear Meniscus Tear Knee Replacement Joint Pain & Arthritis Services All Services Therapeutic Exercise Dry Needling Cupping Workers Compensation Patient Education Strength & Conditioning Blood Flow Restriction McKenzie Method Mulligan Technique Gait & Balance Training Vasopneumatic Compression Moist Heat & Ice Electrical Stimulation Patient Resources Patient Center Medical Library Insurance Booking New Appointment Paperwork Community Legal Privacy Policy Terms of Use",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Sitemap</h1>\r\n\r\n      <h2>Main Pages</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/\">Home</a></li>\r\n        <li><a href=\"/about/\">About Us</a></li>\r\n        <li><a href=\"/staff/\">Staff</a></li>\r\n        <li><a href=\"/join-our-team/\">Join Our Team</a></li>\r\n        <li><a href=\"/location/\">Location</a></li>\r\n        <li><a href=\"/contact/\">Contact</a></li>\r\n        <li><a href=\"/reviews/\">Reviews</a></li>\r\n        <li><a href=\"/faq/\">FAQ</a></li>\r\n        <li><a href=\"/sitemap/\">Sitemap</a></li>\r\n      </ul>\r\n\r\n      <h2>Conditions</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/conditions/\">All Conditions</a></li>\r\n        <li><a href=\"/shoulder-pain/\">Shoulder Pain</a></li>\r\n        <li><a href=\"/knee-pain/\">Knee Pain</a></li>\r\n        <li><a href=\"/back-pain-sciatica/\">Back Pain & Sciatica</a></li>\r\n        <li><a href=\"/neck-pain/\">Neck Pain</a></li>\r\n        <li><a href=\"/sports-injuries/\">Sports Injuries</a></li>\r\n        <li><a href=\"/acl-injury/\">ACL Injury</a></li>\r\n        <li><a href=\"/labral-tear/\">Labral Tear</a></li>\r\n        <li><a href=\"/meniscus-tear/\">Meniscus Tear</a></li>\r\n        <li><a href=\"/knee-replacement/\">Knee Replacement</a></li>\r\n        <li><a href=\"/joint-pain-arthritis/\">Joint Pain & Arthritis</a></li>\r\n      </ul>\r\n\r\n      <h2>Services</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/services/\">All Services</a></li>\r\n        <li><a href=\"/services/therapeutic-exercise/\">Therapeutic Exercise</a></li>\r\n        <li><a href=\"/services/dry-needling-certified/\">Dry Needling</a></li>\r\n        <li><a href=\"/services/cupping/\">Cupping</a></li>\r\n        <li><a href=\"/services/workers-compensation/\">Workers Compensation</a></li>\r\n        <li><a href=\"/services/patient-education/\">Patient Education</a></li>\r\n        <li><a href=\"/services/strength-conditioning/\">Strength & Conditioning</a></li>\r\n        <li><a href=\"/services/blood-flow-restriction-therapy/\">Blood Flow Restriction</a></li>\r\n        <li><a href=\"/services/mckenzie-method/\">McKenzie Method</a></li>\r\n        <li><a href=\"/services/mulligan-technique/\">Mulligan Technique</a></li>\r\n        <li><a href=\"/services/gait-balance-training/\">Gait & Balance Training</a></li>\r\n        <li><a href=\"/services/vasopneumatic-compression/\">Vasopneumatic Compression</a></li>\r\n        <li><a href=\"/services/moist-heat-ice/\">Moist Heat & Ice</a></li>\r\n        <li><a href=\"/services/electrical-stimulation/\">Electrical Stimulation</a></li>\r\n      </ul>\r\n\r\n      <h2>Patient Resources</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/patcenter/\">Patient Center</a></li>\r\n        <li><a href=\"/library/\">Medical Library</a></li>\r\n        <li><a href=\"/insurance/\">Insurance</a></li>\r\n        <li><a href=\"/booking/\">Booking</a></li>\r\n        <li><a href=\"/new-appointment/\">New Appointment</a></li>\r\n        <li><a href=\"/paperwork/\">Paperwork</a></li>\r\n        <li><a href=\"/community/\">Community</a></li>\r\n      </ul>\r\n\r\n      <h2>Legal</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/privacy-policy/\">Privacy Policy</a></li>\r\n        <li><a href=\"/terms-of-use/\">Terms of Use</a></li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Sitemap</h1>\r\n\r\n      <h2>Main Pages</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/\">Home</a></li>\r\n        <li><a href=\"/about/\">About Us</a></li>\r\n        <li><a href=\"/staff/\">Staff</a></li>\r\n        <li><a href=\"/join-our-team/\">Join Our Team</a></li>\r\n        <li><a href=\"/location/\">Location</a></li>\r\n        <li><a href=\"/contact/\">Contact</a></li>\r\n        <li><a href=\"/reviews/\">Reviews</a></li>\r\n        <li><a href=\"/faq/\">FAQ</a></li>\r\n        <li><a href=\"/sitemap/\">Sitemap</a></li>\r\n      </ul>\r\n\r\n      <h2>Conditions</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/conditions/\">All Conditions</a></li>\r\n        <li><a href=\"/shoulder-pain/\">Shoulder Pain</a></li>\r\n        <li><a href=\"/knee-pain/\">Knee Pain</a></li>\r\n        <li><a href=\"/back-pain-sciatica/\">Back Pain & Sciatica</a></li>\r\n        <li><a href=\"/neck-pain/\">Neck Pain</a></li>\r\n        <li><a href=\"/sports-injuries/\">Sports Injuries</a></li>\r\n        <li><a href=\"/acl-injury/\">ACL Injury</a></li>\r\n        <li><a href=\"/labral-tear/\">Labral Tear</a></li>\r\n        <li><a href=\"/meniscus-tear/\">Meniscus Tear</a></li>\r\n        <li><a href=\"/knee-replacement/\">Knee Replacement</a></li>\r\n        <li><a href=\"/joint-pain-arthritis/\">Joint Pain & Arthritis</a></li>\r\n      </ul>\r\n\r\n      <h2>Services</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/services/\">All Services</a></li>\r\n        <li><a href=\"/services/therapeutic-exercise/\">Therapeutic Exercise</a></li>\r\n        <li><a href=\"/services/dry-needling-certified/\">Dry Needling</a></li>\r\n        <li><a href=\"/services/cupping/\">Cupping</a></li>\r\n        <li><a href=\"/services/workers-compensation/\">Workers Compensation</a></li>\r\n        <li><a href=\"/services/patient-education/\">Patient Education</a></li>\r\n        <li><a href=\"/services/strength-conditioning/\">Strength & Conditioning</a></li>\r\n        <li><a href=\"/services/blood-flow-restriction-therapy/\">Blood Flow Restriction</a></li>\r\n        <li><a href=\"/services/mckenzie-method/\">McKenzie Method</a></li>\r\n        <li><a href=\"/services/mulligan-technique/\">Mulligan Technique</a></li>\r\n        <li><a href=\"/services/gait-balance-training/\">Gait & Balance Training</a></li>\r\n        <li><a href=\"/services/vasopneumatic-compression/\">Vasopneumatic Compression</a></li>\r\n        <li><a href=\"/services/moist-heat-ice/\">Moist Heat & Ice</a></li>\r\n        <li><a href=\"/services/electrical-stimulation/\">Electrical Stimulation</a></li>\r\n      </ul>\r\n\r\n      <h2>Patient Resources</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/patcenter/\">Patient Center</a></li>\r\n        <li><a href=\"/library/\">Medical Library</a></li>\r\n        <li><a href=\"/insurance/\">Insurance</a></li>\r\n        <li><a href=\"/booking/\">Booking</a></li>\r\n        <li><a href=\"/new-appointment/\">New Appointment</a></li>\r\n        <li><a href=\"/paperwork/\">Paperwork</a></li>\r\n        <li><a href=\"/community/\">Community</a></li>\r\n      </ul>\r\n\r\n      <h2>Legal</h2>\r\n      <ul style=\"line-height:2;font-size:1.05rem\">\r\n        <li><a href=\"/privacy-policy/\">Privacy Policy</a></li>\r\n        <li><a href=\"/terms-of-use/\">Terms of Use</a></li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 675,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sitemap/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Sitemap",
+          "pageName": "sitemap",
+          "isMeta": false
+        }
+      ]
+    },
+    "970e8b58e489": {
+      "id": "970e8b58e489",
+      "plainText": "Sitemap — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Sitemap — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 48,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sitemap/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Sitemap",
+          "pageName": "sitemap",
+          "isMeta": true
+        }
+      ]
+    },
+    "6c3e07cb55ed": {
+      "id": "6c3e07cb55ed",
+      "plainText": "Sitemap for Bratton Physical Therapy — find all pages on our website.",
+      "originalHtml": "<meta name=\"description\" content=\"Sitemap for Bratton Physical Therapy — find all pages on our website.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "sitemap/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Sitemap",
+          "pageName": "sitemap",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

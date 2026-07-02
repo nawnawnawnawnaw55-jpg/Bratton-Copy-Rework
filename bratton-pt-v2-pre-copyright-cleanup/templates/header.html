@@ -1,0 +1,388 @@
+<style>
+.g5-mobile-menu{display:none!important;height:0!important;overflow:hidden!important}
+body.smartphone .g5-mobile-menu{display:-ms-flexbox!important;display:-webkit-flex!important;display:flex!important;height:auto!important;overflow:visible!important;position:sticky!important;top:0!important;z-index:1000!important}
+.uk-offcanvas-bar{overflow-y:auto!important;scrollbar-width:none!important;-ms-overflow-style:none!important}.uk-offcanvas-bar::-webkit-scrollbar{display:none!important}.g5-quickaccess{overflow:visible!important}.g5-quickaccess-buttons{display:-ms-flexbox!important;display:-webkit-flex!important;display:flex!important;flex-wrap:wrap!important}
+
+/* Ensure mobile menu is hidden on desktop */
+@media (min-width: 769px) {
+  .g5-mobile-menu { display: none !important; height: 0 !important; overflow: hidden !important; }
+}
+
+/* Sticky nav on desktop */
+@media(min-width:769px){
+  #navbar{position:sticky;top:0;z-index:999;box-shadow:0 2px 8px rgba(0,0,0,0.1)}
+}
+
+/* Sticky nav styling */
+#navbar[data-uk-sticky].uk-active, .uk-sticky-placeholder + #navbar {
+  background: #fff !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
+  padding: 6px 0 !important;
+}
+.uk-sticky-placeholder + #navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
+}
+.nav-sticky{position:fixed!important;top:0!important;left:0!important;right:0!important;z-index:999!important;background:#fff!important;box-shadow:0 2px 8px rgba(0,0,0,0.15)!important;padding:6px 0!important}
+
+
+/* ==============================================================
+   HEADER FIXES (Mobile & Desktop)
+============================================================== */
+/* Set correct sizes immediately to prevent FOUC */
+#header .uk-text-large{font-size:15px!important}
+#header .uk-h2{font-size:18px!important}
+@media(min-width:768px){
+  #header>.uk-container>.uk-grid-small{display:flex!important;flex-wrap:nowrap!important;align-items:center!important;justify-content:space-between!important}
+  #header .uk-width-medium-1-3{width:30%!important}
+  #header .uk-width-medium-2-3{width:70%!important}
+}
+@media(min-width:960px) and (max-width:1250px){
+  .uk-navbar-nav>li>a{padding:0 8px!important;font-size:12px!important}
+}
+@media(max-width:1024px){
+  ul#menu-prim.uk-visible-large{display:none!important}
+  .uk-navbar-brand.uk-hidden-large{display:block!important}
+}
+@media(max-width:767px){
+  #header .uk-width-medium-1-3 a.uk-display-block{display:flex!important;justify-content:center;align-items:center}
+  #header img{max-width:100%;height:auto}
+}
+/* Shadow on navbar for seamless sticky transition */
+#navbar{box-shadow:0 2px 8px rgba(0,0,0,0.15)}
+
+/* Responsive typography */
+.g5-background-primary .uk-button span{white-space:nowrap;font-size:clamp(12px,2.5vw,17px)}
+@media(max-width:480px){
+  .uk-h1,h1{font-size:clamp(24px,6vw,36px)!important;line-height:1.2!important}
+  .uk-h2,h2{font-size:clamp(20px,5vw,28px)!important;line-height:1.3!important}
+  .uk-h3,h3{font-size:clamp(16px,4vw,22px)!important}
+  .uk-text-large{font-size:14px!important}
+  .uk-button-large{font-size:clamp(11px,3vw,15px)!important;padding:8px 12px!important}
+  #header .uk-text-large{font-size:12px!important}
+  #header .uk-h2{font-size:15px!important}
+}
+@media(max-width:360px){
+  .uk-h1,h1{font-size:clamp(22px,6vw,28px)!important}
+  .uk-h2,h2{font-size:clamp(18px,5vw,24px)!important}
+  .uk-button-large{font-size:clamp(10px,3vw,13px)!important;padding:6px 10px!important}
+  .g5-background-primary .uk-button span{font-size:clamp(10px,3vw,14px)}
+}
+
+/* CTA buttons - identical size, text scales to fit */
+.g5-background-primary .uk-button{
+  display:flex!important;align-items:center!important;justify-content:center!important;
+  height:46px!important;min-height:46px!important;max-height:46px!important;
+  white-space:nowrap!important;overflow:hidden!important;
+  padding:0 10px!important
+}
+.g5-background-primary .uk-button span{
+  display:flex!important;align-items:center!important;gap:6px!important;
+  white-space:nowrap!important;overflow:hidden!important;
+  font-size:clamp(9px,1.6vw,16px)!important;
+  line-height:1!important
+}
+.g5-background-primary .uk-button span i{font-size:clamp(10px,1.4vw,16px)!important;flex-shrink:0!important}
+@media(max-width:480px){
+  .g5-background-primary .uk-button{height:40px!important;min-height:40px!important;max-height:40px!important;padding:0 6px!important}
+  .g5-background-primary .uk-button span{font-size:clamp(8px,2.5vw,11px)!important;gap:4px!important}
+  .g5-background-primary .uk-button span i{font-size:clamp(9px,2vw,11px)!important}
+}
+@media(max-width:360px){
+  .g5-background-primary .uk-button{height:36px!important;min-height:36px!important;max-height:36px!important;padding:0 4px!important}
+  .g5-background-primary .uk-button span{font-size:clamp(7px,3vw,10px)!important;gap:3px!important}
+  .g5-background-primary .uk-button span i{font-size:clamp(8px,2.5vw,10px)!important}
+}
+.g5-background-primary .uk-button span{
+  white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;
+  font-size:clamp(10px,1.8vw,17px)!important
+}
+@media(max-width:480px){
+  .g5-background-primary .uk-button{height:38px!important;padding:4px 6px!important}
+  .g5-background-primary .uk-button span{font-size:clamp(9px,2.8vw,12px)!important}
+}
+@media(max-width:360px){
+  .g5-background-primary .uk-button{height:34px!important;padding:2px 4px!important}
+  .g5-background-primary .uk-button span{font-size:clamp(8px,3vw,11px)!important}
+}
+
+
+
+
+
+</style>
+<div class="uk-grid uk-grid-collapse uk-grid-width-1-3 g5-mobile-menu">
+<div class="">
+<a href="#offcanvas-menu" class="" data-uk-offcanvas> MENU <i class="uk-icon-bars  uk-icon-justify"></i></a>
+</div>
+<div class="uk-text-center">
+<a href="#" data-g5-qa onclick="var q=document.querySelector('.g5-quickaccess');if(q){q.style.display=q.style.display==='block'?'none':'block';if(window.UIkit){var b=document.querySelector('.g5-quickaccess-buttons');if(b)UIkit.Utils.checkDisplay(b);}}return false;"><i class="uk-icon-chevron-down uk-icon-justify"></i> More</a>
+</div>
+<div class="uk-text-right">
+<a href="tel:(985) 641-5825" data-g5-phonelink><i class="uk-icon-phone uk-icon-justify"></i> Call Us</a>
+</div>
+</div>
+
+	
+<header id="header" class='uk-position-relative'>
+	<div class="g5-background-primary g5-hidemobile">
+		<div class="uk-container uk-container-center">
+			<ul class='uk-grid uk-grid-width-large-1-3 uk-grid-width-medium-1-2 uk-list uk-margin-remove uk-flex uk-flex-center g5-padding-small uk-width-1-1'>
+				<li><a href="#" class="tm-skew tm-custom-btn-gradient uk-width-1-1 uk-button g5-background-warning g5-hover-background-white g5-hover-color-primary g5-color-white g5-loadar uk-button-large g5-transition-half"><span><i class="uk-icon-calendar"></i> Request An Appointment</span> </a></li>
+				<li><a href="/services/workers-compensation-physical-therapy-slidell-la/" class="tm-skew tm-custom-btn-gradient uk-width-1-1 uk-button g5-background-warning g5-hover-background-white g5-hover-color-primary g5-color-white g5-loadar uk-button-large g5-transition-half"><span><i class="uk-icon-user"></i> Work Injury? Start Here</span> </a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="uk-container uk-container-center">
+		<div class="uk-grid uk-grid-small uk-flex uk-flex-middle" data-uk-grid-margin>
+			<div class="uk-width-medium-1-3 uk-text-center-small">
+				<a href="/" class='uk-display-block g5-padding-top g5-padding-bottom'>
+					<img src="/files/logo/BRATTON-ai.svg" width="280" height="125" alt="physical therapy Slidell LA" class="">
+				</a>
+							</div>
+			<div class="uk-width-medium-2-3">
+				<div>
+					<div class='uk-grid uk-grid-width-medium-1-2 uk-flex uk-flex-middle uk-text-large uk-text-center g5-hidemobile' data-uk-grid-margin>
+						<div>
+							<a href="/location" class='uk-text-large g5-color-black g5-hover-color-warning'><i class="uk-icon-map-marker g5-color-warning uk-display-inline"></i> <div class='rfa rfa_4031 uk-display-inline'>1346 Lindberg Drive Suite 3<br />
+Slidell, LA 70458</div></a>
+						</div>
+						<div>
+							<span class="uk-h2 uk-display-block uk-text-bold">Call Now:</span>
+							<a href="tel:9856415825" data-g5-phonelink class="uk-text-large g5-color-black g5-hover-color-warning "><i class="uk-icon-phone g5-color-warning uk-display-inline "></i> <div class='rfa rfa_4031_phoneonly uk-display-inline'>(985) 641-5825</div></a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<div class="uk-width-1-1" id="navbar-wrapper">
+					<nav id="navbar" class="uk-navbar">
+				<div class="uk-container uk-container-center">
+					<div class="menu-prim-container"><ul id="menu-prim" class="uk-navbar-nav uk-visible-large uk-width-1-1 uk-flex uk-flex-center uk-flex-right"><li id="menu-item-navbar-4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-3 "><a  href="/"   id="menu-item-link-navbar-4" >Home</a>
+</li>
+<li data-uk-dropdown="" id="menu-item-navbar-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/about/"   id="menu-item-link-navbar-10" >About Us <i class="uk-icon-caret-down uk-icon-justify"></i></a>
+<div class="uk-dropdown uk-dropdown-navbar">
+<ul class="uk-nav uk-nav-navbar">
+	<li id="menu-item-navbar-8" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/staff/"   id="menu-item-link-navbar-8" >Staff</a>
+	</li>
+	<li id="menu-item-navbar-78" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/about/join-our-team/"   id="menu-item-link-navbar-78" >Join Our Team</a>
+	</li>
+	<li id="menu-item-navbar-12" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/location/"   id="menu-item-link-navbar-12" >Location</a>
+	</li>
+</ul>
+</div>
+</li>
+<li data-uk-dropdown="" id="menu-item-navbar-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/conditions/"   id="menu-item-link-navbar-375" >Conditions <i class="uk-icon-caret-down uk-icon-justify"></i></a>
+<div class="uk-dropdown uk-dropdown-navbar">
+<ul class="uk-nav uk-nav-navbar">
+	<li id="menu-item-navbar-332" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/shoulder-pain/"   id="menu-item-link-navbar-332" >Shoulder Pain</a>
+	</li>
+	<li id="menu-item-navbar-331" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/rotator-cuff-tear/"   id="menu-item-link-navbar-331" >Rotator Cuff Tear</a>
+	</li>
+	<li id="menu-item-navbar-330" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/labral-tear/"   id="menu-item-link-navbar-330" >Labral Tear</a>
+	</li>
+	<li id="menu-item-navbar-329" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/shoulder-impingement/"   id="menu-item-link-navbar-329" >Shoulder Impingement</a>
+	</li>
+	<li id="menu-item-navbar-328" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/knee-pain/"   id="menu-item-link-navbar-328" >Knee Pain</a>
+	</li>
+	<li id="menu-item-navbar-327" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/acl-injury/"   id="menu-item-link-navbar-327" >ACL Injury</a>
+	</li>
+	<li id="menu-item-navbar-326" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/meniscus-tear/"   id="menu-item-link-navbar-326" >Meniscus Tear</a>
+	</li>
+	<li id="menu-item-navbar-325" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/knee-replacement/"   id="menu-item-link-navbar-325" >Knee Replacement</a>
+	</li>
+	<li id="menu-item-navbar-350" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/joint-pain-arthritis/"   id="menu-item-link-navbar-350" >Joint Pain / Arthritis</a>
+	</li>
+	<li id="menu-item-navbar-351" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/neck-pain/"   id="menu-item-link-navbar-351" >Neck Pain / Headaches / TMJ Conditions</a>
+	</li>
+	<li id="menu-item-navbar-352" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/back-pain-sciatica/"   id="menu-item-link-navbar-352" >Lower Back Pain / Disc Problems / Sciatica</a>
+	</li>
+	<li id="menu-item-navbar-353" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/sports-injuries/"   id="menu-item-link-navbar-353" >Sports Injuries</a>
+	</li>
+	<li id="menu-item-navbar-354" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/sprains-strains-tendinitis/"   id="menu-item-link-navbar-354" >Sprains / Strains / Tendinitis</a>
+	</li>
+	<li id="menu-item-navbar-355" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/walking-balance-problems/"   id="menu-item-link-navbar-355" >Walking &#038; Balance Problems</a>
+	</li>
+	<li id="menu-item-navbar-356" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/pre-post-surgical-rehabilitation/"   id="menu-item-link-navbar-356" >Pre-Post Surgical Rehabilitation</a>
+	</li>
+	<li id="menu-item-navbar-357" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/work-related-injuries/"   id="menu-item-link-navbar-357" >Work Related Injuries</a>
+	</li>
+</ul>
+</div>
+</li>
+<li data-uk-dropdown="" id="menu-item-navbar-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/services/"   id="menu-item-link-navbar-62" >Services <i class="uk-icon-caret-down uk-icon-justify"></i></a>
+<div class="uk-dropdown uk-dropdown-navbar">
+<ul class="uk-nav uk-nav-navbar">
+	<li id="menu-item-navbar-63" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/patient-education/"   id="menu-item-link-navbar-63" >Patient Education</a>
+	</li>
+	<li id="menu-item-navbar-64" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/therapeutic-exercise/"   id="menu-item-link-navbar-64" >Therapeutic Exercise</a>
+	</li>
+	<li id="menu-item-navbar-65" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/strength-conditioning/"   id="menu-item-link-navbar-65" >Strength &#038; Conditioning</a>
+	</li>
+	<li id="menu-item-navbar-66" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/dry-needling-certified/"   id="menu-item-link-navbar-66" >Dry Needling Certified</a>
+	</li>
+	<li id="menu-item-navbar-67" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/blood-flow-restriction-therapy/"   id="menu-item-link-navbar-67" >Blood Flow Restriction Therapy</a>
+	</li>
+	<li id="menu-item-navbar-68" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/mckenzie-method/"   id="menu-item-link-navbar-68" >McKenzie Method</a>
+	</li>
+	<li id="menu-item-navbar-69" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/mulligan-technique/"   id="menu-item-link-navbar-69" >Mulligan Technique</a>
+	</li>
+	<li id="menu-item-navbar-70" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/cupping/"   id="menu-item-link-navbar-70" >Cupping</a>
+	</li>
+	<li id="menu-item-navbar-71" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/gait-balance-training/"   id="menu-item-link-navbar-71" >Gait / Balance Training</a>
+	</li>
+	<li id="menu-item-navbar-72" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/vasopneumatic-compression/"   id="menu-item-link-navbar-72" >Vasopneumatic Compression</a>
+	</li>
+	<li id="menu-item-navbar-73" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/moist-heat-ice/"   id="menu-item-link-navbar-73" >Moist Heat / Ice</a>
+	</li>
+	<li id="menu-item-navbar-74" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/electrical-stimulation/"   id="menu-item-link-navbar-74" >Electrical Stimulation</a>
+	</li>
+</ul>
+</div>
+</li>
+<li id="menu-item-navbar-272" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/workers-compensation-physical-therapy-slidell-la/"   id="menu-item-link-navbar-272" >Workers’ Compensation</a>
+</li>
+<li data-uk-dropdown="" id="menu-item-navbar-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/patcenter/"   id="menu-item-link-navbar-14" >Patient Center <i class="uk-icon-caret-down uk-icon-justify"></i></a>
+<div class="uk-dropdown uk-dropdown-navbar">
+<ul class="uk-nav uk-nav-navbar">
+	<li id="menu-item-navbar-16" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/library/"   id="menu-item-link-navbar-16" >Medical Library</a>
+	</li>
+	<li id="menu-item-navbar-20" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/insurance/"   id="menu-item-link-navbar-20" >Insurance</a>
+	</li>
+	<li id="menu-item-navbar-22" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://search.google.com/local/reviews?placeid=ChIJicdBse3mnYgRyU49RjVmRs0" target="_blank"   id="menu-item-link-navbar-22" >Reviews</a>
+	</li>
+	<li id="menu-item-navbar-179" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/community/"   id="menu-item-link-navbar-179" >Community</a>
+	</li>
+	<li id="menu-item-navbar-24" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/links/"   id="menu-item-link-navbar-24" >Links</a>
+	</li>
+	<li id="menu-item-navbar-26" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/faq/"   id="menu-item-link-navbar-26" >FAQ</a>
+	</li>
+	
+</ul>
+</div>
+</li>
+<li id="menu-item-navbar-28" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/contact/"   id="menu-item-link-navbar-28" >Contact Us</a>
+</li>
+</ul></div>					<a href="#offcanvas-menu" class="uk-navbar-brand uk-hidden-large" data-uk-offcanvas> MENU <i class="uk-icon-bars uk-icon-justify"></i></a>
+				</div>
+			</nav>
+			<div id="offcanvas-menu" class="uk-offcanvas">
+				<div class="uk-offcanvas-bar">
+					<div class="menu-prim-container"><ul id="menu-prim-1" class="uk-nav uk-nav-offcanvas"><li id="menu-item-offcanvas-4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-3 "><a  href="/"   id="menu-item-link-offcanvas-4" >Home</a>
+</li>
+<li id="menu-item-offcanvas-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/about/"   id="menu-item-link-offcanvas-10" >About Us</a>
+<ul class="uk-nav-sub">
+	<li id="menu-item-offcanvas-8" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/staff/"   id="menu-item-link-offcanvas-8" ><i class='uk-icon-angle-right'></i> Staff</a>
+	</li>
+	<li id="menu-item-offcanvas-78" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/about/join-our-team/"   id="menu-item-link-offcanvas-78" ><i class='uk-icon-angle-right'></i> Join Our Team</a>
+	</li>
+	<li id="menu-item-offcanvas-12" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/location/"   id="menu-item-link-offcanvas-12" ><i class='uk-icon-angle-right'></i> Location</a>
+	</li>
+</ul>
+</li>
+<li id="menu-item-offcanvas-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/conditions/"   id="menu-item-link-offcanvas-375" >Conditions</a>
+<ul class="uk-nav-sub">
+	<li id="menu-item-offcanvas-332" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/shoulder-pain/"   id="menu-item-link-offcanvas-332" ><i class='uk-icon-angle-right'></i> Shoulder Pain</a>
+	</li>
+	<li id="menu-item-offcanvas-331" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/rotator-cuff-tear/"   id="menu-item-link-offcanvas-331" ><i class='uk-icon-angle-right'></i> Rotator Cuff Tear</a>
+	</li>
+	<li id="menu-item-offcanvas-330" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/labral-tear/"   id="menu-item-link-offcanvas-330" ><i class='uk-icon-angle-right'></i> Labral Tear</a>
+	</li>
+	<li id="menu-item-offcanvas-329" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/shoulder-impingement/"   id="menu-item-link-offcanvas-329" ><i class='uk-icon-angle-right'></i> Shoulder Impingement</a>
+	</li>
+	<li id="menu-item-offcanvas-328" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/knee-pain/"   id="menu-item-link-offcanvas-328" ><i class='uk-icon-angle-right'></i> Knee Pain</a>
+	</li>
+	<li id="menu-item-offcanvas-327" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/acl-injury/"   id="menu-item-link-offcanvas-327" ><i class='uk-icon-angle-right'></i> ACL Injury</a>
+	</li>
+	<li id="menu-item-offcanvas-326" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/meniscus-tear/"   id="menu-item-link-offcanvas-326" ><i class='uk-icon-angle-right'></i> Meniscus Tear</a>
+	</li>
+	<li id="menu-item-offcanvas-325" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/knee-replacement/"   id="menu-item-link-offcanvas-325" ><i class='uk-icon-angle-right'></i> Knee Replacement</a>
+	</li>
+	<li id="menu-item-offcanvas-350" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/joint-pain-arthritis/"   id="menu-item-link-offcanvas-350" ><i class='uk-icon-angle-right'></i> Joint Pain / Arthritis</a>
+	</li>
+	<li id="menu-item-offcanvas-351" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/neck-pain/"   id="menu-item-link-offcanvas-351" ><i class='uk-icon-angle-right'></i> Neck Pain / Headaches / TMJ Conditions</a>
+	</li>
+	<li id="menu-item-offcanvas-352" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/back-pain-sciatica/"   id="menu-item-link-offcanvas-352" ><i class='uk-icon-angle-right'></i> Lower Back Pain / Disc Problems / Sciatica</a>
+	</li>
+	<li id="menu-item-offcanvas-353" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/sports-injuries/"   id="menu-item-link-offcanvas-353" ><i class='uk-icon-angle-right'></i> Sports Injuries</a>
+	</li>
+	<li id="menu-item-offcanvas-354" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/sprains-strains-tendinitis/"   id="menu-item-link-offcanvas-354" ><i class='uk-icon-angle-right'></i> Sprains / Strains / Tendinitis</a>
+	</li>
+	<li id="menu-item-offcanvas-355" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/walking-balance-problems/"   id="menu-item-link-offcanvas-355" ><i class='uk-icon-angle-right'></i> Walking &#038; Balance Problems</a>
+	</li>
+	<li id="menu-item-offcanvas-356" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/pre-post-surgical-rehabilitation/"   id="menu-item-link-offcanvas-356" ><i class='uk-icon-angle-right'></i> Pre-Post Surgical Rehabilitation</a>
+	</li>
+	<li id="menu-item-offcanvas-357" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/work-related-injuries/"   id="menu-item-link-offcanvas-357" ><i class='uk-icon-angle-right'></i> Work Related Injuries</a>
+	</li>
+</ul>
+</li>
+<li id="menu-item-offcanvas-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/services/"   id="menu-item-link-offcanvas-62" >Services</a>
+<ul class="uk-nav-sub">
+	<li id="menu-item-offcanvas-63" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/patient-education/"   id="menu-item-link-offcanvas-63" ><i class='uk-icon-angle-right'></i> Patient Education</a>
+	</li>
+	<li id="menu-item-offcanvas-64" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/therapeutic-exercise/"   id="menu-item-link-offcanvas-64" ><i class='uk-icon-angle-right'></i> Therapeutic Exercise</a>
+	</li>
+	<li id="menu-item-offcanvas-65" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/strength-conditioning/"   id="menu-item-link-offcanvas-65" ><i class='uk-icon-angle-right'></i> Strength &#038; Conditioning</a>
+	</li>
+	<li id="menu-item-offcanvas-66" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/dry-needling-certified/"   id="menu-item-link-offcanvas-66" ><i class='uk-icon-angle-right'></i> Dry Needling Certified</a>
+	</li>
+	<li id="menu-item-offcanvas-67" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/blood-flow-restriction-therapy/"   id="menu-item-link-offcanvas-67" ><i class='uk-icon-angle-right'></i> Blood Flow Restriction Therapy</a>
+	</li>
+	<li id="menu-item-offcanvas-68" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/mckenzie-method/"   id="menu-item-link-offcanvas-68" ><i class='uk-icon-angle-right'></i> McKenzie Method</a>
+	</li>
+	<li id="menu-item-offcanvas-69" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/mulligan-technique/"   id="menu-item-link-offcanvas-69" ><i class='uk-icon-angle-right'></i> Mulligan Technique</a>
+	</li>
+	<li id="menu-item-offcanvas-70" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/cupping/"   id="menu-item-link-offcanvas-70" ><i class='uk-icon-angle-right'></i> Cupping</a>
+	</li>
+	<li id="menu-item-offcanvas-71" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/gait-balance-training/"   id="menu-item-link-offcanvas-71" ><i class='uk-icon-angle-right'></i> Gait / Balance Training</a>
+	</li>
+	<li id="menu-item-offcanvas-72" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/vasopneumatic-compression/"   id="menu-item-link-offcanvas-72" ><i class='uk-icon-angle-right'></i> Vasopneumatic Compression</a>
+	</li>
+	<li id="menu-item-offcanvas-73" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/moist-heat-ice/"   id="menu-item-link-offcanvas-73" ><i class='uk-icon-angle-right'></i> Moist Heat / Ice</a>
+	</li>
+	<li id="menu-item-offcanvas-74" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/electrical-stimulation/"   id="menu-item-link-offcanvas-74" ><i class='uk-icon-angle-right'></i> Electrical Stimulation</a>
+	</li>
+</ul>
+</li>
+<li id="menu-item-offcanvas-272" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/services/workers-compensation-physical-therapy-slidell-la/"   id="menu-item-link-offcanvas-272" >Workers’ Compensation</a>
+</li>
+<li id="menu-item-offcanvas-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a  href="/patcenter/"   id="menu-item-link-offcanvas-14" >Patient Center</a>
+<ul class="uk-nav-sub">
+	<li id="menu-item-offcanvas-16" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/library/"   id="menu-item-link-offcanvas-16" ><i class='uk-icon-angle-right'></i> Medical Library</a>
+	</li>
+	<li id="menu-item-offcanvas-20" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/insurance/"   id="menu-item-link-offcanvas-20" ><i class='uk-icon-angle-right'></i> Insurance</a>
+	</li>
+	<li id="menu-item-offcanvas-22" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://search.google.com/local/reviews?placeid=ChIJicdBse3mnYgRyU49RjVmRs0" target="_blank"   id="menu-item-link-offcanvas-22" ><i class='uk-icon-angle-right'></i> Reviews</a>
+	</li>
+	<li id="menu-item-offcanvas-179" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/community/"   id="menu-item-link-offcanvas-179" ><i class='uk-icon-angle-right'></i> Community</a>
+	</li>
+	<li id="menu-item-offcanvas-24" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/links/"   id="menu-item-link-offcanvas-24" ><i class='uk-icon-angle-right'></i> Links</a>
+	</li>
+	<li id="menu-item-offcanvas-26" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/faq/"   id="menu-item-link-offcanvas-26" ><i class='uk-icon-angle-right'></i> FAQ</a>
+	</li>
+	
+</ul>
+</li>
+<li id="menu-item-offcanvas-28" class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="/contact/"   id="menu-item-link-offcanvas-28" >Contact Us</a>
+</li>
+</ul></div>				</div>
+			</div>
+			</div>
+	</header>
+<div class="g5-padding-small-top g5-padding-small-bottom"><div class="uk-container uk-container-center g5-quickaccess g5-padding-small-top g5-padding-small-bottom" style="display: none"><ul class="uk-grid uk-grid-width-medium-1-2 uk-grid-small g5-quickaccess-buttons" data-uk-grid-margin="">
+<li>
+<a href="tel:9856415825"  class="tm-skew g5-mobile-button g5-color-white g5-background-primary g5-hover-background-success"   style="border-radius: 35px;"   data-g5-phonelink><span><i class="uk-icon-phone"></i></span><span><div>Click To Call<br/>(985) 641-5825</div></span></a></li>
+<li>
+<a id="maplink_4031" href="https://maps.google.com/maps?q=1346+Lindberg+Drive+Suite+3++Slidell+LA+70458+%28Slidell+Clinic%29"  class=" tm-skew g5-mobile-button g5-color-white g5-background-warning g5-hover-background-success"   style="border-radius: 35px;"   data-g5-maplink> <span><i class="uk-icon-map"></i></span><span><div>Map Us</div></span></a></li>
+<li>
+<a href="/booking/" class="tm-skew g5-mobile-button g5-color-white g5-background-primary g5-hover-background-success" style="border-radius: 35px;"><span><i class="uk-icon-calendar"></i></span><span><div>Request an Appointment</div></span></a>
+</li>
+    <li>
+        <a href="/review_new/" class="tm-skew g5-mobile-button g5-color-white g5-background-warning g5-hover-background-success" style="border-radius: 35px;"><span><i class="uk-icon-pencil-square-o"></i></span><span><div>Review Us</div></span></a>
+    </li>
+    <li>
+        <a href="https://search.google.com/local/reviews?placeid=ChIJicdBse3mnYgRyU49RjVmRs0" target="_blank" class="tm-skew g5-mobile-button g5-color-white g5-background-primary g5-hover-background-success" style="border-radius: 35px;"><span><i class="uk-icon-star"></i></span><span><div>Our Reviews</div></span></a>
+    </li>
+</ul>
+</div></div>

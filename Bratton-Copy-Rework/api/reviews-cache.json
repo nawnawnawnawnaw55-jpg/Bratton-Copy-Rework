@@ -1,0 +1,42 @@
+{
+  "reviews": [
+    {
+      "name": "Susan Behrens",
+      "text": "I had trouble with my right knee. It felt stiff, sore and achy. My brother supposed trying Bratton Therapy Centre. So I did and it was the best decision ever.They came up with a special exercise program, just for me which would strengthen knee. It worked and my knee feels so much better.The staff are kind and can’t do enough for you. I totally recommend them to anyone who has a physical problem.",
+      "time": "a week ago",
+      "rating": 5,
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocKBi9tfwd5NA-KCWw_G1uSkCfv1ohSy49Elis9z8kIMnFAEUg=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "name": "Janet Imbraguglio",
+      "text": "I am presently getting therapy for a rotator cuff surgery at Bratton physical therapy. It was highly recommended to me and I understand why. Having gone through Ochsner therapy for my previous shoulder, I can truly say there is no comparison. Bratton feels almost like family. I love the 15 minute heat treatment at the end of each visit.",
+      "time": "4 months ago",
+      "rating": 5,
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocIbN3hLMfKAG-rYynHkaD6r9aBiAonTGXUImUXrlaoULut46w=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "name": "Julissa Robinson",
+      "text": "I came in here after knee surgery. This is the best physical therapy clinic in Slidell! I could barely walk with a walker at the beginning. I am walking unassisted and with a cane for longer distances within 3 weeks!",
+      "time": "2 months ago",
+      "rating": 5,
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocKv-rTLcPwHdOJYSHHUxcu52DMrmTihy4UvchyA2DK_Kq4gBg=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "name": "Lori Milford",
+      "text": "Bratton Physical Therapy has helped me so much. I was in so much pain in my back and my hip that I could not function in my daily home and work life. Jena was able to pinpoint the root causes of my pain and develop a care plan to improve my condition. I cannot believe how much better I feel. After a few sessions, I am able to return to work and participate more fully in my social and daily life. I am certain I will continue to improve and look forward to being mostly pain-free. If you need help, don’t hesitate, go to Bratton Physical Therapy for a professional, life-changing experience.",
+      "time": "3 months ago",
+      "rating": 5,
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocKnCi_0wlzw3VG44zNk8ardScYSI39aK8Zgg2uqV_uJbRl5WA=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "name": "H. \"Chip\" Brockhaus",
+      "text": "Very knowledgeable owner and staff. Jena correctly determined the issue with my shoulder and prepared a treatment plan. Pain is now nearly 0 and my range of motion has improved significantly. Highly recommended.",
+      "time": "2 months ago",
+      "rating": 5,
+      "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXL5AW7J-2qcejJEK5KytG3rjO3RAxkSblPeGWDqND85TTOe5kz=s128-c0x00000000-cc-rp-mo"
+    }
+  ],
+  "overall_rating": 5,
+  "total_reviews": 210,
+  "cached_at": "2026-07-01T09:45:18.738Z"
+}

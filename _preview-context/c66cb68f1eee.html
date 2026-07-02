@@ -1,0 +1,86 @@
+<head>
+
+<!-- COPY-REWORK PREVIEW STYLES -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../_assets/css/angular.css">
+<style>
+  body { font-family: 'Montserrat', sans-serif !important; }
+  mark.copy-snippet-target, .copy-snippet-target {
+    background: rgba(255, 235, 59, 0.45) !important;
+    outline: 2px dashed #e6a817 !important;
+    outline-offset: 3px !important;
+    display: inline !important;
+    padding: 2px 4px !important;
+    border-radius: 3px !important;
+  }
+  .copy-snippet-target[style] { /* preserve inline styles but add highlight */ }
+  /* Preview banner */
+  .copy-preview-banner {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 99999;
+    background: #1a1a2e; color: #fff; padding: 6px 16px;
+    font-family: 'Montserrat', sans-serif; font-size: 12px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .copy-preview-banner .badge { background: #e6a817; color: #000; padding: 2px 8px; border-radius: 4px; font-weight: 700; }
+  .copy-preview-banner .text { opacity: 0.8; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  body { padding-top: 36px !important; }
+</style>
+
+</head>
+<footer class="site-footer">
+  <div class="site-footer__accent-shape"></div>
+  <div class="site-footer__accent-shape site-footer__accent-shape--2"></div>
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <img src="../_assets/files/bratton-logo-white.svg" alt="Bratton Physical Therapy" onerror="this.style.display='none'">
+      <div class="site-footer__hours-label">Hours of Operation</div>
+      <div class="site-footer__hours">
+        Monday – Thursday: 7:00 AM – 5:30 PM<br>
+        Friday: 7:00 AM – 2:00 PM<br>
+        Saturday: 8:00 AM – 12:00 PM<br>
+        Sunday: Closed
+      </div>
+    </div>
+    <div class="site-footer__link-cols">
+      <div class="site-footer__col">
+        <h4>Quick Links</h4>
+        <a href="/about/">About Us</a>
+        <a href="/staff/">Our Team</a>
+        <a href="/services/">Services</a>
+        <a href="/conditions/">Conditions</a>
+        <a href="/booking/">Request Appointment</a>
+        <a href="/contact/">Contact</a>
+      </div>
+      <div class="site-footer__col">
+        <h4>Resources</h4>
+        <a href="/insurance/">Insurance</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/library/">Exercise Library</a>
+        <a href="/reviews/">Patient Reviews</a>
+        <a href="/community/">Community</a>
+        <a href="/new-appointment/">New Patient Info</a>
+      </div>
+    </div>
+  </div>
+  <div class="site-footer__bottom">
+    <p>Copyright 2026 Bratton Physical Therapy, All Rights Reserved.</p>
+    <p style="margin-top:6px">
+      <a href="/sitemap/">Sitemap</a> |
+      <a href="/privacy-policy/">Privacy Policy</a> |
+      <a href="/terms-of-use/">Terms of Use</a>
+    </p>
+    <p style="margin-top:6px">1346 Lindberg Drive Suite 3, Slidell, LA 70458 | (985) 641-5825</p>
+  </div>
+</footer>
+
+<script defer src="../_assets/js/br-reviews.js"></script>
+<style>
+@media(min-width:769px){
+  .br-trigger-btn{position:fixed;bottom:20px;right:20px;z-index:99999;background:#2257A6;color:#fff;border:none;border-radius:50px;padding:12px 22px;font-size:14px;font-weight:700;cursor:pointer;box-shadow:0 4px 15px rgba(0,0,0,0.3);font-family:Montserrat,sans-serif}
+  .br-trigger-btn.br-hidden{display:none!important}.br-trigger-btn:hover{transform:scale(1.05);background:#1a447d}
+}
+@media(max-width:768px){.br-trigger-btn{display:none}}
+</style>
+<button class="br-trigger-btn" onclick="var t=this;var p=document.querySelector('.br-review-popup');if(!p){t.classList.add('br-hidden');var s=document.createElement('script');s.src="../_assets/js/br-reviews.js';s.onload=function(){var pp=document.querySelector('.br-review-popup');if(pp)pp.classList.add('show')};document.body.appendChild(s)}else if(p.classList.contains('show')){p.classList.remove('show');t.classList.remove('br-hidden')}else{p.classList.add('show');t.classList.add('br-hidden')}">★★★★★ Reviews</button>

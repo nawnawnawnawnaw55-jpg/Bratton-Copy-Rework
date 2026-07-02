@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Md — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Medical Library Md 70. Useful information to help you learn more about why physical therapy is a great first choice.">
+<meta property="og:title" content="Md — Bratton Physical Therapy">
+<meta property="og:description" content="Medical Library Md 70. Useful information to help you learn more about why physical therapy is a great first choice.">
+<meta property="og:url" content="/library/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/header.css">
+<link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<style>
+   #med-lib-body a circle{transition:fill .2s, opacity .2s; cursor:pointer; fill:var(--accent); opacity:0.85}
+   #med-lib-body a:hover circle{fill:var(--primary); opacity:1}
+   .ml-body-link{display:inline-block; margin:2px 4px; color:var(--primary); text-decoration:none; font-weight:600; font-size:0.82rem}
+   .ml-body-link:hover{color:var(--accent); text-decoration:underline}
+   .ml-body-links{text-align:center; margin:24px 0 32px; line-height:1.8; white-space:nowrap; overflow-x:auto}
+   .ml-diagram-wrapper{position:relative; margin-top:16px; max-width:800px; margin-left:auto; margin-right:auto}
+   .ml-svg-wrap{text-align:center}
+   .ml-svg-wrap svg{width:100%; max-width:200px; height:auto; min-height:240px}
+   .ml-other-choices{position:absolute; right:0; top:0; width:180px; display:flex; flex-direction:column; gap:8px; text-align:center}
+   .ml-other-choices h2{font-size:1rem; margin:0 0 4px}
+   .ml-other-choices .btn{font-size:0.75rem; padding:8px 10px; display:block}
+   .library-article h1{font-family:var(--font-heading); color:var(--primary); font-size:1.8rem}
+   .library-article h2{font-family:var(--font-heading); color:var(--primary-dark); font-size:1.3rem; margin-top:24px}
+   .library-article p, .library-article li{line-height:1.7; margin-bottom:12px}
+   .library-article ul, .library-article ol{margin:8px 0 16px 24px}
+   .library-article img{max-width:100%; height:auto; margin:16px 0; border-radius:4px}
+   .article-section{margin:24px 0; padding-bottom:16px; border-bottom:1px solid #e0e0e0}
+   .article-section:last-of-type{border-bottom:none}
+   /* ========== Medical Library Tabs (preserved from v2 tab interface) ========== */
+   .ml-tabs{margin:24px 0}
+   .ml-tab-nav{
+    overflow-x:auto;display:flex; gap:0; border-bottom:2px solid var(--accent); margin-bottom:0; flex-wrap:nowrap; scrollbar-width:none}
+   .ml-tab-btn{flex:1; min-width:100px; padding:10px 14px; background:var(--light-bg, #f5f7fa); border:1px solid #ddd; border-bottom:none; border-radius:6px 6px 0 0; cursor:pointer; font-family:var(--font-heading); font-size:0.9rem; font-weight:600; color:var(--text); text-align:center; transition:background .2s, color .2s, border-color .2s; margin-right:2px; position:relative; bottom:-1px}
+   .ml-tab-btn:last-child{margin-right:0}
+   .ml-tab-btn:hover{background:var(--accent-light, #e8f0fe); color:var(--primary)}
+   .ml-tab-btn--active{background:#fff; color:var(--primary); border-color:var(--accent); border-bottom:2px solid #fff; z-index:1; font-weight:700}
+   .ml-tab-panels{margin-top:20px}
+   .ml-tab-panel--active{display:block}
+   .ml-tab-panel[hidden]{display:none}
+   .article-overview h4{font-family:var(--font-heading); color:var(--primary); font-size:1.2rem; margin-bottom:12px}
+   .article-treatment-list{list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:6px}
+   .article-treatment-list li{margin:0}
+   .article-treatment-list a{display:block; padding:8px 12px; background:var(--light-bg, #f5f7fa); border-radius:4px; color:var(--text); text-decoration:none; font-size:0.92rem; transition:background .2s, color .2s}
+   .article-treatment-list a:hover{background:var(--accent); color:#fff}
+   .video-badge{display:inline-block; font-size:0.7rem; background:var(--accent); color:#fff; padding:1px 6px; border-radius:3px; margin-left:6px; vertical-align:middle}
+   .article-goal-list, .article-resource-list{list-style:disc; margin:8px 0 16px 24px}
+   .article-goal-list li, .article-resource-list li{margin-bottom:4px; line-height:1.6}
+   .ml-parent-article-list h2{font-family:var(--font-heading); color:var(--primary); font-size:1.2rem; text-align:center; margin-bottom:16px}
+   .ml-parent-article-list ul{list-style:none; padding:0; max-width:500px; margin:0 auto}
+   .ml-parent-article-list li{margin:0}
+   .ml-parent-article-list a{display:block; padding:8px 16px; text-align:center; color:var(--primary); text-decoration:none; font-weight:500; border-bottom:1px solid #e8e8e8; transition:background .2s, color .2s}
+   .ml-parent-article-list a:hover{background:var(--accent); color:#fff}
+   .ml-tab-nav::-webkit-scrollbar{display:none}
+@media(max-width:700px){
+      .ml-diagram-wrapper{position:static; max-width:none}
+      .ml-svg-wrap svg{max-width:180px; min-height:200px}
+      .ml-other-choices{position:static; width:100%; max-width:300px; margin:20px auto 0}
+      .ml-other-choices .btn{font-size:0.82rem; padding:10px 16px}
+      .article-treatment-list{grid-template-columns:1fr}
+      .ml-tab-btn{flex:1 1 0; min-width:0; padding:8px 4px; font-size:0.72rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+      .ml-tab-nav{-webkit-overflow-scrolling:touch; scrollbar-width:none}
+      .ml-tab-nav::-webkit-scrollbar{display:none}
+   }
+    .ml-back-arrow{display:inline-flex;align-items:center;gap:6px;color:var(--primary);text-decoration:none;font-weight:600;font-size:0.9rem;margin-bottom:12px;transition:color .2s}
+    .ml-back-arrow:hover{color:var(--accent)}
+    .ml-back-arrow-icon{font-size:1.1rem}
+
+</style>
+
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <div class="library-article">
+  <a href="/library/library_md/" class="ml-back-arrow" aria-label="Back to For Physicians"><span class="ml-back-arrow-icon">←</span> Back to For Physicians</a>
+  <h1>Md</h1>
+  <div class="ml-tabs" data-ml-tabs="ml-tab-sdjspi">
+  <div class="ml-tab-nav" role="tablist">
+    <button class="ml-tab-btn ml-tab-btn--active" data-ml-tab="ml-tab-sdjspi-0" aria-selected="true" role="tab">Overview</button>
+  </div>
+  <div class="ml-tab-panels">
+    <div class="ml-tab-panel ml-tab-panel--active" data-ml-tab-panel="ml-tab-sdjspi-0" role="tabpanel">
+  <div class="article-overview"><p>At our practice, we like to provide cutting edge information when possible.  Below you will find references to some studies that support and refute various treatment approaches.  As the literature is updated, we will make every effort to continue to keep our referring physicians up to date regarding the best evidence in rehabilitation.</p>
+
+<h2>Low Back</h2>
+
+<h5>Clinical Prediction Rule for Acute Low Back Pain</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15611489&query_hl=4&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+</p>
+<h5>Random, Controlled Trial Supporting PT for Spinal Stenosis</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=17047542&query_hl=1&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+<h5>Case Studies for Stenosis</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12622484&query_hl=8&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+
+<h5>Exercise and Low Back Pain</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/11589642" target="_blank">Click here for abstract</a></a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15867410&query_hl=23&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+<h5>Little Evidence for Use of Lx Traction as Single Modality for Low-back Pain Without Sciatica</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16235311&query_hl=56&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+
+<h5>Clinical Prediction Rule for Stabilization Exercises for Low Back Pain Patients</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16181938&query_hl=10&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11083348&query_hl=79&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+
+<h5>Myth that Acute Low Back Pain is Self Limiting</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/12709853" target="_blank">Click here for abstract</a></p>
+
+
+<h5>Post Surgical Rehab for Discectomy</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15704503&query_hl=84&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+
+<h5>Classification Based Physical Therapy for Low Back Pain Patients</h3>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12838091&query_hl=33&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Rehabilitation as an Alternative for Lumbar Fusion</h3>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15911537&query_hl=83&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h2>Neck</h2>
+
+<h5>Examination of a clinical prediction rule to identify patients with neck pain likely to benefit from thoracic spine thrust manipulation and a general cervical range of motion exercise: multi-center randomized clinical trial.</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/20634268" target="_blank">Click here for abstract</a>
+
+<h5>Preliminary examination of a proposed treatment-based classification system for patients receiving physical therapy interventions for neck pain.</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17374633" target="_blank">Click here for abstract</a>
+
+<h5>Immediate effects of thoracic manipulation in patients with neck pain: a randomized clinical trial.</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/15922233" target="_blank"> </a>
+
+<h5>Predictors of short-term outcome in people with a clinical diagnosis of cervical radiculopathy.</h5>
+
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17911271" target="_blank">Click here for abstract</a>
+
+<h5>Short-term effects of thrust versus nonthrust mobilization/manipulation directed at the thoracic spine in patients with neck pain: a randomized clinical trial.</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17341509" target="_blank">Click here for abstract</a>
+
+<h5>Neck pain with referral and Joint Mobilization</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12918862&query_hl=4&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Cervical Radiculopathy and Cervical Traction</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15609843&query_hl=47&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Mobilization and Manipulation - a Cochrane Review</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15247576&query_hl=102&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Exercise for Patients with Chronic Neck Pain</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15626966&query_hl=101&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Active Treatment better than home exercise or advice</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10767816&query_hl=94&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h2>Shoulder</h2>
+
+<h5>Exercise and Joint Mobilization Improves Outcomes in Frozen Shoulder Patients; Modality Use Results in Inferior Outcomes</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/19270045" target="_blank">Click here for abstract</a>
+
+<h5>Exercise Therapy for Shoulder Pain</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15788347&query_hl=81&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Exercise as an alternative to shoulder decompression surgery</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15834056&query_hl=92&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h2>Knee</h2>
+
+<h5>Patellofemoral Pain and PT</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12435653&query_hl=7&itool=pubmed_DocSum" target="_blank">Click here for abstract</a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14669960&query_hl=9&itool=pubmed_docsum" target="_blank">Click here for abstract</a></p>
+
+<h5>Patellofemoral Pain - Importance of Evaluating the Lower Extremity</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14669959&query_hl=12&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+
+<h5>Quadriceps Strengthening Post TKA</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16108583&query_hl=97&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Joint Mob and OA</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16305269&query_hl=17&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Eccentric Loading of Jumper's Knee</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15665207&query_hl=78&itool=pubmed_docsum" target="_blank">Click here for abstract</a> 
+
+<h5>Supervised PT post menisectomy might be helpful or might not</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12775198&query_hl=98&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h5>Sports Performance Training and ACL Injury Prevention</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15888716&query_hl=21&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+
+<h2>Hip</h2>
+
+<h5>Joint Mobilization and Hip OA</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15478147&query_hl=59&itool=pubmed_docsum" 
+target="_blank">Click here for abstract</a>
+<h5>Strengthening Post THA</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15241750&query_hl=44&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+
+<h2>Foot/Ankle</h2>
+
+<h5>Ankle Sprains - Literature Review</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12893710&query_hl=77&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+<h5>Plantar Fasciitis and Orthotics</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11949663&query_hl=80&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+<h5>Plantar Fasciitis and Stretching</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12851352&query_hl=67&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+<h5>Achilles Tendinosis and Eccentric Loading</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14751936&query_hl=62&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+
+
+<h2>Elbow</h2>
+<h5>Use of conservative and sport-specific management strategies for a baseball pitcher with persistent elbow pain. 
+</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2647066/" target="_blank">Click here for abstract</a>
+
+<h5>Rehabilitation of the thrower's elbow.</h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/16518221" target="_blank">Click here for abstract</a>
+
+<h5>Manipulation of the wrist for management of lateral epicondylitis: a randomized pilot study.  </h5>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/12837122" target="_blank">Click here for abstract</a>
+
+
+<h2>Exercise, ROM, Misc.</h2>
+<h5>Exercise Therapy and Osteoarthritis/Manual Therapy</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16117601&query_hl=65&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+<h5>Best-Evidence Summary for the Use of Exercise Therapy</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15924510&query_hl=67&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+<h5>Interventions For Improvement of ROM</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15162100&query_hl=96&itool=pubmed_docsum"
+target="_blank">Click here for abstract</a>
+<h5>PTs' Knowledge in Managing Musculoskeletal Conditions</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15963232&query_hl=23&itool=pubmed_docsum" target="_blank">Click here for abstract</a>
+<h5>Exercise Therapy for Rheumatoid Arthritis</h5>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15449978&query_hl=41&itool=pubmed_DocSum" target="_blank">Click here for abstract</a></div>
+</div>
+  </div>
+</div>
+  <div class="ml-body-links"><a href="/library/library_neck/" class="ml-body-link">Neck</a><a href="/library/library_shoulder/" class="ml-body-link">Shoulder</a><a href="/library/library_back/" class="ml-body-link">Back</a><a href="/library/library_elbow/" class="ml-body-link">Elbow</a><a href="/library/library_wrist/" class="ml-body-link">Wrist & Hand</a><a href="/library/library_hip/" class="ml-body-link">Hip</a><a href="/library/library_knee/" class="ml-body-link">Knee</a><a href="/library/library_leg/" class="ml-body-link">Leg</a><a href="/library/library_ankle/" class="ml-body-link">Ankle & Foot</a></div>
+  <h5 style="margin-top:32px; color:var(--primary)">Disclaimer</h5><div style="font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.</p></div>
+  <p style="margin-top:32px;text-align:center"><a href="tel:9856415825" class="btn btn--accent btn--lg">Questions? Call Us</a></p>
+</div>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+<script src="/js/main.js"></script>
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.ml-tabs');
+  tabs.forEach(function(tab){
+    var btns = tab.querySelectorAll('.ml-tab-btn');
+    var panels = tab.querySelectorAll('.ml-tab-panel');
+    btns.forEach(function(btn){
+      btn.addEventListener('click', function(){
+        var id = this.getAttribute('data-ml-tab');
+        btns.forEach(function(b){ b.classList.remove('ml-tab-btn--active'); b.setAttribute('aria-selected','false'); });
+        panels.forEach(function(p){ p.classList.remove('ml-tab-panel--active'); p.setAttribute('hidden',''); });
+        this.classList.add('ml-tab-btn--active');
+        this.setAttribute('aria-selected','true');
+        var panel = tab.querySelector('[data-ml-tab-panel="' + id + '"]');
+        if(panel){ panel.classList.add('ml-tab-panel--active'); panel.removeAttribute('hidden'); }
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>

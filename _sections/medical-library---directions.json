@@ -1,0 +1,124 @@
+{
+  "section": "Medical Library > Directions",
+  "category": "medical-library",
+  "pageCount": 6,
+  "snippetCount": 4,
+  "snippets": {
+    "4c2533a4ff6c": {
+      "id": "4c2533a4ff6c",
+      "plainText": "Directions Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Directions</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Directions</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 165,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        }
+      ]
+    },
+    "c12775129594": {
+      "id": "c12775129594",
+      "plainText": "No articles available. Please browse our Medical Library .",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <p style=\"text-align:center;color:#888\">No articles available. Please browse our <a href=\"/library/\">Medical Library</a>.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <p style=\"text-align:center;color:#888\">No articles available. Please browse our <a href=\"/library/\">Medical Library</a>.</p>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision o",
+      "textLength": 58,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        }
+      ]
+    },
+    "53c7cfc0d6c2": {
+      "id": "53c7cfc0d6c2",
+      "plainText": "Directions — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Directions — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 51,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": true
+        }
+      ]
+    },
+    "7029c744a78d": {
+      "id": "7029c744a78d",
+      "plainText": "Medical Library Directions 4031. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Directions 4031. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 126,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

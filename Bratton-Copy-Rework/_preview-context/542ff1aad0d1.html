@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book Online — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Book your physical therapy appointment online at Bratton Physical Therapy in Slidell, LA. Secure online scheduling available 24/7.">
+<meta property="og:title" content="Book Online — Bratton Physical Therapy">
+<meta property="og:description" content="Schedule your physical therapy appointment at Bratton PT in Slidell, LA — online booking available 24/7.">
+<meta property="og:url" content="/booking/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="../_assets/css/main.css"><link rel="stylesheet" href="../_assets/css/header.css"><link rel="stylesheet" href="../_assets/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="../_assets/favicon.ico" />
+<style>
+  .booking-hero {
+    text-align: center;
+    padding: 48px 0 32px;
+  }
+  .booking-hero__icon {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    color: var(--primary);
+    margin-bottom: 16px;
+  }
+  .booking-hero__icon svg {
+    width: 100%;
+    height: 100%;
+    fill: currentColor;
+  }
+  .booking-widget-wrapper {
+    background: var(--light-gray);
+    border-radius: 12px;
+    padding: 40px 24px;
+    margin: 24px 0;
+    text-align: center;
+    border: 2px dashed #ccc;
+  }
+  .booking-widget-wrapper--active {
+    border: none;
+    padding: 0;
+    background: transparent;
+  }
+  .booking-widget-placeholder {
+    padding: 48px 24px;
+  }
+  .booking-widget-placeholder__title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 12px;
+  }
+  .booking-widget-placeholder__text {
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 8px;
+  }
+  .booking-widget-placeholder__note {
+    color: #888;
+    font-size: 0.85rem;
+    margin-top: 16px;
+    font-style: italic;
+  }
+  .booking-phone-fallback {
+    text-align: center;
+    padding: 24px;
+    margin-top: 8px;
+  }
+  .booking-phone-fallback__label {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #666;
+    margin-bottom: 8px;
+  }
+  .booking-phone-fallback__number {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .booking-phone-fallback__number a {
+    color: var(--primary);
+    text-decoration: none;
+  }
+  .booking-phone-fallback__number a:hover {
+    text-decoration: underline;
+  }
+  .booking-form-section {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 40px 32px;
+    margin: 24px 0;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+    border: 1px solid #e8e8e8;
+  }
+  .booking-form-section__heading {
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--primary);
+  }
+  .booking-form-section__subheading {
+    text-align: center;
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.5;
+    max-width: 500px;
+    margin: 0 auto 28px;
+  }
+  .booking-form {
+    max-width: 550px;
+    margin: 0 auto;
+  }
+  .booking-form__row {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 18px;
+  }
+  .booking-form__row > * {
+    flex: 1;
+  }
+  .booking-form__group {
+    margin-bottom: 18px;
+  }
+  .booking-form__label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .booking-form__label--required::after {
+    content: " *";
+    color: #d32f2f;
+  }
+  .booking-form__input,
+  .booking-form__select,
+  .booking-form__textarea {
+    width: 100%;
+    padding: 12px 14px;
+    font-size: 1rem;
+    font-family: inherit;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background: #fafafa;
+    color: #222;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    box-sizing: border-box;
+  }
+  .booking-form__input:focus,
+  .booking-form__select:focus,
+  .booking-form__textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(180,28,44,0.1);
+  }
+  .booking-form__input.error,
+  .booking-form__select.error,
+  .booking-form__textarea.error {
+    border-color: #d32f2f;
+    background: #fff5f5;
+  }
+  .booking-form__field-error {
+    color: #d32f2f;
+    font-size: 0.8rem;
+    margin-top: 4px;
+    display: none;
+  }
+  .booking-form__field-error--visible {
+    display: block;
+  }
+  .booking-form__textarea {
+    min-height: 100px;
+    resize: vertical;
+  }
+  .booking-form__submit-row {
+    text-align: center;
+    margin-top: 24px;
+  }
+  .booking-form__submit-btn {
+    display: inline-block;
+    padding: 14px 44px;
+    font-size: 1.05rem;
+    font-weight: 700;
+    font-family: inherit;
+    color: #fff;
+    background: var(--primary);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .booking-form__submit-btn:hover {
+    background: #8b1a2a;
+  }
+  .booking-form__submit-btn:active {
+    transform: scale(0.97);
+  }
+  .booking-form__submit-btn:disabled {
+    background: #bbb;
+    cursor: not-allowed;
+    transform: none;
+  }
+  .booking-form__success {
+    display: none;
+    text-align: center;
+    padding: 24px;
+    background: #e8f5e9;
+    border-radius: 8px;
+    margin-top: 16px;
+  }
+  .booking-form__success--visible {
+    display: block;
+  }
+  .booking-form__success-icon {
+    font-size: 2.5rem;
+    margin-bottom: 8px;
+  }
+  .booking-form__success-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #2e7d32;
+    margin-bottom: 6px;
+  }
+  .booking-form__success-text {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  .booking-form__disclaimer {
+    text-align: center;
+    color: #999;
+    font-size: 0.78rem;
+    margin-top: 18px;
+    line-height: 1.4;
+  }
+  .booking-hours {
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 4px;
+  }
+  .booking-hours .hours-sep {
+    display: inline;
+  }
+  @media (max-width: 600px) {
+    .booking-form__row {
+      flex-direction: column;
+      gap: 0;
+    }
+    .booking-form-section {
+      padding: 28px 18px;
+    }
+    .booking-hours .hours-sep {
+      display: none;
+    }
+    .booking-hours .hours-day {
+      display: block;
+      margin-bottom: 2px;
+    }
+  }
+</style>
+
+<!-- COPY-REWORK PREVIEW STYLES -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="../_assets/css/angular.css">
+<style>
+  body { font-family: 'Montserrat', sans-serif !important; }
+  mark.copy-snippet-target, .copy-snippet-target {
+    background: rgba(255, 235, 59, 0.45) !important;
+    outline: 2px dashed #e6a817 !important;
+    outline-offset: 3px !important;
+    display: inline !important;
+    padding: 2px 4px !important;
+    border-radius: 3px !important;
+  }
+  .copy-snippet-target[style] { /* preserve inline styles but add highlight */ }
+  /* Preview banner */
+  .copy-preview-banner {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 99999;
+    background: #1a1a2e; color: #fff; padding: 6px 16px;
+    font-family: 'Montserrat', sans-serif; font-size: 12px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .copy-preview-banner .badge { background: #e6a817; color: #000; padding: 2px 8px; border-radius: 4px; font-weight: 700; }
+  .copy-preview-banner .text { opacity: 0.8; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  body { padding-top: 36px !important; }
+</style>
+
+</head>
+<body>
+
+<div class="copy-preview-banner">
+  <span class="badge">TARGET SNIPPET</span>
+  <span class="text">ID: 542ff1aad0d1 &nbsp;|&nbsp; Section: Core Pages > Booking &nbsp;|&nbsp; Page(s): booking/index.html</span>
+</div>
+
+<!-- SNIPPET: <div class="booking-form__row">
+            <div class="booking-form__group">
+              <label class="booking-form__label booking-form__label--required" for="booking-phone">Phone</label>
+       -->
+
+<!-- site-header placeholder removed for preview -->
+
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:750px">
+
+      <div class="booking-hero">
+        <div class="booking-hero__icon">
+          <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
+            <path d="M440.6 834.15H169.84c-20.48 0-37.14-16.67-37.14-37.15V419.47h717.09v21.29c0 18.12 14.68 32.8 32.8 32.8s32.8-14.68 32.8-32.8V254.11c0-56.65-46.09-102.74-102.75-102.74h-77.23v-41.16c0-18.12-14.69-32.8-32.8-32.8s-32.8 14.69-32.8 32.8v41.16H317.88v-41.16c0-18.12-14.69-32.8-32.8-32.8-18.12 0-32.8 14.69-32.8 32.8v41.16h-82.45c-56.65 0-102.74 46.08-102.74 102.74V797c0 56.65 46.08 102.75 102.74 102.75H440.6c18.12 0 32.8-14.68 32.8-32.8 0-18.12-14.68-32.8-32.8-32.8zM169.84 216.97h82.45v35.49c0 18.12 14.69 32.8 32.8 32.8 18.12 0 32.8-14.69 32.8-32.8v-35.49h351.93v35.49c0 18.12 14.69 32.8 32.8 32.8s32.8-14.69 32.8-32.8v-35.49h77.23c20.48 0 37.15 16.66 37.15 37.14v99.76H132.7v-99.76c0-20.48 16.66-37.14 37.14-37.14z"/>
+            <path d="M351.34 526.46H218.83c-18.12 0-32.8 14.69-32.8 32.8s14.69 32.8 32.8 32.8h132.51c18.12 0 32.8-14.69 32.8-32.8s-14.68-32.8-32.8-32.8zM813.75 682.43h-69.31v-77.97c0-15.1-12.24-27.33-27.33-27.33-15.1 0-27.33 12.24-27.33 27.33v105.3c0 15.1 12.24 27.33 27.33 27.33h96.64c15.09 0 27.33-12.24 27.33-27.33s-12.23-27.33-27.33-27.33zM351.34 701.38H218.83c-18.12 0-32.8 14.69-32.8 32.8 0 18.12 14.69 32.8 32.8 32.8h132.51c18.12 0 32.8-14.69 32.8-32.8 0-18.12-14.68-32.8-32.8-32.8z"/>
+            <path d="M716.05 464.75C583.14 464.75 475 572.89 475 705.8s108.14 241.05 241.05 241.05S957.1 838.71 957.1 705.8 848.96 464.75 716.05 464.75z m0 416.49c-96.75 0-175.45-78.7-175.45-175.45s78.7-175.45 175.45-175.45S891.5 609.05 891.5 705.8s-78.7 175.44-175.45 175.44z"/>
+          </svg>
+        </div>
+        <h1>Book Your Appointment Online</h1>
+        <p style="font-size:1.15rem;line-height:1.7;max-width:600px;margin:0 auto">Schedule your physical therapy visit in just a few clicks. Available for both new and returning patients.</p>
+      </div>
+
+      <!-- ============================================ -->
+      <!-- PROMPT EMR ONLINE SCHEDULING WIDGET          -->
+      <!-- ============================================ -->
+      <!-- TO ACTIVATE: Replace this entire             -->
+      <!-- .booking-widget-wrapper section with the     -->
+      <!-- live Prompt EMR embed code provided by       -->
+      <!-- Prompt Health. It will typically be either:  -->
+      <!--                                               -->
+      <!-- Option A — <iframe> embed:                   -->
+      <!-- <iframe src="YOUR_PROMPT_SCHEDULING_URL"     -->
+      <!--   width="100%" height="800" frameborder="0"> -->
+      <!-- </iframe>                                     -->
+      <!--                                               -->
+      <!-- Option B — 
+<script defer src="../_assets/js/main.js"></script>
+<script>
+(function(){
+  var form = document.getElementById('booking-form');
+  if (!form) return;
+
+  var DISCORD_WEBHOOK = 'https://ptb.discord.com/api/webhooks/1521715941711286382/EUFUyR46yHdetx0uE2sbcvjt80y2f16suIPdd1v--MWE6c-0OjqvG4bWDmxuDXAmQtkP';
+
+  function getEl(id) { return document.getElementById(id); }
+
+  function showError(id) {
+    var input = getEl(id);
+    var err = getEl(id + '-error');
+    if (input) input.classList.add('error');
+    if (err) err.classList.add('booking-form__field-error--visible');
+  }
+
+  function clearError(id) {
+    var input = getEl(id);
+    var err = getEl(id + '-error');
+    if (input) input.classList.remove('error');
+    if (err) err.classList.remove('booking-form__field-error--visible');
+  }
+
+  function clearAllErrors() {
+    ['booking-name','booking-phone','booking-email','booking-concern'].forEach(clearError);
+  }
+
+  function validateForm(data) {
+    var valid = true;
+    clearAllErrors();
+    if (!data.name || data.name.trim().length < 2) {
+      showError('booking-name');
+      valid = false;
+    }
+    var phoneClean = (data.phone || '').replace(/[\s\-\(\)\.]/g, '');
+    if (!phoneClean || phoneClean.length < 7 || !/^[\d\+\-\(\)\s\.]+$/.test(data.phone || '')) {
+      showError('booking-phone');
+      valid = false;
+    }
+    if (!data.email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(data.email)) {
+      showError('booking-email');
+      valid = false;
+    }
+    if (!data.concern) {
+      showError('booking-concern');
+      valid = false;
+    }
+    return valid;
+  }
+
+  function buildDiscordPayload(data) {
+    var fields = [
+      { name: 'Name', value: data.name || 'Not provided', inline: true },
+      { name: 'Phone', value: data.phone || 'Not provided', inline: true },
+      { name: 'Email', value: data.email || 'Not provided', inline: true },
+      { name: 'Concern', value: data.concern || 'Not specified', inline: true },
+      { name: 'Preferred Date', value: data.preferredDate || 'Not specified', inline: true },
+      { name: 'Preferred Time', value: data.preferredTime || 'Not specified', inline: true }
+    ];
+    if (data.message && data.message.trim()) {
+      fields.push({ name: 'Notes', value: data.message.trim().substring(0, 1024), inline: false });
+    }
+    return {
+      embeds: [
+        {
+          title: 'Bratton PT — Appointment Request',
+          color: 0xB41C2C,
+          timestamp: new Date().toISOString(),
+          fields: fields,
+          footer: { text: 'Submitted via brattonpt.com booking page' }
+        }
+      ]
+    };
+  }
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var data = {
+      name: (getEl('booking-name') && getEl('booking-name').value || '').trim(),
+      phone: (getEl('booking-phone') && getEl('booking-phone').value || '').trim(),
+      email: (getEl('booking-email') && getEl('booking-email').value || '').trim(),
+      preferredDate: getEl('booking-date') && getEl('booking-date').value || '',
+      preferredTime: getEl('booking-time') && getEl('booking-time').value || '',
+      concern: getEl('booking-concern') && getEl('booking-concern').value || '',
+      message: (getEl('booking-message') && getEl('booking-message').value || '').trim()
+    };
+    if (!validateForm(data)) return;
+
+    var btn = getEl('booking-submit-btn');
+    btn.disabled = true;
+    btn.textContent = 'Sending…';
+
+    fetch(DISCORD_WEBHOOK, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(buildDiscordPayload(data))
+    })
+    .then(function(res) {
+      if (res.ok || res.status === 204) {
+        form.style.display = 'none';
+        getEl('booking-success').classList.add('booking-form__success--visible');
+      } else {
+        throw new Error('Webhook responded with ' + res.status);
+      }
+    })
+    .catch(function() {
+      form.style.display = 'none';
+      getEl('booking-success').classList.add('booking-form__success--visible');
+    })
+    .finally(function() {
+      btn.disabled = false;
+      btn.textContent = 'Request Appointment';
+    });
+  });
+
+  // Clear errors on input
+  ['booking-name','booking-phone','booking-email'].forEach(function(id) {
+    var el = getEl(id);
+    if (el) el.addEventListener('input', function() { clearError(id); });
+  });
+  var concernEl = getEl('booking-concern');
+  if (concernEl) concernEl.addEventListener('change', function() { clearError('booking-concern'); });
+})();
+</script>
+</body>
+</html>

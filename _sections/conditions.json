@@ -1,0 +1,160 @@
+{
+  "section": "Conditions",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 8,
+  "snippets": {
+    "02f3e6ac47e3": {
+      "id": "02f3e6ac47e3",
+      "plainText": "Conditions We Treat We specialize in treating a wide range of orthopedic and musculoskeletal conditions. Each treatment plan is customized to your specific diagnosis, goals, and lifestyle. Shoulder Pain Knee Pain Back Pain & Sciatica Neck Pain ACL Injury Sports Injuries Labral Tear Meniscus Tear Knee Replacement Joint Pain & Arthritis Rotator Cuff Tear Shoulder Impingement Sprains, Strains & Tendinitis Walking & Balance Problems Pre- & Post-Surgical Rehab Work-Related Injuries",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h1>Conditions We Treat</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7;max-width:700px\">We specialize in treating a wide range of orthopedic and musculoskeletal conditions. Each treatment plan is customized to your specific diagnosis, goals, and lifestyle.</p>\r\n\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:24px 0\">\r\n        <a href=\"/shoulder-pain/\" class=\"condition-pill\">Shoulder Pain</a>\r\n        <a href=\"/knee-pain/\" class=\"condition-pill\">Knee Pain</a>\r\n        <a href=\"/back-pain-sciatica/\" class=\"condition-pill\">Back Pain & Sciatica</a>\r\n        <a href=\"/neck-pain/\" class=\"condition-pill\">Neck Pain</a>\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Injury</a>\r\n        <a href=\"/sports-injuries/\" class=\"condition-pill\">Sports Injuries</a>\r\n        <a href=\"/labral-tear/\" class=\"condition-pill\">Labral Tear</a>\r\n        <a href=\"/meniscus-tear/\" class=\"condition-pill\">Meniscus Tear</a>\r\n        <a href=\"/knee-replacement/\" class=\"condition-pill\">Knee Replacement</a>\r\n        <a href=\"/joint-pain-arthritis/\" class=\"condition-pill\">Joint Pain & Arthritis</a>\r\n        <a href=\"/rotator-cuff-tear/\" class=\"condition-pill\">Rotator Cuff Tear</a>\r\n        <a href=\"/shoulder-impingement/\" class=\"condition-pill\">Shoulder Impingement</a>\r\n        <a href=\"/sprains-strains-tendinitis/\" class=\"condition-pill\">Sprains, Strains & Tendinitis</a>\r\n        <a href=\"/walking-balance-problems/\" class=\"condition-pill\">Walking & Balance Problems</a>\r\n        <a href=\"/pre-post-surgical-rehabilitation/\" class=\"condition-pill\">Pre- & Post-Surgical Rehab</a>\r\n        <a href=\"/work-related-injuries/\" class=\"condition-pill\">Work-Related Injuries</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h1>Conditions We Treat</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7;max-width:700px\">We specialize in treating a wide range of orthopedic and musculoskeletal conditions. Each treatment plan is customized to your specific diagnosis, goals, and lifestyle.</p>\r\n\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:24px 0\">\r\n        <a href=\"/shoulder-pain/\" class=\"condition-pill\">Shoulder Pain</a>\r\n        <a href=\"/knee-pain/\" class=\"condition-pill\">Knee Pain</a>\r\n        <a href=\"/back-pain-sciatica/\" class=\"condition-pill\">Back Pain & Sciatica</a>\r\n        <a href=\"/neck-pain/\" class=\"condition-pill\">Neck Pain</a>\r\n        <a href=\"/acl-injury/\" class=\"condition-pill\">ACL Injury</a>\r\n        <a href=\"/sports-injuries/\" class=\"condition-pill\">Sports Injuries</a>\r\n        <a href=\"/labral-tear/\" class=\"condition-pill\">Labral Tear</a>\r\n        <a href=\"/meniscus-tear/\" class=\"condition-pill\">Meniscus Tear</a>\r\n        <a href=\"/knee-replacement/\" class=\"condition-pill\">Knee Replacement</a>\r\n        <a href=\"/joint-pain-arthritis/\" class=\"condition-pill\">Joint Pain & Arthritis</a>\r\n        <a href=\"/rotator-cuff-tear/\" class=\"condition-pill\">Rotator Cuff Tear</a>\r\n        <a href=\"/shoulder-impingement/\" class=\"condition-pill\">Shoulder Impingement</a>\r\n        <a href=\"/sprains-strains-tendinitis/\" class=\"condition-pill\">Sprains, Strains & Tendinitis</a>\r\n        <a href=\"/walking-balance-problems/\" class=\"condition-pill\">Walking & Balance Problems</a>\r\n        <a href=\"/pre-post-surgical-rehabilitation/\" class=\"condition-pill\">Pre- & Post-Surgical Rehab</a>\r\n        <a href=\"/work-related-injuries/\" class=\"condition-pill\">Work-Related Injuries</a>\r\n      </div>\r\n\r\n      <h2>Why Choose Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one care with a licensed physical therapist every session</li>\r\n        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>\r\n        <li>Manual therapy, therapeutic e",
+      "textLength": 481,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": false
+        }
+      ]
+    },
+    "370cedaf7f29": {
+      "id": "370cedaf7f29",
+      "plainText": "Why Choose Bratton PT?",
+      "originalHtml": "<h2>Why Choose Bratton PT?</h2>",
+      "tagName": "h2",
+      "previewContext": "ing-balance-problems/\" class=\"condition-pill\">Walking & Balance Problems</a>\r\n        <a href=\"/pre-post-surgical-rehabilitation/\" class=\"condition-pill\">Pre- & Post-Surgical Rehab</a>\r\n        <a href=\"/work-related-injuries/\" class=\"condition-pill\">Work-Related Injuries</a>\r\n      </div>\r\n\r\n      <h2>Why Choose Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one care with a licensed physical therapist every session</li>\r\n        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>\r\n        <li>Manual therapy, therapeutic exercise, and patient education combined</",
+      "textLength": 22,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "h2",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": false
+        }
+      ]
+    },
+    "f89c08cc90df": {
+      "id": "f89c08cc90df",
+      "plainText": "One-on-one care with a licensed physical therapist every session",
+      "originalHtml": "<li>One-on-one care with a licensed physical therapist every session</li>",
+      "tagName": "li",
+      "previewContext": "/pre-post-surgical-rehabilitation/\" class=\"condition-pill\">Pre- & Post-Surgical Rehab</a>\r\n        <a href=\"/work-related-injuries/\" class=\"condition-pill\">Work-Related Injuries</a>\r\n      </div>\r\n\r\n      <h2>Why Choose Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one care with a licensed physical therapist every session</li>\r\n        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>\r\n        <li>Manual therapy, therapeutic exercise, and patient education combined</li>\r\n        <li>Direct Access — no physician referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/b",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": false
+        }
+      ]
+    },
+    "4faf0132bfbe": {
+      "id": "4faf0132bfbe",
+      "plainText": "Evidence-based treatment plans — no cookie-cutter approaches",
+      "originalHtml": "<li>Evidence-based treatment plans — no cookie-cutter approaches</li>",
+      "tagName": "li",
+      "previewContext": "ab</a>\r\n        <a href=\"/work-related-injuries/\" class=\"condition-pill\">Work-Related Injuries</a>\r\n      </div>\r\n\r\n      <h2>Why Choose Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one care with a licensed physical therapist every session</li>\r\n        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>\r\n        <li>Manual therapy, therapeutic exercise, and patient education combined</li>\r\n        <li>Direct Access — no physician referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div",
+      "textLength": 60,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": false
+        }
+      ]
+    },
+    "3b474beef931": {
+      "id": "3b474beef931",
+      "plainText": "Manual therapy, therapeutic exercise, and patient education combined",
+      "originalHtml": "<li>Manual therapy, therapeutic exercise, and patient education combined</li>",
+      "tagName": "li",
+      "previewContext": "elated Injuries</a>\r\n      </div>\r\n\r\n      <h2>Why Choose Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one care with a licensed physical therapist every session</li>\r\n        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>\r\n        <li>Manual therapy, therapeutic exercise, and patient education combined</li>\r\n        <li>Direct Access — no physician referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": false
+        }
+      ]
+    },
+    "0357e425e6f1": {
+      "id": "0357e425e6f1",
+      "plainText": "Direct Access — no physician referral needed in Louisiana",
+      "originalHtml": "<li>Direct Access — no physician referral needed in Louisiana</li>",
+      "tagName": "li",
+      "previewContext": "tyle=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one care with a licensed physical therapist every session</li>\r\n        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>\r\n        <li>Manual therapy, therapeutic exercise, and patient education combined</li>\r\n        <li>Direct Access — no physician referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 57,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": false
+        }
+      ]
+    },
+    "f53bf0ab9885": {
+      "id": "f53bf0ab9885",
+      "plainText": "Conditions We Treat — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Conditions We Treat — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 60,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": true
+        }
+      ]
+    },
+    "c7cc40f6c377": {
+      "id": "c7cc40f6c377",
+      "plainText": "Bratton Physical Therapy treats shoulder pain, knee pain, back pain, neck pain, sports injuries, ACL injuries, and more in Slidell, LA.",
+      "originalHtml": "<meta name=\"description\" content=\"Bratton Physical Therapy treats shoulder pain, knee pain, back pain, neck pain, sports injuries, ACL injuries, and more in Slidell, LA.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 135,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "conditions/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions",
+          "pageName": "conditions-index",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

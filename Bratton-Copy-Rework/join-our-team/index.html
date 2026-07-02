@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Join Our Team — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Join the Bratton Physical Therapy team in Slidell, LA. We're always looking for talented physical therapists and support staff.">
+<meta property="og:title" content="Join Our Team — Bratton Physical Therapy">
+<meta property="og:description" content="Join the Bratton PT team in Slidell, LA. Career opportunities for physical therapists and support staff.">
+<meta property="og:url" content="/join-our-team/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h1>Join Our Team</h1>
+      <p style="font-size:1.15rem;line-height:1.7">Bratton Physical Therapy is always looking for talented, passionate professionals to join our team in Slidell, Louisiana. If you're committed to providing exceptional one-on-one patient care, we'd love to hear from you.</p>
+
+      <h2>Why Work at Bratton PT?</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li><strong>One-on-One Care Model:</strong> Treat one patient at a time — no double-booking, no aides running your patients.</li>
+        <li><strong>Clinical Autonomy:</strong> Make clinical decisions based on your expertise, not productivity quotas.</li>
+        <li><strong>Collaborative Team:</strong> Work alongside experienced therapists who share knowledge and support each other.</li>
+        <li><strong>Great Location:</strong> Slidell, LA — a growing community on the Northshore with easy access to New Orleans.</li>
+      </ul>
+
+      <h2>Open Positions</h2>
+      <p>We are currently accepting applications for:</p>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>Licensed Physical Therapists (full-time and part-time)</li>
+        <li>Physical Therapist Assistants</li>
+        <li>Front Office / Patient Coordinator</li>
+      </ul>
+
+      <h2>How to Apply</h2>
+      <p>Send your resume and a brief cover letter to our office. We'll reach out to qualified candidates to schedule an interview.</p>
+      <p style="margin-top:32px"><a href="tel:9856415825" class="btn btn--accent btn--lg">Call to Inquire</a></p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>fetch('/templates/footer.html').then(function(r){return r.text()}).then(function(f){document.getElementById('site-footer').innerHTML=f});</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

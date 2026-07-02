@@ -1,0 +1,65 @@
+{
+  "section": "Core Pages > Patcenter",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "4b9d381762c5": {
+      "id": "4b9d381762c5",
+      "plainText": "Patient Center Welcome to Bratton Physical Therapy. We've made it easy to get started — find everything you need below. › Medical Library – get information on the conditions we treat and how we treat them. › Insurance – get information on the insurance carriers with which we work. › Reviews – read the nice things people have to say about us. › Community – links to community resources that we sponsor or otherwise support. › Links – outside resources with information on physical therapy and other health related topics. › FAQ – answers to commonly asked questions on what to expect when you come in for your first visit. Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:none;text-align:center\">\r\n      <h1>Patient Center</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Welcome to Bratton Physical Therapy. We've made it easy to get started — find everything you need below.</p>\r\n\r\n      <ul class=\"patcenter-list\" style=\"list-style:none;margin:32px auto;padding:0;display:inline-block;text-align:left\">\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/library/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Medical Library</a> <span style=\"color:var(--text)\">– get information on the conditions we treat and how we treat them.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/insurance/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Insurance</a> <span style=\"color:var(--text)\">– get information on the insurance carriers with which we work.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"https://search.google.com/local/reviews?placeid=ChIJicdBse3mnYgRyU49RjVmRs0\" target=\"_blank\" rel=\"noopener\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Reviews</a> <span style=\"color:var(--text)\">– read the nice things people have to say about us.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/community/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Community</a> <span style=\"color:var(--text)\">– links to community resources that we sponsor or otherwise support.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/links/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Links</a> <span style=\"color:var(--text)\">– outside resources with information on physical therapy and other health related topics.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/faq/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">FAQ</a> <span style=\"color:var(--text)\">– answers to commonly asked questions on what to expect when you come in for your first visit.</span>\r\n        </li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:none;text-align:center\">\r\n      <h1>Patient Center</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Welcome to Bratton Physical Therapy. We've made it easy to get started — find everything you need below.</p>\r\n\r\n      <ul class=\"patcenter-list\" style=\"list-style:none;margin:32px auto;padding:0;display:inline-block;text-align:left\">\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/library/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Medical Library</a> <span style=\"color:var(--text)\">– get information on the conditions we treat and how we treat them.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/insurance/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Insurance</a> <span style=\"color:var(--text)\">– get information on the insurance carriers with which we work.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"https://search.google.com/local/reviews?placeid=ChIJicdBse3mnYgRyU49RjVmRs0\" target=\"_blank\" rel=\"noopener\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Reviews</a> <span style=\"color:var(--text)\">– read the nice things people have to say about us.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/community/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Community</a> <span style=\"color:var(--text)\">– links to community resources that we sponsor or otherwise support.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/links/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">Links</a> <span style=\"color:var(--text)\">– outside resources with information on physical therapy and other health related topics.</span>\r\n        </li>\r\n        <li style=\"margin-bottom:14px;font-size:1.05rem;line-height:1.6\">\r\n          <span style=\"color:var(--accent);margin-right:8px;font-weight:700\">›</span>\r\n          <a href=\"/faq/\" style=\"font-weight:700;color:var(--accent);text-decoration:none\">FAQ</a> <span style=\"color:var(--text)\">– answers to commonly asked questions on what to expect when you come in for your first visit.</span>\r\n        </li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 643,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "patcenter/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Patcenter",
+          "pageName": "patcenter",
+          "isMeta": false
+        }
+      ]
+    },
+    "67a0766bfc51": {
+      "id": "67a0766bfc51",
+      "plainText": "Patient Center — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Patient Center — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 55,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "patcenter/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Patcenter",
+          "pageName": "patcenter",
+          "isMeta": true
+        }
+      ]
+    },
+    "ca99608df665": {
+      "id": "ca99608df665",
+      "plainText": "New patient information, insurance, FAQs, and medical library for Bratton Physical Therapy patients in Slidell, LA.",
+      "originalHtml": "<meta name=\"description\" content=\"New patient information, insurance, FAQs, and medical library for Bratton Physical Therapy patients in Slidell, LA.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 115,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "patcenter/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Patcenter",
+          "pageName": "patcenter",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

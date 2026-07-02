@@ -1,0 +1,330 @@
+{
+  "homepage": {
+    "iphone-se": {
+      "results": {
+        "url": "http://localhost:8080/",
+        "viewport": "iphone-se",
+        "width": 375,
+        "height": 667,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "home wp-singular page-template-default page page-id-3 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-home desktop mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "iphone-12": {
+      "results": {
+        "url": "http://localhost:8080/",
+        "viewport": "iphone-12",
+        "width": 390,
+        "height": 844,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "home wp-singular page-template-default page page-id-3 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-home desktop mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "ipad": {
+      "results": {
+        "url": "http://localhost:8080/",
+        "viewport": "ipad",
+        "width": 768,
+        "height": 1024,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "home wp-singular page-template-default page page-id-3 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-home desktop mobile handheld smartphone g5-gt-default g5-gt-small g5-eq-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "desktop": {
+      "results": {
+        "url": "http://localhost:8080/",
+        "viewport": "desktop",
+        "width": 1440,
+        "height": 900,
+        "body_smartphone": false,
+        "body_mobile": false,
+        "body_handheld": false,
+        "mobile_menu_visible": false,
+        "quickaccess_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "hero_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "home wp-singular page-template-default page page-id-3 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-home desktop g5-gt-default g5-gt-small g5-gt-medium g5-gt-large g5-eq-xlarge"
+      },
+      "issues": []
+    }
+  },
+  "cupping": {
+    "iphone-se": {
+      "results": {
+        "url": "http://localhost:8080/services/cupping/",
+        "viewport": "iphone-se",
+        "width": 375,
+        "height": 667,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-57 page-child parent-pageid-5 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-cupping mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "iphone-12": {
+      "results": {
+        "url": "http://localhost:8080/services/cupping/",
+        "viewport": "iphone-12",
+        "width": 390,
+        "height": 844,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-57 page-child parent-pageid-5 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-cupping mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "ipad": {
+      "results": {
+        "url": "http://localhost:8080/services/cupping/",
+        "viewport": "ipad",
+        "width": 768,
+        "height": 1024,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-57 page-child parent-pageid-5 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-cupping mobile handheld smartphone g5-gt-default g5-gt-small g5-eq-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "desktop": {
+      "results": {
+        "url": "http://localhost:8080/services/cupping/",
+        "viewport": "desktop",
+        "width": 1440,
+        "height": 900,
+        "body_smartphone": false,
+        "body_mobile": false,
+        "body_handheld": false,
+        "mobile_menu_visible": false,
+        "quickaccess_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-57 page-child parent-pageid-5 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-cupping g5-gt-default g5-gt-small g5-gt-medium g5-gt-large g5-eq-xlarge"
+      },
+      "issues": []
+    }
+  },
+  "about": {
+    "iphone-se": {
+      "results": {
+        "url": "http://localhost:8080/about/",
+        "viewport": "iphone-se",
+        "width": 375,
+        "height": 667,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-9 page-parent wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-about mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "iphone-12": {
+      "results": {
+        "url": "http://localhost:8080/about/",
+        "viewport": "iphone-12",
+        "width": 390,
+        "height": 844,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-9 page-parent wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-about mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "ipad": {
+      "results": {
+        "url": "http://localhost:8080/about/",
+        "viewport": "ipad",
+        "width": 768,
+        "height": 1024,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-9 page-parent wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-about mobile handheld smartphone g5-gt-default g5-gt-small g5-eq-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "desktop": {
+      "results": {
+        "url": "http://localhost:8080/about/",
+        "viewport": "desktop",
+        "width": 1440,
+        "height": 900,
+        "body_smartphone": false,
+        "body_mobile": false,
+        "body_handheld": false,
+        "mobile_menu_visible": false,
+        "quickaccess_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-9 page-parent wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-about g5-gt-default g5-gt-small g5-gt-medium g5-gt-large g5-eq-xlarge"
+      },
+      "issues": []
+    }
+  },
+  "contact": {
+    "iphone-se": {
+      "results": {
+        "url": "http://localhost:8080/contact/",
+        "viewport": "iphone-se",
+        "width": 375,
+        "height": 667,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-27 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-contact mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "iphone-12": {
+      "results": {
+        "url": "http://localhost:8080/contact/",
+        "viewport": "iphone-12",
+        "width": 390,
+        "height": 844,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-27 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-contact mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "ipad": {
+      "results": {
+        "url": "http://localhost:8080/contact/",
+        "viewport": "ipad",
+        "width": 768,
+        "height": 1024,
+        "body_smartphone": true,
+        "body_mobile": true,
+        "body_handheld": true,
+        "mobile_menu_visible": true,
+        "quickaccess_visible": false,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-27 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-contact mobile handheld smartphone g5-gt-default g5-gt-small g5-eq-medium g5-lt-large g5-lt-xlarge"
+      },
+      "issues": []
+    },
+    "desktop": {
+      "results": {
+        "url": "http://localhost:8080/contact/",
+        "viewport": "desktop",
+        "width": 1440,
+        "height": 900,
+        "body_smartphone": false,
+        "body_mobile": false,
+        "body_handheld": false,
+        "mobile_menu_visible": false,
+        "quickaccess_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "hero_visible": null,
+        "logo_found": true,
+        "address_found": true,
+        "body_classes": "wp-singular page-template-default page page-id-27 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-contact g5-gt-default g5-gt-small g5-gt-medium g5-gt-large g5-eq-xlarge"
+      },
+      "issues": []
+    }
+  }
+}

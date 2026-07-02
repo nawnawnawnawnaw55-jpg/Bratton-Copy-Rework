@@ -1,0 +1,35 @@
+{
+  "url": "http://localhost:8080/",
+  "viewport": "iphone-se",
+  "width": 375,
+  "height": 667,
+  "is_mobile": true,
+  "body_classes": "home wp-singular page-template-default page page-id-3 wp-theme-gfive wp-child-theme-1739themeG5 uk-height-1-1 page-home desktop mobile handheld smartphone g5-eq-default g5-lt-small g5-lt-medium g5-lt-large g5-lt-xlarge",
+  "mobile_menu": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "quick_access": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "navbar": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "header": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "hero": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "orange_bars": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "logo_img": {
+    "error": "Page.evaluate: SyntaxError: missing ) after argument list\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "address_line": {
+    "error": "Page.evaluate: SyntaxError: missing ) after argument list\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "phone_link": {
+    "error": "Page.evaluate: SyntaxError: missing ) after argument list\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  }
+}

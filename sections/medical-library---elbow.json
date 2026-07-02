@@ -1,0 +1,971 @@
+{
+  "section": "Medical Library > Elbow",
+  "category": "medical-library",
+  "pageCount": 9,
+  "snippetCount": 49,
+  "snippets": {
+    "527784353e72": {
+      "id": "527784353e72",
+      "plainText": "Elbow Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Elbow</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Elbow</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 160,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        }
+      ]
+    },
+    "3a0619593be9": {
+      "id": "3a0619593be9",
+      "plainText": "Elbow Articles Fractures/Dislocation Elbow Loose Bodies Ulnar Nerve Injuries Biceps Rupture at the Elbow Distal Triceps Rupture Golfer's Elbow (Medial Epicondylalgia) Tennis Elbow (Lateral Epicondylalgia)",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Elbow Articles</h2><ul><li><a href='/library/library_elbow_2/'>Fractures/Dislocation Elbow</a></li><li><a href='/library/library_elbow_3/'>Loose Bodies</a></li><li><a href='/library/library_elbow_4/'>Ulnar Nerve Injuries</a></li><li><a href='/library/library_elbow_5/'>Biceps Rupture at the Elbow</a></li><li><a href='/library/library_elbow_6/'>Distal Triceps Rupture</a></li><li><a href='/library/library_elbow_49/'> Golfer's Elbow (Medial Epicondylalgia)</a></li><li><a href='/library/library_elbow_50/'>Tennis Elbow (Lateral Epicondylalgia)</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Elbow Articles</h2><ul><li><a href='/library/library_elbow_2/'>Fractures/Dislocation Elbow</a></li><li><a href='/library/library_elbow_3/'>Loose Bodies</a></li><li><a href='/library/library_elbow_4/'>Ulnar Nerve Injuries</a></li><li><a href='/library/library_elbow_5/'>Biceps Rupture at the Elbow</a></li><li><a href='/library/library_elbow_6/'>Distal Triceps Rupture</a></li><li><a href='/library/library_elbow_49/'> Golfer's Elbow (Medial Epicondylalgia)</a></li><li><a href='/library/library_elbow_50/'>Tennis Elbow (Lateral Epicondylalgia)</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 204,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        }
+      ]
+    },
+    "e0ff08211472": {
+      "id": "e0ff08211472",
+      "plainText": "Elbow — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Elbow — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 46,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": true
+        }
+      ]
+    },
+    "fe4391ce4016": {
+      "id": "fe4391ce4016",
+      "plainText": "Medical Library Elbow . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": true
+        }
+      ]
+    },
+    "ecbb14cb186d": {
+      "id": "ecbb14cb186d",
+      "plainText": "← Back to Elbow Fractures/Dislocation Elbow Overview Treatments Goals",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Fractures/Dislocation Elbow</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-jtjzry\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-jtjzry-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jtjzry-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jtjzry-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Fractures/Dislocation Elbow</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-jtjzry\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-jtjzry-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jtjzry-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jtjzry-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jtjzry-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures/Dislocation Elbow</h4><img src=\"https://ptclinic.com/medlibrary/images/v2/a10a.gif\" width=\"300\" height=\"175\" alt=\"Fr",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        }
+      ]
+    },
+    "d5bc99a465b7": {
+      "id": "d5bc99a465b7",
+      "plainText": "Fractures/Dislocation Elbow Elbow fractures usually involve a fall onto the outstretched arm or a direct trauma to the elbow. With elbow dislocations there may be associated nerve and/or blood vessel injuries. X-rays may show the fracture or dislocation but small breaks may be difficult to see. Fractures are an emergency and immediate reduction (or placing the bones together to allow healing) is necessary. Bone breaks within the joint need special attention to ensure recovery of proper function of the joints.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jtjzry-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures/Dislocation Elbow</h4><img src=\"https://ptclinic.com/medlibrary/images/v2/a10a.gif\" width=\"300\" height=\"175\" alt=\"Fracture/Dislocated Elbow\">\r\n\r\n<p>Elbow fractures usually involve a fall onto the outstretched arm or a direct trauma to the elbow. With elbow dislocations there may be associated nerve and/or blood vessel injuries. X-rays may show the fracture or dislocation but small breaks may be difficult to see.</p>\r\n<p>Fractures are an emergency and immediate reduction (or placing the bones together to allow healing) is necessary. Bone breaks within the joint need special attention to ensure recovery of proper function of the joints.</p>\r\n<br /></div>",
+      "tagName": "div",
+      "previewContext": "b-jtjzry-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jtjzry-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jtjzry-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jtjzry-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures/Dislocation Elbow</h4><img src=\"https://ptclinic.com/medlibrary/images/v2/a10a.gif\" width=\"300\" height=\"175\" alt=\"Fracture/Dislocated Elbow\">\r\n\r\n<p>Elbow fractures usually involve a fall onto the outstretched arm or a direct trauma to the elbow. With elbow dislocations there may be associated nerve and/or blood vessel injuries. X-rays may show the fracture or dislocation but small breaks may be difficult to see.</p>\r\n<p>Fractures are an emergency and immediate reduction (or placing the bones together to allow healing) is necessary. Bone breaks within the joint need special attention to ensure recovery of proper function of the joints.</p>\r\n<br /></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jtjzry-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 514,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        }
+      ]
+    },
+    "86baa9f30d65": {
+      "id": "86baa9f30d65",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Physical Agents",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jtjzry-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "but small breaks may be difficult to see.</p>\r\n<p>Fractures are an emergency and immediate reduction (or placing the bones together to allow healing) is necessary. Bone breaks within the joint need special attention to ensure recovery of proper function of the joints.</p>\r\n<br /></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jtjzry-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jtjzry-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-ca",
+      "textLength": 226,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        }
+      ]
+    },
+    "468c931ca729": {
+      "id": "468c931ca729",
+      "plainText": "Improve Function Improve Muscle Strength and Power Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Safety Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jtjzry-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jtjzry-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 170,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        }
+      ]
+    },
+    "e0b09f8536b8": {
+      "id": "e0b09f8536b8",
+      "plainText": "Fractures/Dislocation Elbow — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Fractures/Dislocation Elbow — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": true
+        }
+      ]
+    },
+    "13f8c96b6e76": {
+      "id": "13f8c96b6e76",
+      "plainText": "Medical Library Elbow 2. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 2. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": true
+        }
+      ]
+    },
+    "24c5838a6cdf": {
+      "id": "24c5838a6cdf",
+      "plainText": "← Back to Elbow Loose Bodies Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Loose Bodies</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-2b2cty\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-2b2cty-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Loose Bodies</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-2b2cty\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-2b2cty-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-2b2cty-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img border=\"0\" src=\"https://ptclinic.com/medlibrary/images/a11a.jpg\" width=\"221\" height=\"300\" alt=\"Loose Bodies\" style=\"float",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        }
+      ]
+    },
+    "df625fc164d1": {
+      "id": "df625fc164d1",
+      "plainText": "Loose Bodies Loose bodies are usually the result of old injuries or osteoarthritis of elbow joint. Locking and pain are the predominant signs and symptoms. The condition may be treated by surgical removal of the loose bodies if conservative care fails.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-2b2cty-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img border=\"0\" src=\"https://ptclinic.com/medlibrary/images/a11a.jpg\" width=\"221\" height=\"300\" alt=\"Loose Bodies\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Loose Bodies</h4><div style=\"margin-bottom:180px\">\r\n\r\n\r\n<p>Loose bodies are usually the result of old injuries or osteoarthritis of elbow joint. Locking and pain are the predominant signs and symptoms. The condition may be treated by surgical removal of the loose bodies if conservative care fails.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "2b2cty-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-2b2cty-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-2b2cty-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img border=\"0\" src=\"https://ptclinic.com/medlibrary/images/a11a.jpg\" width=\"221\" height=\"300\" alt=\"Loose Bodies\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Loose Bodies</h4><div style=\"margin-bottom:180px\">\r\n\r\n\r\n<p>Loose bodies are usually the result of old injuries or osteoarthritis of elbow joint. Locking and pain are the predominant signs and symptoms. The condition may be treated by surgical removal of the loose bodies if conservative care fails.</p>\r\n\r\n</div></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/lib",
+      "textLength": 252,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        }
+      ]
+    },
+    "6834bb4b9098": {
+      "id": "6834bb4b9098",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Electrotherapeutic Modalities Foam Roll Exercise ▶ Video Isometric Exercise ▶ Video Physical Agents",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "gin-bottom:180px\">\r\n\r\n\r\n<p>Loose bodies are usually the result of old injuries or osteoarthritis of elbow joint. Locking and pain are the predominant signs and symptoms. The condition may be treated by surgical removal of the loose bodies if conservative care fails.</p>\r\n\r\n</div></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div clas",
+      "textLength": 283,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        }
+      ]
+    },
+    "6a092ef597c7": {
+      "id": "6a092ef597c7",
+      "plainText": "Improve Function Improve Muscle Strength and Power Improve Range of Motion Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ry_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div",
+      "textLength": 96,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        }
+      ]
+    },
+    "82ab96ea3c2a": {
+      "id": "82ab96ea3c2a",
+      "plainText": "3d Anatomy of the elbow",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": ">\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-2b2cty-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 23,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        }
+      ]
+    },
+    "906a066bd640": {
+      "id": "906a066bd640",
+      "plainText": "Loose Bodies — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Loose Bodies — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": true
+        }
+      ]
+    },
+    "a85adc2b5f39": {
+      "id": "a85adc2b5f39",
+      "plainText": "Medical Library Elbow 3. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 3. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": true
+        }
+      ]
+    },
+    "75a0f063f79b": {
+      "id": "75a0f063f79b",
+      "plainText": "← Back to Elbow Ulnar Nerve Injuries Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Ulnar Nerve Injuries</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-i5oh4i\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-i5oh4i-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Ulnar Nerve Injuries</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-i5oh4i\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-i5oh4i-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-i5oh4i-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img border=\"0\" src=\"https://ptclinic.com/medlibrary/images/a12a.jpg\" width=\"219\" height=\"373\"  alt=\"Ulnar Nerve Injuries\" sty",
+      "textLength": 72,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        }
+      ]
+    },
+    "01d2b6f0c999": {
+      "id": "01d2b6f0c999",
+      "plainText": "Ulnar Nerve Injuries This injury is usually the result of excessive valgus stress on the elbow during repeated throwing (especially during the cocking phase of a throw). Sometimes a direct injury to the nerve within the cubital tunnel (&ldquo;hitting your funny bone&rdquo;) will result in nerve damage. Symptoms include tingling and numbness in the ring and pinky fingers. This may occur during or after throwing or with prolonged bending of the elbow. Changing throwing technique, bracing if necessary, and therapeutic exercise may be helpful. If the problem persists, or there is prolonged weakness, then surgery is indicated.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-i5oh4i-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img border=\"0\" src=\"https://ptclinic.com/medlibrary/images/a12a.jpg\" width=\"219\" height=\"373\"  alt=\"Ulnar Nerve Injuries\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Ulnar Nerve Injuries</h4><div style=\"margin-bottom:50;\">\r\n\r\n\r\n<p>This injury is usually the result of excessive valgus stress on the elbow during repeated throwing (especially during the cocking phase of a throw). Sometimes a direct injury to the nerve within the cubital tunnel (&ldquo;hitting your funny bone&rdquo;) will result in nerve damage. Symptoms include tingling and numbness in the ring and pinky fingers. This may occur during or after throwing or with prolonged bending of the elbow.</p>\r\n<p>Changing throwing technique, bracing if necessary, and therapeutic exercise may be helpful. If the problem persists, or there is prolonged weakness, then surgery is indicated.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "i5oh4i-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-i5oh4i-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-i5oh4i-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img border=\"0\" src=\"https://ptclinic.com/medlibrary/images/a12a.jpg\" width=\"219\" height=\"373\"  alt=\"Ulnar Nerve Injuries\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Ulnar Nerve Injuries</h4><div style=\"margin-bottom:50;\">\r\n\r\n\r\n<p>This injury is usually the result of excessive valgus stress on the elbow during repeated throwing (especially during the cocking phase of a throw). Sometimes a direct injury to the nerve within the cubital tunnel (&ldquo;hitting your funny bone&rdquo;) will result in nerve damage. Symptoms include tingling and numbness in the ring and pinky fingers. This may occur during or after throwing or with prolonged bending of the elbow.</p>\r\n<p>Changing throwing technique, bracing if necessary, and therapeutic exercise may be helpful. If the problem persists, or there is prolonged weakness, then surgery is indicated.</p>\r\n\r\n</div></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/lib",
+      "textLength": 629,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        }
+      ]
+    },
+    "80ed649430c4": {
+      "id": "80ed649430c4",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Foam Roll Exercise ▶ Video Isometric Exercise ▶ Video Physical Agents",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "s. This may occur during or after throwing or with prolonged bending of the elbow.</p>\r\n<p>Changing throwing technique, bracing if necessary, and therapeutic exercise may be helpful. If the problem persists, or there is prolonged weakness, then surgery is indicated.</p>\r\n\r\n</div></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Ox",
+      "textLength": 253,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        }
+      ]
+    },
+    "171dfdad73d4": {
+      "id": "171dfdad73d4",
+      "plainText": "Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Decrease Nerve Compression Increase Oxygen to Tissues Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ry_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.or",
+      "textLength": 214,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        }
+      ]
+    },
+    "8a6b681adc2b": {
+      "id": "8a6b681adc2b",
+      "plainText": "3d Anatomy of the elbow Hand Fractures",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/hand-fractures/\" target=\"_blank\" rel=\"noopener\">Hand Fractures</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "rence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-i5oh4i-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/hand-fractures/\" target=\"_blank\" rel=\"noopener\">Hand Fractures</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 38,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        }
+      ]
+    },
+    "1c55338f4988": {
+      "id": "1c55338f4988",
+      "plainText": "Ulnar Nerve Injuries — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Ulnar Nerve Injuries — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 61,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": true
+        }
+      ]
+    },
+    "419d44569cc2": {
+      "id": "419d44569cc2",
+      "plainText": "Medical Library Elbow 4. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 4. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": true
+        }
+      ]
+    },
+    "1bf54caf2399": {
+      "id": "1bf54caf2399",
+      "plainText": "← Back to Elbow Golfer's Elbow (Medial Epicondylalgia) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Golfer&#039;s Elbow (Medial Epicondylalgia)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-vlpeaz\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-vlpeaz-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Golfer&#039;s Elbow (Medial Epicondylalgia)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-vlpeaz\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-vlpeaz-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-vlpeaz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Golfer's Elbow (Medial Epicondylalgia)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a9a.gif\" width=\"300\" height=\"",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        }
+      ]
+    },
+    "4d47806d2a36": {
+      "id": "4d47806d2a36",
+      "plainText": "Golfer's Elbow (Medial Epicondylalgia) People that suffer from golfer&rsquo;s elbow are often involved with racquet sports or golf. As with tennis elbow, they may overuse the forearm, traumatize the elbow by hitting several &ldquo;fat&rdquo; golf shots, or have poor swing technique. Pain at the inner aspect of the elbow and reproduction of symptoms with resisted wrist flexion are common. Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening will relieve most cases. Surgery is only an option in recalcitrant cases.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-vlpeaz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Golfer's Elbow (Medial Epicondylalgia)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a9a.gif\" width=\"300\" height=\"357\" alt=\"Golfers Elbow (Medial Epicondylitis)\" />\r\n\r\n<p>People that suffer from golfer&rsquo;s elbow are often involved with racquet sports or golf. As with\r\ntennis elbow, they may overuse the forearm, traumatize the elbow by hitting several &ldquo;fat&rdquo;\r\ngolf shots, or have poor swing technique.</p>\r\n<p>Pain at the inner aspect of the elbow and reproduction of symptoms with resisted wrist flexion are\r\ncommon.</p>\r\n<p>Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening\r\nwill relieve most cases. Surgery is only an option in recalcitrant cases.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "vlpeaz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-vlpeaz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-vlpeaz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Golfer's Elbow (Medial Epicondylalgia)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a9a.gif\" width=\"300\" height=\"357\" alt=\"Golfers Elbow (Medial Epicondylitis)\" />\r\n\r\n<p>People that suffer from golfer&rsquo;s elbow are often involved with racquet sports or golf. As with\r\ntennis elbow, they may overuse the forearm, traumatize the elbow by hitting several &ldquo;fat&rdquo;\r\ngolf shots, or have poor swing technique.</p>\r\n<p>Pain at the inner aspect of the elbow and reproduction of symptoms with resisted wrist flexion are\r\ncommon.</p>\r\n<p>Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening\r\nwill relieve most cases. Surgery is only an option in recalcitrant cases.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 568,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        }
+      ]
+    },
+    "d5feacb43a6a": {
+      "id": "d5feacb43a6a",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Electrotherapeutic Modalities Foam Roll Exercise ▶ Video Isometric Exercise ▶ Video Iontophoresis Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pect of the elbow and reproduction of symptoms with resisted wrist flexion are\r\ncommon.</p>\r\n<p>Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening\r\nwill relieve most cases. Surgery is only an option in recalcitrant cases.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tis",
+      "textLength": 426,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        }
+      ]
+    },
+    "f77ffc6ad13c": {
+      "id": "f77ffc6ad13c",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/elbow/medial-epicondylitis-golfers-elbow.html\" target=\"_blank\" rel=\"noopener\">Golfer&#039;s Elbow</a></li>\r\n</u",
+      "textLength": 231,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        }
+      ]
+    },
+    "8a1f208218be": {
+      "id": "8a1f208218be",
+      "plainText": "Golfer's Elbow",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/elbow/medial-epicondylitis-golfers-elbow.html\" target=\"_blank\" rel=\"noopener\">Golfer&#039;s Elbow</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-vlpeaz-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/elbow/medial-epicondylitis-golfers-elbow.html\" target=\"_blank\" rel=\"noopener\">Golfer&#039;s Elbow</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 14,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        }
+      ]
+    },
+    "f3ab4f1907d9": {
+      "id": "f3ab4f1907d9",
+      "plainText": "Golfer's Elbow (Medial Epicondylalgia) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Golfer's Elbow (Medial Epicondylalgia) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": true
+        }
+      ]
+    },
+    "7064e2f946f8": {
+      "id": "7064e2f946f8",
+      "plainText": "Medical Library Elbow 49. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 49. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": true
+        }
+      ]
+    },
+    "99797ed34ba7": {
+      "id": "99797ed34ba7",
+      "plainText": "← Back to Elbow Biceps Rupture at the Shoulder/Elbow Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Biceps Rupture at the Shoulder/Elbow</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-zkasdf\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-zkasdf-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Biceps Rupture at the Shoulder/Elbow</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-zkasdf\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-zkasdf-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-zkasdf-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Biceps Rupture at the Shoulder/Elbow</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a13a.gif\" width=\"300\" height=\"3",
+      "textLength": 88,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        }
+      ]
+    },
+    "d1c3cd332754": {
+      "id": "d1c3cd332754",
+      "plainText": "Biceps Rupture at the Shoulder/Elbow This injury is usually the result of a sudden forceful straightening of the elbow during concurrent contraction of the biceps muscle. Typically, there is sudden forearm pain and weakness. Surgical repair is necessary. Post-surgical rehabilitation can be helpful with the recovery of range of motion, strength, and function.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-zkasdf-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Biceps Rupture at the Shoulder/Elbow</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a13a.gif\" width=\"300\" height=\"300\" ALT=\"Biceps Rupture at the Elbow\"/>\r\n<p>This injury is usually the result of a sudden forceful straightening of the elbow during concurrent contraction of the biceps muscle. Typically, there is sudden forearm pain and weakness. Surgical repair is necessary.</p><p>Post-surgical rehabilitation can be helpful with the recovery of range of motion, strength, and function.</p></div>",
+      "tagName": "div",
+      "previewContext": "zkasdf-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-zkasdf-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-zkasdf-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Biceps Rupture at the Shoulder/Elbow</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a13a.gif\" width=\"300\" height=\"300\" ALT=\"Biceps Rupture at the Elbow\"/>\r\n<p>This injury is usually the result of a sudden forceful straightening of the elbow during concurrent contraction of the biceps muscle. Typically, there is sudden forearm pain and weakness. Surgical repair is necessary.</p><p>Post-surgical rehabilitation can be helpful with the recovery of range of motion, strength, and function.</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 360,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        }
+      ]
+    },
+    "954c73bd5b97": {
+      "id": "954c73bd5b97",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Electrotherapeutic Modalities Foam Roll Exercise ▶ Video Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "l straightening of the elbow during concurrent contraction of the biceps muscle. Typically, there is sudden forearm pain and weakness. Surgical repair is necessary.</p><p>Post-surgical rehabilitation can be helpful with the recovery of range of motion, strength, and function.</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Impr",
+      "textLength": 412,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        }
+      ]
+    },
+    "dcfa0e6796c7": {
+      "id": "dcfa0e6796c7",
+      "plainText": "Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-zkasdf-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div",
+      "textLength": 160,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        }
+      ]
+    },
+    "7f3753e85a4f": {
+      "id": "7f3753e85a4f",
+      "plainText": "Biceps Rupture at the Shoulder/Elbow — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Biceps Rupture at the Shoulder/Elbow — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 77,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": true
+        }
+      ]
+    },
+    "6198ae4ca566": {
+      "id": "6198ae4ca566",
+      "plainText": "Medical Library Elbow 5. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 5. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": true
+        }
+      ]
+    },
+    "8d2914e4292f": {
+      "id": "8d2914e4292f",
+      "plainText": "← Back to Elbow Tennis Elbow (Lateral Epicondylalgia) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Tennis Elbow (Lateral Epicondylalgia)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-axttqf\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-axttqf-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Tennis Elbow (Lateral Epicondylalgia)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-axttqf\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-axttqf-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-axttqf-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Tennis Elbow (Lateral Epicondylalgia)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a8a.gif\" width=\"300\" height=\"1",
+      "textLength": 89,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        }
+      ]
+    },
+    "2bd7d2353015": {
+      "id": "2bd7d2353015",
+      "plainText": "Tennis Elbow (Lateral Epicondylalgia) Lateral (meaning away from the midline of the body) epicondylalgia (meaning pain of the epicondyle) is a painful condition on the outer aspect of the elbow. The common name for lateral epicondylalgia is tennis elbow but only 5% of the people afflicted with this condition play tennis. Pain at the elbow may have one or more causes: it could be from the forearm tendons that attach at the outer aspect of the elbow, it could be referred pain from the next, it could be from one or more of the joints at the elbow, or it may originate from the radial nerve that is in close proximity to the elbow joint. It often occurs with repetitive use of the arm especially with a clenched fist. Most cases are not due to tennis. Local tenderness and pain with resisted and passive extension of the wrists is common. Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening will relieve most cases. Surgery is only an option in recalcitrant cases.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-axttqf-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Tennis Elbow (Lateral Epicondylalgia)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a8a.gif\" width=\"300\" height=\"160\" alt=\"Tennis Elbow (Lateral Epicondylalgia)\" />\r\n\r\n<p>Lateral (meaning away from the midline of the body) epicondylalgia (meaning pain of the epicondyle) is a painful condition on the outer aspect of the elbow. The common name for lateral epicondylalgia is tennis elbow but only 5% of the people afflicted with this condition play tennis.</p>\r\n\r\n<p>Pain at the elbow may have one or more causes:  it could be from the forearm tendons that attach at the outer aspect of the elbow, it could be referred pain from the next, it could be from one or more of the joints at the elbow, or it may originate from the radial nerve that is in close proximity to the elbow joint.</p> \r\n\r\n<p>It often occurs with repetitive use of the arm especially with a clenched fist. Most cases are not due to tennis.</p>\r\n\r\n<p>Local tenderness and pain with resisted and passive extension of the wrists is common.</p>\r\n\r\n<p>Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening will relieve most cases. Surgery is only an option in recalcitrant cases.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "axttqf-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-axttqf-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-axttqf-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Tennis Elbow (Lateral Epicondylalgia)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a8a.gif\" width=\"300\" height=\"160\" alt=\"Tennis Elbow (Lateral Epicondylalgia)\" />\r\n\r\n<p>Lateral (meaning away from the midline of the body) epicondylalgia (meaning pain of the epicondyle) is a painful condition on the outer aspect of the elbow. The common name for lateral epicondylalgia is tennis elbow but only 5% of the people afflicted with this condition play tennis.</p>\r\n\r\n<p>Pain at the elbow may have one or more causes:  it could be from the forearm tendons that attach at the outer aspect of the elbow, it could be referred pain from the next, it could be from one or more of the joints at the elbow, or it may originate from the radial nerve that is in close proximity to the elbow joint.</p> \r\n\r\n<p>It often occurs with repetitive use of the arm especially with a clenched fist. Most cases are not due to tennis.</p>\r\n\r\n<p>Local tenderness and pain with resisted and passive extension of the wrists is common.</p>\r\n\r\n<p>Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening will relieve most cases. Surgery is only an option in recalcitrant cases.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-axttqf-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 1018,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        }
+      ]
+    },
+    "8a13f7fb0830": {
+      "id": "8a13f7fb0830",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Electrotherapeutic Modalities Foam Roll Exercise ▶ Video Isometric Exercise ▶ Video Iontophoresis Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-axttqf-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Local tenderness and pain with resisted and passive extension of the wrists is common.</p>\r\n\r\n<p>Activity modification, anti-inflammatory medications, ice, and progressive stretching and strengthening will relieve most cases. Surgery is only an option in recalcitrant cases.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-axttqf-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-axttqf-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tis",
+      "textLength": 370,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        }
+      ]
+    },
+    "b84fdc370b68": {
+      "id": "b84fdc370b68",
+      "plainText": "3d Anatomy of the elbow Tennis Elbow",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-axttqf-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/elbow/lateral-epicondylitis-tennis-elbow.html\" target=\"_blank\" rel=\"noopener\">Tennis Elbow</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-axttqf-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/elbow/lateral-epicondylitis-tennis-elbow.html\" target=\"_blank\" rel=\"noopener\">Tennis Elbow</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 36,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        }
+      ]
+    },
+    "c68ece10ba1f": {
+      "id": "c68ece10ba1f",
+      "plainText": "Tennis Elbow (Lateral Epicondylalgia) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Tennis Elbow (Lateral Epicondylalgia) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 78,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": true
+        }
+      ]
+    },
+    "efaf0dbcafe3": {
+      "id": "efaf0dbcafe3",
+      "plainText": "Medical Library Elbow 50. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 50. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 119,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": true
+        }
+      ]
+    },
+    "2984961daf73": {
+      "id": "2984961daf73",
+      "plainText": "← Back to Elbow Distal Triceps Rupture Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Distal Triceps Rupture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-sgy9p4\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-sgy9p4-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_elbow/\" class=\"ml-back-arrow\" aria-label=\"Back to Elbow\"><span class=\"ml-back-arrow-icon\">←</span> Back to Elbow</a>\r\n  <h1>Distal Triceps Rupture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-sgy9p4\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-sgy9p4-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-sgy9p4-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Distal Triceps Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a14a.gif\" width=\"300\" height=\"562\" >\r\n<p>Sudd",
+      "textLength": 74,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        }
+      ]
+    },
+    "ca6e87d711df": {
+      "id": "ca6e87d711df",
+      "plainText": "Distal Triceps Rupture Sudden forced bending (flexion) while the elbow is being straightened (extended), is a common mechanism. As with biceps rupture, surgical repair is necessary.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-sgy9p4-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Distal Triceps Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a14a.gif\" width=\"300\" height=\"562\" >\r\n<p>Sudden forced bending (flexion) while the elbow is being straightened (extended), is a common mechanism. As with biceps rupture, surgical repair is necessary.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "sgy9p4-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sgy9p4-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-sgy9p4-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Distal Triceps Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a14a.gif\" width=\"300\" height=\"562\" >\r\n<p>Sudden forced bending (flexion) while the elbow is being straightened (extended), is a common mechanism. As with biceps rupture, surgical repair is necessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 181,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        }
+      ]
+    },
+    "238eab8f38ea": {
+      "id": "238eab8f38ea",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Elbow Active Range of Motion ▶ Video Elbow Joint Mobilization ▶ Video Elbow Passive Range of Motion ▶ Video Elbow Resistive Range of Motion ▶ Video Electrotherapeutic Modalities Foam Roll Exercise ▶ Video Isometric Exercise ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Triceps Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a14a.gif\" width=\"300\" height=\"562\" >\r\n<p>Sudden forced bending (flexion) while the elbow is being straightened (extended), is a common mechanism. As with biceps rupture, surgical repair is necessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_43/\">Elbow Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_44/\">Elbow Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_45/\">Elbow Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_46/\">Elbow Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_47/\">Foam Roll Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symp",
+      "textLength": 316,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        }
+      ]
+    },
+    "92f37d9cb7c6": {
+      "id": "92f37d9cb7c6",
+      "plainText": "Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Range of Motion Self-care of Symptoms Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "atments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sgy9p4-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/elbow\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the elbow</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div",
+      "textLength": 145,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        }
+      ]
+    },
+    "d6f8b657f58b": {
+      "id": "d6f8b657f58b",
+      "plainText": "Distal Triceps Rupture — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Distal Triceps Rupture — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 63,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": true
+        }
+      ]
+    },
+    "a8233b5c9382": {
+      "id": "a8233b5c9382",
+      "plainText": "Medical Library Elbow 6. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Elbow 6. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

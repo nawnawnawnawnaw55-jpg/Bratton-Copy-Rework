@@ -1,0 +1,160 @@
+{
+  "section": "Core Pages > Insurance",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 8,
+  "snippets": {
+    "66e6cdd85571": {
+      "id": "66e6cdd85571",
+      "plainText": "Insurance & Billing We believe cost shouldn't stand between you and recovery. We accept most major insurance plans and offer self-pay options. Self-pay",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Insurance & Billing</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">We believe cost shouldn't stand between you and recovery. We accept most major insurance plans and offer self-pay options.</p>\r\n\r\n      <div class=\"insurance-grid\" style=\"margin:24px 0\">\r\n        <img src=\"/files/insurance/bcbs-logo.svg\" alt=\"BCBS\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/tricare.svg\" alt=\"Tricare\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/humana.svg\" alt=\"Humana\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/medicare-in.svg\" alt=\"Medicare\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/workers-comp.svg\" alt=\"Workers Comp\" loading=\"lazy\">\r\n        <div style=\"text-align:center;font-weight:700;font-size:1.1rem\">Self-pay</div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Insurance & Billing</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">We believe cost shouldn't stand between you and recovery. We accept most major insurance plans and offer self-pay options.</p>\r\n\r\n      <div class=\"insurance-grid\" style=\"margin:24px 0\">\r\n        <img src=\"/files/insurance/bcbs-logo.svg\" alt=\"BCBS\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/tricare.svg\" alt=\"Tricare\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/humana.svg\" alt=\"Humana\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/medicare-in.svg\" alt=\"Medicare\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/workers-comp.svg\" alt=\"Workers Comp\" loading=\"lazy\">\r\n        <div style=\"text-align:center;font-weight:700;font-size:1.1rem\">Self-pay</div>\r\n      </div>\r\n\r\n      <h2>No Referral, No Problem</h2>\r\n      <p>Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your f",
+      "textLength": 151,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": false
+        }
+      ]
+    },
+    "74fe9e1962ae": {
+      "id": "74fe9e1962ae",
+      "plainText": "No Referral, No Problem",
+      "originalHtml": "<h2>No Referral, No Problem</h2>",
+      "tagName": "h2",
+      "previewContext": "loading=\"lazy\">\r\n        <img src=\"/files/insurance/medicare-in.svg\" alt=\"Medicare\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/workers-comp.svg\" alt=\"Workers Comp\" loading=\"lazy\">\r\n        <div style=\"text-align:center;font-weight:700;font-size:1.1rem\">Self-pay</div>\r\n      </div>\r\n\r\n      <h2>No Referral, No Problem</h2>\r\n      <p>Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your first visit.</p>\r\n\r\n      <h2>Don't See Your Plan?</h2>",
+      "textLength": 23,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "h2",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": false
+        }
+      ]
+    },
+    "b509a34adfec": {
+      "id": "b509a34adfec",
+      "plainText": "Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your first visit.",
+      "originalHtml": "<p>Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your first visit.</p>",
+      "tagName": "p",
+      "previewContext": "s/insurance/medicare-in.svg\" alt=\"Medicare\" loading=\"lazy\">\r\n        <img src=\"/files/insurance/workers-comp.svg\" alt=\"Workers Comp\" loading=\"lazy\">\r\n        <div style=\"text-align:center;font-weight:700;font-size:1.1rem\">Self-pay</div>\r\n      </div>\r\n\r\n      <h2>No Referral, No Problem</h2>\r\n      <p>Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your first visit.</p>\r\n\r\n      <h2>Don't See Your Plan?</h2>\r\n      <p>Insurance networks change frequently. Call us at (985) 641-5825 and our team will verify your coverage and explain your benefits — including copays, deductibles, and visit limits.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class",
+      "textLength": 244,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "p",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": false
+        }
+      ]
+    },
+    "b483876557eb": {
+      "id": "b483876557eb",
+      "plainText": "Don't See Your Plan?",
+      "originalHtml": "<h2>Don't See Your Plan?</h2>",
+      "tagName": "h2",
+      "previewContext": "h2>No Referral, No Problem</h2>\r\n      <p>Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your first visit.</p>\r\n\r\n      <h2>Don't See Your Plan?</h2>\r\n      <p>Insurance networks change frequently. Call us at (985) 641-5825 and our team will verify your coverage and explain your benefits — including copays, deductibles, and visit limits.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Verify Your",
+      "textLength": 20,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "h2",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": false
+        }
+      ]
+    },
+    "124174424d0c": {
+      "id": "124174424d0c",
+      "plainText": "Insurance networks change frequently. Call us at (985) 641-5825 and our team will verify your coverage and explain your benefits — including copays, deductibles, and visit limits.",
+      "originalHtml": "<p>Insurance networks change frequently. Call us at (985) 641-5825 and our team will verify your coverage and explain your benefits — including copays, deductibles, and visit limits.</p>",
+      "tagName": "p",
+      "previewContext": "<p>Louisiana allows Direct Access to physical therapy, meaning you can be evaluated and treated without a physician's prescription. Some insurance plans may still require a referral — call us and we'll verify your benefits before your first visit.</p>\r\n\r\n      <h2>Don't See Your Plan?</h2>\r\n      <p>Insurance networks change frequently. Call us at (985) 641-5825 and our team will verify your coverage and explain your benefits — including copays, deductibles, and visit limits.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Verify Your Insurance</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 179,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "p",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": false
+        }
+      ]
+    },
+    "af91c3b5a697": {
+      "id": "af91c3b5a697",
+      "plainText": "Verify Your Insurance",
+      "originalHtml": "<p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Verify Your Insurance</a></p>",
+      "tagName": "p",
+      "previewContext": "d we'll verify your benefits before your first visit.</p>\r\n\r\n      <h2>Don't See Your Plan?</h2>\r\n      <p>Insurance networks change frequently. Call us at (985) 641-5825 and our team will verify your coverage and explain your benefits — including copays, deductibles, and visit limits.</p>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Verify Your Insurance</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 21,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "p",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": false
+        }
+      ]
+    },
+    "a471a342bba8": {
+      "id": "a471a342bba8",
+      "plainText": "Insurance — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Insurance — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 50,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": true
+        }
+      ]
+    },
+    "ee3e16a94869": {
+      "id": "ee3e16a94869",
+      "plainText": "Bratton Physical Therapy accepts BCBS, Tricare, Humana, Medicare, Workers",
+      "originalHtml": "<meta name=\"description\" content=\"Bratton Physical Therapy accepts BCBS, Tricare, Humana, Medicare, Workers\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "insurance/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Insurance",
+          "pageName": "insurance",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

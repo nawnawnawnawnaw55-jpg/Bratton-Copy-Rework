@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoulder Pain Treatment — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Expert physical therapy for shoulder pain in Slidell, LA. Treating rotator cuff tears, impingement, labral tears, and more. Call (985) 641-5825.">
+<meta property="og:title" content="Shoulder Pain Treatment — Bratton Physical Therapy">
+<meta property="og:description" content="Expert shoulder pain treatment in Slidell, LA — rotator cuff, impingement, labral tears. One-on-one PT care.">
+<meta property="og:url" content="/shoulder-pain/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h1>Shoulder Pain Treatment</h1>
+      <p style="font-size:1.15rem;line-height:1.7">Shoulder pain can make simple tasks — reaching for a cabinet, putting on a shirt, sleeping through the night — feel impossible. At Bratton Physical Therapy, we treat shoulder conditions with one-on-one, hands-on care that targets the root cause, not just the symptoms.</p>
+
+      <h2>Common Shoulder Conditions We Treat</h2>
+      <div class="conditions-pills" style="justify-content:flex-start;margin:16px 0">
+        <span class="condition-pill" style="cursor:default;background:var(--primary);color:#fff">Rotator Cuff Tears</span>
+        <span class="condition-pill" style="cursor:default;background:var(--primary);color:#fff">Shoulder Impingement</span>
+        <span class="condition-pill" style="cursor:default;background:var(--primary);color:#fff">Labral Tears</span>
+        <span class="condition-pill" style="cursor:default;background:var(--primary);color:#fff">Frozen Shoulder</span>
+        <span class="condition-pill" style="cursor:default;background:var(--primary);color:#fff">Post-Surgical Rehab</span>
+      </div>
+
+      <h2>Our Approach</h2>
+      <p>Every shoulder is different. Your treatment plan may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered one-on-one by a licensed physical therapist.</p>
+
+      <h2>Why Patients Choose Us for Shoulder Pain</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>One-on-one sessions — your therapist is with you the entire time</li>
+        <li>45–60 minute appointments for thorough care</li>
+        <li>Advanced techniques including dry needling and cupping</li>
+        <li>No referral needed in Louisiana</li>
+      </ul>
+
+      <p style="margin-top:32px"><a href="tel:9856415825" class="btn btn--accent btn--lg">Get Shoulder Pain Relief</a></p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>fetch('/templates/footer.html').then(function(r){return r.text()}).then(function(f){document.getElementById('site-footer').innerHTML=f});</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,761 @@
+{
+  "section": "Medical Library > Neck",
+  "category": "medical-library",
+  "pageCount": 7,
+  "snippetCount": 35,
+  "snippets": {
+    "45a36e087a30": {
+      "id": "45a36e087a30",
+      "plainText": "Neck Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Neck</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Neck</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 159,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        }
+      ]
+    },
+    "0c7a8344d5db": {
+      "id": "0c7a8344d5db",
+      "plainText": "Neck/Head Articles Neck Pain Whiplash Associated Disorder (WAD) TMD (aka TMJ) Benign Paroxysmal Positional Vertigo",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Neck/Head Articles</h2><ul><li><a href='/library/library_neck_25/'>Neck Pain</a></li><li><a href='/library/library_neck_63/'>Whiplash Associated Disorder (WAD)</a></li><li><a href='/library/library_neck_64/'>TMD (aka TMJ)</a></li><li><a href='/library/library_neck_73/'>Benign Paroxysmal Positional Vertigo</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Neck/Head Articles</h2><ul><li><a href='/library/library_neck_25/'>Neck Pain</a></li><li><a href='/library/library_neck_63/'>Whiplash Associated Disorder (WAD)</a></li><li><a href='/library/library_neck_64/'>TMD (aka TMJ)</a></li><li><a href='/library/library_neck_73/'>Benign Paroxysmal Positional Vertigo</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 114,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        }
+      ]
+    },
+    "1421d7e717c7": {
+      "id": "1421d7e717c7",
+      "plainText": "Neck — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Neck — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 45,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": true
+        }
+      ]
+    },
+    "3734eb5c9253": {
+      "id": "3734eb5c9253",
+      "plainText": "Medical Library Neck . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Neck . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 116,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": true
+        }
+      ]
+    },
+    "6680c9bcb0dd": {
+      "id": "6680c9bcb0dd",
+      "plainText": "← Back to Neck Neck Pain Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>Neck Pain</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-3w59je\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-3w59je-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>Neck Pain</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-3w59je\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-3w59je-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-3w59je-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img src=\"https://ptclinic.com/medlibrary/images/a33a.gif\" width=\"241\" height=\"292\" alt=\"Neck Pain\" style=\"float:right;margin-",
+      "textLength": 60,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        }
+      ]
+    },
+    "25c7fa81d6da": {
+      "id": "25c7fa81d6da",
+      "plainText": "Neck Pain Neck pain can be so mild that it is merely annoying and distracting. Or it can be so severe that it is unbearable and incapacitating. Most instances of neck pain are minor and commonly caused by something you did. That is, if you keep your head in an awkward position for too long the joints in your neck can \"lock\" and the neck muscles can become painfully fatigued. Poor postures while working, watching TV, using a computer, reading a book, or talking on the phone with the receiver held against your shoulder and under your chin can be responsible for neck pain. Neck pain that persists for many days or keeps coming back may be a sign that something is wrong. Disease, an injury (such as whiplash in an auto accident), a congenital malformation, or age-related changes may be responsible for more significant pain. A trained medical professional must determine the underlying causes of such neck pain. Examination and diagnosis by a medical doctor and treatment by a physical therapist may quickly relieve your pain or help you deal with it on a long-term basis. Who suffers from neck pain? Almost everyone experiences some sort of neck pain or stiffness at one time or another during their life. Because you walk upright and your head is \"balanced\" on top of your spine like a golf ball on a tee. The head weighs between 10 and 15 pounds. If the muscles that support your head and neck are not kept flexible and strong, poor and prolonged postures can put too much stress on the head and neck muscles and joints. This can lead to strains of the muscles and sprains of the ligaments that support your head and neck. As we age, our joints wear out (this is called osteoarthritis) and the discs in the spine dry up and flatten (this loosely describes Degenerative Disc Disease). You may experience pain that radiates into the top of the shoulders or in between your shoulder blades. Occasionally, a pinched nerve (called radiculopathy) occurs and you may feel tingling, pain, and/or numbness radiating into the arm, forearm, hand, and fingers. As always, with persistent pain you should be evaluated by a medical doctor and seek treatment from a trained physical therapist.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-3w59je-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img src=\"https://ptclinic.com/medlibrary/images/a33a.gif\" width=\"241\" height=\"292\" alt=\"Neck Pain\" style=\"float:right;margin-left:15px;margin-bottom:5px\">Neck Pain</h4>\r\n\r\n<p>Neck pain can be so mild that it is merely annoying and distracting. Or it can be so severe that it is unbearable and incapacitating.</p>\r\n<p>Most instances of neck pain are minor and commonly caused by something you did. That is, if you keep your head in an awkward position for too long the joints in your neck can \"lock\" and the neck muscles can become painfully fatigued. Poor postures while working, watching TV, using a computer, reading a book, or talking on the phone with the receiver held against your shoulder and under your chin can be responsible for neck pain.</p>\r\n<p>Neck pain that persists for many days or keeps coming back may be a sign that something is wrong. Disease, an injury (such as whiplash in an auto accident), a congenital malformation, or age-related changes may be responsible for more significant pain. A trained medical professional must determine the underlying causes of such neck pain. Examination and diagnosis by a medical doctor and treatment by a physical therapist may quickly relieve your pain or help you deal with it on a long-term basis.</p>\r\n<h4>Who suffers from neck pain?</h4>\r\n<p>Almost everyone experiences some sort of neck pain or stiffness at one time or another during their life. Because you walk upright and your head is \"balanced\" on top of your spine like a golf ball on a tee. The head weighs between 10 and 15 pounds. If the muscles that support your head and neck are not kept flexible and strong, poor and prolonged postures can put too much stress on the head and neck muscles and joints. This can lead to strains of the muscles and sprains of the ligaments that support your head and neck.</p>\r\n<p>As we age, our joints wear out (this is called osteoarthritis) and the discs in the spine dry up and flatten (this loosely describes Degenerative Disc Disease). You may experience pain that radiates into the top of the shoulders or in between your shoulder blades. Occasionally, a pinched nerve (called radiculopathy) occurs and you may feel tingling, pain, and/or numbness radiating into the arm, forearm, hand, and fingers. As always, with persistent pain you should be evaluated by a medical doctor and seek treatment from a trained physical therapist.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "3w59je-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-3w59je-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-3w59je-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img src=\"https://ptclinic.com/medlibrary/images/a33a.gif\" width=\"241\" height=\"292\" alt=\"Neck Pain\" style=\"float:right;margin-left:15px;margin-bottom:5px\">Neck Pain</h4>\r\n\r\n<p>Neck pain can be so mild that it is merely annoying and distracting. Or it can be so severe that it is unbearable and incapacitating.</p>\r\n<p>Most instances of neck pain are minor and commonly caused by something you did. That is, if you keep your head in an awkward position for too long the joints in your neck can \"lock\" and the neck muscles can become painfully fatigued. Poor postures while working, watching TV, using a computer, reading a book, or talking on the phone with the receiver held against your shoulder and under your chin can be responsible for neck pain.</p>\r\n<p>Neck pain that persists for many days or keeps coming back may be a sign that something is wrong. Disease, an injury (such as whiplash in an auto accident), a congenital malformation, or age-related changes may be responsible for more significant pain. A trained medical professional must determine the underlying causes of such neck pain. Examination and diagnosis by a medical doctor and treatment by a physical therapist may quickly relieve your pain or help you deal with it on a long-term basis.</p>\r\n<h4>Who suffers from neck pain?</h4>\r\n<p>Almost everyone experiences some sort of neck pain or stiffness at one time or another during their life. Because you walk upright and your head is \"balanced\" on top of your spine like a golf ball on a tee. The head weighs between 10 and 15 pounds. If the muscles that support your head and neck are not kept flexible and strong, poor and prolonged postures can put too much stress on the head and neck muscles and joints. This can lead to strains of the muscles and sprains of the ligaments that support your head and neck.</p>\r\n<p>As we age, our joints wear out (this is called osteoarthritis) and the discs in the spine dry up and flatten (this loosely describes Degenerative Disc Disease). You may experience pain that radiates into the top of the shoulders or in between your shoulder blades. Occasionally, a pinched nerve (called radiculopathy) occurs and you may feel tingling, pain, and/or numbness radiating into the arm, forearm, hand, and fingers. As always, with persistent pain you should be evaluated by a medical doctor and seek treatment from a trained physical therapist.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 2186,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        }
+      ]
+    },
+    "36a0f0608574": {
+      "id": "36a0f0608574",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Heat Pack ▶ Video Isometric Exercise ▶ Video Neck Active Range of Motion ▶ Video Neck Joint Mobilization ▶ Video Neck Passive Range of Motion ▶ Video Neck Resistive Range of Motion ▶ Video Neck Traction ▶ Video Posture Training ▶ Video Proprioception Exercises ▶ Video Physical Agents Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_66/\">Neck Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_67/\">Neck Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_68/\">Neck Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_69/\">Neck Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_85/\">Neck Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pinched nerve (called radiculopathy) occurs and you may feel tingling, pain, and/or numbness radiating into the arm, forearm, hand, and fingers. As always, with persistent pain you should be evaluated by a medical doctor and seek treatment from a trained physical therapist.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_66/\">Neck Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_67/\">Neck Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_68/\">Neck Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_69/\">Neck Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_85/\">Neck Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Pow",
+      "textLength": 452,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        }
+      ]
+    },
+    "f9bb77ece77d": {
+      "id": "f9bb77ece77d",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Decrease Nerve Compression Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n  <li><a href=\"http://www.movefor",
+      "textLength": 306,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        }
+      ]
+    },
+    "b2a06c642d2e": {
+      "id": "b2a06c642d2e",
+      "plainText": "3d Anatomy of the head and neck Neck Pinched Nerve Information from the APTA Neck Pain Info from the Mayo Clinic",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n  <li><a href=\"http://www.moveforwardpt.com/symptomsconditionsdetail.aspx?cid=805cbc55-0daa-4b08-b4be-225a7cebfb68\" target=\"_blank\" rel=\"noopener\">Neck Pinched Nerve Information from the APTA</a></li>\r\n  <li><a href=\"http://www.mayoclinic.org/diseases-conditions/neck-pain/basics/definition/con-20028772\" target=\"_blank\" rel=\"noopener\">Neck Pain Info from the Mayo Clinic</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Power</li>\r\n  <li>Decrease Nerve Compression</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-3w59je-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n  <li><a href=\"http://www.moveforwardpt.com/symptomsconditionsdetail.aspx?cid=805cbc55-0daa-4b08-b4be-225a7cebfb68\" target=\"_blank\" rel=\"noopener\">Neck Pinched Nerve Information from the APTA</a></li>\r\n  <li><a href=\"http://www.mayoclinic.org/diseases-conditions/neck-pain/basics/definition/con-20028772\" target=\"_blank\" rel=\"noopener\">Neck Pain Info from the Mayo Clinic</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 112,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        }
+      ]
+    },
+    "ae7a43b519bf": {
+      "id": "ae7a43b519bf",
+      "plainText": "Neck Pain — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Neck Pain — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 50,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": true
+        }
+      ]
+    },
+    "5ccc61c332f5": {
+      "id": "5ccc61c332f5",
+      "plainText": "Medical Library Neck 25. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Neck 25. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": true
+        }
+      ]
+    },
+    "4fc266186338": {
+      "id": "4fc266186338",
+      "plainText": "← Back to Neck Whiplash Associated Disorder Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>Whiplash Associated Disorder</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-73oxxg\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-73oxxg-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>Whiplash Associated Disorder</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-73oxxg\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-73oxxg-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-73oxxg-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Whiplash Associated Disorder</h4><img src=\"https://ptclinic.com/medlibrary/images/v2/wad.gif\" width=\"300\" height=\"240\" alt=\"Wh",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        }
+      ]
+    },
+    "83bc8a8bf205": {
+      "id": "83bc8a8bf205",
+      "plainText": "Whiplash Associated Disorder Whiplash or Whiplash Associated Disorder (WAD) - a \"whiplash\" is the term that describes the sudden forward and backward movement of the head and neck most commonly occurring during a motor vehicle accident. It can also occur during a variety of other activities such as recreational and competitive sports. Note that a whiplash could also occur with a rapid side-to-side movement as well. WADs are estimated to cost consumers and the insurance industry billions of dollars each year. With a WAD there can be soft tissue injury, bone fracture, and nerve damage. Because of the considerable number of structures (bone, spinal cord, brain, ligament, intervertebral disc, muscle, joint capsule, and tendon) involved, recover can take months or years. However, most cases of whiplash resolve in a couple months or less. A classification of WAD was offered by the Quebec Task Force (a group that did extensive study on Whiplash): 0 - No complaints about the neck, no physical signs. 1 - Neck complaints of pain, stiffness, or tenderness only No physical signs. 2 - Neck complaint AND Musculoskeletal signs (decreased range of motion and point tenderness). 3 - Neck complaint AND neurological signs (decreased or absent deep tendon reflexes, weakness, and sensory deficits). 4 - Neck complaints AND fracture or dislocation. X-rays and other diagnostics may be performed by your physician to rule out fractures. Physical therapy can be very helpful with the recovery of range of motion, strength, endurance, and the management of pain. Soft collars are of little benefit but rigid collars may be helpful in the acute stages of recovery.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-73oxxg-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Whiplash Associated Disorder</h4><img src=\"https://ptclinic.com/medlibrary/images/v2/wad.gif\" width=\"300\" height=\"240\" alt=\"Whiplash Associated Disorder (WAD)\"/>\r\n\r\n<p>Whiplash or Whiplash Associated Disorder (WAD) - a \"whiplash\" is the term that describes the sudden forward and backward movement of the head and neck most commonly occurring during a motor vehicle accident.  It can also occur during a variety of other activities such as recreational and competitive sports.  Note that a whiplash could also occur with a rapid side-to-side movement as well.</p>\r\n<p>WADs are estimated to cost consumers and the insurance industry billions of dollars each year.  With a WAD there can be soft tissue injury, bone fracture, and nerve damage.  Because of the considerable number of structures (bone, spinal cord, brain, ligament, intervertebral disc, muscle, joint capsule, and tendon) involved, recover can take months or years.  However, most cases of whiplash resolve in a couple months or less.</p>\r\n<p>A classification of WAD was offered by the Quebec Task Force (a group that did extensive study on Whiplash):</p>\r\n<ul>\r\n<li>0 - No complaints about the neck, no physical signs.</li>\r\n<li>1 - Neck complaints of pain, stiffness, or tenderness only No physical signs.</li>\r\n<li>2 - Neck complaint AND Musculoskeletal signs (decreased range of motion and point tenderness).</li>\r\n<li>3 - Neck complaint AND neurological signs (decreased or absent deep tendon reflexes, weakness, and sensory deficits).</li>\r\n<li>4 - Neck complaints AND fracture or dislocation.</li></ul>\r\n<p>X-rays and other diagnostics may be performed by your physician to rule out fractures. </p>\r\n<p>Physical therapy can be very helpful with the recovery of range of motion, strength, endurance, and the management of pain.  Soft collars are of little benefit but rigid collars may be helpful in the acute stages of recovery.\r\n</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "73oxxg-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-73oxxg-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-73oxxg-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Whiplash Associated Disorder</h4><img src=\"https://ptclinic.com/medlibrary/images/v2/wad.gif\" width=\"300\" height=\"240\" alt=\"Whiplash Associated Disorder (WAD)\"/>\r\n\r\n<p>Whiplash or Whiplash Associated Disorder (WAD) - a \"whiplash\" is the term that describes the sudden forward and backward movement of the head and neck most commonly occurring during a motor vehicle accident.  It can also occur during a variety of other activities such as recreational and competitive sports.  Note that a whiplash could also occur with a rapid side-to-side movement as well.</p>\r\n<p>WADs are estimated to cost consumers and the insurance industry billions of dollars each year.  With a WAD there can be soft tissue injury, bone fracture, and nerve damage.  Because of the considerable number of structures (bone, spinal cord, brain, ligament, intervertebral disc, muscle, joint capsule, and tendon) involved, recover can take months or years.  However, most cases of whiplash resolve in a couple months or less.</p>\r\n<p>A classification of WAD was offered by the Quebec Task Force (a group that did extensive study on Whiplash):</p>\r\n<ul>\r\n<li>0 - No complaints about the neck, no physical signs.</li>\r\n<li>1 - Neck complaints of pain, stiffness, or tenderness only No physical signs.</li>\r\n<li>2 - Neck complaint AND Musculoskeletal signs (decreased range of motion and point tenderness).</li>\r\n<li>3 - Neck complaint AND neurological signs (decreased or absent deep tendon reflexes, weakness, and sensory deficits).</li>\r\n<li>4 - Neck complaints AND fracture or dislocation.</li></ul>\r\n<p>X-rays and other diagnostics may be performed by your physician to rule out fractures. </p>\r\n<p>Physical therapy can be very helpful with the recovery of range of motion, strength, endurance, and the management of pain.  Soft collars are of little benefit but rigid collars may be helpful in the acute stages of recovery.\r\n</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 1658,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        }
+      ]
+    },
+    "f9effe07043b": {
+      "id": "f9effe07043b",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Heat Pack ▶ Video Isometric Exercise ▶ Video Neck Active Range of Motion ▶ Video Neck Joint Mobilization ▶ Video Neck Passive Range of Motion ▶ Video Neck Resistive Range of Motion ▶ Video Neck Traction ▶ Video Posture Training ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_66/\">Neck Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_67/\">Neck Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_68/\">Neck Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_69/\">Neck Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_85/\">Neck Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "your physician to rule out fractures. </p>\r\n<p>Physical therapy can be very helpful with the recovery of range of motion, strength, endurance, and the management of pain.  Soft collars are of little benefit but rigid collars may be helpful in the acute stages of recovery.\r\n</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_66/\">Neck Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_67/\">Neck Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_68/\">Neck Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_69/\">Neck Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_85/\">Neck Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</l",
+      "textLength": 485,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        }
+      ]
+    },
+    "062ebb3c1e0d": {
+      "id": "062ebb3c1e0d",
+      "plainText": "Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 239,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_65/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_65",
+          "isMeta": false
+        }
+      ]
+    },
+    "84434e061f8e": {
+      "id": "84434e061f8e",
+      "plainText": "3d Anatomy of the head and neck",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "trength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-73oxxg-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 31,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        }
+      ]
+    },
+    "08cec2184983": {
+      "id": "08cec2184983",
+      "plainText": "Whiplash Associated Disorder — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Whiplash Associated Disorder — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": true
+        }
+      ]
+    },
+    "cf3cf0b93e71": {
+      "id": "cf3cf0b93e71",
+      "plainText": "Medical Library Neck 63. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Neck 63. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": true
+        }
+      ]
+    },
+    "d32864242d2e": {
+      "id": "d32864242d2e",
+      "plainText": "← Back to Neck Temporomandibular Disorders (TMD) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>Temporomandibular Disorders (TMD)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-8vyk40\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-8vyk40-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>Temporomandibular Disorders (TMD)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-8vyk40\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-8vyk40-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-8vyk40-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Temporomandibular Disorders (TMD)</h4><img src=\"https://ptclinic.com/medlibrary/images/tmj.gif\" width=\"227\" height=\"600\" alt=\"",
+      "textLength": 84,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        }
+      ]
+    },
+    "9dc96a812d62": {
+      "id": "9dc96a812d62",
+      "plainText": "Temporomandibular Disorders (TMD) Temporomandibular disorder (TMD), is a term that describes an entire group of disorders involving the temporomandibular joint or joints (TMJ). The TMJs are the jaw joints. There is one on each side of your head just in front of your ear canals. Like many other joints in the body, they consist of: muscles that control joint movement, ligaments that hold the bones together, cartilage that provides a smooth surface for the bones to move on, a disc that helps with proper movement, of the bones, elastic tissue that helps hold the disc in place. One or more of the above tissues can cause symptoms. In fact, studies suggest that one third of the population at any one time experiences TMJ symptoms such as pain with chewing, yawning, or jaw opening. Women seem to have TMJ problems much more often than men and it is estimated that 3-6% of the population might benefit from treatment. There are a variety of temporomandibular disorders. The muscles (myogenous), joint(s) (arthrogenous), or a combination of the two may cause pain. Since physical therapists treat muscle and joint problems, they are ideally suited to address a TMD. Moreover, a majority of patients diagnosed with TMD, also have associated neck pain. Both respond well to treatment provided by a physical therapist. No other healthcare practitioner is better suited to address both the TMD and neck pain. TMD may appear to be a complex condition and it shouldn't be. This website and your physical therapist can help to insure the following: You are properly educated, that your treatment is conservative, cost-effective, and reversible, goals are realistic, your examination is brief and meant to identify your source(s) of pain. When a physical therapist performs the examination, they will be able to classify you as having one or more of the following: An inflammatory condition Limited jaw range of motion Excessive jaw range of motion Arthrogenous Disc Displacement Jaw muscle pain Neck pain causing related headaches (sometimes mistaken as TMD) Once the involved structures are identified, the therapist will be able to provide you with the appropriate treatment.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-8vyk40-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Temporomandibular Disorders (TMD)</h4><img src=\"https://ptclinic.com/medlibrary/images/tmj.gif\" width=\"227\" height=\"600\" alt=\"TMJ\" style=\"float:right;margin-left:15px;margin-bottom:5px:\" />\r\n\r\n<p>Temporomandibular disorder (TMD), is a term that describes an entire group of disorders involving the temporomandibular joint or joints (TMJ).</p>\r\n<p>The TMJs are the jaw joints.  There is one on each side of your head just in front of your ear canals.  Like many other joints in the body, they consist of:</p>\r\n<ul>\r\n<li>muscles that control joint movement, </li>\r\n<li>ligaments that hold the bones together, </li>\r\n<li>cartilage that provides a smooth surface for the bones to move on, </li>\r\n<li>a disc that helps with proper movement, of the bones,</li>\r\n<li>elastic tissue that helps hold the disc in place.</li>\r\n</ul>\r\n<p>One or more of the above tissues can cause symptoms.  In fact, studies suggest that one third of the population at any one time experiences TMJ symptoms such as pain with chewing, yawning, or jaw opening.  Women seem to have TMJ problems much more often than men and it is estimated that 3-6% of the population might benefit from treatment.</p>\r\n<p>There are a variety of temporomandibular disorders.  The muscles (myogenous), joint(s) (arthrogenous), or a combination of the two may cause pain.</p>\r\n<p>Since physical therapists treat muscle and joint problems, they are ideally suited to address a TMD.  Moreover, a majority of patients diagnosed with TMD, also have associated neck pain.  Both respond well to treatment provided by a physical therapist.  No other healthcare practitioner is better suited to address both the TMD and neck pain.</p>\r\n<p>TMD may appear to be a complex condition and it shouldn't be.  This website and your physical therapist can help to insure the following:</p>\r\n<ol>\r\n<li>You are properly educated,</li>\r\n<li>that your treatment is conservative, cost-effective, and reversible,</li>\r\n<li>goals are realistic,</li>\r\n<li>your examination is brief and meant to identify your source(s) of pain.</li>\r\n</ol>\r\n<p>When a physical therapist performs the examination, they will be able to classify you as having one or more of the following:</p>\r\n<ol>\r\n<li>An inflammatory condition</li>\r\n<li>Limited jaw range of motion</li>\r\n<li>Excessive jaw range of motion</li>\r\n<li>Arthrogenous Disc Displacement</li>\r\n<li>Jaw muscle pain</li>\r\n<li>Neck pain causing related headaches (sometimes mistaken as TMD)</li>\r\n</ol>\r\n<p>Once the involved structures are identified, the therapist will be able to provide you with the appropriate treatment.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "8vyk40-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8vyk40-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-8vyk40-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Temporomandibular Disorders (TMD)</h4><img src=\"https://ptclinic.com/medlibrary/images/tmj.gif\" width=\"227\" height=\"600\" alt=\"TMJ\" style=\"float:right;margin-left:15px;margin-bottom:5px:\" />\r\n\r\n<p>Temporomandibular disorder (TMD), is a term that describes an entire group of disorders involving the temporomandibular joint or joints (TMJ).</p>\r\n<p>The TMJs are the jaw joints.  There is one on each side of your head just in front of your ear canals.  Like many other joints in the body, they consist of:</p>\r\n<ul>\r\n<li>muscles that control joint movement, </li>\r\n<li>ligaments that hold the bones together, </li>\r\n<li>cartilage that provides a smooth surface for the bones to move on, </li>\r\n<li>a disc that helps with proper movement, of the bones,</li>\r\n<li>elastic tissue that helps hold the disc in place.</li>\r\n</ul>\r\n<p>One or more of the above tissues can cause symptoms.  In fact, studies suggest that one third of the population at any one time experiences TMJ symptoms such as pain with chewing, yawning, or jaw opening.  Women seem to have TMJ problems much more often than men and it is estimated that 3-6% of the population might benefit from treatment.</p>\r\n<p>There are a variety of temporomandibular disorders.  The muscles (myogenous), joint(s) (arthrogenous), or a combination of the two may cause pain.</p>\r\n<p>Since physical therapists treat muscle and joint problems, they are ideally suited to address a TMD.  Moreover, a majority of patients diagnosed with TMD, also have associated neck pain.  Both respond well to treatment provided by a physical therapist.  No other healthcare practitioner is better suited to address both the TMD and neck pain.</p>\r\n<p>TMD may appear to be a complex condition and it shouldn't be.  This website and your physical therapist can help to insure the following:</p>\r\n<ol>\r\n<li>You are properly educated,</li>\r\n<li>that your treatment is conservative, cost-effective, and reversible,</li>\r\n<li>goals are realistic,</li>\r\n<li>your examination is brief and meant to identify your source(s) of pain.</li>\r\n</ol>\r\n<p>When a physical therapist performs the examination, they will be able to classify you as having one or more of the following:</p>\r\n<ol>\r\n<li>An inflammatory condition</li>\r\n<li>Limited jaw range of motion</li>\r\n<li>Excessive jaw range of motion</li>\r\n<li>Arthrogenous Disc Displacement</li>\r\n<li>Jaw muscle pain</li>\r\n<li>Neck pain causing related headaches (sometimes mistaken as TMD)</li>\r\n</ol>\r\n<p>Once the involved structures are identified, the therapist will be able to provide you with the appropriate treatment.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 2170,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        }
+      ]
+    },
+    "a698e341d609": {
+      "id": "a698e341d609",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Heat Pack ▶ Video Iontophoresis Neck Traction ▶ Video Posture Training ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_85/\">Neck Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "li>\r\n<li>Arthrogenous Disc Displacement</li>\r\n<li>Jaw muscle pain</li>\r\n<li>Neck pain causing related headaches (sometimes mistaken as TMD)</li>\r\n</ol>\r\n<p>Once the involved structures are identified, the therapist will be able to provide you with the appropriate treatment.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_85/\">Neck Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range o",
+      "textLength": 266,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        }
+      ]
+    },
+    "d86d3de2245d": {
+      "id": "d86d3de2245d",
+      "plainText": "Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8vyk40-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/head\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the head and neck</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 211,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        }
+      ]
+    },
+    "bdac52824e57": {
+      "id": "bdac52824e57",
+      "plainText": "Temporomandibular Disorders (TMD) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Temporomandibular Disorders (TMD) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 74,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": true
+        }
+      ]
+    },
+    "ecdfc7237e38": {
+      "id": "ecdfc7237e38",
+      "plainText": "Medical Library Neck 64. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Neck 64. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": true
+        }
+      ]
+    },
+    "a39851186040": {
+      "id": "a39851186040",
+      "plainText": "← Back to Neck BPPV and Physical Therapy Overview",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>BPPV and Physical Therapy</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-309pha\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-309pha-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_neck/\" class=\"ml-back-arrow\" aria-label=\"Back to Neck\"><span class=\"ml-back-arrow-icon\">←</span> Back to Neck</a>\r\n  <h1>BPPV and Physical Therapy</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-309pha\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-309pha-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-309pha-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>BPPV and Physical Therapy</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/ear_anatomy.gif\" width=\"3",
+      "textLength": 49,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "b6beb05f29f0": {
+      "id": "b6beb05f29f0",
+      "plainText": "BPPV and Physical Therapy",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-309pha-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>BPPV and Physical Therapy</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/ear_anatomy.gif\" width=\"391\" height=\"360\" alt=\"physical therapy for BPPV\"></div>",
+      "tagName": "div",
+      "previewContext": "an> Back to Neck</a>\r\n  <h1>BPPV and Physical Therapy</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-309pha\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-309pha-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-309pha-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>BPPV and Physical Therapy</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/ear_anatomy.gif\" width=\"391\" height=\"360\" alt=\"physical therapy for BPPV\"></div>\r\n<h5>Epley Maneuver is Helpful for Vertigo</h5>\r\n\r\n<p>Vertigo, in particular <strong>\"benign paroxysmal positional vertigo (BPPV)\"</strong>, is a common disorder in which the patient complains of spinning and dizziness with rapid changes in head positions. BPPV is typically idiopathic (of unknown c",
+      "textLength": 25,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "6e453a30f2f2": {
+      "id": "6e453a30f2f2",
+      "plainText": "Epley Maneuver is Helpful for Vertigo",
+      "originalHtml": "<h5>Epley Maneuver is Helpful for Vertigo</h5>",
+      "tagName": "h5",
+      "previewContext": "anel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-309pha-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>BPPV and Physical Therapy</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/ear_anatomy.gif\" width=\"391\" height=\"360\" alt=\"physical therapy for BPPV\"></div>\r\n<h5>Epley Maneuver is Helpful for Vertigo</h5>\r\n\r\n<p>Vertigo, in particular <strong>\"benign paroxysmal positional vertigo (BPPV)\"</strong>, is a common disorder in which the patient complains of spinning and dizziness with rapid changes in head positions. BPPV is typically idiopathic (of unknown cause) in nature. Other reported causes are head",
+      "textLength": 37,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "d256b6a45c66": {
+      "id": "d256b6a45c66",
+      "plainText": "Vertigo, in particular \"benign paroxysmal positional vertigo (BPPV)\" , is a common disorder in which the patient complains of spinning and dizziness with rapid changes in head positions. BPPV is typically idiopathic (of unknown cause) in nature. Other reported causes are head trauma, vestibular neuritis (inflamed vestibulo-cochlear nerve), vertebrobasilar ischemia (inadequate blood flow to the brain), and inner ear infection.",
+      "originalHtml": "<p>Vertigo, in particular <strong>\"benign paroxysmal positional vertigo (BPPV)\"</strong>, is a common disorder in which the patient complains of spinning and dizziness with rapid changes in head positions. BPPV is typically idiopathic (of unknown cause) in nature. Other reported causes are head trauma, vestibular neuritis (inflamed vestibulo-cochlear nerve), vertebrobasilar ischemia (inadequate blood flow to the brain), and inner ear infection.</p>",
+      "tagName": "p",
+      "previewContext": "ab-309pha-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>BPPV and Physical Therapy</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/ear_anatomy.gif\" width=\"391\" height=\"360\" alt=\"physical therapy for BPPV\"></div>\r\n<h5>Epley Maneuver is Helpful for Vertigo</h5>\r\n\r\n<p>Vertigo, in particular <strong>\"benign paroxysmal positional vertigo (BPPV)\"</strong>, is a common disorder in which the patient complains of spinning and dizziness with rapid changes in head positions. BPPV is typically idiopathic (of unknown cause) in nature. Other reported causes are head trauma, vestibular neuritis (inflamed vestibulo-cochlear nerve), vertebrobasilar ischemia (inadequate blood flow to the brain), and inner ear infection.</p>\r\n\r\n<p>It is hypothesized that small particles, (called otoconia) in the semi-circular canals, over-stimulate the sense organs (hair cells and cupula). This results in patient complaints of dizziness and the observation of nystagmus in the direction of head rotation. The dizziness may last anywhere",
+      "textLength": 429,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "1d46475891e2": {
+      "id": "1d46475891e2",
+      "plainText": "It is hypothesized that small particles, (called otoconia) in the semi-circular canals, over-stimulate the sense organs (hair cells and cupula). This results in patient complaints of dizziness and the observation of nystagmus in the direction of head rotation. The dizziness may last anywhere from a few seconds to a minute and there may be associated nausea.",
+      "originalHtml": "<p>It is hypothesized that small particles, (called otoconia) in the semi-circular canals, over-stimulate the sense organs (hair cells and cupula). This results in patient complaints of dizziness and the observation of nystagmus in the direction of head rotation. The dizziness may last anywhere from a few seconds to a minute and there may be associated nausea.</p>",
+      "tagName": "p",
+      "previewContext": "d dizziness with rapid changes in head positions. BPPV is typically idiopathic (of unknown cause) in nature. Other reported causes are head trauma, vestibular neuritis (inflamed vestibulo-cochlear nerve), vertebrobasilar ischemia (inadequate blood flow to the brain), and inner ear infection.</p>\r\n\r\n<p>It is hypothesized that small particles, (called otoconia) in the semi-circular canals, over-stimulate the sense organs (hair cells and cupula). This results in patient complaints of dizziness and the observation of nystagmus in the direction of head rotation. The dizziness may last anywhere from a few seconds to a minute and there may be associated nausea.</p>\r\n\r\n<p>Brandt-Daroff and canalith repositioning movements (Epley Maneuver) are the most common therapeutic interventions. The goal of these treatments is to move the small particles within the semicircular canal to the utricle where they no longer are able to stimulate the sense organs within the ca",
+      "textLength": 359,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "15645aa1825d": {
+      "id": "15645aa1825d",
+      "plainText": "Brandt-Daroff and canalith repositioning movements (Epley Maneuver) are the most common therapeutic interventions. The goal of these treatments is to move the small particles within the semicircular canal to the utricle where they no longer are able to stimulate the sense organs within the canal.",
+      "originalHtml": "<p>Brandt-Daroff and canalith repositioning movements (Epley Maneuver) are the most common therapeutic interventions. The goal of these treatments is to move the small particles within the semicircular canal to the utricle where they no longer are able to stimulate the sense organs within the canal.</p>",
+      "tagName": "p",
+      "previewContext": "emi-circular canals, over-stimulate the sense organs (hair cells and cupula). This results in patient complaints of dizziness and the observation of nystagmus in the direction of head rotation. The dizziness may last anywhere from a few seconds to a minute and there may be associated nausea.</p>\r\n\r\n<p>Brandt-Daroff and canalith repositioning movements (Epley Maneuver) are the most common therapeutic interventions. The goal of these treatments is to move the small particles within the semicircular canal to the utricle where they no longer are able to stimulate the sense organs within the canal.</p>\r\n\r\n<p>Hi-quality research studies show significant numbers of patients that experience a resolution of symptoms and negative diagnostic tests for BPPV after treatment intervention as compared to the control groups.</p>\r\n\r\n<p>While BPPV is a common diagnosis for those suffering from dizziness, there",
+      "textLength": 297,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "b2f49e1293da": {
+      "id": "b2f49e1293da",
+      "plainText": "Hi-quality research studies show significant numbers of patients that experience a resolution of symptoms and negative diagnostic tests for BPPV after treatment intervention as compared to the control groups.",
+      "originalHtml": "<p>Hi-quality research studies show significant numbers of patients that experience a resolution of symptoms and negative diagnostic tests for BPPV after treatment intervention as compared to the control groups.</p>",
+      "tagName": "p",
+      "previewContext": "t-Daroff and canalith repositioning movements (Epley Maneuver) are the most common therapeutic interventions. The goal of these treatments is to move the small particles within the semicircular canal to the utricle where they no longer are able to stimulate the sense organs within the canal.</p>\r\n\r\n<p>Hi-quality research studies show significant numbers of patients that experience a resolution of symptoms and negative diagnostic tests for BPPV after treatment intervention as compared to the control groups.</p>\r\n\r\n<p>While BPPV is a common diagnosis for those suffering from dizziness, there are other causes of vertigo (both central and peripheral).  It is important to consult your doctor and physical therapist regarding proper diagnosis and treatment of vertigo.</p>\r\n\r\n<p><a href=\"http://www.mayoclinic.or",
+      "textLength": 208,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "8f306c614102": {
+      "id": "8f306c614102",
+      "plainText": "While BPPV is a common diagnosis for those suffering from dizziness, there are other causes of vertigo (both central and peripheral). It is important to consult your doctor and physical therapist regarding proper diagnosis and treatment of vertigo.",
+      "originalHtml": "<p>While BPPV is a common diagnosis for those suffering from dizziness, there are other causes of vertigo (both central and peripheral).  It is important to consult your doctor and physical therapist regarding proper diagnosis and treatment of vertigo.</p>",
+      "tagName": "p",
+      "previewContext": "e they no longer are able to stimulate the sense organs within the canal.</p>\r\n\r\n<p>Hi-quality research studies show significant numbers of patients that experience a resolution of symptoms and negative diagnostic tests for BPPV after treatment intervention as compared to the control groups.</p>\r\n\r\n<p>While BPPV is a common diagnosis for those suffering from dizziness, there are other causes of vertigo (both central and peripheral).  It is important to consult your doctor and physical therapist regarding proper diagnosis and treatment of vertigo.</p>\r\n\r\n<p><a href=\"http://www.mayoclinic.org/diseases-conditions/vertigo/basics/definition/con-20028216\" target=\"_blank\">More on Vertigo at the Mayo Clinic</a></p></div>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/libra",
+      "textLength": 248,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "7615a4b06262": {
+      "id": "7615a4b06262",
+      "plainText": "More on Vertigo at the Mayo Clinic",
+      "originalHtml": "<p><a href=\"http://www.mayoclinic.org/diseases-conditions/vertigo/basics/definition/con-20028216\" target=\"_blank\">More on Vertigo at the Mayo Clinic</a></p>",
+      "tagName": "p",
+      "previewContext": "compared to the control groups.</p>\r\n\r\n<p>While BPPV is a common diagnosis for those suffering from dizziness, there are other causes of vertigo (both central and peripheral).  It is important to consult your doctor and physical therapist regarding proper diagnosis and treatment of vertigo.</p>\r\n\r\n<p><a href=\"http://www.mayoclinic.org/diseases-conditions/vertigo/basics/definition/con-20028216\" target=\"_blank\">More on Vertigo at the Mayo Clinic</a></p></div>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml",
+      "textLength": 34,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        }
+      ]
+    },
+    "600231386d46": {
+      "id": "600231386d46",
+      "plainText": "BPPV and Physical Therapy — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>BPPV and Physical Therapy — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 66,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": true
+        }
+      ]
+    },
+    "1b989b59be8c": {
+      "id": "1b989b59be8c",
+      "plainText": "Medical Library Neck 73. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Neck 73. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

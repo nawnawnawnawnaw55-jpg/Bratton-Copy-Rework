@@ -1,0 +1,37 @@
+{
+  "url": "http://localhost:8080/about/",
+  "viewport": "desktop-lg",
+  "width": 1440,
+  "height": 900,
+  "is_mobile": false,
+  "body_classes": {
+    "error": "Page.evaluate: TypeError: Cannot read properties of null (reading 'className')\n    at eval (eval at evaluate (:302:30), <anonymous>:1:15)\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "mobile_menu": {
+    "exists": false
+  },
+  "quick_access": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "navbar": {
+    "error": "Page.evaluate: SyntaxError: Illegal return statement\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "header": {
+    "exists": false
+  },
+  "hero": {
+    "exists": false
+  },
+  "orange_bars": {
+    "exists": false
+  },
+  "logo_img": {
+    "exists": false
+  },
+  "address_line": {
+    "error": "Page.evaluate: SyntaxError: missing ) after argument list\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "phone_link": {
+    "error": "Page.evaluate: SyntaxError: missing ) after argument list\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:302:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  }
+}

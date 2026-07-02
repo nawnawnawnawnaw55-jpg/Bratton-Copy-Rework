@@ -1,0 +1,168 @@
+[
+  {
+    "viewport": "iPhone SE",
+    "width": 375,
+    "height": 667,
+    "top": {
+      "transform": "scaleX(-1) translateY(34.9px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYTop": 34.9,
+    "heroFound": true,
+    "bgCount": 2,
+    "mid": {
+      "scrollPx": 210,
+      "transform": "translateY(47.1px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYMid": 47.1,
+    "past": {
+      "scrollPx": 520,
+      "transform": "translateY(63px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYPast": 63,
+    "assertions": {
+      "heroFound": true,
+      "hasTranslateY": true,
+      "translateYChanges": true,
+      "translateYIncreases": true,
+      "pastShowsInRange": true,
+      "mobileScaleXPreserved": true
+    },
+    "mobileScaleXPreserved": true,
+    "passed": true
+  },
+  {
+    "viewport": "iPhone 11",
+    "width": 414,
+    "height": 896,
+    "top": {
+      "transform": "scaleX(-1) translateY(39.8px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYTop": 39.8,
+    "heroFound": true,
+    "bgCount": 2,
+    "mid": {
+      "scrollPx": 210,
+      "transform": "translateY(49.8px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYMid": 49.8,
+    "past": {
+      "scrollPx": 520,
+      "transform": "translateY(63px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYPast": 63,
+    "assertions": {
+      "heroFound": true,
+      "hasTranslateY": true,
+      "translateYChanges": true,
+      "translateYIncreases": true,
+      "pastShowsInRange": true,
+      "mobileScaleXPreserved": true
+    },
+    "mobileScaleXPreserved": true,
+    "passed": true
+  },
+  {
+    "viewport": "iPad",
+    "width": 768,
+    "height": 1024,
+    "top": {
+      "transform": "scaleX(-1) translateY(47.4px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYTop": 47.4,
+    "heroFound": true,
+    "bgCount": 2,
+    "mid": {
+      "scrollPx": 333,
+      "transform": "translateY(67.1px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYMid": 67.1,
+    "past": {
+      "scrollPx": 766,
+      "transform": "translateY(92.7px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYPast": 92.7,
+    "assertions": {
+      "heroFound": true,
+      "hasTranslateY": true,
+      "translateYChanges": true,
+      "translateYIncreases": true,
+      "pastShowsInRange": true,
+      "mobileScaleXPreserved": true
+    },
+    "mobileScaleXPreserved": true,
+    "passed": true
+  },
+  {
+    "viewport": "Tablet Landscape",
+    "width": 1024,
+    "height": 768,
+    "top": {
+      "transform": "translateY(35px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYTop": 35,
+    "heroFound": true,
+    "bgCount": 2,
+    "mid": {
+      "scrollPx": 288,
+      "transform": "translateY(53.5px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYMid": 53.5,
+    "past": {
+      "scrollPx": 676,
+      "transform": "translateY(78.5px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYPast": 78.5,
+    "assertions": {
+      "heroFound": true,
+      "hasTranslateY": true,
+      "translateYChanges": true,
+      "translateYIncreases": true,
+      "pastShowsInRange": true
+    },
+    "passed": true
+  },
+  {
+    "viewport": "Desktop",
+    "width": 1440,
+    "height": 900,
+    "top": {
+      "transform": "translateY(43.5px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYTop": 43.5,
+    "heroFound": true,
+    "bgCount": 2,
+    "mid": {
+      "scrollPx": 338,
+      "transform": "translateY(65.2px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYMid": 65.2,
+    "past": {
+      "scrollPx": 775,
+      "transform": "translateY(93.3px)",
+      "debug": "(Debug panel not found)"
+    },
+    "translateYPast": 93.3,
+    "assertions": {
+      "heroFound": true,
+      "hasTranslateY": true,
+      "translateYChanges": true,
+      "translateYIncreases": true,
+      "pastShowsInRange": true
+    },
+    "passed": true
+  }
+]

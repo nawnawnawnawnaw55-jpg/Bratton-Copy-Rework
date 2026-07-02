@@ -1,0 +1,65 @@
+{
+  "section": "Core Pages > Community",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "b6f2cfb03a57": {
+      "id": "b6f2cfb03a57",
+      "plainText": "Community Bratton Physical Therapy is locally owned and operated. We're proud to serve the Slidell community and surrounding areas, and we believe in giving back to the people who make this area great. From sponsoring local sports teams to hosting wellness workshops, we're committed to helping our neighbors live active, pain-free lives. Partner With Us",
+      "originalHtml": "<div class=\"container\" style=\"max-width:700px\">\r\n      <h1>Community</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Bratton Physical Therapy is locally owned and operated. We're proud to serve the Slidell community and surrounding areas, and we believe in giving back to the people who make this area great.</p>\r\n      <p>From sponsoring local sports teams to hosting wellness workshops, we're committed to helping our neighbors live active, pain-free lives.</p>\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Partner With Us</a></p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:700px\">\r\n      <h1>Community</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Bratton Physical Therapy is locally owned and operated. We're proud to serve the Slidell community and surrounding areas, and we believe in giving back to the people who make this area great.</p>\r\n      <p>From sponsoring local sports teams to hosting wellness workshops, we're committed to helping our neighbors live active, pain-free lives.</p>\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Partner With Us</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 354,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "community/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Community",
+          "pageName": "community",
+          "isMeta": false
+        }
+      ]
+    },
+    "7fea5f986da0": {
+      "id": "7fea5f986da0",
+      "plainText": "Community — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Community — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 50,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "community/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Community",
+          "pageName": "community",
+          "isMeta": true
+        }
+      ]
+    },
+    "df76523aac13": {
+      "id": "df76523aac13",
+      "plainText": "Bratton Physical Therapy is proud to serve the Slidell, LA community. Learn about our community involvement.",
+      "originalHtml": "<meta name=\"description\" content=\"Bratton Physical Therapy is proud to serve the Slidell, LA community. Learn about our community involvement.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 108,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "community/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Community",
+          "pageName": "community",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

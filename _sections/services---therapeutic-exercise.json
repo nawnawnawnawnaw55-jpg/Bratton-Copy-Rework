@@ -1,0 +1,65 @@
+{
+  "section": "Services > Therapeutic Exercise",
+  "category": "services",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "510b9a20213e": {
+      "id": "510b9a20213e",
+      "plainText": "The primary goal of physical therapy is usually to recover strength, flexibility, and function. In most cases, therapeutic exercise is an important component of the rehabilitation process. Therapeutic exercises involves movement of the body to facilitate recovery from limitations often associated with nerve, muscle, and/or joint problems. Therapeutic exercises is used to help people in need of: Help with walking again To improve circulation To improve joint motion To improve balance To relax tight muscles To release shortened or scarred tissue To recover strength & power To recover complex coordinated (sports-related) movements For cardiorespiratory condition Types of Therapeutic Exercises There are different types of therapeutic exercise that we provide based on our detailed assessment of your condition and your rehab goals. Physical therapists are experts at providing appropriate progressive therapeutic exercise programs for a given condition and where you are at in the recovery process. By varying frequency, intensity, and resistance, treatment goals can be achieved in an optimal timeframe. Here is a partial list of therapeutic exercises that may be appropriate for you: Range of motion exercises Proprioceptive neuromuscular facilitation Isometric exercises Isotonic resistance exercises Isokinetic exercises Manual resistive exercises Aerobic/endurance exercises Therapeutic exercise is often an important component of a comprehensive treatment plan. The key is customizing the plan for your specific needs. For more information about how therapeutic exercise can help you, please give us a Call (985) 641-5825.",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>The primary goal of physical therapy is usually to recover strength, flexibility, and function. In most cases, therapeutic exercise is an important component of the rehabilitation process. Therapeutic exercises involves movement of the body to facilitate recovery from limitations often associated with nerve, muscle, and/or joint problems.</p>\r\n<h3>Therapeutic exercises is used to help people in need of:</h3>\r\n<ul>\r\n<li>Help with walking again</li>\r\n<li>To improve circulation</li>\r\n<li>To improve joint motion</li>\r\n<li>To improve balance</li>\r\n<li>To relax tight muscles</li>\r\n<li>To release shortened or scarred tissue</li>\r\n<li>To recover strength & power</li>\r\n<li>To recover complex coordinated (sports-related) movements</li>\r\n<li>For cardiorespiratory condition</li>\r\n</ul>\r\n<h3>Types of Therapeutic Exercises</h3>\r\n<p>There are different types of therapeutic exercise that we provide based on our detailed assessment of your condition and your rehab goals. Physical therapists are experts at providing appropriate progressive therapeutic exercise programs for a given condition and where you are at in the recovery process. By varying frequency, intensity, and resistance, treatment goals can be achieved in an optimal timeframe.</p>\r\n<h3>Here is a partial list of therapeutic exercises that may be appropriate for you:</h3>\r\n<ol>\r\n<li>Range of motion exercises</li>\r\n<li>Proprioceptive neuromuscular facilitation</li>\r\n<li>Isometric exercises</li>\r\n<li>Isotonic resistance exercises</li>\r\n<li>Isokinetic exercises</li>\r\n<li>Manual resistive exercises</li>\r\n<li>Aerobic/endurance exercises</li>\r\n</ol>\r\n<p>Therapeutic exercise is often an important component of a comprehensive treatment plan. The key is customizing the plan for your specific needs.</p>\r\n<p>For more information about how therapeutic exercise can help you, please give us a Call (985) 641-5825.</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "se</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/therapeutic-exercise.jpg\" alt=\"Therapeutic Exercise\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>The primary goal of physical therapy is usually to recover strength, flexibility, and function. In most cases, therapeutic exercise is an important component of the rehabilitation process. Therapeutic exercises involves movement of the body to facilitate recovery from limitations often associated with nerve, muscle, and/or joint problems.</p>\r\n<h3>Therapeutic exercises is used to help people in need of:</h3>\r\n<ul>\r\n<li>Help with walking again</li>\r\n<li>To improve circulation</li>\r\n<li>To improve joint motion</li>\r\n<li>To improve balance</li>\r\n<li>To relax tight muscles</li>\r\n<li>To release shortened or scarred tissue</li>\r\n<li>To recover strength & power</li>\r\n<li>To recover complex coordinated (sports-related) movements</li>\r\n<li>For cardiorespiratory condition</li>\r\n</ul>\r\n<h3>Types of Therapeutic Exercises</h3>\r\n<p>There are different types of therapeutic exercise that we provide based on our detailed assessment of your condition and your rehab goals. Physical therapists are experts at providing appropriate progressive therapeutic exercise programs for a given condition and where you are at in the recovery process. By varying frequency, intensity, and resistance, treatment goals can be achieved in an optimal timeframe.</p>\r\n<h3>Here is a partial list of therapeutic exercises that may be appropriate for you:</h3>\r\n<ol>\r\n<li>Range of motion exercises</li>\r\n<li>Proprioceptive neuromuscular facilitation</li>\r\n<li>Isometric exercises</li>\r\n<li>Isotonic resistance exercises</li>\r\n<li>Isokinetic exercises</li>\r\n<li>Manual resistive exercises</li>\r\n<li>Aerobic/endurance exercises</li>\r\n</ol>\r\n<p>Therapeutic exercise is often an important component of a comprehensive treatment plan. The key is customizing the plan for your specific needs.</p>\r\n<p>For more information about how therapeutic exercise can help you, please give us a Call (985) 641-5825.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1634,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/therapeutic-exercise/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Therapeutic Exercise",
+          "pageName": "therapeutic-exercise",
+          "isMeta": false
+        }
+      ]
+    },
+    "c22a20e94905": {
+      "id": "c22a20e94905",
+      "plainText": "Therapeutic Exercise — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Therapeutic Exercise — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 61,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/therapeutic-exercise/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Therapeutic Exercise",
+          "pageName": "therapeutic-exercise",
+          "isMeta": true
+        }
+      ]
+    },
+    "faaa6d1b4df4": {
+      "id": "faaa6d1b4df4",
+      "plainText": "Therapeutic exercise physical therapy in Slidell, LA. Customized rehab programs for strength, flexibility, and function recovery. Call 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Therapeutic exercise physical therapy in Slidell, LA. Customized rehab programs for strength, flexibility, and function recovery. Call 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 148,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/therapeutic-exercise/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Therapeutic Exercise",
+          "pageName": "therapeutic-exercise",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

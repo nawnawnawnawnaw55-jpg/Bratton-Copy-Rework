@@ -1,0 +1,65 @@
+{
+  "section": "Medical Library > First Visit",
+  "category": "medical-library",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "ee44967cf3f3": {
+      "id": "ee44967cf3f3",
+      "plainText": "Your First Visit Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Your First Visit</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Your First Visit</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 171,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        }
+      ]
+    },
+    "29df3d2032b5": {
+      "id": "29df3d2032b5",
+      "plainText": "Your First Visit — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Your First Visit — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 57,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": true
+        }
+      ]
+    },
+    "38c1ca3ed4ef": {
+      "id": "38c1ca3ed4ef",
+      "plainText": "Medical Library Firstvisit . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Firstvisit . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

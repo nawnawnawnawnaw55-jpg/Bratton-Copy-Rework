@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Knee Replacement Rehab — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Expert physical therapy after knee replacement surgery in Slidell, LA. One-on-one rehab to restore motion, strength, and function. Call (985) 641-5825.">
+<meta property="og:title" content="Knee Replacement Rehab — Bratton Physical Therapy">
+<meta property="og:description" content="Expert PT after knee replacement in Slidell, LA. One-on-one care to restore motion, strength, and function.">
+<meta property="og:url" content="/knee-replacement/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+
+  <section class="section section--primary" style="padding:clamp(48px,10vw,80px) 0">
+    <div class="container" style="max-width:800px;text-align:center">
+      <h1>Knee Replacement Rehabilitation</h1>
+      <p style="font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95">Recovering from a total or partial knee replacement takes dedicated rehabilitation. Our one-on-one physical therapy in Slidell helps you regain range of motion, rebuild strength, and return to the activities you love.</p>
+      <p style="margin-top:28px">
+        <a href="tel:9856415825" class="btn btn--accent btn--lg">Call (985) 641-5825</a>
+        <a href="/booking/" class="btn btn--outline" style="margin-left:12px;color:var(--white);border-color:var(--white)">Request Appointment</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--light">
+    <div class="container" style="max-width:900px">
+      <h2 style="text-align:center;margin-bottom:32px">Your Recovery Roadmap</h2>
+      <div class="grid grid--3" style="text-align:center">
+        <div style="background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)">
+          <h3 style="color:var(--accent);font-size:1.1rem">Early Recovery</h3>
+          <p style="font-size:0.95rem;line-height:1.6;margin-top:8px">Manage swelling, regain knee extension and flexion, activate quadriceps, and begin walking</p>
+        </div>
+        <div style="background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)">
+          <h3 style="color:var(--accent);font-size:1.1rem">Building Strength</h3>
+          <p style="font-size:0.95rem;line-height:1.6;margin-top:8px">Progressive strengthening, balance training, and gait retraining for normal walking</p>
+        </div>
+        <div style="background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)">
+          <h3 style="color:var(--accent);font-size:1.1rem">Advanced Function</h3>
+          <p style="font-size:0.95rem;line-height:1.6;margin-top:8px">Return to stairs, driving, recreational activities, and full independence</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h2>Why Choose Bratton PT After Knee Replacement</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>One-on-one sessions — your therapist is with you for every minute</li>
+        <li>45–60 minute appointments for thorough, unhurried care</li>
+        <li>Manual therapy to reduce scar tissue and improve joint mobility</li>
+        <li>Personalized progression — we meet you where you are</li>
+        <li>Close communication with your surgeon when needed</li>
+        <li>No referral needed — we coordinate directly with your orthopedist</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--primary" style="padding:clamp(40px,8vw,60px) 0">
+    <div class="container" style="max-width:800px;text-align:center">
+      <h2 style="color:var(--white)">Get the Most from Your New Knee</h2>
+      <p style="font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95">Call or book online to schedule your post-operative rehabilitation.</p>
+      <p style="margin-top:24px">
+        <a href="tel:9856415825" class="btn btn--accent btn--lg">Call (985) 641-5825</a>
+        <a href="/booking/" class="btn btn--outline btn--lg" style="margin-left:12px;color:var(--white);border-color:var(--white)">Request Appointment</a>
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<div id="site-footer"></div>
+<script>fetch('/templates/footer.html').then(function(r){return r.text()}).then(function(f){document.getElementById('site-footer').innerHTML=f});</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

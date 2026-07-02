@@ -1,0 +1,268 @@
+{
+  "section": "Services > Index.Html",
+  "category": "services",
+  "pageCount": 5,
+  "snippetCount": 12,
+  "snippets": {
+    "8f6936a52d30": {
+      "id": "8f6936a52d30",
+      "plainText": "Our Services We offer a comprehensive range of physical therapy services, from hands-on manual therapy to advanced therapeutic techniques. Every treatment is delivered one-on-one by a licensed physical therapist. Patient Education",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h1>Our Services</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7;max-width:700px\">We offer a comprehensive range of physical therapy services, from hands-on manual therapy to advanced therapeutic techniques. Every treatment is delivered one-on-one by a licensed physical therapist.</p>\r\n\r\n      <div class=\"service-grid\" style=\"display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px;margin:24px 0;overflow:visible;flex-wrap:wrap\">\r\n        <a href=\"/services/patient-education/\" class=\"service-card\"><img src=\"/files/services/patient-education.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Patient Education</h4></div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h1>Our Services</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7;max-width:700px\">We offer a comprehensive range of physical therapy services, from hands-on manual therapy to advanced therapeutic techniques. Every treatment is delivered one-on-one by a licensed physical therapist.</p>\r\n\r\n      <div class=\"service-grid\" style=\"display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px;margin:24px 0;overflow:visible;flex-wrap:wrap\">\r\n        <a href=\"/services/patient-education/\" class=\"service-card\"><img src=\"/files/services/patient-education.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Patient Education</h4></div></a>\r\n        <a href=\"/services/therapeutic-exercise/\" class=\"service-card\"><img src=\"/files/services/therapeutic-exercise.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Therapeutic Exercise</h4></div></a>\r\n        <a href=\"/services/strength-conditioning/\"",
+      "textLength": 230,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "c251dc6d1f32": {
+      "id": "c251dc6d1f32",
+      "plainText": "Therapeutic Exercise",
+      "originalHtml": "<a href=\"/services/therapeutic-exercise/\" class=\"service-card\"><img src=\"/files/services/therapeutic-exercise.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Therapeutic Exercise</h4></div></a>",
+      "tagName": "a",
+      "previewContext": "ap:16px;margin:24px 0;overflow:visible;flex-wrap:wrap\">\r\n        <a href=\"/services/patient-education/\" class=\"service-card\"><img src=\"/files/services/patient-education.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Patient Education</h4></div></a>\r\n        <a href=\"/services/therapeutic-exercise/\" class=\"service-card\"><img src=\"/files/services/therapeutic-exercise.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Therapeutic Exercise</h4></div></a>\r\n        <a href=\"/services/strength-conditioning/\" class=\"service-card\"><img src=\"/files/services/strength-conditioning.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Strength & Conditioning</h4></div></a>\r\n        <a href=\"/services/dry-needling-certified",
+      "textLength": 20,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "a.service-card",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "services/therapeutic-exercise/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Therapeutic Exercise",
+          "pageName": "therapeutic-exercise",
+          "isMeta": false
+        }
+      ]
+    },
+    "3218d2c68b25": {
+      "id": "3218d2c68b25",
+      "plainText": "Mulligan Technique",
+      "originalHtml": "<a href=\"/services/mulligan-technique/\" class=\"service-card\"><img src=\"/files/services/mulligan-technique.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Mulligan Technique</h4></div></a>",
+      "tagName": "a",
+      "previewContext": "service-card__body\"><h4>Blood Flow Restriction</h4></div></a>\r\n        <a href=\"/services/mckenzie-method/\" class=\"service-card\"><img src=\"/files/services/mckenzie-method.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>McKenzie Method</h4></div></a>\r\n        <a href=\"/services/mulligan-technique/\" class=\"service-card\"><img src=\"/files/services/mulligan-technique.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Mulligan Technique</h4></div></a>\r\n        <a href=\"/services/cupping/\" class=\"service-card\"><img src=\"/files/services/cupping.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Cupping</h4></div></a>\r\n        <a href=\"/services/gait-balance-training/\" class=\"service-card\"><img src=\"/files/serv",
+      "textLength": 18,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "a.service-card",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "services/mulligan-technique/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Mulligan Technique",
+          "pageName": "mulligan-technique",
+          "isMeta": false
+        }
+      ]
+    },
+    "e941b53a3baa": {
+      "id": "e941b53a3baa",
+      "plainText": "Vasopneumatic Compression",
+      "originalHtml": "<a href=\"/services/vasopneumatic-compression/\" class=\"service-card\"><img src=\"/files/photos/vaso.png\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Vasopneumatic Compression</h4></div></a>",
+      "tagName": "a",
+      "previewContext": "ss=\"service-card__body\"><h4>Cupping</h4></div></a>\r\n        <a href=\"/services/gait-balance-training/\" class=\"service-card\"><img src=\"/files/services/gait-balance-training.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Gait & Balance</h4></div></a>\r\n        <a href=\"/services/vasopneumatic-compression/\" class=\"service-card\"><img src=\"/files/photos/vaso.png\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Vasopneumatic Compression</h4></div></a>\r\n        <a href=\"/services/moist-heat-ice/\" class=\"service-card\"><img src=\"/files/services/moist-heat-ice.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Moist Heat / Ice</h4></div></a>\r\n        <a href=\"/services/electrical-stimulation/\" class=\"service-car",
+      "textLength": 25,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "a.service-card",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "services/vasopneumatic-compression/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Vasopneumatic Compression",
+          "pageName": "vasopneumatic-compression",
+          "isMeta": false
+        }
+      ]
+    },
+    "936057d503d3": {
+      "id": "936057d503d3",
+      "plainText": "Moist Heat / Ice",
+      "originalHtml": "<a href=\"/services/moist-heat-ice/\" class=\"service-card\"><img src=\"/files/services/moist-heat-ice.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Moist Heat / Ice</h4></div></a>",
+      "tagName": "a",
+      "previewContext": "\"service-card__body\"><h4>Gait & Balance</h4></div></a>\r\n        <a href=\"/services/vasopneumatic-compression/\" class=\"service-card\"><img src=\"/files/photos/vaso.png\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Vasopneumatic Compression</h4></div></a>\r\n        <a href=\"/services/moist-heat-ice/\" class=\"service-card\"><img src=\"/files/services/moist-heat-ice.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Moist Heat / Ice</h4></div></a>\r\n        <a href=\"/services/electrical-stimulation/\" class=\"service-card\"><img src=\"/files/services/electrical-stimulation.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Electrical Stimulation</h4></div></a>\r\n        <a href=\"/services/workers-compensation/",
+      "textLength": 16,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "a.service-card",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "services/moist-heat-ice/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Moist Heat Ice",
+          "pageName": "moist-heat-ice",
+          "isMeta": false
+        }
+      ]
+    },
+    "0ffff395ece4": {
+      "id": "0ffff395ece4",
+      "plainText": "The Bratton Difference",
+      "originalHtml": "<h2>The Bratton Difference</h2>",
+      "tagName": "h2",
+      "previewContext": "h4>Electrical Stimulation</h4></div></a>\r\n        <a href=\"/services/workers-compensation/\" class=\"service-card\"><img src=\"/files/services/workers-compensation.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Workers Comp</h4></div></a>\r\n      </div>\r\n\r\n      <h2>The Bratton Difference</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Every session is one-on-one with a licensed physical therapist</li>\r\n        <li>45–60 minute appointments — enough time to make real progress</li>\r\n        <li>Combination of hands-on manual therapy and guided exercise</li>",
+      "textLength": 22,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "h2",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "dc79a1b53025": {
+      "id": "dc79a1b53025",
+      "plainText": "Every session is one-on-one with a licensed physical therapist",
+      "originalHtml": "<li>Every session is one-on-one with a licensed physical therapist</li>",
+      "tagName": "li",
+      "previewContext": "ss=\"service-card\"><img src=\"/files/services/workers-compensation.jpg\" alt=\"\" class=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Workers Comp</h4></div></a>\r\n      </div>\r\n\r\n      <h2>The Bratton Difference</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Every session is one-on-one with a licensed physical therapist</li>\r\n        <li>45–60 minute appointments — enough time to make real progress</li>\r\n        <li>Combination of hands-on manual therapy and guided exercise</li>\r\n        <li>Treatment plans built around your specific goals and recovery timeline</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href",
+      "textLength": 62,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "li",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "c0cfa8f880f7": {
+      "id": "c0cfa8f880f7",
+      "plainText": "45–60 minute appointments — enough time to make real progress",
+      "originalHtml": "<li>45–60 minute appointments — enough time to make real progress</li>",
+      "tagName": "li",
+      "previewContext": "s=\"service-card__img\" loading=\"lazy\"><div class=\"service-card__body\"><h4>Workers Comp</h4></div></a>\r\n      </div>\r\n\r\n      <h2>The Bratton Difference</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Every session is one-on-one with a licensed physical therapist</li>\r\n        <li>45–60 minute appointments — enough time to make real progress</li>\r\n        <li>Combination of hands-on manual therapy and guided exercise</li>\r\n        <li>Treatment plans built around your specific goals and recovery timeline</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </",
+      "textLength": 61,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "li",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "f301678e8315": {
+      "id": "f301678e8315",
+      "plainText": "Combination of hands-on manual therapy and guided exercise",
+      "originalHtml": "<li>Combination of hands-on manual therapy and guided exercise</li>",
+      "tagName": "li",
+      "previewContext": "Comp</h4></div></a>\r\n      </div>\r\n\r\n      <h2>The Bratton Difference</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Every session is one-on-one with a licensed physical therapist</li>\r\n        <li>45–60 minute appointments — enough time to make real progress</li>\r\n        <li>Combination of hands-on manual therapy and guided exercise</li>\r\n        <li>Treatment plans built around your specific goals and recovery timeline</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</h",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "li",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "57a11417a04a": {
+      "id": "57a11417a04a",
+      "plainText": "Treatment plans built around your specific goals and recovery timeline",
+      "originalHtml": "<li>Treatment plans built around your specific goals and recovery timeline</li>",
+      "tagName": "li",
+      "previewContext": "<ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Every session is one-on-one with a licensed physical therapist</li>\r\n        <li>45–60 minute appointments — enough time to make real progress</li>\r\n        <li>Combination of hands-on manual therapy and guided exercise</li>\r\n        <li>Treatment plans built around your specific goals and recovery timeline</li>\r\n      </ul>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 70,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "li",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "9dc22d7cb269": {
+      "id": "9dc22d7cb269",
+      "plainText": "Our Services — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Our Services — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": true
+        }
+      ]
+    },
+    "7936e0027e65": {
+      "id": "7936e0027e65",
+      "plainText": "Bratton Physical Therapy offers therapeutic exercise, dry needling, cupping, McKenzie Method, blood flow restriction, and more in Slidell, LA.",
+      "originalHtml": "<meta name=\"description\" content=\"Bratton Physical Therapy offers therapeutic exercise, dry needling, cupping, McKenzie Method, blood flow restriction, and more in Slidell, LA.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 142,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

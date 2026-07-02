@@ -1,0 +1,256 @@
+/* ===== ANGULAR DIVIDERS & PARALLAX ELEMENTS ===== */
+
+/* ---- Angular Section Divider (parallelogram overlap) ---- */
+.angular-divider {
+  position: relative;
+  height: clamp(60px, 8vw, 120px);
+  overflow: hidden;
+  z-index: 2;
+}
+.angular-divider::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  transform: skewY(-2.5deg);
+  transform-origin: top left;
+}
+/* variants for alternating tilt direction */
+.angular-divider--top::before {
+  transform: skewY(-2.5deg);
+  transform-origin: top left;
+  top: -40%;
+}
+.angular-divider--bottom::before {
+  transform: skewY(2.5deg);
+  transform-origin: bottom right;
+  bottom: -20%;
+}
+.angular-divider--white::before { background: var(--white); }
+.angular-divider--light::before { background: var(--light-bg); }
+.angular-divider--primary::before { background: var(--primary); }
+.angular-divider--dark::before { background: var(--dark); }
+
+/* ---- Thin Angular Slash Divider (narrow diagonal line between sections) ---- */
+.angular-slash-divider {
+  position: relative;
+  height: 20px;
+  z-index: 2;
+  margin: 0;
+  background: var(--light-bg);
+  pointer-events: none;
+}
+.angular-slash-divider::after {
+  content: "";
+  position: absolute;
+  left: 8%;
+  right: 8%;
+  top: 50%;
+  height: 4px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--primary) 8%,
+    var(--primary) 40%,
+    var(--accent) 70%,
+    transparent 100%
+  );
+  transform: skewY(-0.5deg) translateY(-50%);
+  border-radius: 2px;
+}
+@media (max-width: 600px) {
+  .angular-slash-divider {
+    height: 60px;
+  }
+  .angular-slash-divider::after {
+    height: 3px;
+    left: 5%;
+    right: 5%;
+    top: 35%;
+    transform: translateY(-50%);
+  }
+}
+
+/* ---- Section with negative-margin overlap ---- */
+.section--overlap-top {
+  position: relative;
+  z-index: 3;
+  margin-top: clamp(-40px, -6vw, -80px);
+  padding-top: clamp(60px, 10vw, 120px);
+}
+.section--overlap-bottom {
+  position: relative;
+  z-index: 3;
+  margin-bottom: clamp(-40px, -6vw, -80px);
+  padding-bottom: clamp(60px, 10vw, 120px);
+}
+
+/* ---- Angular card cluster (overlapping cards at different scroll speeds) ---- */
+.angular-cluster {
+  position: relative;
+  min-height: clamp(300px, 50vw, 500px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.angular-cluster__item {
+  position: absolute;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  will-change: transform;
+  transition: transform 0.1s linear;
+}
+.angular-cluster__item--1 {
+  width: clamp(160px, 25vw, 280px);
+  height: clamp(160px, 25vw, 280px);
+  background: var(--primary);
+  left: 5%;
+  top: 10%;
+  z-index: 1;
+  transform: rotate(-4deg);
+}
+.angular-cluster__item--2 {
+  width: clamp(140px, 22vw, 240px);
+  height: clamp(140px, 22vw, 240px);
+  background: var(--accent);
+  right: 8%;
+  top: 25%;
+  z-index: 2;
+  transform: rotate(6deg);
+}
+.angular-cluster__item--3 {
+  width: clamp(120px, 18vw, 200px);
+  height: clamp(120px, 18vw, 200px);
+  background: var(--success);
+  left: 20%;
+  bottom: 5%;
+  z-index: 3;
+  transform: rotate(-2deg);
+}
+.angular-cluster__item--4 {
+  width: clamp(100px, 15vw, 160px);
+  height: clamp(100px, 15vw, 160px);
+  background: var(--primary-dark);
+  right: 15%;
+  bottom: 15%;
+  z-index: 4;
+  transform: rotate(3deg);
+}
+.angular-cluster__item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+}
+/* On mobile, stack items more centrally */
+@media (max-width: 767px) {
+  .angular-cluster__item--1 { left: 2%; top: 5%; }
+  .angular-cluster__item--2 { right: 2%; top: 20%; }
+  .angular-cluster__item--3 { left: 8%; bottom: 8%; }
+  .angular-cluster__item--4 { right: 5%; bottom: 10%; }
+}
+
+/* ---- Hero logo overlap (logo sits at bottom of hero, overlaps next section) ---- */
+.hero--logo-overlap {
+  position: relative;
+}
+.hero__logo-strip {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  pointer-events: none;
+  transform: translateY(35%);
+}
+.hero__logo-strip img {
+  width: clamp(100px, 18vw, 200px);
+  height: auto;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.25));
+}
+@media (max-width: 767px) {
+  .hero__logo-strip {
+    transform: translateY(30%);
+  }
+  .hero__logo-strip img {
+    width: clamp(80px, 22vw, 140px);
+  }
+}
+
+/* ---- Parallax background layers ---- */
+.parallax-wrap {
+  position: relative;
+  overflow: hidden;
+}
+.parallax-bg {
+  position: absolute;
+  inset: -20%;
+  background-size: cover;
+  background-position: center;
+  will-change: transform;
+  z-index: 0;
+}
+.parallax-bg--slow {
+  transform: translateZ(0);
+}
+.parallax-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* ---- Scroll-driven fade/slide reveals ---- */
+.reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal-on-scroll.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Directional slide-in variants */
+.reveal-on-scroll[data-reveal-dir="left"] {
+  transform: translateX(-80px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal-on-scroll[data-reveal-dir="left"].revealed {
+  transform: translateX(0);
+}
+.reveal-on-scroll[data-reveal-dir="right"] {
+  transform: translateX(80px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal-on-scroll[data-reveal-dir="right"].revealed {
+  transform: translateX(0);
+}
+.reveal-on-scroll[data-reveal-dir="bottom"] {
+  transform: translateY(60px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal-on-scroll[data-reveal-dir="bottom"].revealed {
+  transform: translateY(0);
+}
+
+/* Staggered delays for cluster items */
+.angular-scroll-item--1.reveal-on-scroll { transition-delay: 0s; }
+.angular-scroll-item--2.reveal-on-scroll { transition-delay: 0.15s; }
+.angular-scroll-item--3.reveal-on-scroll { transition-delay: 0.3s; }
+
+/* Mobile: reduce slide distance */
+@media (max-width: 600px) {
+  .reveal-on-scroll[data-reveal-dir="left"] {
+    transform: translateX(-40px);
+  }
+  .reveal-on-scroll[data-reveal-dir="right"] {
+    transform: translateX(40px);
+  }
+  .reveal-on-scroll[data-reveal-dir="bottom"] {
+    transform: translateY(30px);
+  }
+}
+

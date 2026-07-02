@@ -1,0 +1,35 @@
+{
+  "url": "https://www.brattonphysicaltherapy.com/services/cupping/",
+  "viewport": "desktop-lg",
+  "width": 1440,
+  "height": 900,
+  "is_mobile": false,
+  "body_classes": "",
+  "mobile_menu": {
+    "exists": false
+  },
+  "quick_access": {
+    "exists": false
+  },
+  "navbar": {
+    "exists": false
+  },
+  "header": {
+    "exists": false
+  },
+  "hero": {
+    "exists": false
+  },
+  "orange_bars": {
+    "exists": false
+  },
+  "logo_img": {
+    "exists": false
+  },
+  "address_line": {
+    "exists": false
+  },
+  "phone_link": {
+    "exists": false
+  }
+}

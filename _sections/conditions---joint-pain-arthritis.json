@@ -1,0 +1,179 @@
+{
+  "section": "Conditions > Joint Pain Arthritis",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 9,
+  "snippets": {
+    "64903461dc6d": {
+      "id": "64903461dc6d",
+      "plainText": "Joint Pain & Arthritis Treatment Joint pain and arthritis don't have to limit your life. Our one-on-one physical therapy in Slidell uses evidence-based techniques to reduce pain, improve mobility, and help you stay active — at any age. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Joint Pain & Arthritis Treatment</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Joint pain and arthritis don't have to limit your life. Our one-on-one physical therapy in Slidell uses evidence-based techniques to reduce pain, improve mobility, and help you stay active — at any age.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Joint Pain & Arthritis Treatment</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Joint pain and arthritis don't have to limit your life. Our one-on-one physical therapy in Slidell uses evidence-based techniques to reduce pain, improve mobility, and help you stay active — at any age.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Conditions We Treat</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--light-gray);padding:24",
+      "textLength": 275,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "e9d20a7bac8e": {
+      "id": "e9d20a7bac8e",
+      "plainText": "Conditions We Treat Osteoarthritis The most common form of arthritis — wear and tear on joint cartilage in knees, hips, shoulders, and spine",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Conditions We Treat</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Osteoarthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">The most common form of arthritis — wear and tear on joint cartilage in knees, hips, shoulders, and spine</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Conditions We Treat</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Osteoarthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">The most common form of arthritis — wear and tear on joint cartilage in knees, hips, shoulders, and spine</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Rheumatoid Arthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Autoimmune-related joint inflammation — we hel",
+      "textLength": 140,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "707c4d1f0b6d": {
+      "id": "707c4d1f0b6d",
+      "plainText": "Rheumatoid Arthritis Autoimmune-related joint inflammation — we help manage pain and maintain function",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Rheumatoid Arthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Autoimmune-related joint inflammation — we help manage pain and maintain function</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "-radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Osteoarthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">The most common form of arthritis — wear and tear on joint cartilage in knees, hips, shoulders, and spine</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Rheumatoid Arthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Autoimmune-related joint inflammation — we help manage pain and maintain function</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Chronic Joint Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ongoing joint discomfort from old injuries, over",
+      "textLength": 102,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "4a434ee69d2b": {
+      "id": "4a434ee69d2b",
+      "plainText": "Chronic Joint Pain Ongoing joint discomfort from old injuries, overuse, or unknown causes",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Chronic Joint Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ongoing joint discomfort from old injuries, overuse, or unknown causes</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "order-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Rheumatoid Arthritis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Autoimmune-related joint inflammation — we help manage pain and maintain function</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Chronic Joint Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ongoing joint discomfort from old injuries, overuse, or unknown causes</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>How Physical Therapy Helps Arthritis</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Strengthening the muscles that support y",
+      "textLength": 89,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "cffbf98b2900": {
+      "id": "cffbf98b2900",
+      "plainText": "How Physical Therapy Helps Arthritis Strengthening the muscles that support your joints reduces joint stress Manual therapy improves joint mobility and reduces stiffness Low-impact exercise maintains cartilage health Education on activity modification and joint protection strategies Balance and gait training to reduce fall risk Pain management without relying solely on medication",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>How Physical Therapy Helps Arthritis</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Strengthening the muscles that support your joints reduces joint stress</li>\r\n        <li>Manual therapy improves joint mobility and reduces stiffness</li>\r\n        <li>Low-impact exercise maintains cartilage health</li>\r\n        <li>Education on activity modification and joint protection strategies</li>\r\n        <li>Balance and gait training to reduce fall risk</li>\r\n        <li>Pain management without relying solely on medication</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ent);font-size:1.1rem\">Chronic Joint Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ongoing joint discomfort from old injuries, overuse, or unknown causes</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>How Physical Therapy Helps Arthritis</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Strengthening the muscles that support your joints reduces joint stress</li>\r\n        <li>Manual therapy improves joint mobility and reduces stiffness</li>\r\n        <li>Low-impact exercise maintains cartilage health</li>\r\n        <li>Education on activity modification and joint protection strategies</li>\r\n        <li>Balance and gait training to reduce fall risk</li>\r\n        <li>Pain management without relying solely on medication</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Choose Bratton PT for Arthritis</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li",
+      "textLength": 382,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "893d2fd4146a": {
+      "id": "893d2fd4146a",
+      "plainText": "Why Choose Bratton PT for Arthritis One-on-one sessions — your therapist is with you the entire time 45–60 minute appointments — never rushed Gentle, progressive approach tailored to your pain levels Focus on long-term self-management and independence No referral needed in Louisiana — Direct Access",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Choose Bratton PT for Arthritis</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments — never rushed</li>\r\n        <li>Gentle, progressive approach tailored to your pain levels</li>\r\n        <li>Focus on long-term self-management and independence</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "/li>\r\n        <li>Education on activity modification and joint protection strategies</li>\r\n        <li>Balance and gait training to reduce fall risk</li>\r\n        <li>Pain management without relying solely on medication</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Choose Bratton PT for Arthritis</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments — never rushed</li>\r\n        <li>Gentle, progressive approach tailored to your pain levels</li>\r\n        <li>Focus on long-term self-management and independence</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Move Better, Live Better</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-to",
+      "textLength": 299,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "a0e7101aa035": {
+      "id": "a0e7101aa035",
+      "plainText": "Move Better, Live Better Joint pain doesn't have to hold you back. Call or book online today. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Move Better, Live Better</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Joint pain doesn't have to hold you back. Call or book online today.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ailored to your pain levels</li>\r\n        <li>Focus on long-term self-management and independence</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Move Better, Live Better</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Joint pain doesn't have to hold you back. Call or book online today.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 133,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": false
+        }
+      ]
+    },
+    "493375985090": {
+      "id": "493375985090",
+      "plainText": "Joint Pain & Arthritis Treatment — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Joint Pain & Arthritis Treatment — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": true
+        }
+      ]
+    },
+    "a3e33fb659ac": {
+      "id": "a3e33fb659ac",
+      "plainText": "Expert physical therapy for joint pain and arthritis in Slidell, LA. Treating osteoarthritis, rheumatoid arthritis, and chronic joint pain. One-on-one PT. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy for joint pain and arthritis in Slidell, LA. Treating osteoarthritis, rheumatoid arthritis, and chronic joint pain. One-on-one PT. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 175,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "joint-pain-arthritis/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Joint Pain Arthritis",
+          "pageName": "joint-pain-arthritis",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

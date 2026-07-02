@@ -1,0 +1,1991 @@
+[
+  {
+    "dirName": "library_ankle",
+    "title": "Foot & Ankle",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_ankle_12",
+    "title": "Ankle Sprains/Instability",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (25 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 25,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_ankle_23",
+    "title": "Fractures (Broken Bones)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 418,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_ankle_32",
+    "title": "Achilles Tendonitis and Rupture",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (31 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 31,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_ankle_43",
+    "title": "Plantar Fasciitis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1544,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_ankle_47",
+    "title": "Stress Fractures",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 631,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_ankle_48",
+    "title": "Tibialis Posterior Tendonitis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 409,
+    "isHealthy": false,
+    "category": "ankle"
+  },
+  {
+    "dirName": "library_back",
+    "title": "Back",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "back"
+  },
+  {
+    "dirName": "library_back_1",
+    "title": "Understanding Low Back Pain",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 10132,
+    "isHealthy": false,
+    "category": "back"
+  },
+  {
+    "dirName": "library_back_52",
+    "title": "Lumbar Laminectomy/Discectomy",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (29 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 29,
+    "isHealthy": false,
+    "category": "back"
+  },
+  {
+    "dirName": "library_back_53",
+    "title": "Scoliosis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1520,
+    "isHealthy": false,
+    "category": "back"
+  },
+  {
+    "dirName": "library_back_71",
+    "title": "Lumbar Stenosis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1638,
+    "isHealthy": false,
+    "category": "back"
+  },
+  {
+    "dirName": "library_directions_4031",
+    "title": "Directions",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": null
+  },
+  {
+    "dirName": "library_elbow",
+    "title": "Elbow",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_2",
+    "title": "Fractures/Dislocation Elbow",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 518,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_3",
+    "title": "Loose Bodies",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 257,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_4",
+    "title": "Ulnar Nerve Injuries",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 635,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_49",
+    "title": "Golfer&#039;s Elbow (Medial Epicondylalgia)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 579,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_5",
+    "title": "Biceps Rupture at the Shoulder/Elbow",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 362,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_50",
+    "title": "Tennis Elbow (Lateral Epicondylalgia)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1037,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_elbow_6",
+    "title": "Distal Triceps Rupture",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 184,
+    "isHealthy": false,
+    "category": "elbow"
+  },
+  {
+    "dirName": "library_exercise_58",
+    "title": "Fitness Terminology",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 5288,
+    "isHealthy": false,
+    "category": null
+  },
+  {
+    "dirName": "library_exercise_60",
+    "title": "Cross Training-how it can help you!",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": null
+  },
+  {
+    "dirName": "library_exercise_61",
+    "title": "Exerise Questions",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1923,
+    "isHealthy": false,
+    "category": null
+  },
+  {
+    "dirName": "library_exercise_62",
+    "title": "Exercises",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": null
+  },
+  {
+    "dirName": "library_firstVisit",
+    "title": "Your First Visit",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "firstVisit"
+  },
+  {
+    "dirName": "library_health",
+    "title": "Ankle",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "health"
+  },
+  {
+    "dirName": "library_hip",
+    "title": "Hip",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_10",
+    "title": "Possible Treatments",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 270,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_11",
+    "title": "Trochanteric Bursitis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 595,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_13",
+    "title": "Hamstring Strains",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 339,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_14",
+    "title": "Femoral Neck Fracture",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 312,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_15",
+    "title": "Avascular Necrosis of the Hip",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (29 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 29,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_55",
+    "title": "Hip Osteoarthritis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 407,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_56",
+    "title": "Hip Replacement",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 428,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_7",
+    "title": "Quadriceps Muscle Strains",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 357,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_8",
+    "title": "Quadriceps Tendon Rupture",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 352,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_hip_9",
+    "title": "Groin Strain (Adductor Strain)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 282,
+    "isHealthy": false,
+    "category": "hip"
+  },
+  {
+    "dirName": "library_knee",
+    "title": "Knee",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_16",
+    "title": "Meniscal Tears",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 501,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_17",
+    "title": "Anterior Cruciate Ligament (ACL) Tear",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (37 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 37,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_18",
+    "title": "Posterior Cruciate Ligament (PCL) Tear",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 444,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_19",
+    "title": "Medial Collateral Ligament (MCL) Tear",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 492,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_20",
+    "title": "Lateral Collateral Ligament (LCL) Tears",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 229,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_21",
+    "title": "Anterior Knee Pain",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (18 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 18,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_22",
+    "title": "Patello-femoral Pain (Commonly Called Chondromalacia Patella)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 815,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_24",
+    "title": "Patellar Tendinitis (Jumper&rsquo;s Knee)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 750,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_54",
+    "title": "Knee Osteoarthritis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1022,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_7",
+    "title": "Quadriceps Muscle Strains",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 363,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_75",
+    "title": "Iliotibial Band Friction Syndrome (ITBS)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1972,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_knee_76",
+    "title": "About Total Knee Replacement",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 2920,
+    "isHealthy": false,
+    "category": "knee"
+  },
+  {
+    "dirName": "library_leg",
+    "title": "Leg",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "leg"
+  },
+  {
+    "dirName": "library_leg_23",
+    "title": "Fractures (Broken Bones)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 418,
+    "isHealthy": false,
+    "category": "leg"
+  },
+  {
+    "dirName": "library_leg_47",
+    "title": "Stress Fractures",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 631,
+    "isHealthy": false,
+    "category": "leg"
+  },
+  {
+    "dirName": "library_leg_74",
+    "title": "Gastrocnemius/Calf Muscle Strain",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 355,
+    "isHealthy": false,
+    "category": "leg"
+  },
+  {
+    "dirName": "library_md",
+    "title": "For Physicians",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "md"
+  },
+  {
+    "dirName": "library_md_70",
+    "title": "Md",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 4396,
+    "isHealthy": false,
+    "category": "md"
+  },
+  {
+    "dirName": "library_md_72",
+    "title": "Md",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "md"
+  },
+  {
+    "dirName": "library_neck",
+    "title": "Neck",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "neck"
+  },
+  {
+    "dirName": "library_neck_25",
+    "title": "Neck Pain",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 2194,
+    "isHealthy": false,
+    "category": "neck"
+  },
+  {
+    "dirName": "library_neck_63",
+    "title": "Whiplash Associated Disorder",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1679,
+    "isHealthy": false,
+    "category": "neck"
+  },
+  {
+    "dirName": "library_neck_64",
+    "title": "Temporomandibular Disorders (TMD)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 2219,
+    "isHealthy": false,
+    "category": "neck"
+  },
+  {
+    "dirName": "library_neck_73",
+    "title": "BPPV and Physical Therapy",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (25 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 25,
+    "isHealthy": false,
+    "category": "neck"
+  },
+  {
+    "dirName": "library_nl_all",
+    "title": "Ankle",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "nl_all"
+  },
+  {
+    "dirName": "library_privacy",
+    "title": "Privacy Policy",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "privacy"
+  },
+  {
+    "dirName": "library_privacybar_privacy",
+    "title": "Privacy Policy",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "privacybar"
+  },
+  {
+    "dirName": "library_privacybar_terms",
+    "title": "Terms of Use",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "privacybar"
+  },
+  {
+    "dirName": "library_privacybar_websiteprivacy",
+    "title": "Website Privacy",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "privacybar"
+  },
+  {
+    "dirName": "library_shoulder",
+    "title": "Shoulder",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_26",
+    "title": "Adhesive Capsulitis",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (19 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 19,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_27",
+    "title": "Shoulder Instability",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1825,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_28",
+    "title": "Reoccurring Dislocations",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 275,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_29",
+    "title": "Posterior Dislocation",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 860,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_30",
+    "title": "Multidirectional Instability Signs and Symptoms",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 449,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_31",
+    "title": "Shoulder Tendonitis and Impingement",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1034,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_33",
+    "title": "Rotator Cuff Tears",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1090,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_34",
+    "title": "Acromioclavicular Separation (Separated Shoulder)",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (49 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 49,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_shoulder_35",
+    "title": "Labral Tears",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 937,
+    "isHealthy": false,
+    "category": "shoulder"
+  },
+  {
+    "dirName": "library_systemic",
+    "title": "Systemic Conditions",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_51",
+    "title": "Sprains and Strains:",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 2815,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_57",
+    "title": "Osteoarthritis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 2419,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_65",
+    "title": "Fibromyalgia",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 980,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_66",
+    "title": "Osteoporosis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 2485,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_67",
+    "title": "Incontinence",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 930,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_68",
+    "title": "Lymphedema",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 445,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_69",
+    "title": "Pelvic Floor Tension/Pain",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 836,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_systemic_73",
+    "title": "BPPV and Physical Therapy",
+    "exists": true,
+    "issues": [
+      "Article body too short or empty (25 chars)",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 25,
+    "isHealthy": false,
+    "category": "systemic"
+  },
+  {
+    "dirName": "library_treatments",
+    "title": "Treatments",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_2",
+    "title": "Treatments",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_32",
+    "title": "Isotonics",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_33",
+    "title": "Active Assistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_34",
+    "title": "Stationary Cycling",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_35",
+    "title": "Ankle Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_36",
+    "title": "Ankle Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_37",
+    "title": "Ankle Joint Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_38",
+    "title": "Ankle Progressive Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_40",
+    "title": "Aerobic/Endurance Exercise",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_41",
+    "title": "Core Strengthening",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_42",
+    "title": "Cryotherapy or Cold Therapy",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_43",
+    "title": "Elbow Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_44",
+    "title": "Elbow Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_45",
+    "title": "Elbow Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_46",
+    "title": "Elbow Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_47",
+    "title": "Foam Roll Exercise",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_48",
+    "title": "Gait or Walking Training",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_49",
+    "title": "Hand Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_50",
+    "title": "Heat Pack",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_51",
+    "title": "Hip Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_52",
+    "title": "Hip Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_53",
+    "title": "Hip Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_54",
+    "title": "Hip Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_55",
+    "title": "Ice Massage",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_56",
+    "title": "Isometric Exercise",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_57",
+    "title": "Knee Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_58",
+    "title": "Knee Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_59",
+    "title": "Knee Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_60",
+    "title": "Knee Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_61",
+    "title": "Low Back Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_62",
+    "title": "Low Back Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_63",
+    "title": "Low Back Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_64",
+    "title": "Low Back Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_65",
+    "title": "McKenzie Exercise",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_66",
+    "title": "Neck Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_67",
+    "title": "Neck Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_68",
+    "title": "Neck Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_69",
+    "title": "Neck Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_70",
+    "title": "Neuromuscular Electrical Stimulation",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_71",
+    "title": "Lumbar Traction",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_72",
+    "title": "Plyometrics",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_73",
+    "title": "Proprioceptive Neuromuscular Facilitation (PNF)",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_74",
+    "title": "Posture Training",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_75",
+    "title": "Proprioception Exercises",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_76",
+    "title": "Shoulder Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_77",
+    "title": "Shoulder Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_78",
+    "title": "Shoulder Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_79",
+    "title": "Shoulder Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_80",
+    "title": "Soft Tissue Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_81",
+    "title": "Stretching/Flexibility Exercise",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_85",
+    "title": "Neck Traction",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_86",
+    "title": "Ultrasound",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_87",
+    "title": "Wrist Active Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_88",
+    "title": "Wrist Joint Mobilization",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_89",
+    "title": "Wrist Passive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_90",
+    "title": "Wrist Resistive Range of Motion",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_93",
+    "title": "Electrotherapeutic Modalities",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_94",
+    "title": "Iontophoresis",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_95",
+    "title": "Physical Agents",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_treatments_96",
+    "title": "Transcutaneous Electrical Nerve Stimulation (TENS)",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "treatments"
+  },
+  {
+    "dirName": "library_wrist",
+    "title": "Wrist & Hand",
+    "exists": true,
+    "issues": [
+      "Missing article-overview div",
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 0,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_36",
+    "title": "Skier&rsquo;s Thumb (Gamekeeper&rsquo;s thumb)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 670,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_37",
+    "title": "Possible Treatments",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 1025,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_38",
+    "title": "Guyon&rsquo;s Canal Syndrome (Handlebar Palsy)",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 498,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_39",
+    "title": "De Quervain&#039;s Tenosynovitis",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 599,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_40",
+    "title": "Fractures of the Forearm/Wrist",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 910,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_41",
+    "title": "Distal Radius Fracture Colles, Smith Fractures",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 822,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_42",
+    "title": "Scaphoid Fracture",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 788,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_44",
+    "title": "Fracture of the Hook of Hamate",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 293,
+    "isHealthy": false,
+    "category": "wrist"
+  },
+  {
+    "dirName": "library_wrist_46",
+    "title": "Mallet (Baseball) Finger",
+    "exists": true,
+    "issues": [
+      "Missing CTA button row",
+      "Missing SEO body links"
+    ],
+    "articleTextLength": 579,
+    "isHealthy": false,
+    "category": "wrist"
+  }
+]

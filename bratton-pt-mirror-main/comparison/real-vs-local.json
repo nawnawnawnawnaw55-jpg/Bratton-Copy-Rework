@@ -1,0 +1,186 @@
+{
+  "homepage": {
+    "iphone-se": {
+      "local": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": []
+    },
+    "desktop": {
+      "local": {
+        "body_smartphone": false,
+        "mobile_menu_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": false,
+        "mobile_menu_visible": null,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": [
+        "mobile_menu_visible: local=False, real=None"
+      ]
+    }
+  },
+  "services/cupping": {
+    "iphone-se": {
+      "local": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": []
+    },
+    "desktop": {
+      "local": {
+        "body_smartphone": false,
+        "mobile_menu_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": false,
+        "mobile_menu_visible": null,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": [
+        "mobile_menu_visible: local=False, real=None"
+      ]
+    }
+  },
+  "about": {
+    "iphone-se": {
+      "local": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": []
+    },
+    "desktop": {
+      "local": {
+        "body_smartphone": false,
+        "mobile_menu_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": false,
+        "mobile_menu_visible": null,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": [
+        "mobile_menu_visible: local=False, real=None"
+      ]
+    }
+  },
+  "contact": {
+    "iphone-se": {
+      "local": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": true,
+        "mobile_menu_visible": true,
+        "navbar_visible": false,
+        "hidemobile_visible": false,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": []
+    },
+    "desktop": {
+      "local": {
+        "body_smartphone": false,
+        "mobile_menu_visible": false,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "real": {
+        "body_smartphone": false,
+        "mobile_menu_visible": null,
+        "navbar_visible": true,
+        "hidemobile_visible": true,
+        "logo_found": true,
+        "address_found": true,
+        "console_errors": []
+      },
+      "diffs": [
+        "mobile_menu_visible: local=False, real=None"
+      ]
+    }
+  }
+}

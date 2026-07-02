@@ -1,0 +1,5312 @@
+{
+  "section": "Medical Library",
+  "category": "medical-library",
+  "pageCount": 159,
+  "snippetCount": 8,
+  "snippets": {
+    "c0ebc97e9831": {
+      "id": "c0ebc97e9831",
+      "plainText": "Medical Library Browse our collection of educational resources, exercise guides, and treatment information organized by body region. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Medical Library</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Browse our collection of educational resources, exercise guides, and treatment information organized by body region. Click a body area or choose a category below.</p>\r\n\r\n      <h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n      <!-- Body diagram centered, Other Choices positioned right on desktop -->\r\n      <div class=\"ml-diagram-wrapper\">\r\n        <div class=\"ml-svg-wrap\">\r\n          \r\n        </div>",
+      "tagName": "div",
+      "previewContext": "eet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Medical Library</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Browse our collection of educational resources, exercise guides, and treatment information organized by body region. Click a body area or choose a category below.</p>\r\n\r\n      <h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n      <!-- Body diagram centered, Other Choices positioned right on desktop -->\r\n      <div class=\"ml-diagram-wrapper\">\r\n        <div class=\"ml-svg-wrap\">\r\n          \r\n        </div>\r\n        <div class=\"ml-other-choices\">\r\n          <h2>Other Choices</h2>\r\n          <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n          <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n          <a href=\"/library/library_exercise_62/\"",
+      "textLength": 195,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "cafecefe2ad8": {
+      "id": "cafecefe2ad8",
+      "plainText": "Other Choices Systemic Treatments Exercises For Physicians",
+      "originalHtml": "<div class=\"ml-other-choices\">\r\n          <h2>Other Choices</h2>\r\n          <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n          <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n          <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>\r\n          <a href=\"/library/library_md/\" class=\"btn btn--accent\">For Physicians</a>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "hoose a category below.</p>\r\n\r\n      <h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n      <!-- Body diagram centered, Other Choices positioned right on desktop -->\r\n      <div class=\"ml-diagram-wrapper\">\r\n        <div class=\"ml-svg-wrap\">\r\n          \r\n        </div>\r\n        <div class=\"ml-other-choices\">\r\n          <h2>Other Choices</h2>\r\n          <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n          <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n          <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>\r\n          <a href=\"/library/library_md/\" class=\"btn btn--accent\">For Physicians</a>\r\n        </div>\r\n      </div>\r\n\r\n      <!-- Body part text hyperlinks below the diagram -->\r\n      <div class=\"ml-body-links\">\r\n        <a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a>\r\n        <a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a>\r\n        <a href=\"/library/library_b",
+      "textLength": 58,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_62/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "div.ml-other-choices",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        }
+      ]
+    },
+    "02dba0394b7e": {
+      "id": "02dba0394b7e",
+      "plainText": "Neck Shoulder Back Elbow Wrist & Hand Hip Knee Leg Ankle & Foot",
+      "originalHtml": "<div class=\"ml-body-links\">\r\n        <a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a>\r\n        <a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a>\r\n        <a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a>\r\n        <a href=\"/library/library_elbow/\" class=\"ml-body-link\">Elbow</a>\r\n        <a href=\"/library/library_wrist/\" class=\"ml-body-link\">Wrist & Hand</a>\r\n        <a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a>\r\n        <a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a>\r\n        <a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a>\r\n        <a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "tn--accent\">Treatments</a>\r\n          <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>\r\n          <a href=\"/library/library_md/\" class=\"btn btn--accent\">For Physicians</a>\r\n        </div>\r\n      </div>\r\n\r\n      <!-- Body part text hyperlinks below the diagram -->\r\n      <div class=\"ml-body-links\">\r\n        <a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a>\r\n        <a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a>\r\n        <a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a>\r\n        <a href=\"/library/library_elbow/\" class=\"ml-body-link\">Elbow</a>\r\n        <a href=\"/library/library_wrist/\" class=\"ml-body-link\">Wrist & Hand</a>\r\n        <a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a>\r\n        <a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a>\r\n        <a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a>\r\n        <a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a>\r\n      </div>\r\n\r\n      <h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5>\r\n      <div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\">\r\n        <p>The information in this medical library is intended for informational and educational purposes only and in no way should be tak",
+      "textLength": 63,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_58/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_60/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_61/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_62/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_16/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_16",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_17/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_17",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_18/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_18",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_19/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_19",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_20/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_20",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_21/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_21",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_22/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_22",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_24/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_24",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_54/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_75/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_76/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md_70/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_51/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_57/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_65/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_66/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_67/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_68/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_69/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_2/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_32/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_33/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_34/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_35/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_36/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_37/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_38/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_40/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_41/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_42/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_43/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_44/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_45/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_45",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_46/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_46",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_47/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_48/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_49/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_50/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_51/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_52/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_52",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_53/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_54/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_55/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_56/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_57/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_58/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_59/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_59",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_60/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_61/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_62/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_63/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_64/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_65/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_66/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_67/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_68/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_69/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_70/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_71/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_72/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_72",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_73/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_74/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_75/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_76/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_77/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_77",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_78/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_78",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_79/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_79",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_80/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_80",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_81/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_81",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_85/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_85",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_86/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_86",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_87/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_87",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_88/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_88",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_89/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_89",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_90/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_90",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_93/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_93",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_94/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_94",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_95/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_95",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_96/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_96",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div.ml-body-links",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "ad0a802ec813": {
+      "id": "ad0a802ec813",
+      "plainText": "Disclaimer",
+      "originalHtml": "<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5>",
+      "tagName": "h5",
+      "previewContext": "=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a>\r\n        <a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a>\r\n        <a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a>\r\n        <a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a>\r\n      </div>\r\n\r\n      <h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5>\r\n      <div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\">\r\n        <p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or profess",
+      "textLength": 10,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_58/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_60/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_61/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_62/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_health/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Health",
+          "pageName": "library_health",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_16/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_16",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_17/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_17",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_18/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_18",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_19/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_19",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_20/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_20",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_21/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_21",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_22/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_22",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_24/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_24",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_54/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_75/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_76/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md_70/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md_72/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md_72",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_nl_all/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Newsletter",
+          "pageName": "library_nl_all",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_51/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_57/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_65/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_66/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_67/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_68/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_69/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_2/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_2/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_32/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_33/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_34/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_35/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_36/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_37/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_38/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_40/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_41/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_42/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_43/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_44/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_45/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_45",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_46/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_46",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_47/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_48/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_49/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_50/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_51/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_52/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_52",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_53/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_54/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_55/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_56/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_57/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_58/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_59/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_59",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_60/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_61/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_62/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_63/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_64/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_65/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_66/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_67/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_68/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_69/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_70/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_71/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_72/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_72",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_73/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_74/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_75/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_76/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_77/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_77",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_78/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_78",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_79/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_79",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_80/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_80",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_81/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_81",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_85/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_85",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_86/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_86",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_87/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_87",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_88/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_88",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_89/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_89",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_90/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_90",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_93/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_93",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_94/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_94",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_95/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_95",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_96/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_96",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "h5",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "0bda242ad970": {
+      "id": "0bda242ad970",
+      "plainText": "The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.",
+      "originalHtml": "<div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\">\r\n        <p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.</p>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "library/library_knee/\" class=\"ml-body-link\">Knee</a>\r\n        <a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a>\r\n        <a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a>\r\n      </div>\r\n\r\n      <h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5>\r\n      <div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\">\r\n        <p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.</p>\r\n      </div>\r\n\r\n      <p style=\"margin-top:32px;text-align:center\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Questions? Call Us</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 594,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_58/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_60/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_61/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_62/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_health/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Health",
+          "pageName": "library_health",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_16/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_16",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_17/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_17",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_18/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_18",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_19/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_19",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_20/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_20",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_21/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_21",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_22/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_22",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_24/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_24",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_54/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_75/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_76/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md_70/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md_72/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md_72",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_nl_all/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Newsletter",
+          "pageName": "library_nl_all",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_51/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_57/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_65/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_66/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_67/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_68/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_69/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_2/index.html",
+          "selector": "div#disclaimer",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_2/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_32/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_33/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_34/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_35/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_36/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_37/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_38/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_40/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_41/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_42/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_43/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_44/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_45/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_45",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_46/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_46",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_47/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_48/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_49/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_50/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_51/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_52/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_52",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_53/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_54/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_55/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_56/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_57/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_58/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_59/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_59",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_60/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_61/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_62/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_63/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_64/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_65/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_66/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_67/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_68/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_69/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_70/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_71/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_72/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_72",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_73/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_74/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_75/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_76/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_77/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_77",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_78/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_78",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_79/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_79",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_80/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_80",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_81/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_81",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_85/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_85",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_86/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_86",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_87/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_87",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_88/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_88",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_89/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_89",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_90/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_90",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_93/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_93",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_94/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_94",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_95/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_95",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_96/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_96",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "6e33040ef9fd": {
+      "id": "6e33040ef9fd",
+      "plainText": "Questions? Call Us",
+      "originalHtml": "<p style=\"margin-top:32px;text-align:center\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Questions? Call Us</a></p>",
+      "tagName": "p",
+      "previewContext": "sed for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.</p>\r\n      </div>\r\n\r\n      <p style=\"margin-top:32px;text-align:center\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Questions? Call Us</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 18,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_directions_4031/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Directions",
+          "pageName": "library_directions_4031",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_2/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_3/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_3",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_4/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_4",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_49/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_5/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_5",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_50/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_elbow_6/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Elbow",
+          "pageName": "library_elbow_6",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_58/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_60/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_61/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_exercise_62/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Exercises",
+          "pageName": "library_exercise_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_firstVisit/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > First Visit",
+          "pageName": "library_firstVisit",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_16/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_16",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_17/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_17",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_18/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_18",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_19/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_19",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_20/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_20",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_21/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_21",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_22/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_22",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_24/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_24",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_54/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_75/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_76/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_md_70/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > For Physicians",
+          "pageName": "library_md_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_25/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_25",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_63/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_64/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_neck_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Neck",
+          "pageName": "library_neck_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacy/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_privacy/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_privacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_terms/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_terms",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_privacybar_websiteprivacy/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Legal",
+          "pageName": "library_privacybar_websiteprivacy",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_51/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_57/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_65/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_66/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_67/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_68/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_69/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_2/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_2",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_32",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_33/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_33",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_34/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_34",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_35/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_35",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_36/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_37/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_38/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_40/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_41/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_42/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_43/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_44/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_45/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_45",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_46/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_46",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_47/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_48/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_49/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_49",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_50/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_50",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_51/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_51",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_52/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_52",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_53/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_53",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_54/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_54",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_55/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_56/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_56",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_57/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_57",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_58/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_58",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_59/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_59",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_60/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_60",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_61/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_61",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_62/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_62",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_63/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_63",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_64/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_64",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_65/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_65",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_66/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_66",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_67/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_67",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_68/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_68",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_69/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_69",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_70/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_70",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_71/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_71",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_72/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_72",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_73/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_73",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_74/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_74",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_75/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_75",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_76/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_76",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_77/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_77",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_78/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_78",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_79/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_79",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_80/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_80",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_81/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_81",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_85/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_85",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_86/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_86",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_87/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_87",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_88/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_88",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_89/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_89",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_90/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_90",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_93/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_93",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_94/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_94",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_95/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_95",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_treatments_96/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_96",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_36/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_36",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_38/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_38",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_39/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_39",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_40/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_40",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_41/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_41",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_42/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_42",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_44/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_44",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "67fa9c11002b": {
+      "id": "67fa9c11002b",
+      "plainText": "Medical Library — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Medical Library — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 56,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": true
+        }
+      ]
+    },
+    "f6a1f58cb233": {
+      "id": "f6a1f58cb233",
+      "plainText": "Educational resources, exercises, and guides from Bratton Physical Therapy in Slidell, LA.",
+      "originalHtml": "<meta name=\"description\" content=\"Educational resources, exercises, and guides from Bratton Physical Therapy in Slidell, LA.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library",
+          "pageName": "index.html",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Physical Therapy Slidell LA - Bratton PT</title>
+<meta name="description" content="Bratton Physical Therapy - conveniently located for Slidell. Call (985) 641-5825">
+<meta property="og:title" content="Physical Therapy Slidell LA - Bratton PT">
+<meta property="og:description" content="Bratton Physical Therapy - Slidell. Call (985) 641-5825">
+<meta property="og:url" content="/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"MedicalClinic","name":"Bratton Physical Therapy","image":"/files/mobile/square.png","address":{"@type":"PostalAddress","streetAddress":"1346 Lindberg Drive Suite 3","addressLocality":"Slidell","addressRegion":"LA","postalCode":"70458"},"telephone":"9856415825","url":"https://www.brattonphysicaltherapy.com/"}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css"><link rel="stylesheet" href="/css/angular.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      // Highlight current page in nav
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+    });
+</script>
+
+<main id="main-content">
+
+  <!-- ===== HERO with logo overlap ===== -->
+   <section class="hero hero--logo-overlap">
+     <div class="hero__bg" style="background-image:url('https://images.pexels.com/photos/6111586/pexels-photo-6111586.jpeg?auto=compress&cs=tinysrgb&w=2000');background-position:50% 60%"></div>
+     <div class="hero__bg hero__bg--mobile" style="background-image:url('https://images.pexels.com/photos/7479771/pexels-photo-7479771.jpeg?auto=compress&cs=tinysrgb&w=1200');background-position:50% 30%"></div>
+    <div class="hero__overlay"><div class="container"><h1 class="hero__title">Physical Therapy Before & After Surgery in Slidell</h1><p class="hero__subtitle">One-on-One Care Focused on Faster, Safer Recovery</p><div class="hero__cta"><a href="/booking/" class="btn btn--accent btn--lg">Request Appointment</a><a href="/services/workers-compensation/" class="btn btn--outline btn--lg">Injured at Work? Start Here</a></div></div></div>
+    <div class="hero__logo-strip">
+      <img src="/files/mobile/square.png" alt="Bratton Physical Therapy" onerror="this.style.display='none'">
+    </div>
+  </section>
+
+  <!-- ===== VALUE PROPS ===== -->
+  <section class="section section--light hero-next-section"><div class="container value-props"><h2 style="text-align:center">One-on-One Care Focused on Faster, Safer Recovery</h2><p style="text-align:center;max-width:700px;margin:8px auto 0">At Bratton Physical Therapy, we believe in personalized treatment plans designed around your specific needs and goals.</p><div class="value-props__grid"><div class="value-prop reveal-on-scroll"><div class="value-prop__icon" style="font-size:28px"><img src="/files/icons/expert-team.svg" alt="" style="width:36px;height:36px"></div><h3><a href="/staff/">Expert Team</a></h3><p>Licensed therapists with years of experience.</p></div><div class="value-prop reveal-on-scroll"><div class="value-prop__icon" style="font-size:28px"><img src="/files/icons/personalized-care.svg" alt="" style="width:36px;height:36px"></div><h3><a href="/about/">Personalized Care</a></h3><p>Custom treatment plans for your needs.</p></div><div class="value-prop reveal-on-scroll"><div class="value-prop__icon" style="font-size:28px"><img src="/files/icons/fast-recovery.svg" alt="" style="width:36px;height:36px"></div><h3>Faster Recovery</h3><p>Get back to activities you love, faster.</p></div></div></div></section>
+
+  <!-- ===== CONDITIONS ===== -->
+  <section class="section"><div class="container"><div class="section-title"><h2>Conditions We Treat</h2><p>We specialize in treating a wide range of orthopedic conditions.</p></div><div class="conditions-pills"><a href="/shoulder-pain/" class="condition-pill">Shoulder Pain</a><a href="/knee-pain/" class="condition-pill">Knee Pain</a><a href="/back-pain-sciatica/" class="condition-pill">Back Pain</a><a href="/neck-pain/" class="condition-pill">Neck Pain</a><a href="/acl-injury/" class="condition-pill">ACL Injury</a><a href="/sports-injuries/" class="condition-pill">Sports Injuries</a><a href="/conditions/" class="condition-pill" style="background:var(--accent)">View All &rarr;</a></div></div></section>
+
+  <!-- ===== ANGULAR PARALLAX CLUSTER ===== -->
+  <section class="section section--light angular-parallax-section" style="overflow:hidden; position:relative;">
+    <div class="angular-parallax-bg-shape angular-parallax-bg-shape--1" data-parallax-speed="0.6"></div>
+    <div class="angular-parallax-bg-shape angular-parallax-bg-shape--2" data-parallax-speed="1.3"></div>
+    <div class="container" style="position:relative;z-index:2;text-align:center">
+      <div class="section-title"><h2>Movement Is Medicine</h2><p>Physical therapy that moves with you — at your pace, on your terms.</p></div>
+      <div class="angular-scroll-cluster" id="angular-scroll-cluster">
+        <div class="angular-scroll-item angular-scroll-item--1 reveal-on-scroll" data-parallax-speed="0.7" data-reveal-dir="left">
+<img src="https://images.pexels.com/photos/6111585/pexels-photo-6111585.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Physical therapy treatment" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+          <div class="angular-scroll-item__fallback" style="display:none; background:var(--primary); width:100%;height:100%;align-items:center;justify-content:center;border-radius:var(--radius-lg)"><span style="color:#fff;font-family:var(--font-heading);font-weight:800;font-size:clamp(2rem,6vw,4rem)">PT</span></div>
+        </div>
+        <div class="angular-scroll-item angular-scroll-item--2 reveal-on-scroll" data-parallax-speed="1.6" data-reveal-dir="right">
+<img src="https://images.pexels.com/photos/6539788/pexels-photo-6539788.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Therapy session" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+          <div class="angular-scroll-item__fallback" style="display:none; background:var(--accent); width:100%;height:100%;align-items:center;justify-content:center;border-radius:var(--radius-lg)"><span style="color:#fff;font-family:var(--font-heading);font-weight:800;font-size:clamp(2rem,6vw,4rem)">RX</span></div>
+        </div>
+        <div class="angular-scroll-item angular-scroll-item--3 reveal-on-scroll" data-parallax-speed="0.9" data-reveal-dir="bottom">
+          <img src="https://images.pexels.com/photos/6111622/pexels-photo-6111622.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Rehabilitation" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+          <div class="angular-scroll-item__fallback" style="display:none; background:var(--primary-dark); width:100%;height:100%;align-items:center;justify-content:center;border-radius:var(--radius-lg)"><span style="color:#fff;font-family:var(--font-heading);font-weight:800;font-size:clamp(2rem,6vw,4rem)">RE</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="angular-slash-divider"></div>
+
+  <!-- ===== SERVICES ===== -->
+  <section class="section section--light">
+    <div class="container">
+      <div class="section-title"><h2>How We Treat</h2></div>
+      <div class="service-carousel-wrap">
+        <button class="carousel-arrow carousel-arrow--left" onclick="scrollServices(-1)" aria-label="Previous">&#x2039;</button>
+        <div class="service-grid" id="service-grid">
+          <a href="/services/therapeutic-exercise/" class="service-card"><img src="/files/services/therapeutic-exercise.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Therapeutic Exercise</h4></div></a>
+          <a href="/services/dry-needling-certified/" class="service-card"><img src="/files/services/dry-needling-certified.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Dry Needling</h4></div></a>
+          <a href="/services/cupping/" class="service-card"><img src="/files/services/cupping.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Cupping</h4></div></a>
+          <a href="/services/mckenzie-method/" class="service-card"><img src="/files/services/mckenzie-method.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>McKenzie Method</h4></div></a>
+          <a href="/services/gait-balance-training/" class="service-card"><img src="/files/services/gait-balance-training.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Gait & Balance</h4></div></a>
+          <a href="/services/blood-flow-restriction-therapy/" class="service-card"><img src="/files/services/blood-flow-restriction-therapy.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Blood Flow Restriction</h4></div></a>
+          <a href="/services/strength-conditioning/" class="service-card"><img src="/files/services/strength-conditioning.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Strength & Conditioning</h4></div></a>
+          <a href="/services/workers-compensation/" class="service-card"><img src="/files/services/workers-compensation.jpg" alt="" class="service-card__img" loading="lazy"><div class="service-card__body"><h4>Workers Comp</h4></div></a>
+        </div>
+        <button class="carousel-arrow carousel-arrow--right show" onclick="scrollServices(1)" aria-label="Next">&#x203A;</button>
+      </div>
+      <p style="text-align:center;margin-top:24px"><a href="/services/" class="btn btn--outline">View All Services</a></p>
+    </div>
+  </section>
+
+  <!-- ===== REVIEWS ===== -->
+  <section class="section"><div class="container"><div class="section-title"><h2>Patient Success Stories</h2></div>
+      <div class="reviews-grid" id="home-reviews-grid" style="margin-top:24px">
+        <div class="review-card review-card--active"><div class="review-card__header"><div class="review-card__avatar" style="background:var(--primary)">⋯</div><div><div class="review-card__stars">★★★★★</div><strong>Loading...</strong></div></div><p class="review-card__text">Loading reviews...</p></div>
+      </div>
+      <div class="review-dots" id="home-review-dots"></div>
+      <p style="text-align:center;margin-top:16px"><a href="/reviews/" class="btn btn--outline btn--sm">Read All Reviews &rarr;</a></p>
+      <script>
+      (function(){
+        var grid = document.getElementById('home-reviews-grid');
+        var dots = document.getElementById('home-review-dots');
+        var avatarColors = ['var(--success)','var(--primary)','var(--accent)','var(--primary-dark)','var(--secondary)'];
+        var currentReview = 0;
+        var autoTimer = null;
+
+        function getInitials(name){
+          return (name||'?').split(' ').map(function(w){return w.charAt(0).toUpperCase()}).join('').substring(0,2);
+        }
+
+        function starStr(r){return '★'.repeat(Math.round(r)) + '☆'.repeat(5 - Math.round(r));}
+
+        function renderCards(reviews){
+          window._homeReviews = reviews;
+          grid.innerHTML = reviews.map(function(r, i){
+            var active = i === 0 ? ' review-card--active' : '';
+            var isLong = r.text.length > 150;
+            var displayText = isLong ? escapeHTML(r.text.substring(0, 150)) + '...' : escapeHTML(r.text);
+            var readMoreHTML = isLong ? '<span class="review-card__readmore" data-idx="' + i + '" onclick="event.stopPropagation();window._homeToggleReview(event,' + i + ')" style="display:block;color:var(--primary);font-size:.82rem;cursor:pointer;margin-top:6px;font-weight:600">Read more ▼</span>' : '';
+            return '<div class="review-card' + active + '" data-review="' + i + '" onclick="window._homeToggleReview(event,' + i + ')">' +
+              '<div class="review-card__header">' +
+              '<div class="review-card__avatar" style="background:' + avatarColors[i % avatarColors.length] + '">' + getInitials(r.name) + '</div>' +
+              '<div><div class="review-card__stars">' + starStr(r.rating) + '</div><strong>' + escapeHTML(r.name) + '</strong></div>' +
+              '</div>' +
+              '<p class="review-card__text" data-idx="' + i + '">' + displayText + '</p>' +
+              readMoreHTML +
+              '</div>';
+          }).join('');
+
+          // Build dots
+          dots.innerHTML = reviews.map(function(_, i){
+            var active = i === 0 ? ' review-dot--active' : '';
+            return '<button class="review-dot' + active + '" onclick="window._homeShowReview(' + i + ')"></button>';
+          }).join('');
+
+          // Restart auto-rotate
+          currentReview = 0;
+          if (autoTimer) clearInterval(autoTimer);
+          autoTimer = setInterval(function(){
+            currentReview = (currentReview + 1) % reviews.length;
+            showReview(currentReview);
+          }, 5000);
+        }
+
+        window._homeReviews = [];
+        window._homeToggleReview = function(event, idx){
+          if (event) { event.stopPropagation(); event.preventDefault(); }
+          var review = window._homeReviews[idx];
+          if (!review) return;
+          var textEl = grid.querySelector('.review-card__text[data-idx="' + idx + '"]');
+          if (!textEl) return;
+          var readmoreEl = grid.querySelector('.review-card__readmore[data-idx="' + idx + '"]');
+          if (textEl.classList.contains('expanded')){
+            textEl.classList.remove('expanded');
+            textEl.style.maxHeight = '';
+            textEl.style.overflow = '';
+            textEl.textContent = review.text.length > 150 ? review.text.substring(0, 150) + '...' : review.text;
+            if (readmoreEl) readmoreEl.innerHTML = 'Read more ▼';
+            // Resume auto-rotate when collapsing
+            if (autoTimer) clearInterval(autoTimer);
+            autoTimer = setInterval(function(){
+              currentReview = (currentReview + 1) % window._homeReviews.length;
+              showReview(currentReview);
+            }, 5000);
+          } else {
+            textEl.classList.add('expanded');
+            textEl.style.maxHeight = 'none';
+            textEl.style.overflow = 'visible';
+            textEl.textContent = review.text;
+            if (readmoreEl) readmoreEl.innerHTML = 'Show less ▲';
+            // Pause auto-rotate while expanded
+            if (autoTimer) clearInterval(autoTimer);
+            autoTimer = null;
+          }
+        };
+
+        window._homeShowReview = function(n){
+          var cards = grid.querySelectorAll('.review-card');
+          var dotEls = dots.querySelectorAll('.review-dot');
+          cards.forEach(function(el, i){ el.classList.toggle('review-card--active', i === n); });
+          dotEls.forEach(function(el, i){ el.classList.toggle('review-dot--active', i === n); });
+          currentReview = n;
+        };
+
+        function showReview(n){
+          window._homeShowReview(n);
+        }
+
+        function escapeHTML(str){
+          var d = document.createElement('div');
+          d.textContent = str;
+          return d.innerHTML;
+        }
+
+        // Hardcoded fallback reviews (used when API is unreachable)
+        var fallbackReviewsHome = [
+          {name:'Gary L.',time:'8 months ago',rating:5,text:'Just want to thank Jena and staff for a great job in rehabbing my right rotator cuff. I had two complete tears out of the four muscles of the cuff. Jena and staff rehabbed my shoulder without a need for surgery.'},
+          {name:'John C.',time:'1 year ago',rating:5,text:'The experience has been outstanding! When I first came to Bratton Physical Therapy I had sore ankles, couldn\'t walk more than 50 feet, getting up from sitting was painful. Now I can easily walk hundreds of yards, I have no pain.'},
+          {name:'Barbara K.',time:'1 year ago',rating:5,text:'My journey at Bratton PT began after I spent 3 days, about 6 hours a day working on a ladder moving shelving over my head remodeling my master closet. I developed pain in my neck and upper back. I chose Bratton PT because I used them in the past.'},
+          {name:'Nina S.',time:'2 years ago',rating:5,text:'Before coming I struggled picking up my son, sitting comfortably, and sleeping due to severe shoulder pain and limited neck mobility. Jena knew what the issue was immediately. She created a plan that quickly diminished my pain.'},
+          {name:'Stephen D.',time:'3 years ago',rating:5,text:'After major rotator cuff surgery, I was unable to move my arm away from my side. I was also experiencing considerable pain related to the surgery. For my physical therapy treatment, my Surgeon recommended Jena Bratton, PT.'}
+        ];
+
+        // Fetch from API (cache-first, falls back to Google API, then hardcoded)
+        fetch('/api/reviews')
+          .then(function(r){ return r.json(); })
+          .then(function(data){
+            var allReviews = (data.reviews && data.reviews.length) ? data.reviews : [];
+            // Homepage: show top 5-star reviews only, up to 5
+            var reviews = allReviews.filter(function(r){ return r.rating === 5; }).slice(0, 5);
+            if (reviews.length) {
+              renderCards(reviews);
+            } else {
+              renderCards(fallbackReviewsHome);
+            }
+          })
+          .catch(function(){
+            renderCards(fallbackReviewsHome);
+          });
+      })();
+      </script></div></section>
+
+  <!-- ===== RECOVERY ===== -->
+  <section class="section recovery">
+    <div class="container">
+      <div class="section-title">
+        <h2>The Recovery Process</h2>
+        <p>Learn about the 5 phases of recovery</p>
+      </div>
+      <div class="recovery__tabs">
+        <button class="recovery__tab recovery__tab--active" onclick="switchPhase(0)">1</button>
+        <button class="recovery__tab" onclick="switchPhase(1)">2</button>
+        <button class="recovery__tab" onclick="switchPhase(2)">3</button>
+        <button class="recovery__tab" onclick="switchPhase(3)">4</button>
+        <button class="recovery__tab" onclick="switchPhase(4)">5</button>
+      </div>
+      <div class="recovery__content" id="phase-0">
+        <div class="recovery__phase"><div><h3>Pain Relief</h3><p>Reducing pain, swelling, and inflammation are common goals in this phase of recovery. Injury protection, elevation, appropriate medications, compression, and patient education are important.</p></div><img src="/files/services/pain-relief.jpg" alt="" loading="lazy"></div>
+      </div>
+      <div class="recovery__content" id="phase-1" hidden>
+        <div class="recovery__phase"><div><h3>Introduce Movement</h3><p>Pain-free passive, manual therapy, active range of motion, and cardiorespiratory exercises are indicated here. Education about pain and a positive attitude may help.</p></div><img src="/files/services/therapeutic-exercise.jpg" alt="" loading="lazy"></div>
+      </div>
+      <div class="recovery__content" id="phase-2" hidden>
+        <div class="recovery__phase"><div><h3>Strengthening</h3><p>Progressive loading of healing soft tissues, the reintroduction of low-stress neuromuscular reeducation, balance training, and basic functional activities are part of this rehabilitation phase.</p></div><img src="/files/services/strength-conditioning.jpg" alt="" loading="lazy"></div>
+      </div>
+      <div class="recovery__content" id="phase-3" hidden>
+        <div class="recovery__phase"><div><h3>Functional Retraining</h3><p>Progressing strengthening exercises, improving flexibility, and advanced balance exercises are part of phase 4. Resuming functional movement occurs in this phase.</p></div><img src="/files/services/gait-balance-training.jpg" alt="" loading="lazy"></div>
+      </div>
+      <div class="recovery__content" id="phase-4" hidden>
+        <div class="recovery__phase"><div><h3>Recovery & Prevention</h3><p>Functional movements are progressed, a controlled re-introduction to sports or challenging environments is initiated. Continued strengthening, flexibility, and goal-specific training occurs.</p></div><img src="/files/services/recovery-prevention.jpg" alt="" loading="lazy"></div>
+      </div>
+    </div>
+  </section>
+  <script>
+  function switchPhase(n){
+    document.querySelectorAll(".recovery__content").forEach(function(el,i){el.hidden=i!==n});
+    document.querySelectorAll(".recovery__tab").forEach(function(el,i){el.classList.toggle("recovery__tab--active",i===n)});
+  }
+  </script>
+
+  <!-- ===== INSURANCE ===== -->
+  <section class="section section--light"><div class="container"><div class="section-title"><h2 style="text-align:center;color:var(--success)">We Accept Many Major Insurance Plans</h2></div><div class="insurance-grid"><img src="/files/insurance/bcbs-logo.svg" alt="BCBS" loading="lazy"><img src="/files/insurance/tricare.svg" alt="Tricare" loading="lazy"><img src="/files/insurance/humana.svg" alt="Humana" loading="lazy"><img src="/files/insurance/medicare-in.svg" alt="Medicare" loading="lazy"><img src="/files/insurance/workers-comp.svg" alt="Workers Comp" loading="lazy"><div style="text-align:center;font-weight:700;font-size:1.1rem">Self-pay</div></div><p style="text-align:center;margin-top:20px;font-size:.9rem">No Referral, No Problem — We Can See Patients Without a Physician's Prescription</p><p style="text-align:center;font-size:.85rem;color:var(--gray)">Don't see your plan? Call us to verify your benefits.</p></div></section>
+
+  <!-- ===== CTA ===== -->
+  <section class="section section--accent" style="text-align:center"><div class="container"><h2>Ready to Feel Better?</h2><p style="font-size:1.1rem;margin-bottom:20px">Schedule your initial evaluation and let's make things happen!</p><a href="/booking/index.html" class="btn btn--accent btn--lg">Schedule an Appointment</a></div></section>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+</main>
+
+<script src="/js/main.js"></script>
+
+<script>
+function updateArrows(){
+  var grid=document.getElementById("service-grid");
+  if(!grid)return;
+  var card=grid.querySelector(".service-card");
+  if(!card)return;
+  var cw=card.offsetWidth+14;
+  var maxScroll=grid.scrollWidth-grid.clientWidth;
+  var pos=grid.scrollLeft;
+  var atStart=pos<10;
+  var atEnd=pos>maxScroll-10;
+  var la=document.querySelector(".carousel-arrow--left");
+  var ra=document.querySelector(".carousel-arrow--right");
+  var wrap=document.querySelector(".service-carousel-wrap");
+  if(la){la.classList.toggle("show",!atStart)}
+  if(ra){ra.classList.toggle("show",!atEnd)}
+  if(wrap){wrap.classList.toggle("at-start",atStart);wrap.classList.toggle("at-end",atEnd)}
+  // Highlight center card (mobile only)
+  if(window.innerWidth<480){
+    var cards=grid.querySelectorAll(".service-card");
+    var centerX=pos+grid.clientWidth/2;
+    var closest=null;var closestDist=Infinity;
+    cards.forEach(function(c){
+      var cx=c.offsetLeft+c.offsetWidth/2;
+      var dist=Math.abs(cx-centerX);
+      if(dist<closestDist){closest=c;closestDist=dist}
+      c.style.opacity="0.6";c.style.transform="scale(0.92)";c.style.pointerEvents="none";
+    });
+    if(closest){closest.style.opacity="1";closest.style.transform="scale(1)";closest.style.pointerEvents="auto"}
+  }
+}
+function scrollServices(dir){
+  var grid=document.getElementById("service-grid");
+  var card=grid.querySelector(".service-card");
+  if(!card)return;
+  var cw=card.offsetWidth+14;
+  var maxScroll=grid.scrollWidth-grid.clientWidth;
+  var newPos=Math.max(0,Math.min(maxScroll,grid.scrollLeft+dir*cw));
+  grid.scrollTo({left:newPos,behavior:"smooth"});
+  setTimeout(updateArrows,450);
+}
+(function(){
+  var grid=document.getElementById("service-grid");
+  if(!grid)return;
+  grid.addEventListener("scroll",updateArrows);
+  updateArrows();
+  setTimeout(updateArrows,300);
+  setTimeout(updateArrows,700);
+})();
+</script>
+
+<!-- Scroll Reveal scripting -->
+<script>
+(function(){
+  // ---- Scroll Reveal ----
+  var revealEls = document.querySelectorAll('.reveal-on-scroll');
+  function checkReveals(){
+    var windowH = window.innerHeight;
+    revealEls.forEach(function(el){
+      var rect = el.getBoundingClientRect();
+      if (rect.top < windowH * 0.85) {
+        el.classList.add('revealed');
+      }
+    });
+  }
+  var revealTicking = false;
+  window.addEventListener('scroll', function(){
+    if (!revealTicking) {
+      requestAnimationFrame(function(){
+        checkReveals();
+        revealTicking = false;
+      });
+      revealTicking = true;
+    }
+  }, { passive: true });
+  // Initial check
+  setTimeout(checkReveals, 200);
+})();
+</script>
+
+</body>
+</html>

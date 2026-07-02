@@ -1,0 +1,1380 @@
+{
+  "section": "Medical Library > Hip",
+  "category": "medical-library",
+  "pageCount": 15,
+  "snippetCount": 68,
+  "snippets": {
+    "cc76baf90230": {
+      "id": "cc76baf90230",
+      "plainText": "Hip Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Hip</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Hip</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 158,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        }
+      ]
+    },
+    "3df7e6e6bfb8": {
+      "id": "3df7e6e6bfb8",
+      "plainText": "Hip Articles Quadriceps Muscle Strains Quadriceps Tendon Rupture Groin Strain (Adductor Strain) Hip Pointer Trochanteric Bursitis Hamstring Strains Femoral Neck Fracture Avascular Necrosis of the Hip Hip Osteoarthritis Hip Replacement",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Hip Articles</h2><ul><li><a href='/library/library_hip_7/'>Quadriceps Muscle Strains</a></li><li><a href='/library/library_hip_8/'>Quadriceps Tendon Rupture</a></li><li><a href='/library/library_hip_9/'>Groin Strain (Adductor Strain)</a></li><li><a href='/library/library_hip_10/'>Hip Pointer</a></li><li><a href='/library/library_hip_11/'>Trochanteric Bursitis</a></li><li><a href='/library/library_hip_13/'>Hamstring Strains</a></li><li><a href='/library/library_hip_14/'>Femoral Neck Fracture</a></li><li><a href='/library/library_hip_15/'>Avascular Necrosis of the Hip</a></li><li><a href='/library/library_hip_55/'>Hip Osteoarthritis</a></li><li><a href='/library/library_hip_56/'>Hip Replacement</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Hip Articles</h2><ul><li><a href='/library/library_hip_7/'>Quadriceps Muscle Strains</a></li><li><a href='/library/library_hip_8/'>Quadriceps Tendon Rupture</a></li><li><a href='/library/library_hip_9/'>Groin Strain (Adductor Strain)</a></li><li><a href='/library/library_hip_10/'>Hip Pointer</a></li><li><a href='/library/library_hip_11/'>Trochanteric Bursitis</a></li><li><a href='/library/library_hip_13/'>Hamstring Strains</a></li><li><a href='/library/library_hip_14/'>Femoral Neck Fracture</a></li><li><a href='/library/library_hip_15/'>Avascular Necrosis of the Hip</a></li><li><a href='/library/library_hip_55/'>Hip Osteoarthritis</a></li><li><a href='/library/library_hip_56/'>Hip Replacement</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 234,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": false
+        }
+      ]
+    },
+    "cfa9223db103": {
+      "id": "cfa9223db103",
+      "plainText": "Hip — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Hip — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 44,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": true
+        }
+      ]
+    },
+    "99520b6e8cf3": {
+      "id": "99520b6e8cf3",
+      "plainText": "Medical Library Hip . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 115,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip",
+          "isMeta": true
+        }
+      ]
+    },
+    "88324a93e774": {
+      "id": "88324a93e774",
+      "plainText": "← Back to Hip Possible Treatments Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Possible Treatments</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-lab22k\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-lab22k-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Possible Treatments</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-lab22k\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-lab22k-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-lab22k-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a18a.gif\" width=\"300\" height=\"319\" alt=\"Hip Pointer\" />\r\n\r\n<table>\r\n<tr valign",
+      "textLength": 69,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        }
+      ]
+    },
+    "e5c6f979c5a2": {
+      "id": "e5c6f979c5a2",
+      "plainText": "Hip pointers are the result of a direct blow to the iliac crest in sports such as football, rugby, and soccer. Signs and symptoms include pain, bruising, and tenderness at the bony prominence at the side of the hip. Treatment usually involves rest, ice, and compression.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-lab22k-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a18a.gif\" width=\"300\" height=\"319\" alt=\"Hip Pointer\" />\r\n\r\n<table>\r\n<tr valign=\"top\">\r\n\r\n<p>Hip pointers are the result of a direct blow to the iliac crest in sports such as football, rugby, and soccer. Signs and symptoms include pain, bruising, and tenderness at the bony prominence at the side of the hip. Treatment usually involves rest, ice, and compression.</p>\r\n\r\n</tr>\r\n</table>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "lab22k-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-lab22k-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-lab22k-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a18a.gif\" width=\"300\" height=\"319\" alt=\"Hip Pointer\" />\r\n\r\n<table>\r\n<tr valign=\"top\">\r\n\r\n<p>Hip pointers are the result of a direct blow to the iliac crest in sports such as football, rugby, and soccer. Signs and symptoms include pain, bruising, and tenderness at the bony prominence at the side of the hip. Treatment usually involves rest, ice, and compression.</p>\r\n\r\n</tr>\r\n</table>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments",
+      "textLength": 270,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        }
+      ]
+    },
+    "b268664fb6af": {
+      "id": "b268664fb6af",
+      "plainText": "Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "e the result of a direct blow to the iliac crest in sports such as football, rugby, and soccer. Signs and symptoms include pain, bruising, and tenderness at the bony prominence at the side of the hip. Treatment usually involves rest, ice, and compression.</p>\r\n\r\n</tr>\r\n</table>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</l",
+      "textLength": 437,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        }
+      ]
+    },
+    "383cc5d2bbc7": {
+      "id": "383cc5d2bbc7",
+      "plainText": "Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://w",
+      "textLength": 162,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        }
+      ]
+    },
+    "0f7ca0c53636": {
+      "id": "0f7ca0c53636",
+      "plainText": "3d Anatomy of the hip and pelvis Hip Info from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "<ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-lab22k-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": false
+        }
+      ]
+    },
+    "1d2f302838c1": {
+      "id": "1d2f302838c1",
+      "plainText": "Possible Treatments — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Possible Treatments — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 60,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_wrist_37/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_37",
+          "isMeta": true
+        }
+      ]
+    },
+    "22a7ce888e62": {
+      "id": "22a7ce888e62",
+      "plainText": "Medical Library Hip 10. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 10. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_10/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_10",
+          "isMeta": true
+        }
+      ]
+    },
+    "676c819f5b7f": {
+      "id": "676c819f5b7f",
+      "plainText": "← Back to Hip Trochanteric Bursitis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Trochanteric Bursitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-gqdd78\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-gqdd78-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Trochanteric Bursitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-gqdd78\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-gqdd78-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-gqdd78-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Trochanteric Bursitis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/trochbursitis.gif\" width=\"300\" height=\"300\" al",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        }
+      ]
+    },
+    "77ab9f871280": {
+      "id": "77ab9f871280",
+      "plainText": "Trochanteric Bursitis A bursa is a fluid-filled sack that decreases shear forces between tissues of the body. Trochanteric bursitis (inflammation of a bursa) is caused by excessive stress on the bursa between the IT Band and the greater trochanter. Signs and symptoms include pain over the outer aspect of the hipbone, which often is exacerbated when lying on the affected side, standing on the affected leg, or excessive walking. Treatment often includes rest, ice, and compression, physical therapy including stretching and progressive strengthening, and steroid injection may be helpful.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-gqdd78-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Trochanteric Bursitis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/trochbursitis.gif\" width=\"300\" height=\"300\" alt=\"Trochanteric Bursitis\" />\r\n\r\n<p>A bursa is a fluid-filled sack that decreases shear forces between tissues of the body. Trochanteric bursitis (inflammation of a bursa) is caused by excessive stress on the bursa between the IT Band and the greater trochanter. Signs and symptoms include pain over the outer aspect of the hipbone, which often is exacerbated when lying on the affected side, standing on the affected leg, or excessive walking. Treatment often includes rest, ice, and compression, physical therapy including stretching and progressive strengthening, and steroid injection may be helpful.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "gqdd78-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-gqdd78-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-gqdd78-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Trochanteric Bursitis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/trochbursitis.gif\" width=\"300\" height=\"300\" alt=\"Trochanteric Bursitis\" />\r\n\r\n<p>A bursa is a fluid-filled sack that decreases shear forces between tissues of the body. Trochanteric bursitis (inflammation of a bursa) is caused by excessive stress on the bursa between the IT Band and the greater trochanter. Signs and symptoms include pain over the outer aspect of the hipbone, which often is exacerbated when lying on the affected side, standing on the affected leg, or excessive walking. Treatment often includes rest, ice, and compression, physical therapy including stretching and progressive strengthening, and steroid injection may be helpful.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-gqdd78-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 590,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        }
+      ]
+    },
+    "b416c395f2c0": {
+      "id": "b416c395f2c0",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Iontophoresis Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-gqdd78-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "e, which often is exacerbated when lying on the affected side, standing on the affected leg, or excessive walking. Treatment often includes rest, ice, and compression, physical therapy including stretching and progressive strengthening, and steroid injection may be helpful.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-gqdd78-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-gqdd78-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>",
+      "textLength": 519,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        }
+      ]
+    },
+    "df254594bfd9": {
+      "id": "df254594bfd9",
+      "plainText": "Hip/Trochanteric Bursitis",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-gqdd78-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/hip/trochanteric-bursitis-of-the-hip.html\" target=\"_blank\" rel=\"noopener\">Hip/Trochanteric Bursitis</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-gqdd78-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/hip/trochanteric-bursitis-of-the-hip.html\" target=\"_blank\" rel=\"noopener\">Hip/Trochanteric Bursitis</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 25,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        }
+      ]
+    },
+    "0571b6be2317": {
+      "id": "0571b6be2317",
+      "plainText": "Trochanteric Bursitis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Trochanteric Bursitis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 62,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": true
+        }
+      ]
+    },
+    "4d8119078df7": {
+      "id": "4d8119078df7",
+      "plainText": "Medical Library Hip 11. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 11. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": true
+        }
+      ]
+    },
+    "81e09f5cbc69": {
+      "id": "81e09f5cbc69",
+      "plainText": "← Back to Hip Hamstring Strains Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Hamstring Strains</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-m8i60q\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-m8i60q-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Hamstring Strains</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-m8i60q\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-m8i60q-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-m8i60q-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hamstring Strains</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/HamStrain.gif\" width=\"300\" height=\"335\" alt=\"Hamst",
+      "textLength": 67,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        }
+      ]
+    },
+    "4f5b5cdd4f58": {
+      "id": "4f5b5cdd4f58",
+      "plainText": "Hamstring Strains A strain is a minor tear of a muscle. Quick acceleration while running or cutting is most often the cause of hamstrings strains. A minor pulling or a pop may be noted in the back of the thigh. Pain, swelling, and an inability to run result. Treatment includes rest, ice, compression, elevation, and physical therapy.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-m8i60q-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hamstring Strains</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/HamStrain.gif\" width=\"300\" height=\"335\" alt=\"Hamstrings Strain\" />\r\n\r\n<p>A strain is a minor tear of a muscle. Quick acceleration while running or cutting is most often the cause of hamstrings strains. A minor pulling or a pop may be noted in the back of the thigh. Pain, swelling, and an inability to run result. Treatment includes rest, ice, compression, elevation, and physical therapy.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "m8i60q-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-m8i60q-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-m8i60q-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hamstring Strains</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/HamStrain.gif\" width=\"300\" height=\"335\" alt=\"Hamstrings Strain\" />\r\n\r\n<p>A strain is a minor tear of a muscle. Quick acceleration while running or cutting is most often the cause of hamstrings strains. A minor pulling or a pop may be noted in the back of the thigh. Pain, swelling, and an inability to run result. Treatment includes rest, ice, compression, elevation, and physical therapy.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-m8i60q-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments",
+      "textLength": 334,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        }
+      ]
+    },
+    "3d835c7de1f3": {
+      "id": "3d835c7de1f3",
+      "plainText": "Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Heat Pack ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Plyometrics ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-m8i60q-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "k acceleration while running or cutting is most often the cause of hamstrings strains. A minor pulling or a pop may be noted in the back of the thigh. Pain, swelling, and an inability to run result. Treatment includes rest, ice, compression, elevation, and physical therapy.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-m8i60q-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-m8i60q-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>",
+      "textLength": 508,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        }
+      ]
+    },
+    "b2bf49f8a3b3": {
+      "id": "b2bf49f8a3b3",
+      "plainText": "3d Anatomy of the hip and pelvis",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-m8i60q-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-m8i60q-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 32,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        }
+      ]
+    },
+    "bc1eb251a785": {
+      "id": "bc1eb251a785",
+      "plainText": "Hamstring Strains — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Hamstring Strains — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": true
+        }
+      ]
+    },
+    "4bd862f77a67": {
+      "id": "4bd862f77a67",
+      "plainText": "Medical Library Hip 13. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 13. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": true
+        }
+      ]
+    },
+    "1208f15d8138": {
+      "id": "1208f15d8138",
+      "plainText": "← Back to Hip Femoral Neck Fracture Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Femoral Neck Fracture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-udtzq3\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-udtzq3-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Femoral Neck Fracture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-udtzq3\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-udtzq3-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-udtzq3-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Femoral Neck Fracture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a21a.gif\" width=\"300\" height=\"330\"/>\r\n\r\n<p>A b",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        }
+      ]
+    },
+    "9ad36b43f1bd": {
+      "id": "9ad36b43f1bd",
+      "plainText": "Femoral Neck Fracture A bad fall or blow to the hip can break (fracture) the thigh bone typically around the femoral neck region. If the broken bone does not heal properly, the joint may slowly wear down. Blood flow through the femoral head may be restricted or cut off leading to the necrosis of the joint.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-udtzq3-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Femoral Neck Fracture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a21a.gif\" width=\"300\" height=\"330\"/>\r\n\r\n<p>A bad fall or blow to the hip can break (fracture) the thigh bone typically around the femoral neck region. If the broken bone does not heal properly, the joint may slowly wear down. Blood flow through the femoral head may be restricted or cut off leading to the necrosis of the joint.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "udtzq3-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-udtzq3-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-udtzq3-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Femoral Neck Fracture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a21a.gif\" width=\"300\" height=\"330\"/>\r\n\r\n<p>A bad fall or blow to the hip can break (fracture) the thigh bone typically around the femoral neck region. If the broken bone does not heal properly, the joint may slowly wear down. Blood flow through the femoral head may be restricted or cut off leading to the necrosis of the joint.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 307,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        }
+      ]
+    },
+    "8b643239231b": {
+      "id": "8b643239231b",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Proprioception Exercises ▶ Video Physical Agents",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "or blow to the hip can break (fracture) the thigh bone typically around the femoral neck region. If the broken bone does not heal properly, the joint may slowly wear down. Blood flow through the femoral head may be restricted or cut off leading to the necrosis of the joint.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>I",
+      "textLength": 376,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        }
+      ]
+    },
+    "33cca0556209": {
+      "id": "33cca0556209",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Safety Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "atments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://w",
+      "textLength": 287,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        }
+      ]
+    },
+    "a9c755d242ac": {
+      "id": "a9c755d242ac",
+      "plainText": "3d Anatomy of the hip and pelvis Hip Info from Medline Plus Osteoarthritis of Guide",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/general-orthopedics/arthritis.html\" target=\"_blank\" rel=\"noopener\">Osteoarthritis of Guide</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "e Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-udtzq3-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/general-orthopedics/arthritis.html\" target=\"_blank\" rel=\"noopener\">Osteoarthritis of Guide</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 83,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        }
+      ]
+    },
+    "8c67f20dc18b": {
+      "id": "8c67f20dc18b",
+      "plainText": "Femoral Neck Fracture — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Femoral Neck Fracture — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 62,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": true
+        }
+      ]
+    },
+    "11c0167b1efd": {
+      "id": "11c0167b1efd",
+      "plainText": "Medical Library Hip 14. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 14. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_14/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_14",
+          "isMeta": true
+        }
+      ]
+    },
+    "9f37da0b9741": {
+      "id": "9f37da0b9741",
+      "plainText": "← Back to Hip Avascular Necrosis of the Hip Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Avascular Necrosis of the Hip</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-874a2w\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-874a2w-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Avascular Necrosis of the Hip</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-874a2w\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-874a2w-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-874a2w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Avascular Necrosis of the Hip</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a22a.gif\" width=\"3",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        }
+      ]
+    },
+    "df36cb902bc1": {
+      "id": "df36cb902bc1",
+      "plainText": "Avascular Necrosis of the Hip",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-874a2w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Avascular Necrosis of the Hip</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a22a.gif\" width=\"300\" height=\"300\" alt=\"Avascular Necrosis of the Hip\" /></div>",
+      "tagName": "div",
+      "previewContext": "874a2w-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-874a2w-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-874a2w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Avascular Necrosis of the Hip</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a22a.gif\" width=\"300\" height=\"300\" alt=\"Avascular Necrosis of the Hip\" /></div>\r\n\r\n<p>Avascular necrosis means bone death due to a lack of blood supply. A disrupted blood supply occurs when there is a fracture, dislocation, or repetitive trauma to the neck of the femur. Signs and symptoms include pain, limitation of movement and pain with walking. X-rays, MRI, or a bone scan m",
+      "textLength": 29,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        }
+      ]
+    },
+    "8a8c97e994ce": {
+      "id": "8a8c97e994ce",
+      "plainText": "Avascular necrosis means bone death due to a lack of blood supply. A disrupted blood supply occurs when there is a fracture, dislocation, or repetitive trauma to the neck of the femur. Signs and symptoms include pain, limitation of movement and pain with walking. X-rays, MRI, or a bone scan may be helpful in diagnosing this disorder. Surgical decompression or total hip replacement may be necessary.",
+      "originalHtml": "<p>Avascular necrosis means bone death due to a lack of blood supply. A disrupted blood supply occurs when there is a fracture, dislocation, or repetitive trauma to the neck of the femur. Signs and symptoms include pain, limitation of movement and pain with walking. X-rays, MRI, or a bone scan may be helpful in diagnosing this disorder. Surgical decompression or total hip replacement may be necessary.</p>",
+      "tagName": "p",
+      "previewContext": "tab-panel--active\" data-ml-tab-panel=\"ml-tab-874a2w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Avascular Necrosis of the Hip</h4>\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/v2/a22a.gif\" width=\"300\" height=\"300\" alt=\"Avascular Necrosis of the Hip\" /></div>\r\n\r\n<p>Avascular necrosis means bone death due to a lack of blood supply. A disrupted blood supply occurs when there is a fracture, dislocation, or repetitive trauma to the neck of the femur. Signs and symptoms include pain, limitation of movement and pain with walking. X-rays, MRI, or a bone scan may be helpful in diagnosing this disorder. Surgical decompression or total hip replacement may be necessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/li",
+      "textLength": 401,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        }
+      ]
+    },
+    "3977194aa6e7": {
+      "id": "3977194aa6e7",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Proprioception Exercises ▶ Video Physical Agents Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "slocation, or repetitive trauma to the neck of the femur. Signs and symptoms include pain, limitation of movement and pain with walking. X-rays, MRI, or a bone scan may be helpful in diagnosing this disorder. Surgical decompression or total hip replacement may be necessary.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception",
+      "textLength": 416,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        }
+      ]
+    },
+    "33ffab479fe1": {
+      "id": "33ffab479fe1",
+      "plainText": "Improve Balance Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Improve Proprioception Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Safety",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-874a2w-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://w",
+      "textLength": 217,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": false
+        }
+      ]
+    },
+    "eaa5990f3314": {
+      "id": "eaa5990f3314",
+      "plainText": "Avascular Necrosis of the Hip — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Avascular Necrosis of the Hip — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 70,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": true
+        }
+      ]
+    },
+    "18a6a5b360c2": {
+      "id": "18a6a5b360c2",
+      "plainText": "Medical Library Hip 15. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 15. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_15/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_15",
+          "isMeta": true
+        }
+      ]
+    },
+    "49af73b15f9f": {
+      "id": "49af73b15f9f",
+      "plainText": "← Back to Hip Hip Osteoarthritis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Hip Osteoarthritis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-fgw1xk\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-fgw1xk-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Hip Osteoarthritis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-fgw1xk\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-fgw1xk-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-fgw1xk-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hip Osteoarthritis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/hipoa.gif\" width=\"300\" height=\"335\" alt=\"Avascula",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        }
+      ]
+    },
+    "46f04ec6177e": {
+      "id": "46f04ec6177e",
+      "plainText": "Hip Osteoarthritis Osteoarthritis of the hip occurs when the cartilage coverings on ball (the head of the femur) and the socket (the acetabulum) wear out. It is worse when you bear weight on the affected limb. Range of motion is often limited especially internal rotation and hip flexion. Recent studies have demonstrated that joint mobilization and stretching can result in significant pain relief.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-fgw1xk-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hip Osteoarthritis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/hipoa.gif\" width=\"300\" height=\"335\" alt=\"Avascular Necrosis of the Hip\" />\r\n\r\n<p>Osteoarthritis of the hip occurs when the cartilage coverings on ball (the head of the femur) and the socket (the acetabulum) wear out.  It is worse when you bear weight on the affected limb.  Range of motion is often limited especially internal rotation and hip flexion.  Recent studies have demonstrated that joint mobilization and stretching can result in significant pain relief.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "fgw1xk-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-fgw1xk-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-fgw1xk-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hip Osteoarthritis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/hipoa.gif\" width=\"300\" height=\"335\" alt=\"Avascular Necrosis of the Hip\" />\r\n\r\n<p>Osteoarthritis of the hip occurs when the cartilage coverings on ball (the head of the femur) and the socket (the acetabulum) wear out.  It is worse when you bear weight on the affected limb.  Range of motion is often limited especially internal rotation and hip flexion.  Recent studies have demonstrated that joint mobilization and stretching can result in significant pain relief.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments",
+      "textLength": 399,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        }
+      ]
+    },
+    "5f9411055d8a": {
+      "id": "5f9411055d8a",
+      "plainText": "Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Heat Pack ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "(the acetabulum) wear out.  It is worse when you bear weight on the affected limb.  Range of motion is often limited especially internal rotation and hip flexion.  Recent studies have demonstrated that joint mobilization and stretching can result in significant pain relief.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alig",
+      "textLength": 488,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        }
+      ]
+    },
+    "c898d123d9df": {
+      "id": "c898d123d9df",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://w",
+      "textLength": 331,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_systemic_57/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Systemic",
+          "pageName": "library_systemic_57",
+          "isMeta": false
+        }
+      ]
+    },
+    "f250cb39b9e8": {
+      "id": "f250cb39b9e8",
+      "plainText": "3d Anatomy of the hip and pelvis Arthritis Foundation Arthritis, Exercise, and Manual Therapy Hip Info from Medline Plus Osteoarthritis of Guide",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.arthritis.org\" target=\"_blank\" rel=\"noopener\">Arthritis Foundation</a></li>\r\n  <li><a href=\"http://www.guideline.gov/summary/summary.aspx?ss=15&doc_id=7785&nbr=4490\" target=\"_blank\" rel=\"noopener\">Arthritis, Exercise, and Manual Therapy</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/general-orthopedics/arthritis.html\" target=\"_blank\" rel=\"noopener\">Osteoarthritis of Guide</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "trength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-fgw1xk-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.arthritis.org\" target=\"_blank\" rel=\"noopener\">Arthritis Foundation</a></li>\r\n  <li><a href=\"http://www.guideline.gov/summary/summary.aspx?ss=15&doc_id=7785&nbr=4490\" target=\"_blank\" rel=\"noopener\">Arthritis, Exercise, and Manual Therapy</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/general-orthopedics/arthritis.html\" target=\"_blank\" rel=\"noopener\">Osteoarthritis of Guide</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 144,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": false
+        }
+      ]
+    },
+    "7eb460694e09": {
+      "id": "7eb460694e09",
+      "plainText": "Hip Osteoarthritis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Hip Osteoarthritis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": true
+        }
+      ]
+    },
+    "32c2aaea32d5": {
+      "id": "32c2aaea32d5",
+      "plainText": "Medical Library Hip 55. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 55. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_55/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_55",
+          "isMeta": true
+        }
+      ]
+    },
+    "ffa0dfaac321": {
+      "id": "ffa0dfaac321",
+      "plainText": "← Back to Hip Hip Replacement Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Hip Replacement</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-xzx3rm\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-xzx3rm-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Hip Replacement</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-xzx3rm\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-xzx3rm-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-xzx3rm-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hip Replacement</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/tha.gif\" width=\"300\" height=\"360\" alt=\"Hip Replaceme",
+      "textLength": 65,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        }
+      ]
+    },
+    "c3770e482d14": {
+      "id": "c3770e482d14",
+      "plainText": "Hip Replacement For some osteoarthritic hip joints and femur fractures, the only option is a total hip replacement. As the image shows, both the ball (the head and neck of the femur) and the socket (the acetabulum) are replaced. You will receive physical therapy in the hospital. Recent research suggests that patients can gain significant strength and improve balance skills with additional outpatient physical therapy.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-xzx3rm-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hip Replacement</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/tha.gif\" width=\"300\" height=\"360\" alt=\"Hip Replacement or Total Hip Arthroplasty\" />\r\n<span class='listttext'>\r\n<p>For some osteoarthritic hip joints and femur fractures, the only option is a total hip replacement.  As the image shows, both the ball (the head and neck of the femur) and the socket (the acetabulum) are replaced.  You will receive physical therapy in the hospital.  Recent research suggests that patients can gain significant strength and improve balance skills with additional outpatient physical therapy.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "xzx3rm-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-xzx3rm-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-xzx3rm-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Hip Replacement</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/tha.gif\" width=\"300\" height=\"360\" alt=\"Hip Replacement or Total Hip Arthroplasty\" />\r\n<span class='listttext'>\r\n<p>For some osteoarthritic hip joints and femur fractures, the only option is a total hip replacement.  As the image shows, both the ball (the head and neck of the femur) and the socket (the acetabulum) are replaced.  You will receive physical therapy in the hospital.  Recent research suggests that patients can gain significant strength and improve balance skills with additional outpatient physical therapy.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments",
+      "textLength": 420,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        }
+      ]
+    },
+    "fcc626615fab": {
+      "id": "fcc626615fab",
+      "plainText": "Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "l (the head and neck of the femur) and the socket (the acetabulum) are replaced.  You will receive physical therapy in the hospital.  Recent research suggests that patients can gain significant strength and improve balance skills with additional outpatient physical therapy.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alig",
+      "textLength": 430,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        }
+      ]
+    },
+    "33764df8265d": {
+      "id": "33764df8265d",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Improve Proprioception Decrease Postoperative Complications Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "s_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://w",
+      "textLength": 363,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        }
+      ]
+    },
+    "4c4faba66e3a": {
+      "id": "4c4faba66e3a",
+      "plainText": "3d Anatomy of the hip and pelvis Arthritis Foundation Arthritis, Exercise, and Manual Therapy Hip Info from Medline Plus Osteoarthritis of Guide Total Hip Replacement Support Group",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.arthritis.org\" target=\"_blank\" rel=\"noopener\">Arthritis Foundation</a></li>\r\n  <li><a href=\"http://www.guideline.gov/summary/summary.aspx?ss=15&doc_id=7785&nbr=4490\" target=\"_blank\" rel=\"noopener\">Arthritis, Exercise, and Manual Therapy</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/general-orthopedics/arthritis.html\" target=\"_blank\" rel=\"noopener\">Osteoarthritis of Guide</a></li>\r\n  <li><a href=\"http://members.tripod.com/totallyhip1/\" target=\"_blank\" rel=\"noopener\">Total Hip Replacement Support Group</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "oception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-xzx3rm-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the hip and pelvis</a></li>\r\n  <li><a href=\"http://www.arthritis.org\" target=\"_blank\" rel=\"noopener\">Arthritis Foundation</a></li>\r\n  <li><a href=\"http://www.guideline.gov/summary/summary.aspx?ss=15&doc_id=7785&nbr=4490\" target=\"_blank\" rel=\"noopener\">Arthritis, Exercise, and Manual Therapy</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/hipinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Hip Info from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/general-orthopedics/arthritis.html\" target=\"_blank\" rel=\"noopener\">Osteoarthritis of Guide</a></li>\r\n  <li><a href=\"http://members.tripod.com/totallyhip1/\" target=\"_blank\" rel=\"noopener\">Total Hip Replacement Support Group</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 180,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": false
+        }
+      ]
+    },
+    "607348e7d66f": {
+      "id": "607348e7d66f",
+      "plainText": "Hip Replacement — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Hip Replacement — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 56,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": true
+        }
+      ]
+    },
+    "9a93498339c6": {
+      "id": "9a93498339c6",
+      "plainText": "Medical Library Hip 56. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 56. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_56/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_56",
+          "isMeta": true
+        }
+      ]
+    },
+    "a8223b422ab1": {
+      "id": "a8223b422ab1",
+      "plainText": "← Back to Hip Quadriceps Muscle Strains Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Quadriceps Muscle Strains</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-7i2ghz\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-7i2ghz-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Quadriceps Muscle Strains</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-7i2ghz\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-7i2ghz-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-7i2ghz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Quadriceps Muscle Strains</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/quadtear.gif\" alt=\"Quadriceps Muscle Strai",
+      "textLength": 75,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        }
+      ]
+    },
+    "f35b167c68be": {
+      "id": "f35b167c68be",
+      "plainText": "Quadriceps Muscle Strains This injury is commonly the result of quick sprints or quick stops while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; in the tender area of the thigh. The pain is aggravated by lifting the thigh (a straight leg raise), ascending/descending stairs, or getting up from a seated position.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-7i2ghz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Quadriceps Muscle Strains</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/quadtear.gif\" alt=\"Quadriceps Muscle Strains\" />\r\n\r\n<p>This injury is commonly the result of quick sprints or quick stops while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; in the tender area of the thigh. The pain is aggravated by lifting the thigh (a straight leg raise), ascending/descending stairs, or getting up from a seated position.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "7i2ghz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-7i2ghz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-7i2ghz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Quadriceps Muscle Strains</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/quadtear.gif\" alt=\"Quadriceps Muscle Strains\" />\r\n\r\n<p>This injury is commonly the result of quick sprints or quick stops while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; in the tender area of the thigh. The pain is aggravated by lifting the thigh (a straight leg raise), ascending/descending stairs, or getting up from a seated position.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-7i2ghz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 352,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        }
+      ]
+    },
+    "82d257bf0d62": {
+      "id": "82d257bf0d62",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Heat Pack ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Neuromuscular Electrical Stimulation ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-7i2ghz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_70/\">Neuromuscular Electrical Stimulation <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "quick stops while running. With a muscle strain, there is localized tenderness or a &ldquo;bulge&rdquo; in the tender area of the thigh. The pain is aggravated by lifting the thigh (a straight leg raise), ascending/descending stairs, or getting up from a seated position.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-7i2ghz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_70/\">Neuromuscular Electrical Stimulation <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-7i2ghz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improv",
+      "textLength": 568,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        }
+      ]
+    },
+    "4590334d30e4": {
+      "id": "4590334d30e4",
+      "plainText": "Quadriceps Muscle Strains — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Quadriceps Muscle Strains — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 66,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": true
+        }
+      ]
+    },
+    "eb4ea994f662": {
+      "id": "eb4ea994f662",
+      "plainText": "Medical Library Hip 7. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 7. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 116,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": true
+        }
+      ]
+    },
+    "bb905485e001": {
+      "id": "bb905485e001",
+      "plainText": "← Back to Hip Quadriceps Tendon Rupture Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Quadriceps Tendon Rupture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-jwl4b8\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-jwl4b8-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Quadriceps Tendon Rupture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-jwl4b8\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-jwl4b8-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jwl4b8-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Quadriceps Tendon Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/quadtendonrupture.gif\" width=\"300\" height=",
+      "textLength": 75,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        }
+      ]
+    },
+    "cb49ce18f337": {
+      "id": "cb49ce18f337",
+      "plainText": "Quadriceps Tendon Rupture This injury is often the result of forceful kicking or a traumatic impact to the tendon, which may occur with a fall. Signs and symptoms include pain and bruising just above the kneecap, an inability to walk, and severe weakness of the quadriceps (making it impossible to ascend/descend stairs). Surgical repair is necessary.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jwl4b8-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Quadriceps Tendon Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/quadtendonrupture.gif\" width=\"300\" height=\"326\" alt=\"Quadriceps Tendon Rupture\" /\r\n\r\n<p>This injury is often the result of forceful kicking or a traumatic impact to the tendon, which may occur with a fall. Signs and symptoms include pain and bruising just above the kneecap, an inability to walk, and severe weakness of the quadriceps (making it impossible to ascend/descend stairs). Surgical repair is necessary.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "jwl4b8-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jwl4b8-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jwl4b8-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Quadriceps Tendon Rupture</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/quadtendonrupture.gif\" width=\"300\" height=\"326\" alt=\"Quadriceps Tendon Rupture\" /\r\n\r\n<p>This injury is often the result of forceful kicking or a traumatic impact to the tendon, which may occur with a fall. Signs and symptoms include pain and bruising just above the kneecap, an inability to walk, and severe weakness of the quadriceps (making it impossible to ascend/descend stairs). Surgical repair is necessary.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 351,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        }
+      ]
+    },
+    "4e52f3f87e7a": {
+      "id": "4e52f3f87e7a",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Neuromuscular Electrical Stimulation ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_70/\">Neuromuscular Electrical Stimulation <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "r a traumatic impact to the tendon, which may occur with a fall. Signs and symptoms include pain and bruising just above the kneecap, an inability to walk, and severe weakness of the quadriceps (making it impossible to ascend/descend stairs). Surgical repair is necessary.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_70/\">Neuromuscular Electrical Stimulation <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>",
+      "textLength": 550,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        }
+      ]
+    },
+    "a27a7dd65201": {
+      "id": "a27a7dd65201",
+      "plainText": "Improve Balance Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms Improve Tolerance for Prolonged Activities Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/knee\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Knee</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div cl",
+      "textLength": 273,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_16/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_16",
+          "isMeta": false
+        }
+      ]
+    },
+    "3614cd293e07": {
+      "id": "3614cd293e07",
+      "plainText": "3d Anatomy of the Knee",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/knee\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Knee</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "<li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jwl4b8-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/knee\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Knee</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 22,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": false
+        }
+      ]
+    },
+    "2f4411e45930": {
+      "id": "2f4411e45930",
+      "plainText": "Quadriceps Tendon Rupture — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Quadriceps Tendon Rupture — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 66,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": true
+        }
+      ]
+    },
+    "c887c40ae14b": {
+      "id": "c887c40ae14b",
+      "plainText": "Medical Library Hip 8. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 8. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 116,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_8/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_8",
+          "isMeta": true
+        }
+      ]
+    },
+    "c722cba7366d": {
+      "id": "c722cba7366d",
+      "plainText": "← Back to Hip Groin Strain (Adductor Strain) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Groin Strain (Adductor Strain)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-8ym1oe\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-8ym1oe-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_hip/\" class=\"ml-back-arrow\" aria-label=\"Back to Hip\"><span class=\"ml-back-arrow-icon\">←</span> Back to Hip</a>\r\n  <h1>Groin Strain (Adductor Strain)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-8ym1oe\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-8ym1oe-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-8ym1oe-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Groin Strain (Adductor Strain)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a17a.gif\" width=\"300\" height=\"350\" al",
+      "textLength": 80,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        }
+      ]
+    },
+    "86f0a021577e": {
+      "id": "86f0a021577e",
+      "plainText": "Groin Strain (Adductor Strain) This injury usually occurs in sports where cutting, side-stepping, or pivoting are required. Often, there is forceful separation of the legs or twisting of the toe outward. Signs and symptoms include pain and tenderness in the inner thigh region.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-8ym1oe-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Groin Strain (Adductor Strain)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a17a.gif\" width=\"300\" height=\"350\" alt=\"Groin (Adductor\" Strain\" />\r\n\r\n<p>This injury usually occurs in sports where cutting, side-stepping, or pivoting are required. Often, there is forceful separation of the legs or twisting of the toe outward. Signs and symptoms include pain and tenderness in the inner thigh region.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "8ym1oe-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-8ym1oe-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-8ym1oe-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Groin Strain (Adductor Strain)</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/v2/a17a.gif\" width=\"300\" height=\"350\" alt=\"Groin (Adductor\" Strain\" />\r\n\r\n<p>This injury usually occurs in sports where cutting, side-stepping, or pivoting are required. Often, there is forceful separation of the legs or twisting of the toe outward. Signs and symptoms include pain and tenderness in the inner thigh region.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8ym1oe-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 277,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        }
+      ]
+    },
+    "46498e52395c": {
+      "id": "46498e52395c",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Hip Active Range of Motion ▶ Video Hip Joint Mobilization ▶ Video Hip Passive Range of Motion ▶ Video Hip Resistive Range of Motion ▶ Video Isometric Exercise ▶ Video Plyometrics ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8ym1oe-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "dductor\" Strain\" />\r\n\r\n<p>This injury usually occurs in sports where cutting, side-stepping, or pivoting are required. Often, there is forceful separation of the legs or twisting of the toe outward. Signs and symptoms include pain and tenderness in the inner thigh region.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8ym1oe-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_51/\">Hip Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_52/\">Hip Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_53/\">Hip Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_54/\">Hip Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-8ym1oe-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>",
+      "textLength": 525,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        }
+      ]
+    },
+    "900020c78a82": {
+      "id": "900020c78a82",
+      "plainText": "Groin Strain (Adductor Strain) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Groin Strain (Adductor Strain) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": true
+        }
+      ]
+    },
+    "24347b30d9b4": {
+      "id": "24347b30d9b4",
+      "plainText": "Medical Library Hip 9. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Hip 9. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 116,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

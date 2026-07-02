@@ -1,0 +1,92 @@
+{
+  "section": "Services > Electrical Stimulation",
+  "category": "services",
+  "pageCount": 2,
+  "snippetCount": 4,
+  "snippets": {
+    "cf669516d0e1": {
+      "id": "cf669516d0e1",
+      "plainText": "Electrical Stimulation",
+      "originalHtml": "<div class=\"container\">\r\n      <h1>Electrical Stimulation</h1>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "\"/files/services/electrical-stimulation.jpg\">\r\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\r\n  <link rel=\"stylesheet\" href=\"/css/main.css\">\r\n  <link rel=\"stylesheet\" href=\"/css/header.css\">\r\n  \r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n<main>\r\n  <section class=\"svc-hero\">\r\n    <div class=\"container\">\r\n      <h1>Electrical Stimulation</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/electrical-stimulation.jpg\" alt=\"Electrical Stimulation\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc",
+      "textLength": 22,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "services/electrical-stimulation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Electrical Stimulation",
+          "pageName": "electrical-stimulation",
+          "isMeta": false
+        },
+        {
+          "file": "services/index.html",
+          "selector": "a.service-card",
+          "category": "services",
+          "section": "Services > Index.Html",
+          "pageName": "index.html",
+          "isMeta": false
+        }
+      ]
+    },
+    "87162780e2b7": {
+      "id": "87162780e2b7",
+      "plainText": "Microcurrent therapy is a treatment modality used to treat pain relief through the delivery of a low-level electrical current. The current is delivered to certain parts of your body in an attempt to relieve pain. The frequency of the electrical impulses may vary depending on the type of device used and the treatment goals. The electrical waves produced by the microcurrent device are thought to stimulate energy production (ATP) which is necessary for cellular tissue repair and recovery. Microcurrent therapy is often used to: Reduce/relieve pain Stimulate tissue healing Reduce inflammation and/or swelling Microcurrent treatment may be helpful for: Disc injuries Fibromyalgia Diabetic neuropathy Neuromas (overgrowth and scarring to a nerve after an injury) Tendinopathy (inflammation and/or swelling of the tendon) Acute (sudden) and chronic (long-term) musculoskeletal injuries Acute and chronic neuropathic (nerve) pain Arthritis Torticollis (the head is tilted to one side) Disc injuries / discogenic and facet-based pain Headaches Plantar fasciitis (pain in the heel and foot) Sports injuries Wounds If you'd like more information about microcurrent treatment and how it may help you, please contact us at (985) 641-5825.",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>Microcurrent therapy is a treatment modality used to treat pain relief through the delivery of a low-level electrical current. The current is delivered to certain parts of your body in an attempt to relieve pain.</p>\r\n<p>The frequency of the electrical impulses may vary depending on the type of device used and the treatment goals. The electrical waves produced by the microcurrent device are thought to stimulate energy production (ATP) which is necessary for cellular tissue repair and recovery.</p>\r\n<p><strong>Microcurrent therapy is often used to:</strong></p>\r\n<ol>\r\n<li>Reduce/relieve pain</li>\r\n<li>Stimulate tissue healing</li>\r\n<li>Reduce inflammation and/or swelling</li>\r\n</ol>\r\n<p><strong>Microcurrent treatment may be helpful for:</strong></p>\r\n<ul>\r\n<li>Disc injuries</li>\r\n<li>Fibromyalgia</li>\r\n<li>Diabetic neuropathy</li>\r\n<li>Neuromas (overgrowth and scarring to a nerve after an injury)</li>\r\n<li>Tendinopathy (inflammation and/or swelling of the tendon)</li>\r\n<li>Acute (sudden) and chronic (long-term) musculoskeletal injuries</li>\r\n<li>Acute and chronic neuropathic (nerve) pain</li>\r\n<li>Arthritis</li>\r\n<li>Torticollis (the head is tilted to one side)</li>\r\n<li>Disc injuries / discogenic and facet-based pain</li>\r\n<li>Headaches</li>\r\n<li>Plantar fasciitis (pain in the heel and foot)</li>\r\n<li>Sports injuries</li>\r\n<li>Wounds</li>\r\n</ul>\r\n<p>If you'd like more information about microcurrent treatment and how it may help you, please contact us at (985) 641-5825.</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/electrical-stimulation.jpg\" alt=\"Electrical Stimulation\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>Microcurrent therapy is a treatment modality used to treat pain relief through the delivery of a low-level electrical current. The current is delivered to certain parts of your body in an attempt to relieve pain.</p>\r\n<p>The frequency of the electrical impulses may vary depending on the type of device used and the treatment goals. The electrical waves produced by the microcurrent device are thought to stimulate energy production (ATP) which is necessary for cellular tissue repair and recovery.</p>\r\n<p><strong>Microcurrent therapy is often used to:</strong></p>\r\n<ol>\r\n<li>Reduce/relieve pain</li>\r\n<li>Stimulate tissue healing</li>\r\n<li>Reduce inflammation and/or swelling</li>\r\n</ol>\r\n<p><strong>Microcurrent treatment may be helpful for:</strong></p>\r\n<ul>\r\n<li>Disc injuries</li>\r\n<li>Fibromyalgia</li>\r\n<li>Diabetic neuropathy</li>\r\n<li>Neuromas (overgrowth and scarring to a nerve after an injury)</li>\r\n<li>Tendinopathy (inflammation and/or swelling of the tendon)</li>\r\n<li>Acute (sudden) and chronic (long-term) musculoskeletal injuries</li>\r\n<li>Acute and chronic neuropathic (nerve) pain</li>\r\n<li>Arthritis</li>\r\n<li>Torticollis (the head is tilted to one side)</li>\r\n<li>Disc injuries / discogenic and facet-based pain</li>\r\n<li>Headaches</li>\r\n<li>Plantar fasciitis (pain in the heel and foot)</li>\r\n<li>Sports injuries</li>\r\n<li>Wounds</li>\r\n</ul>\r\n<p>If you'd like more information about microcurrent treatment and how it may help you, please contact us at (985) 641-5825.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1231,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/electrical-stimulation/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Electrical Stimulation",
+          "pageName": "electrical-stimulation",
+          "isMeta": false
+        }
+      ]
+    },
+    "4fa865b554e5": {
+      "id": "4fa865b554e5",
+      "plainText": "Electrical Stimulation — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Electrical Stimulation — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 63,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/electrical-stimulation/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Electrical Stimulation",
+          "pageName": "electrical-stimulation",
+          "isMeta": true
+        }
+      ]
+    },
+    "da89363ad24b": {
+      "id": "da89363ad24b",
+      "plainText": "Electrical stimulation / microcurrent therapy in Slidell, LA. Pain relief, tissue healing, and inflammation reduction. Call 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Electrical stimulation / microcurrent therapy in Slidell, LA. Pain relief, tissue healing, and inflammation reduction. Call 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 137,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/electrical-stimulation/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Electrical Stimulation",
+          "pageName": "electrical-stimulation",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

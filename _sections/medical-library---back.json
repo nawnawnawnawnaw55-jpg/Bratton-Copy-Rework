@@ -1,0 +1,635 @@
+{
+  "section": "Medical Library > Back",
+  "category": "medical-library",
+  "pageCount": 5,
+  "snippetCount": 33,
+  "snippets": {
+    "d8c749402fd4": {
+      "id": "d8c749402fd4",
+      "plainText": "Back Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Back</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Back</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 159,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        }
+      ]
+    },
+    "84350361f499": {
+      "id": "84350361f499",
+      "plainText": "Back Articles Understanding Low Back Pain Lumbar Surgery Scoliosis Lumbar Stenosis",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Back Articles</h2><ul><li><a href='/library/library_back_1/'>Understanding Low Back Pain</a></li><li><a href='/library/library_back_52/'>Lumbar Surgery</a></li><li><a href='/library/library_back_53/'>Scoliosis</a></li><li><a href='/library/library_back_71/'>Lumbar Stenosis</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Back Articles</h2><ul><li><a href='/library/library_back_1/'>Understanding Low Back Pain</a></li><li><a href='/library/library_back_52/'>Lumbar Surgery</a></li><li><a href='/library/library_back_53/'>Scoliosis</a></li><li><a href='/library/library_back_71/'>Lumbar Stenosis</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 82,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": false
+        }
+      ]
+    },
+    "baf0787713f6": {
+      "id": "baf0787713f6",
+      "plainText": "Back — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Back — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 45,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": true
+        }
+      ]
+    },
+    "cff747361a64": {
+      "id": "cff747361a64",
+      "plainText": "Medical Library Back . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Back . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 116,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back",
+          "isMeta": true
+        }
+      ]
+    },
+    "a2bab322e39d": {
+      "id": "a2bab322e39d",
+      "plainText": "← Back to Back Understanding Low Back Pain Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Understanding Low Back Pain</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-roy6bm\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-roy6bm-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Understanding Low Back Pain</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-roy6bm\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-roy6bm-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-roy6bm-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Understanding Low Back Pain</h4>\r\n\r\n<a href=\"#Anatomy_of_the_Low_Back\">Anatomy</a> | \r\n<a href=\"#Mechanical_Low_Back_Pain\">Mec",
+      "textLength": 78,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        }
+      ]
+    },
+    "ea0ef9fe23c4": {
+      "id": "ea0ef9fe23c4",
+      "plainText": "Understanding Low Back Pain Anatomy | Mechanical Low Back Pain | Treating Low Back Pain It is estimated that 80% of the human race experiences low back pain at least once throughout their lifetime. Fifty percent of the working population admit to experiencing low back pain each year. Each year 15-20% of the people in the United States have complaints of low back pain. Two percent of the U.S. population is either temporarily or chronically disabled by low back pain. Millions of workers suffer on the job injuries annually which costs 100 billion dollars in lost wages, time, and productivity and medical costs. It is important to understand that there is an outstanding chance that you will recover from your low back pain in the near future. Research studies have shown that 74 % of those that suffer from back pain return to work within 4 weeks and &gt; 90 % in 3 months or less. Some health care providers feel low back pain is like catching a cold - you experience it and in time it goes away. To sum it up, there is a good chance you will have low back pain, there is a good chance that you will recover but there is also a good chance that you will experience the pain again. Medical research suggests that an active exercise program will reduce disability and may prevent future episodes of pain. Anatomy of the Low Back The low back or lumbar spine is an extraordinary engineering marvel. It is composed of bones, discs, joints, tendons, muscles, ligaments and nerves. The spine has 3 main functions. 1.) It connects the pelvis to the trunk and head. 2.) It protects and houses the spinal cord which is made up of billions of nerves that connect the brain to most of the body&rsquo;s major organs. 3.) The spine provides stability, balance, flexibility, and mobility in order for us to perform our daily activities. It allows you to swing a golf club and at the same time withstands and transfers tremendous forces. For example, let&rsquo;s assume you weigh 150 pounds, and you bend over about 65 degrees. Your back muscles generate 375 pounds of force to keep you from falling over and if you carry a 50 pound object at the same time, your muscles generate about 700 pounds of force. Closer inspection reveals five vertebrae (bones) stacked on top of each other with a fluid - filled disc in between each vertebrae. The lumbar spine is like a hollow, C-shaped curve (called the lumbar lordosis) which is arranged to balance tremendous forces. The curve or lumbar lordosis allows the spine to be 15 times stronger than if it were straight. Within the \"hollow\" of the spine is the spinal cord. The spinal cord is made up of nerves that, very simply put, wire your brain to your muscles and tell them when to contract. These nerves also are responsible for the sensation of touch and pain among other things. They exit out of holes called intervertebral (meaning in between the vertebrae) foramen and are called nerve roots. The vertebral bodies bear most of the weight and have cartilage end plates which attach to the discs. Spinous processes emerge from the back of a vertebrae and two other bones point to the sides and are called transverse processes. These processes serve as attachments for muscles and ligaments. Between each vertebral body is a fluid filled disc similar to a jelly donut. The outer fibrous portion is called the annulus fibrosus and the inner jelly is called the nucleus pulposus. Healthy discs provide necessary height to the spine, absorb shock, and distribute forces in all directions. Ligaments are tough non-elastic (they stretch very little) structures that attach a bone or bones together. There are many ligaments associated with the lumbar spine. The anterior longitudinal ligament holds the front of the vertebral bodies together. The posterior longitudinal ligament holds the back of the vertebral bodies together. The interspinous and intertransverse ligaments pass in between the spinous processes and transverse processes respectively. The ligamentum flavum holds the rear portion of the vertebra together and helps to protect the spinal cord. The thoracolumbar fascia is a large piece of ligamentous tissue that helps hold all of the lumbar vertebra together and works with muscles to stabilize the spine. There are over 140 muscles that work together to move and stabilize the spine. Many of these muscles are located around the lumbar spine. There are the abdominal muscles, the erector muscles, the hip muscles, and lateral stabilizing muscles. The abdominal muscles consist of the rectus abdominus, the internal and external obliques, and the transverse abdominus. They provide frontal support, help maintain good posture, hold the abdominal organs in the correct location, and act together as your body&rsquo;s own natural \"back belt.\" The erector spinae muscles run up and down your back to help you maintain erect posture and they assist in recovering from the forward bent position. Even deeper is a layer of muscles that assist in rotational movements and side bending. The hip muscles, most notably the gluteus maximus, hamstrings, and psoas (pronounced soas) move the pelvis and thighs. The gluteus maximus and hamstrings are your major lifting muscles. In fact, when you bend down to touch your toes, about 67% of the bending comes from your hips which is in turn controled by the gluteus maximus and hamstrings muscles. The psoas muscles help lift your thigh and stabilizes the spine. The lateral stabilizers - the quadratus lumborum and the latissamus dorsi both insert into the spinous and transverse processes via the thoracolumbar fascia. They also stabilize and move the spine. Any one or combination of structures can affect the curve or lumbar lordosis. Mechanical Low Back Pain Mechanical low back pain has been reported to arise from trauma (either chronic or sudden) such as a fall, a motor vehicle accident, twisting, prolonged poor postures, mental stress, fatigue, disc extrusion (also known as a slipped disc, rupture, or disc herniation), sometimes painful degenerative disc disease(also called arthritis), aging, congenital defects, poor flexibility, etc. Causes such as infection, hormonal problems, broken bones, systemic disease, and tumors require serious medical intervention but are very rare and are beyond the realm of this discussion. Acute low back pain is defined as activity intolerance due to lower back or back-related leg symptoms of less than 3 months' duration. Chronic low back pain, therefore, is defined as pain/problems lasting greater than 3 months. Regardless of the cause or duration of mechanical low back pain, the result is likely to be damaged soft tissue(s) which can stimulate nerves and produce pain. It is important to understand that it is next to impossible to determine exactly which tissue(s) are the cause of the low back pain. Someone like yourself may be experiencing pain and quite frankly, the cause is unknown. It could be muscle(s), ligament(s), disc(s), tendon(s), joint(s), and/or other connective tissue. They all can produce similar symptoms which commonly present as pain on one side of the back or across the back. It may radiate into the buttock or into the thigh. Quite often it will be accompanied by painful cramping of the muscles called a muscle spasm. Furthermore, medical research has shown that x-rays are of little help in determining the cause of low back pain except in rare cases such as severe trauma. Magnetic resonance imaging (MRI) is also ineffective at determining the cause of low back pain. For example 2 out of 3 people have positive findings for disc abnormalities on an MRI but are painless. As many as 1 in 3 people have disc bulges and are completely painless. Health care professionals often call low back pain a \"pain in search of a pathology.\" This means that a patient&rsquo;s medical tests will be negative or a test will produce a false positive. The cause could be any number of structures. Treating Low Back Pain So how do we treat something if we don't know what exactly is wrong. We do know that mechanical low back pain is caused by damaged soft tissue. The damage stimulates pain nerves called nociceptors. The goal then is to promote healing of the damaged soft tissue which will eliminate the pain, not just treat the pain itself. This is done with a program that is customized to your individual needs. Here are the steps: Protecting the damaged soft tissue to prevent further breakdown. The area of damaged soft tissue is protected with rest and positioning. Activities that cause the pain should be avoided while the low back heals. Pain management techniques should be used and your physical therapist will discuss these with you. Bed rest is usually only necessary for 1-3 days (longer periods of bed rest have not been proven to be beneficial). Increasing the circulation and mobility. This will deliver the proper building blocks (proteins, repair cells called fibroblasts, oxygen, proteins, etc.), remove inflammatory and waste products that build up in painful tissue(s), and prevent tissue atrophy. Increasing circulation is accomplished by walking and performing painless range of motion, stretching, and strengthening exercises. Correcting the dysfunctions (weakness, poor posture, poor flexibility) that caused the problem in the first place. Progressive strengthening exercises, flexibility exercise, and postural/body mechanics education will help reduce the stress on your low back and promote proper repair. The Key: Your physical therapist will give you the tools to treat your dysfunctions and create your own customized treatment program. That's not all. Anyone who has suffered from low back pain must understand that the problem is not corrected when the pain ends. Muscles must be stronger than before the pain started (that takes 12+ weeks), many weeks are needed to improve flexibility, and repeated practice is necessary to incorporate proper posture and body mechanics into your daily activities.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-roy6bm-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Understanding Low Back Pain</h4>\r\n\r\n<a href=\"#Anatomy_of_the_Low_Back\">Anatomy</a> | \r\n<a href=\"#Mechanical_Low_Back_Pain\">Mechanical Low Back Pain </a>| \r\n<a href=\"#Treating_Low_Back_Pain\">Treating Low Back Pain </a>\r\n\t<hr />\r\n<p>It is estimated that 80% of the human race experiences low back pain at least once throughout their\r\nlifetime. Fifty percent of the working population admit to experiencing low back pain each year. Each\r\nyear 15-20% of the people in the United States have complaints of low back pain. Two percent of\r\nthe U.S. population is either temporarily or chronically disabled by low back pain. Millions of\r\nworkers suffer on the job injuries annually which costs 100 billion dollars in lost wages, time, and\r\nproductivity and medical costs.</p>\r\n<p>It is important to understand that there is an outstanding chance that you will recover from your low\r\nback pain in the near future. Research studies have shown that 74 % of those that suffer from back pain\r\nreturn to work within 4 weeks and &gt; 90 % in 3 months or less. Some health care providers feel low\r\nback pain is like catching a cold - you experience it and in time it goes away.</p>\r\n<p>To sum it up, there is a good chance you will have low back pain, there is a good chance that you will\r\nrecover but there is also a good chance that you will experience the pain again. Medical research\r\nsuggests that an active exercise program will reduce disability and may prevent future episodes of\r\npain.</p>\r\n<a name=\"Anatomy_of_the_Low_Back\"><h5>Anatomy of the Low Back</h5></a>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1a.jpg\" width=\"212\" height=\"639\" alt=\"Anatomy of the Low Back\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />The low back or lumbar spine is an extraordinary engineering marvel. It is composed of bones, discs,\r\njoints, tendons, muscles, ligaments and nerves. The spine has 3 main functions. 1.) It connects the\r\npelvis to the trunk and head. 2.) It protects and houses the spinal cord which is made up of billions of\r\nnerves that connect the brain to most of the body&rsquo;s major organs. 3.) The spine provides\r\nstability, balance, flexibility, and mobility in order for us to perform our daily activities. It allows\r\nyou to swing a golf club and at the same time withstands and transfers tremendous forces. For example,\r\nlet&rsquo;s assume you weigh 150 pounds, and you bend over about 65 degrees. Your back muscles generate\r\n375 pounds of force to keep you from falling over and if you carry a 50 pound object at the same time,\r\nyour muscles generate about 700 pounds of force.</p>\r\n<p>Closer inspection reveals five vertebrae (bones) stacked on top of each other with a fluid - filled disc\r\nin between each vertebrae. The lumbar spine is like a hollow, C-shaped curve (called the lumbar\r\nlordosis) which is arranged to balance tremendous forces. The curve or lumbar lordosis allows the spine\r\nto be 15 times stronger than if it were straight. Within the \"hollow\" of the spine is the spinal\r\ncord. The spinal cord is made up of nerves that, very simply put, wire your brain to your muscles and tell\r\nthem when to contract. These nerves also are responsible for the sensation of touch and pain among other\r\nthings. They exit out of holes called intervertebral (meaning in between the \r\nvertebrae) foramen and are\r\ncalled nerve roots.</p>\r\n<p>The vertebral bodies bear most of the weight and have cartilage end plates which\r\nattach to the discs. Spinous processes emerge from the back of a vertebrae and two other bones point to\r\nthe sides and are called transverse processes. These processes serve as attachments for muscles and\r\nligaments.</p>\r\n<p>Between each vertebral body is a fluid filled disc similar to a jelly donut. The outer fibrous portion\r\nis called the annulus fibrosus and the inner jelly is called the nucleus pulposus. Healthy discs provide\r\nnecessary height to the spine, absorb shock, and distribute forces in all directions.</p>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1b.jpg\" alt=\"Ligaments in Low Back\" width=\"200\" height=\"200\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Ligaments are tough non-elastic (they stretch very little) structures that attach a bone or bones\r\ntogether. There are many ligaments associated with the lumbar spine. The anterior longitudinal ligament\r\nholds the front of the vertebral bodies together. The posterior longitudinal ligament holds the back of\r\nthe vertebral bodies together. The interspinous and intertransverse ligaments pass in between the spinous processes and transverse processes respectively. The ligamentum flavum holds the rear portion of\r\nthe vertebra together and helps to protect the spinal cord. The thoracolumbar fascia is a large piece of\r\nligamentous tissue that helps hold all of the lumbar vertebra together and works with muscles to\r\nstabilize the spine.</p>\r\n<table width=\"100%\" id=\"table1\">\r\n\t<tr>\r\n<td valign=\"top\">\r\n\t\tThere are over 140 muscles that work together to move and stabilize the spine. Many of these muscles are\r\nlocated around the lumbar spine. There are the abdominal muscles, the erector muscles, the hip muscles,\r\nand lateral stabilizing muscles. The abdominal muscles consist of the rectus abdominus, the internal and\r\nexternal obliques, and the transverse abdominus. They provide frontal support, help maintain good\r\nposture, hold the abdominal organs in the correct location, and act together as your body&rsquo;s own\r\nnatural \"back belt.\" The erector spinae muscles run up and down your back to help you maintain erect\r\nposture and they assist in recovering from the forward bent position. Even deeper is a layer of muscles\r\nthat assist in rotational movements and side bending. The hip muscles, most notably the gluteus maximus,\r\nhamstrings, and psoas (pronounced soas) move the pelvis and thighs. The gluteus maximus and hamstrings\r\nare your major lifting muscles. In fact, when you bend down to touch your toes, about 67% of the bending\r\ncomes from your hips which is in turn controled by the gluteus maximus and hamstrings muscles. The psoas\r\nmuscles help lift your thigh and stabilizes the spine. The lateral stabilizers - the quadratus lumborum\r\nand the latissamus dorsi both insert into the spinous and transverse processes via the thoracolumbar\r\nfascia. They also stabilize and move the spine. Any one or combination of structures can affect the\r\ncurve or lumbar lordosis.</p></td>\r\n<td><img src=\"https://ptclinic.com/medlibrary/images/a1c.jpg\" width=\"201\" height=\"535\" alt=\"low back\" align=\"right\"></td>\r\n\t</tr>\r\n</table>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1d.jpg\" width=\"200\" height=\"192\" alt=\"Mechanical Low Back Pain\" style=\"float:right;margin-left:15px;margin-bottom:5px\" /><a name=\"Mechanical_Low_Back_Pain\"><h5>Mechanical Low Back Pain</h5></a></p>\r\n\r\n<p>Mechanical low back pain has been reported to arise from trauma (either chronic or sudden) such as a\r\nfall, a motor vehicle accident, twisting, prolonged poor postures, mental stress, fatigue, disc\r\nextrusion (also known as a slipped disc, rupture, or disc herniation), sometimes painful degenerative\r\ndisc disease(also called arthritis), aging, congenital defects, poor flexibility, etc. Causes such as\r\ninfection, hormonal problems, broken bones, systemic disease, and tumors require serious medical\r\nintervention but are very rare and are beyond the realm of this discussion.</p>\r\n<p>Acute low back pain is defined as activity intolerance due to lower back or back-related leg symptoms\r\nof less than 3 months' duration. Chronic low back pain, therefore, is defined as pain/problems lasting\r\ngreater than 3 months. Regardless of the cause or duration of mechanical low back pain, the result is\r\nlikely to be damaged soft tissue(s) which can stimulate nerves and produce pain.</p>\r\n<p>It is important to understand that it is next to impossible to determine exactly which tissue(s) are the\r\ncause of the low back pain. Someone like yourself may be experiencing pain and quite frankly, the cause\r\nis unknown. It could be muscle(s), ligament(s), disc(s), tendon(s), joint(s), and/or other connective\r\ntissue. They all can produce similar symptoms which commonly present as pain on one side of the back or\r\nacross the back. It may radiate into the buttock or into the thigh. Quite often it will be accompanied\r\nby painful cramping of the muscles called a muscle spasm. Furthermore, medical research has shown that\r\nx-rays are of little help in determining the cause of low back pain except in rare cases such as severe\r\ntrauma. Magnetic resonance imaging (MRI) is also ineffective at determining the cause of low back pain.\r\nFor example 2 out of 3 people have positive findings for disc abnormalities on an MRI but are painless.\r\nAs many as 1 in 3 people have disc bulges and are completely painless. Health care professionals often\r\ncall low back pain a \"pain in search of a pathology.\" This means that a patient&rsquo;s medical tests\r\nwill be negative or a test will produce a false positive. The cause could be any number of\r\nstructures.</p>\r\n<a name=\"Treating_Low_Back_Pain\"><h5>Treating Low Back Pain</h5></a>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1e.jpg\" atl=\"treating low back pain\" width=\"200\" height=\"186\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />So how do we treat something if we don't know what exactly is wrong. We do know that mechanical low\r\nback pain is caused by damaged soft tissue. The damage stimulates pain nerves called nociceptors. The\r\ngoal then is to promote healing of the damaged soft tissue which will eliminate the pain, not just treat\r\nthe pain itself. This is done with a program that is customized to your individual needs.</p>\t\r\n<p>Here are the steps:</p>\r\n<ol>\r\n<li>Protecting the damaged soft tissue to prevent further breakdown. The area of damaged soft tissue is protected with rest and positioning. Activities that cause the pain should be avoided while the low back heals. Pain management techniques should be used and your physical therapist will discuss these with you. Bed rest is usually only necessary for 1-3 days (longer periods of bed rest have not been proven to be beneficial).</li>\r\n<li>Increasing the circulation and mobility. This will deliver the proper building blocks (proteins,\r\nrepair cells called fibroblasts, oxygen, proteins, etc.), remove inflammatory and waste products that\r\nbuild up in painful tissue(s), and prevent tissue atrophy. Increasing circulation is accomplished by\r\nwalking and performing painless range of motion, stretching, and strengthening exercises.</li>\r\n<li>Correcting the dysfunctions (weakness, poor posture, poor flexibility) that caused the problem in\r\nthe first place. Progressive strengthening exercises, flexibility exercise, and postural/body mechanics\r\neducation will help reduce the stress on your low back and promote proper repair.</li>\r\n</ol>\r\n<p>The Key: Your physical therapist will give you the tools to treat your dysfunctions and create your own\r\ncustomized treatment program. That's not all. Anyone who has suffered from low back pain must understand that the problem is not\r\ncorrected when the pain ends. Muscles must be stronger than before the pain started (that takes 12+\r\nweeks), many weeks are needed to improve flexibility, and repeated practice is necessary to\r\nincorporate proper posture and body mechanics into your daily activities.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "roy6bm-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-roy6bm-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-roy6bm-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Understanding Low Back Pain</h4>\r\n\r\n<a href=\"#Anatomy_of_the_Low_Back\">Anatomy</a> | \r\n<a href=\"#Mechanical_Low_Back_Pain\">Mechanical Low Back Pain </a>| \r\n<a href=\"#Treating_Low_Back_Pain\">Treating Low Back Pain </a>\r\n\t<hr />\r\n<p>It is estimated that 80% of the human race experiences low back pain at least once throughout their\r\nlifetime. Fifty percent of the working population admit to experiencing low back pain each year. Each\r\nyear 15-20% of the people in the United States have complaints of low back pain. Two percent of\r\nthe U.S. population is either temporarily or chronically disabled by low back pain. Millions of\r\nworkers suffer on the job injuries annually which costs 100 billion dollars in lost wages, time, and\r\nproductivity and medical costs.</p>\r\n<p>It is important to understand that there is an outstanding chance that you will recover from your low\r\nback pain in the near future. Research studies have shown that 74 % of those that suffer from back pain\r\nreturn to work within 4 weeks and &gt; 90 % in 3 months or less. Some health care providers feel low\r\nback pain is like catching a cold - you experience it and in time it goes away.</p>\r\n<p>To sum it up, there is a good chance you will have low back pain, there is a good chance that you will\r\nrecover but there is also a good chance that you will experience the pain again. Medical research\r\nsuggests that an active exercise program will reduce disability and may prevent future episodes of\r\npain.</p>\r\n<a name=\"Anatomy_of_the_Low_Back\"><h5>Anatomy of the Low Back</h5></a>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1a.jpg\" width=\"212\" height=\"639\" alt=\"Anatomy of the Low Back\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />The low back or lumbar spine is an extraordinary engineering marvel. It is composed of bones, discs,\r\njoints, tendons, muscles, ligaments and nerves. The spine has 3 main functions. 1.) It connects the\r\npelvis to the trunk and head. 2.) It protects and houses the spinal cord which is made up of billions of\r\nnerves that connect the brain to most of the body&rsquo;s major organs. 3.) The spine provides\r\nstability, balance, flexibility, and mobility in order for us to perform our daily activities. It allows\r\nyou to swing a golf club and at the same time withstands and transfers tremendous forces. For example,\r\nlet&rsquo;s assume you weigh 150 pounds, and you bend over about 65 degrees. Your back muscles generate\r\n375 pounds of force to keep you from falling over and if you carry a 50 pound object at the same time,\r\nyour muscles generate about 700 pounds of force.</p>\r\n<p>Closer inspection reveals five vertebrae (bones) stacked on top of each other with a fluid - filled disc\r\nin between each vertebrae. The lumbar spine is like a hollow, C-shaped curve (called the lumbar\r\nlordosis) which is arranged to balance tremendous forces. The curve or lumbar lordosis allows the spine\r\nto be 15 times stronger than if it were straight. Within the \"hollow\" of the spine is the spinal\r\ncord. The spinal cord is made up of nerves that, very simply put, wire your brain to your muscles and tell\r\nthem when to contract. These nerves also are responsible for the sensation of touch and pain among other\r\nthings. They exit out of holes called intervertebral (meaning in between the \r\nvertebrae) foramen and are\r\ncalled nerve roots.</p>\r\n<p>The vertebral bodies bear most of the weight and have cartilage end plates which\r\nattach to the discs. Spinous processes emerge from the back of a vertebrae and two other bones point to\r\nthe sides and are called transverse processes. These processes serve as attachments for muscles and\r\nligaments.</p>\r\n<p>Between each vertebral body is a fluid filled disc similar to a jelly donut. The outer fibrous portion\r\nis called the annulus fibrosus and the inner jelly is called the nucleus pulposus. Healthy discs provide\r\nnecessary height to the spine, absorb shock, and distribute forces in all directions.</p>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1b.jpg\" alt=\"Ligaments in Low Back\" width=\"200\" height=\"200\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Ligaments are tough non-elastic (they stretch very little) structures that attach a bone or bones\r\ntogether. There are many ligaments associated with the lumbar spine. The anterior longitudinal ligament\r\nholds the front of the vertebral bodies together. The posterior longitudinal ligament holds the back of\r\nthe vertebral bodies together. The interspinous and intertransverse ligaments pass in between the spinous processes and transverse processes respectively. The ligamentum flavum holds the rear portion of\r\nthe vertebra together and helps to protect the spinal cord. The thoracolumbar fascia is a large piece of\r\nligamentous tissue that helps hold all of the lumbar vertebra together and works with muscles to\r\nstabilize the spine.</p>\r\n<table width=\"100%\" id=\"table1\">\r\n\t<tr>\r\n<td valign=\"top\">\r\n\t\tThere are over 140 muscles that work together to move and stabilize the spine. Many of these muscles are\r\nlocated around the lumbar spine. There are the abdominal muscles, the erector muscles, the hip muscles,\r\nand lateral stabilizing muscles. The abdominal muscles consist of the rectus abdominus, the internal and\r\nexternal obliques, and the transverse abdominus. They provide frontal support, help maintain good\r\nposture, hold the abdominal organs in the correct location, and act together as your body&rsquo;s own\r\nnatural \"back belt.\" The erector spinae muscles run up and down your back to help you maintain erect\r\nposture and they assist in recovering from the forward bent position. Even deeper is a layer of muscles\r\nthat assist in rotational movements and side bending. The hip muscles, most notably the gluteus maximus,\r\nhamstrings, and psoas (pronounced soas) move the pelvis and thighs. The gluteus maximus and hamstrings\r\nare your major lifting muscles. In fact, when you bend down to touch your toes, about 67% of the bending\r\ncomes from your hips which is in turn controled by the gluteus maximus and hamstrings muscles. The psoas\r\nmuscles help lift your thigh and stabilizes the spine. The lateral stabilizers - the quadratus lumborum\r\nand the latissamus dorsi both insert into the spinous and transverse processes via the thoracolumbar\r\nfascia. They also stabilize and move the spine. Any one or combination of structures can affect the\r\ncurve or lumbar lordosis.</p></td>\r\n<td><img src=\"https://ptclinic.com/medlibrary/images/a1c.jpg\" width=\"201\" height=\"535\" alt=\"low back\" align=\"right\"></td>\r\n\t</tr>\r\n</table>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1d.jpg\" width=\"200\" height=\"192\" alt=\"Mechanical Low Back Pain\" style=\"float:right;margin-left:15px;margin-bottom:5px\" /><a name=\"Mechanical_Low_Back_Pain\"><h5>Mechanical Low Back Pain</h5></a></p>\r\n\r\n<p>Mechanical low back pain has been reported to arise from trauma (either chronic or sudden) such as a\r\nfall, a motor vehicle accident, twisting, prolonged poor postures, mental stress, fatigue, disc\r\nextrusion (also known as a slipped disc, rupture, or disc herniation), sometimes painful degenerative\r\ndisc disease(also called arthritis), aging, congenital defects, poor flexibility, etc. Causes such as\r\ninfection, hormonal problems, broken bones, systemic disease, and tumors require serious medical\r\nintervention but are very rare and are beyond the realm of this discussion.</p>\r\n<p>Acute low back pain is defined as activity intolerance due to lower back or back-related leg symptoms\r\nof less than 3 months' duration. Chronic low back pain, therefore, is defined as pain/problems lasting\r\ngreater than 3 months. Regardless of the cause or duration of mechanical low back pain, the result is\r\nlikely to be damaged soft tissue(s) which can stimulate nerves and produce pain.</p>\r\n<p>It is important to understand that it is next to impossible to determine exactly which tissue(s) are the\r\ncause of the low back pain. Someone like yourself may be experiencing pain and quite frankly, the cause\r\nis unknown. It could be muscle(s), ligament(s), disc(s), tendon(s), joint(s), and/or other connective\r\ntissue. They all can produce similar symptoms which commonly present as pain on one side of the back or\r\nacross the back. It may radiate into the buttock or into the thigh. Quite often it will be accompanied\r\nby painful cramping of the muscles called a muscle spasm. Furthermore, medical research has shown that\r\nx-rays are of little help in determining the cause of low back pain except in rare cases such as severe\r\ntrauma. Magnetic resonance imaging (MRI) is also ineffective at determining the cause of low back pain.\r\nFor example 2 out of 3 people have positive findings for disc abnormalities on an MRI but are painless.\r\nAs many as 1 in 3 people have disc bulges and are completely painless. Health care professionals often\r\ncall low back pain a \"pain in search of a pathology.\" This means that a patient&rsquo;s medical tests\r\nwill be negative or a test will produce a false positive. The cause could be any number of\r\nstructures.</p>\r\n<a name=\"Treating_Low_Back_Pain\"><h5>Treating Low Back Pain</h5></a>\r\n<p><img src=\"https://ptclinic.com/medlibrary/images/a1e.jpg\" atl=\"treating low back pain\" width=\"200\" height=\"186\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />So how do we treat something if we don't know what exactly is wrong. We do know that mechanical low\r\nback pain is caused by damaged soft tissue. The damage stimulates pain nerves called nociceptors. The\r\ngoal then is to promote healing of the damaged soft tissue which will eliminate the pain, not just treat\r\nthe pain itself. This is done with a program that is customized to your individual needs.</p>\t\r\n<p>Here are the steps:</p>\r\n<ol>\r\n<li>Protecting the damaged soft tissue to prevent further breakdown. The area of damaged soft tissue is protected with rest and positioning. Activities that cause the pain should be avoided while the low back heals. Pain management techniques should be used and your physical therapist will discuss these with you. Bed rest is usually only necessary for 1-3 days (longer periods of bed rest have not been proven to be beneficial).</li>\r\n<li>Increasing the circulation and mobility. This will deliver the proper building blocks (proteins,\r\nrepair cells called fibroblasts, oxygen, proteins, etc.), remove inflammatory and waste products that\r\nbuild up in painful tissue(s), and prevent tissue atrophy. Increasing circulation is accomplished by\r\nwalking and performing painless range of motion, stretching, and strengthening exercises.</li>\r\n<li>Correcting the dysfunctions (weakness, poor posture, poor flexibility) that caused the problem in\r\nthe first place. Progressive strengthening exercises, flexibility exercise, and postural/body mechanics\r\neducation will help reduce the stress on your low back and promote proper repair.</li>\r\n</ol>\r\n<p>The Key: Your physical therapist will give you the tools to treat your dysfunctions and create your own\r\ncustomized treatment program. That's not all. Anyone who has suffered from low back pain must understand that the problem is not\r\ncorrected when the pain ends. Muscles must be stronger than before the pain started (that takes 12+\r\nweeks), many weeks are needed to improve flexibility, and repeated practice is necessary to\r\nincorporate proper posture and body mechanics into your daily activities.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 9992,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        }
+      ]
+    },
+    "695547cd04e0": {
+      "id": "695547cd04e0",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Heat Pack ▶ Video Isometric Exercise ▶ Video Low Back Active Range of Motion ▶ Video Low Back Joint Mobilization ▶ Video Low Back Passive Range of Motion ▶ Video Low Back Resistive Range of Motion ▶ Video Lumbar Traction ▶ Video McKenzie Exercise ▶ Video Posture Training ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_71/\">Lumbar Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_65/\">McKenzie Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "s not\r\ncorrected when the pain ends. Muscles must be stronger than before the pain started (that takes 12+\r\nweeks), many weeks are needed to improve flexibility, and repeated practice is necessary to\r\nincorporate proper posture and body mechanics into your daily activities.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_71/\">Lumbar Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_65/\">McKenzie Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tis",
+      "textLength": 562,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        }
+      ]
+    },
+    "cb6bfc8cb5fe": {
+      "id": "cb6bfc8cb5fe",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"htt",
+      "textLength": 269,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        }
+      ]
+    },
+    "4fc0fbe07501": {
+      "id": "4fc0fbe07501",
+      "plainText": "3d Anatomy of one low back and pelvis 3d Anatomy of one lower back and spine Ankylosing Spondylitis Acute Low Back Pain Who Will Respond to Treatment Back Pain in Children Back Pain from Medline Plus About Rheumatoid Arthritis from the Arthritis Foundation Rheumatoid Arthritis Resources",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/lumbar-spine\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one lower back and spine</a></li>\r\n  <li><a href=\"http://www.rheumatology.org/public/factsheets/as.asp\" target=\"_blank\" rel=\"noopener\">Ankylosing Spondylitis</a></li>\r\n  <li><a href=\"http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12486357&dopt=Citation\" target=\"_blank\" rel=\"noopener\">Acute Low Back Pain  Who Will Respond to Treatment</a></li>\r\n  <li><a href=\"http://www.virtualpediatrichospital.org/providers/BackPainInChildren/BackPainChildren.shtml\" target=\"_blank\" rel=\"noopener\">Back Pain in Children</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/backpain.html\" target=\"_blank\" rel=\"noopener\">Back Pain from Medline Plus</a></li>\r\n  <li><a href=\"http://www.arthritis.org/about-arthritis/types/rheumatoid-arthritis/\" target=\"_blank\" rel=\"noopener\">About Rheumatoid Arthritis from the Arthritis Foundation</a></li>\r\n  <li><a href=\"http://www.rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions/Rheumatoid-Arthritis\" target=\"_blank\" rel=\"noopener\">Rheumatoid Arthritis Resources</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "trength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-roy6bm-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/lumbar-spine\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one lower back and spine</a></li>\r\n  <li><a href=\"http://www.rheumatology.org/public/factsheets/as.asp\" target=\"_blank\" rel=\"noopener\">Ankylosing Spondylitis</a></li>\r\n  <li><a href=\"http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12486357&dopt=Citation\" target=\"_blank\" rel=\"noopener\">Acute Low Back Pain  Who Will Respond to Treatment</a></li>\r\n  <li><a href=\"http://www.virtualpediatrichospital.org/providers/BackPainInChildren/BackPainChildren.shtml\" target=\"_blank\" rel=\"noopener\">Back Pain in Children</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/backpain.html\" target=\"_blank\" rel=\"noopener\">Back Pain from Medline Plus</a></li>\r\n  <li><a href=\"http://www.arthritis.org/about-arthritis/types/rheumatoid-arthritis/\" target=\"_blank\" rel=\"noopener\">About Rheumatoid Arthritis from the Arthritis Foundation</a></li>\r\n  <li><a href=\"http://www.rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions/Rheumatoid-Arthritis\" target=\"_blank\" rel=\"noopener\">Rheumatoid Arthritis Resources</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 287,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": false
+        }
+      ]
+    },
+    "af53ddd787e7": {
+      "id": "af53ddd787e7",
+      "plainText": "Understanding Low Back Pain — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Understanding Low Back Pain — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": true
+        }
+      ]
+    },
+    "304bfbc7f0fc": {
+      "id": "304bfbc7f0fc",
+      "plainText": "Medical Library Back 1. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Back 1. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_1/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_1",
+          "isMeta": true
+        }
+      ]
+    },
+    "ce567ef0dc17": {
+      "id": "ce567ef0dc17",
+      "plainText": "← Back to Back Lumbar Laminectomy/Discectomy Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Lumbar Laminectomy/Discectomy</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-u8chfh\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-u8chfh-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Lumbar Laminectomy/Discectomy</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-u8chfh\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-u8chfh-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-u8chfh-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Laminectomy/Discectomy</h4><div style=\"margin-bottom:40px\">\r\n\r\n\r\n<div align=\"center\"><img src=\"https://ptclinic.com/med",
+      "textLength": 80,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "d25e970ca4b0": {
+      "id": "d25e970ca4b0",
+      "plainText": "Lumbar Laminectomy/Discectomy",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-u8chfh-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Laminectomy/Discectomy</h4><div style=\"margin-bottom:40px\">\r\n\r\n\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/lami.gif\" width=\"319\" height=\"259\" alt=\"Lumbar Laminectomy/Discectomy\" /></div>",
+      "tagName": "div",
+      "previewContext": "u8chfh-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u8chfh-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-u8chfh-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Laminectomy/Discectomy</h4><div style=\"margin-bottom:40px\">\r\n\r\n\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/lami.gif\" width=\"319\" height=\"259\" alt=\"Lumbar Laminectomy/Discectomy\" /></div>\r\n<p>A lumbar laminectomy/discectomy is a common surgery to remove fragments of an extruded herniated disc. The image above is a simplification of the procedure:</p>\r\n<ol>\r\n<li>The surgeon makes an incision through the skin just off the centerline of the spine.  The bony area of the vertebra, called",
+      "textLength": 29,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "238d380580b1": {
+      "id": "238d380580b1",
+      "plainText": "A lumbar laminectomy/discectomy is a common surgery to remove fragments of an extruded herniated disc. The image above is a simplification of the procedure:",
+      "originalHtml": "<p>A lumbar laminectomy/discectomy is a common surgery to remove fragments of an extruded herniated disc. The image above is a simplification of the procedure:</p>",
+      "tagName": "p",
+      "previewContext": "panel=\"ml-tab-u8chfh-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Laminectomy/Discectomy</h4><div style=\"margin-bottom:40px\">\r\n\r\n\r\n<div align=\"center\"><img src=\"https://ptclinic.com/medlibrary/images/lami.gif\" width=\"319\" height=\"259\" alt=\"Lumbar Laminectomy/Discectomy\" /></div>\r\n<p>A lumbar laminectomy/discectomy is a common surgery to remove fragments of an extruded herniated disc. The image above is a simplification of the procedure:</p>\r\n<ol>\r\n<li>The surgeon makes an incision through the skin just off the centerline of the spine.  The bony area of the vertebra, called the lamina is exposed and a small portion of it is removed (called a laminectomy).</li>\r\n<li>A ligament, called the ligamentum flavum, is reflected back to expose t",
+      "textLength": 156,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "57c6bfe45f89": {
+      "id": "57c6bfe45f89",
+      "plainText": "The surgeon makes an incision through the skin just off the centerline of the spine. The bony area of the vertebra, called the lamina is exposed and a small portion of it is removed (called a laminectomy).",
+      "originalHtml": "<li>The surgeon makes an incision through the skin just off the centerline of the spine.  The bony area of the vertebra, called the lamina is exposed and a small portion of it is removed (called a laminectomy).</li>",
+      "tagName": "li",
+      "previewContext": "img src=\"https://ptclinic.com/medlibrary/images/lami.gif\" width=\"319\" height=\"259\" alt=\"Lumbar Laminectomy/Discectomy\" /></div>\r\n<p>A lumbar laminectomy/discectomy is a common surgery to remove fragments of an extruded herniated disc. The image above is a simplification of the procedure:</p>\r\n<ol>\r\n<li>The surgeon makes an incision through the skin just off the centerline of the spine.  The bony area of the vertebra, called the lamina is exposed and a small portion of it is removed (called a laminectomy).</li>\r\n<li>A ligament, called the ligamentum flavum, is reflected back to expose the nerves and the extruded disc material.</li>\r\n<li>The spinal nerve is retracted (moved back) for better exposure of the extruded disc fragments.  The fragments are then removed (this is called a discectomy or removal of t",
+      "textLength": 205,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "li",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "385242f4716c": {
+      "id": "385242f4716c",
+      "plainText": "A ligament, called the ligamentum flavum, is reflected back to expose the nerves and the extruded disc material.",
+      "originalHtml": "<li>A ligament, called the ligamentum flavum, is reflected back to expose the nerves and the extruded disc material.</li>",
+      "tagName": "li",
+      "previewContext": "d herniated disc. The image above is a simplification of the procedure:</p>\r\n<ol>\r\n<li>The surgeon makes an incision through the skin just off the centerline of the spine.  The bony area of the vertebra, called the lamina is exposed and a small portion of it is removed (called a laminectomy).</li>\r\n<li>A ligament, called the ligamentum flavum, is reflected back to expose the nerves and the extruded disc material.</li>\r\n<li>The spinal nerve is retracted (moved back) for better exposure of the extruded disc fragments.  The fragments are then removed (this is called a discectomy or removal of the damaged disc fragments).</li>\r\n</ol>\r\n<p>Physical therapy should be prescribed after surgery.  While rehabilitation for",
+      "textLength": 112,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "li",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "9f901dbbe883": {
+      "id": "9f901dbbe883",
+      "plainText": "The spinal nerve is retracted (moved back) for better exposure of the extruded disc fragments. The fragments are then removed (this is called a discectomy or removal of the damaged disc fragments).",
+      "originalHtml": "<li>The spinal nerve is retracted (moved back) for better exposure of the extruded disc fragments.  The fragments are then removed (this is called a discectomy or removal of the damaged disc fragments).</li>",
+      "tagName": "li",
+      "previewContext": "h the skin just off the centerline of the spine.  The bony area of the vertebra, called the lamina is exposed and a small portion of it is removed (called a laminectomy).</li>\r\n<li>A ligament, called the ligamentum flavum, is reflected back to expose the nerves and the extruded disc material.</li>\r\n<li>The spinal nerve is retracted (moved back) for better exposure of the extruded disc fragments.  The fragments are then removed (this is called a discectomy or removal of the damaged disc fragments).</li>\r\n</ol>\r\n<p>Physical therapy should be prescribed after surgery.  While rehabilitation for each individual can differ, treatment usually consists of flexibility exercise, lumbar stabilization/core strengthening, and aerobic exercise.  Studies have shown that patients that undergo physical therapy af",
+      "textLength": 197,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "li",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "8c7f5b078649": {
+      "id": "8c7f5b078649",
+      "plainText": "Physical therapy should be prescribed after surgery. While rehabilitation for each individual can differ, treatment usually consists of flexibility exercise, lumbar stabilization/core strengthening, and aerobic exercise. Studies have shown that patients that undergo physical therapy after lumbar discectomy have better outcomes than those that do not receive physical therapy. Reference Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Isometric Exercise ▶ Video Low Back Active Range of Motion ▶ Video Low Back Joint Mobilization ▶ Video Low Back Passive Range of Motion ▶ Video Low Back Resistive Range of Motion ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities Improve Wound Healing 3d Anatomy of one low back and pelvis 3d Anatomy of one lower back and spine Back Pain from Medline Plus Neck Shoulder Back Elbow Wrist & Hand Hip Knee Leg Ankle & Foot Disclaimer The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.",
+      "originalHtml": "<p>Physical therapy should be prescribed after surgery.  While rehabilitation for each individual can differ, treatment usually consists of flexibility exercise, lumbar stabilization/core strengthening, and aerobic exercise.  Studies have shown that patients that undergo physical therapy after lumbar discectomy have better outcomes than those that do not receive physical therapy.\r\n<p><a href=\"http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10851101&query_hl=2\" target=\"_blank\"><i>Reference</i></a>\r\n</div>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u8chfh-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u8chfh-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u8chfh-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/lumbar-spine\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one lower back and spine</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/backpain.html\" target=\"_blank\" rel=\"noopener\">Back Pain from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">Elbow</a><a href=\"/library/library_wrist/\" class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n  <h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.</p>",
+      "tagName": "p",
+      "previewContext": "lavum, is reflected back to expose the nerves and the extruded disc material.</li>\r\n<li>The spinal nerve is retracted (moved back) for better exposure of the extruded disc fragments.  The fragments are then removed (this is called a discectomy or removal of the damaged disc fragments).</li>\r\n</ol>\r\n<p>Physical therapy should be prescribed after surgery.  While rehabilitation for each individual can differ, treatment usually consists of flexibility exercise, lumbar stabilization/core strengthening, and aerobic exercise.  Studies have shown that patients that undergo physical therapy after lumbar discectomy have better outcomes than those that do not receive physical therapy.\r\n<p><a href=\"http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10851101&query_hl=2\" target=\"_blank\"><i>Reference</i></a>\r\n</div>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u8chfh-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u8chfh-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u8chfh-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/lumbar-spine\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one lower back and spine</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/backpain.html\" target=\"_blank\" rel=\"noopener\">Back Pain from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">Elbow</a><a href=\"/library/library_wrist/\" class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n  <h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the provision or practice of physical therapy, medical, or professional healthcare advice or services. The information should not be considered complete or exhaustive and should not be used for diagnostic or treatment purposes without first consulting with your physical therapist, occupational therapist, physician or other healthcare provider. The owners of this website accept no responsibility for the misuse of information contained within this website.</p></div>\r\n  <p style=\"margin-top:32px;text-align:center\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Questions? Call Us</a></p>\r\n</div>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 1804,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": false
+        }
+      ]
+    },
+    "0a4521e063c3": {
+      "id": "0a4521e063c3",
+      "plainText": "Lumbar Laminectomy/Discectomy — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Lumbar Laminectomy/Discectomy — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 70,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": true
+        }
+      ]
+    },
+    "9fbd88e2b368": {
+      "id": "9fbd88e2b368",
+      "plainText": "Medical Library Back 52. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Back 52. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_52/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_52",
+          "isMeta": true
+        }
+      ]
+    },
+    "68aaaea65c75": {
+      "id": "68aaaea65c75",
+      "plainText": "← Back to Back Scoliosis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Scoliosis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-rhdbcq\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-rhdbcq-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Scoliosis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-rhdbcq\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-rhdbcq-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-rhdbcq-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img src=\"https://ptclinic.com/medlibrary/images/scoliosis.gif\" width=\"130\" height=\"268\" alt=\"Scoliosis\" style=\"float:right;ma",
+      "textLength": 60,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        }
+      ]
+    },
+    "839b6c508245": {
+      "id": "839b6c508245",
+      "plainText": "Scoliosis Scoliosis is a lateral curvature of the spine. There may be one curve (\"C\" curve) present or two curves (\"S\" curve). Scoliosis is technically defined as a lateral curve of the spine greater than 10 degrees. Ten to 20 degrees of curvature is called mild scoliosis, 20-40 degrees is a moderate scoliosis, and greater than 40 degrees of curvature is a severe scoliosis. Approximately 2-3 million people have scoliosis and there is no cure for the problem. In most cases (approximately 80%), the scoliosis is idiopathic in nature meaning there is no apparent cause. It affects all age groups and males as often as females. Infantile scoliosis affects children at birth. Juvenile scoliosis affect children between age 4 and puberty, adolescent scoliosis affects kids from puberty to adulthood, and there is also a classification of adult onset scoliosis. Female scoliosis patients are more likely to experience a progression of the disease. Symptoms may include pain and fatigue and in severe cases difficulty with breathing, digestion, and walking. Treatment typically consists of bracing for moderate curves and surgery for severe curves. Although there is little medical literature to prove the effectiveness of exercise for correction/improvement of a scoliosis curve, physical therapists are your best choice if you are looking for a customized exercise program for your scoliosis. Recommended exercises can decrease pain, stretch tight muscles, and strengthen the core spine/abdominal muscles.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-rhdbcq-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img src=\"https://ptclinic.com/medlibrary/images/scoliosis.gif\" width=\"130\" height=\"268\" alt=\"Scoliosis\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Scoliosis</h4>\r\n\r\n<p>Scoliosis is a lateral curvature of the spine.  There may be one curve (\"C\" curve) present or two curves (\"S\" curve).  Scoliosis is technically defined as a lateral curve of the spine greater than 10 degrees.  Ten to 20 degrees of curvature is called mild scoliosis, 20-40 degrees is a moderate scoliosis, and greater than 40 degrees of curvature is a severe scoliosis.</p>\r\n<p>Approximately 2-3 million people have scoliosis and there is no cure for the problem.  In most cases (approximately 80%), the scoliosis is idiopathic in nature meaning there is no apparent cause.  It affects all age groups and males as often as females.  Infantile scoliosis affects children at birth.  Juvenile scoliosis affect children between age 4 and puberty, adolescent scoliosis affects kids from puberty to adulthood, and there is also a classification of adult onset scoliosis.  Female scoliosis patients are more likely to experience a progression of the disease.</p>\r\n<p>Symptoms may include pain and fatigue and in severe cases difficulty with breathing, digestion, and walking.</p>\r\nTreatment typically consists of bracing for moderate curves and surgery for severe curves.  Although there is little medical literature to prove the effectiveness of exercise for correction/improvement of a scoliosis curve, physical therapists are your best choice if you are looking for a customized exercise program for your scoliosis.  Recommended exercises can decrease pain, stretch tight muscles, and strengthen the core spine/abdominal muscles.</p>   \r\n</div>",
+      "tagName": "div",
+      "previewContext": "rhdbcq-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rhdbcq-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-rhdbcq-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4><img src=\"https://ptclinic.com/medlibrary/images/scoliosis.gif\" width=\"130\" height=\"268\" alt=\"Scoliosis\" style=\"float:right;margin-left:15px;margin-bottom:5px\" />Scoliosis</h4>\r\n\r\n<p>Scoliosis is a lateral curvature of the spine.  There may be one curve (\"C\" curve) present or two curves (\"S\" curve).  Scoliosis is technically defined as a lateral curve of the spine greater than 10 degrees.  Ten to 20 degrees of curvature is called mild scoliosis, 20-40 degrees is a moderate scoliosis, and greater than 40 degrees of curvature is a severe scoliosis.</p>\r\n<p>Approximately 2-3 million people have scoliosis and there is no cure for the problem.  In most cases (approximately 80%), the scoliosis is idiopathic in nature meaning there is no apparent cause.  It affects all age groups and males as often as females.  Infantile scoliosis affects children at birth.  Juvenile scoliosis affect children between age 4 and puberty, adolescent scoliosis affects kids from puberty to adulthood, and there is also a classification of adult onset scoliosis.  Female scoliosis patients are more likely to experience a progression of the disease.</p>\r\n<p>Symptoms may include pain and fatigue and in severe cases difficulty with breathing, digestion, and walking.</p>\r\nTreatment typically consists of bracing for moderate curves and surgery for severe curves.  Although there is little medical literature to prove the effectiveness of exercise for correction/improvement of a scoliosis curve, physical therapists are your best choice if you are looking for a customized exercise program for your scoliosis.  Recommended exercises can decrease pain, stretch tight muscles, and strengthen the core spine/abdominal muscles.</p>   \r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 1504,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        }
+      ]
+    },
+    "960e7d00a4a6": {
+      "id": "960e7d00a4a6",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Electrotherapeutic Modalities Heat Pack ▶ Video Low Back Active Range of Motion ▶ Video Low Back Joint Mobilization ▶ Video Low Back Passive Range of Motion ▶ Video Low Back Resistive Range of Motion ▶ Video Posture Training ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "orrection/improvement of a scoliosis curve, physical therapists are your best choice if you are looking for a customized exercise program for your scoliosis.  Recommended exercises can decrease pain, stretch tight muscles, and strengthen the core spine/abdominal muscles.</p>   \r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>",
+      "textLength": 383,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        }
+      ]
+    },
+    "948f412d2e86": {
+      "id": "948f412d2e86",
+      "plainText": "Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-abdomen\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the abdomen</a></li>\r\n  <li><a href=\"http://www.hea",
+      "textLength": 237,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        }
+      ]
+    },
+    "e22a181a294a": {
+      "id": "e22a181a294a",
+      "plainText": "3d Anatomy of the abdomen 3d Anatomy of one low back and pelvis National Scoliosis Foundation Scoliosis from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-abdomen\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the abdomen</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.scoliosis.org/\" target=\"_blank\" rel=\"noopener\">National Scoliosis Foundation</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/scoliosis.html\" target=\"_blank\" rel=\"noopener\">Scoliosis from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rhdbcq-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-abdomen\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the abdomen</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.scoliosis.org/\" target=\"_blank\" rel=\"noopener\">National Scoliosis Foundation</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/scoliosis.html\" target=\"_blank\" rel=\"noopener\">Scoliosis from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 121,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": false
+        }
+      ]
+    },
+    "bb3f34d5188f": {
+      "id": "bb3f34d5188f",
+      "plainText": "Scoliosis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Scoliosis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 50,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": true
+        }
+      ]
+    },
+    "0da90e316bae": {
+      "id": "0da90e316bae",
+      "plainText": "Medical Library Back 53. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Back 53. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_53/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_53",
+          "isMeta": true
+        }
+      ]
+    },
+    "543fb00e5cc2": {
+      "id": "543fb00e5cc2",
+      "plainText": "← Back to Back Lumbar Stenosis Overview Treatments Goals",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Lumbar Stenosis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-jp1qct\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-jp1qct-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jp1qct-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jp1qct-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_back/\" class=\"ml-back-arrow\" aria-label=\"Back to Back\"><span class=\"ml-back-arrow-icon\">←</span> Back to Back</a>\r\n  <h1>Lumbar Stenosis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-jp1qct\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-jp1qct-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jp1qct-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jp1qct-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jp1qct-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Stenosis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/stenosis_side.gif\" alt=\"Lumbar Stenosis - side view\" wi",
+      "textLength": 56,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        }
+      ]
+    },
+    "ecb54509ceb5": {
+      "id": "ecb54509ceb5",
+      "plainText": "Lumbar Stenosis Spinal stenosis is the narrowing of the spinal canals. It may involve the central canal, the hollow tube on the backside of the spine through which the spinal cord travels, and/or the transverse foramina, the canals from which the spinal nerves exit. Narrowing of the spinal canals is usually an age related process (called secondary stenosis). During this process the vertebral discs lose their height (degenerate), the ligaments become stiff, and bone spurs may form. The combination of loss of disc height, hardening of the ligaments, and bone spur formation can cause the stenosis. Other conditions such as spondylolisthesis, trauma, or post-surgical complications, can also cause stenosis. Because of mechanical compression and blood flow congestion, spinal stenosis can result in severe pain. With lumbar or low back spinal stenosis, symptoms often include low back pain and a diffuse radiation of pain into the buttocks and thighs. Tingling and numbness and leg weakness may be present as well. Symptoms are often worse with standing, walking, and backward bending/extension of the spine. Sitting, forward bending, and unweighting of the body often provide relief. One of the hallmark signs of lumbar spinal stenosis is a decreased walking tolerance. Conservative care (rehabilitation), may be helpful. Treatment may consist of stretching, strengthening, joint mobilization/manipulation, aerobic exercise, and activity modification. Walking with an \"unweighting system\" or aquatic exercise may be helpful. It is important to work closely with your physician and physical therapist.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jp1qct-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Stenosis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/stenosis_side.gif\" alt=\"Lumbar Stenosis - side view\" width=\"175\" height=\"378\" style=\"float:right;margin-left:15;margin-bottom:5px\" />\r\n<p>Spinal stenosis is the narrowing of the spinal canals.  It may involve the central canal, the hollow tube on the backside of the spine through which the spinal cord travels, and/or the transverse foramina, the canals from which the spinal nerves exit.</p>\r\n<p>Narrowing of the spinal canals is usually an age related process (called secondary stenosis).  During this process the vertebral discs lose their height (degenerate), the ligaments become stiff, and bone spurs may form.  The combination of loss of disc height, hardening of the ligaments, and bone spur formation can cause the stenosis. Other conditions such as spondylolisthesis, trauma, or post-surgical complications, can also cause stenosis.</p>\r\n<p>Because of mechanical compression and blood flow congestion, spinal stenosis can result in severe pain. With lumbar or low back spinal stenosis, symptoms often include low back pain and a diffuse radiation of pain into the buttocks and thighs.  Tingling and numbness and leg weakness may be present as well.</p>\r\n<p>Symptoms are often worse with standing, walking, and backward bending/extension of the spine.  Sitting, forward bending, and unweighting of the body often provide relief.  One of the hallmark signs of lumbar spinal stenosis is a decreased walking tolerance.</p>\r\n<img src=\"https://ptclinic.com/medlibrary/images/stenosis_top.gif\" alt=\"Lumbar Stenosis - top view\" width=\"150\" height=\"245\" style=\"float:left;margin-right:15px;margin-bottom:15px\"  />\r\n<p>Conservative care (rehabilitation), may be helpful.  Treatment may consist of stretching, strengthening, joint mobilization/manipulation, aerobic exercise, and activity modification.  Walking with an \"unweighting system\" or aquatic exercise may be helpful.</p>\r\n<p>It is important to work closely with your physician and physical therapist.</p>\r\n<p>&nbsp;</p>\r\n<p style='clear:both'>&nbsp;</p></div>",
+      "tagName": "div",
+      "previewContext": "b-jp1qct-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jp1qct-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-jp1qct-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-jp1qct-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Lumbar Stenosis</h4>\r\n<img src=\"https://ptclinic.com/medlibrary/images/stenosis_side.gif\" alt=\"Lumbar Stenosis - side view\" width=\"175\" height=\"378\" style=\"float:right;margin-left:15;margin-bottom:5px\" />\r\n<p>Spinal stenosis is the narrowing of the spinal canals.  It may involve the central canal, the hollow tube on the backside of the spine through which the spinal cord travels, and/or the transverse foramina, the canals from which the spinal nerves exit.</p>\r\n<p>Narrowing of the spinal canals is usually an age related process (called secondary stenosis).  During this process the vertebral discs lose their height (degenerate), the ligaments become stiff, and bone spurs may form.  The combination of loss of disc height, hardening of the ligaments, and bone spur formation can cause the stenosis. Other conditions such as spondylolisthesis, trauma, or post-surgical complications, can also cause stenosis.</p>\r\n<p>Because of mechanical compression and blood flow congestion, spinal stenosis can result in severe pain. With lumbar or low back spinal stenosis, symptoms often include low back pain and a diffuse radiation of pain into the buttocks and thighs.  Tingling and numbness and leg weakness may be present as well.</p>\r\n<p>Symptoms are often worse with standing, walking, and backward bending/extension of the spine.  Sitting, forward bending, and unweighting of the body often provide relief.  One of the hallmark signs of lumbar spinal stenosis is a decreased walking tolerance.</p>\r\n<img src=\"https://ptclinic.com/medlibrary/images/stenosis_top.gif\" alt=\"Lumbar Stenosis - top view\" width=\"150\" height=\"245\" style=\"float:left;margin-right:15px;margin-bottom:15px\"  />\r\n<p>Conservative care (rehabilitation), may be helpful.  Treatment may consist of stretching, strengthening, joint mobilization/manipulation, aerobic exercise, and activity modification.  Walking with an \"unweighting system\" or aquatic exercise may be helpful.</p>\r\n<p>It is important to work closely with your physician and physical therapist.</p>\r\n<p>&nbsp;</p>\r\n<p style='clear:both'>&nbsp;</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jp1qct-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 1604,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        }
+      ]
+    },
+    "623b94b07b2d": {
+      "id": "623b94b07b2d",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Gait or Walking Training ▶ Video Low Back Active Range of Motion ▶ Video Low Back Joint Mobilization ▶ Video Low Back Passive Range of Motion ▶ Video Low Back Resistive Range of Motion ▶ Video Lumbar Traction ▶ Video Stationary Cycling ▶ Video Stretching/Flexibility Exercise ▶ Video Walking Training (called Gait Training)",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jp1qct-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_71/\">Lumbar Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_34/\">Stationary Cycling <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_2/\">Walking Training (called Gait Training)</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "bilization/manipulation, aerobic exercise, and activity modification.  Walking with an \"unweighting system\" or aquatic exercise may be helpful.</p>\r\n<p>It is important to work closely with your physician and physical therapist.</p>\r\n<p>&nbsp;</p>\r\n<p style='clear:both'>&nbsp;</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jp1qct-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_61/\">Low Back Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_62/\">Low Back Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_63/\">Low Back Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_64/\">Low Back Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_71/\">Lumbar Traction <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_34/\">Stationary Cycling <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_2/\">Walking Training (called Gait Training)</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jp1qct-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"htt",
+      "textLength": 385,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        }
+      ]
+    },
+    "040cc9ff002d": {
+      "id": "040cc9ff002d",
+      "plainText": "3d Anatomy of one low back and pelvis 3d Anatomy of one lower back and spine Lumbar Stenosis from Medline Plus Spinal Stenosis from NIAMS",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jp1qct-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/lumbar-spine\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one lower back and spine</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/spinalstenosis.html\" target=\"_blank\" rel=\"noopener\">Lumbar Stenosis from Medline Plus</a></li>\r\n  <li><a href=\"http://www.niams.nih.gov/hi/topics/spinalstenosis/ff_spinal_stenosis.htm\" target=\"_blank\" rel=\"noopener\">Spinal Stenosis from NIAMS</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "g <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_2/\">Walking Training (called Gait Training)</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-jp1qct-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/female-pelvis\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one low back and pelvis</a></li>\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/lumbar-spine\" target=\"_blank\" rel=\"noopener\">3d Anatomy of one lower back and spine</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/spinalstenosis.html\" target=\"_blank\" rel=\"noopener\">Lumbar Stenosis from Medline Plus</a></li>\r\n  <li><a href=\"http://www.niams.nih.gov/hi/topics/spinalstenosis/ff_spinal_stenosis.htm\" target=\"_blank\" rel=\"noopener\">Spinal Stenosis from NIAMS</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 137,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": false
+        }
+      ]
+    },
+    "ce48eb42c0aa": {
+      "id": "ce48eb42c0aa",
+      "plainText": "Lumbar Stenosis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Lumbar Stenosis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 56,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": true
+        }
+      ]
+    },
+    "a62a98ed00fa": {
+      "id": "a62a98ed00fa",
+      "plainText": "Medical Library Back 71. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Back 71. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 118,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_back_71/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Back",
+          "pageName": "library_back_71",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

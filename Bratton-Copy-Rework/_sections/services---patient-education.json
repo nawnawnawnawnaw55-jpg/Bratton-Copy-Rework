@@ -1,0 +1,84 @@
+{
+  "section": "Services > Patient Education",
+  "category": "services",
+  "pageCount": 1,
+  "snippetCount": 4,
+  "snippets": {
+    "834fafcfdea0": {
+      "id": "834fafcfdea0",
+      "plainText": "Patient Education",
+      "originalHtml": "<div class=\"container\">\r\n      <h1>Patient Education</h1>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "tent=\"/files/services/patient-education.jpg\">\r\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\r\n  <link rel=\"stylesheet\" href=\"/css/main.css\">\r\n  <link rel=\"stylesheet\" href=\"/css/header.css\">\r\n  \r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n<main>\r\n  <section class=\"svc-hero\">\r\n    <div class=\"container\">\r\n      <h1>Patient Education</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/patient-education.jpg\" alt=\"Patient Education\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__b",
+      "textLength": 17,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/patient-education/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Patient Education",
+          "pageName": "patient-education",
+          "isMeta": false
+        }
+      ]
+    },
+    "028522df8eda": {
+      "id": "028522df8eda",
+      "plainText": "Physical therapy is not just about treating immediate injuries or ailments; it's about empowering patients with the knowledge and tools they need to lead healthier, more active lives. Patient education is a cornerstone of effective physical therapy, as it enables individuals to understand the root causes of their conditions, learn techniques for managing symptoms, and embrace preventive measures to avoid future injuries. Through personalized education plans, physical therapists can help patients develop a deeper awareness of their bodies, fostering a sense of ownership over their health journey. At our practice, we believe that education is as essential as any therapeutic technique. Our team of experienced physical therapists is dedicated to equipping patients with the information they need to make informed decisions about their health. From explaining the biomechanics of movement to teaching proper posture and ergonomics, we strive to empower individuals to take an active role in their rehabilitation process. By fostering open communication and providing clear, accessible resources, we aim to create a collaborative environment where patients feel empowered to advocate for their own well-being both in and out of the clinic. By integrating patient education into our comprehensive treatment approach, we not only address immediate concerns but also lay the foundation for long-term health and wellness. Whether you're recovering from an injury, managing a chronic condition, or seeking to optimize your physical performance, our team is here to support you every step of the way. Together, we can unlock your body's potential and empower you to live life to the fullest.",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>Physical therapy is not just about treating immediate injuries or ailments; it's about empowering patients with the knowledge and tools they need to lead healthier, more active lives. Patient education is a cornerstone of effective physical therapy, as it enables individuals to understand the root causes of their conditions, learn techniques for managing symptoms, and embrace preventive measures to avoid future injuries. Through personalized education plans, physical therapists can help patients develop a deeper awareness of their bodies, fostering a sense of ownership over their health journey.</p>\r\n<p>At our practice, we believe that education is as essential as any therapeutic technique. Our team of experienced physical therapists is dedicated to equipping patients with the information they need to make informed decisions about their health. From explaining the biomechanics of movement to teaching proper posture and ergonomics, we strive to empower individuals to take an active role in their rehabilitation process. By fostering open communication and providing clear, accessible resources, we aim to create a collaborative environment where patients feel empowered to advocate for their own well-being both in and out of the clinic.</p>\r\n<p>By integrating patient education into our comprehensive treatment approach, we not only address immediate concerns but also lay the foundation for long-term health and wellness. Whether you're recovering from an injury, managing a chronic condition, or seeking to optimize your physical performance, our team is here to support you every step of the way. Together, we can unlock your body's potential and empower you to live life to the fullest.</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ducation</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/patient-education.jpg\" alt=\"Patient Education\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>Physical therapy is not just about treating immediate injuries or ailments; it's about empowering patients with the knowledge and tools they need to lead healthier, more active lives. Patient education is a cornerstone of effective physical therapy, as it enables individuals to understand the root causes of their conditions, learn techniques for managing symptoms, and embrace preventive measures to avoid future injuries. Through personalized education plans, physical therapists can help patients develop a deeper awareness of their bodies, fostering a sense of ownership over their health journey.</p>\r\n<p>At our practice, we believe that education is as essential as any therapeutic technique. Our team of experienced physical therapists is dedicated to equipping patients with the information they need to make informed decisions about their health. From explaining the biomechanics of movement to teaching proper posture and ergonomics, we strive to empower individuals to take an active role in their rehabilitation process. By fostering open communication and providing clear, accessible resources, we aim to create a collaborative environment where patients feel empowered to advocate for their own well-being both in and out of the clinic.</p>\r\n<p>By integrating patient education into our comprehensive treatment approach, we not only address immediate concerns but also lay the foundation for long-term health and wellness. Whether you're recovering from an injury, managing a chronic condition, or seeking to optimize your physical performance, our team is here to support you every step of the way. Together, we can unlock your body's potential and empower you to live life to the fullest.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1689,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/patient-education/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Patient Education",
+          "pageName": "patient-education",
+          "isMeta": false
+        }
+      ]
+    },
+    "78a049c64dfd": {
+      "id": "78a049c64dfd",
+      "plainText": "Patient Education — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Patient Education — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/patient-education/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Patient Education",
+          "pageName": "patient-education",
+          "isMeta": true
+        }
+      ]
+    },
+    "117622f54ac3": {
+      "id": "117622f54ac3",
+      "plainText": "Patient education physical therapy in Slidell, LA. Empowering you with knowledge for long-term health, wellness, and injury prevention. Call 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Patient education physical therapy in Slidell, LA. Empowering you with knowledge for long-term health, wellness, and injury prevention. Call 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 154,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/patient-education/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Patient Education",
+          "pageName": "patient-education",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}
