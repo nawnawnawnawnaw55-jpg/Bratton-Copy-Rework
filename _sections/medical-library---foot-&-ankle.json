@@ -1,0 +1,1434 @@
+{
+  "section": "Medical Library > Foot & Ankle",
+  "category": "medical-library",
+  "pageCount": 58,
+  "snippetCount": 46,
+  "snippets": {
+    "0a4fd43c8283": {
+      "id": "0a4fd43c8283",
+      "plainText": "Foot & Ankle Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Foot & Ankle</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Foot & Ankle</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 167,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        }
+      ]
+    },
+    "713d5dd747c5": {
+      "id": "713d5dd747c5",
+      "plainText": "Ankle/Foot Articles Ankle Sprains/Instability Fractures (Broken Bones) Achilles Tendonitis and Rupture Plantar Fasciitis Stress Fractures Tibialis Posterior Tendonitis",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Ankle/Foot Articles</h2><ul><li><a href='/library/library_ankle_12/'>Ankle Sprains/Instability</a></li><li><a href='/library/library_ankle_23/'>Fractures (Broken Bones)</a></li><li><a href='/library/library_ankle_32/'>Achilles Tendonitis and Rupture</a></li><li><a href='/library/library_ankle_43/'>Plantar Fasciitis</a></li><li><a href='/library/library_ankle_47/'>Stress Fractures</a></li><li><a href='/library/library_ankle_48/'>Tibialis Posterior Tendonitis</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Ankle/Foot Articles</h2><ul><li><a href='/library/library_ankle_12/'>Ankle Sprains/Instability</a></li><li><a href='/library/library_ankle_23/'>Fractures (Broken Bones)</a></li><li><a href='/library/library_ankle_32/'>Achilles Tendonitis and Rupture</a></li><li><a href='/library/library_ankle_43/'>Plantar Fasciitis</a></li><li><a href='/library/library_ankle_47/'>Stress Fractures</a></li><li><a href='/library/library_ankle_48/'>Tibialis Posterior Tendonitis</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 167,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": false
+        }
+      ]
+    },
+    "9c571faa1997": {
+      "id": "9c571faa1997",
+      "plainText": "Foot & Ankle — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Foot & Ankle — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": true
+        }
+      ]
+    },
+    "ece4d2d0aee4": {
+      "id": "ece4d2d0aee4",
+      "plainText": "Medical Library Ankle . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Ankle . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 117,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_health/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Health",
+          "pageName": "library_health",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_16/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_16",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_17/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_17",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_18/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_18",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_19/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_19",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_20/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_20",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_21/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_21",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_22/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_22",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_24/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_24",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_54/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_54",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_75/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_75",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_knee_76/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_76",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_leg_74/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_74",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_nl_all/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Newsletter",
+          "pageName": "library_nl_all",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_33/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_33",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_40/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_40",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_41/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_41",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_43/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_43",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_44/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_44",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_45/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_45",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_46/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_46",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_48/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_48",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_56/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_56",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_58/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_58",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_59/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_59",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_60/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_60",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_66/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_66",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_67/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_67",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_68/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_68",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_69/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_69",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_72/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_72",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_73/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_73",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_74/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_74",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_75/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_75",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_76/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_76",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_77/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_77",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_78/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_78",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_79/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_79",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_80/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_80",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_81/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_81",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_85/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_85",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_93/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_93",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_treatments_95/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Treatments",
+          "pageName": "library_treatments_95",
+          "isMeta": true
+        }
+      ]
+    },
+    "1397e6e2a7e3": {
+      "id": "1397e6e2a7e3",
+      "plainText": "← Back to Foot & Ankle Ankle Sprains/Instability Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Ankle Sprains/Instability</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-j79s6x\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-j79s6x-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Ankle Sprains/Instability</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-j79s6x\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-j79s6x-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-j79s6x-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Ankle Sprains/Instability</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/images_9zgs5n_a2a.jpg\" width=\"300\" he",
+      "textLength": 84,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "25728484b6e5": {
+      "id": "25728484b6e5",
+      "plainText": "Ankle Sprains/Instability",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-j79s6x-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Ankle Sprains/Instability</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/images_9zgs5n_a2a.jpg\" width=\"300\" height=\"191\" /></div>",
+      "tagName": "div",
+      "previewContext": "j79s6x-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-j79s6x-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-j79s6x-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Ankle Sprains/Instability</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/images_9zgs5n_a2a.jpg\" width=\"300\" height=\"191\" /></div>\r\n\r\n\r\n\r\n<p>Ankle sprains are a common injury. They usually occur when the foot is forcefully inverted or turned\r\n\r\ninward. Grade I (minor tear), Grade II (partial tear), or a Grade III (complete tear into two pieces)\r\n\r\ndamage of the outer ligament complex (the anterior talofibular ligament and less",
+      "textLength": 25,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "0df637529bbc": {
+      "id": "0df637529bbc",
+      "plainText": "Ankle sprains are a common injury. They usually occur when the foot is forcefully inverted or turned inward. Grade I (minor tear), Grade II (partial tear), or a Grade III (complete tear into two pieces) damage of the outer ligament complex (the anterior talofibular ligament and less often the calcaneofibular ligaments) is the result. Injuries to the inner aspect of the ankle are rare and often result in a fracture before ligamentous damage occurs.",
+      "originalHtml": "<p>Ankle sprains are a common injury. They usually occur when the foot is forcefully inverted or turned\r\n\r\ninward. Grade I (minor tear), Grade II (partial tear), or a Grade III (complete tear into two pieces)\r\n\r\ndamage of the outer ligament complex (the anterior talofibular ligament and less often the\r\n\r\ncalcaneofibular ligaments) is the result. Injuries to the inner aspect of the ankle are rare and often\r\n\r\nresult in a fracture before ligamentous damage occurs.</p>",
+      "tagName": "p",
+      "previewContext": "ls\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-j79s6x-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Ankle Sprains/Instability</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/images_9zgs5n_a2a.jpg\" width=\"300\" height=\"191\" /></div>\r\n\r\n\r\n\r\n<p>Ankle sprains are a common injury. They usually occur when the foot is forcefully inverted or turned\r\n\r\ninward. Grade I (minor tear), Grade II (partial tear), or a Grade III (complete tear into two pieces)\r\n\r\ndamage of the outer ligament complex (the anterior talofibular ligament and less often the\r\n\r\ncalcaneofibular ligaments) is the result. Injuries to the inner aspect of the ankle are rare and often\r\n\r\nresult in a fracture before ligamentous damage occurs.</p>\r\n\r\n<p>Signs and symptoms of an ankle sprain include lateral ankle pain, swelling and a sense of instability.\r\n\r\nStress X-rays may be helpful in ruling out fractures.</p>\r\n\r\n<p>Treatment of an acute injury requires rest, ice, compression, elevation, and bracing of the injured ankle.\r\n\r\nEarly rehabil",
+      "textLength": 451,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "0a885c758b72": {
+      "id": "0a885c758b72",
+      "plainText": "Signs and symptoms of an ankle sprain include lateral ankle pain, swelling and a sense of instability. Stress X-rays may be helpful in ruling out fractures.",
+      "originalHtml": "<p>Signs and symptoms of an ankle sprain include lateral ankle pain, swelling and a sense of instability.\r\n\r\nStress X-rays may be helpful in ruling out fractures.</p>",
+      "tagName": "p",
+      "previewContext": "II (complete tear into two pieces)\r\n\r\ndamage of the outer ligament complex (the anterior talofibular ligament and less often the\r\n\r\ncalcaneofibular ligaments) is the result. Injuries to the inner aspect of the ankle are rare and often\r\n\r\nresult in a fracture before ligamentous damage occurs.</p>\r\n\r\n<p>Signs and symptoms of an ankle sprain include lateral ankle pain, swelling and a sense of instability.\r\n\r\nStress X-rays may be helpful in ruling out fractures.</p>\r\n\r\n<p>Treatment of an acute injury requires rest, ice, compression, elevation, and bracing of the injured ankle.\r\n\r\nEarly rehabilitation assists in a rapid recovery. Surgery (reconstruction of the ligaments) is only\r\n\r\nnecessary when the ankle is repeatedly sprained.</p>\r\n\r\n</div>\r\n</div>\r\n    <div",
+      "textLength": 156,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "73cb97400743": {
+      "id": "73cb97400743",
+      "plainText": "Treatment of an acute injury requires rest, ice, compression, elevation, and bracing of the injured ankle. Early rehabilitation assists in a rapid recovery. Surgery (reconstruction of the ligaments) is only necessary when the ankle is repeatedly sprained.",
+      "originalHtml": "<p>Treatment of an acute injury requires rest, ice, compression, elevation, and bracing of the injured ankle.\r\n\r\nEarly rehabilitation assists in a rapid recovery. Surgery (reconstruction of the ligaments) is only\r\n\r\nnecessary when the ankle is repeatedly sprained.</p>",
+      "tagName": "p",
+      "previewContext": "lt. Injuries to the inner aspect of the ankle are rare and often\r\n\r\nresult in a fracture before ligamentous damage occurs.</p>\r\n\r\n<p>Signs and symptoms of an ankle sprain include lateral ankle pain, swelling and a sense of instability.\r\n\r\nStress X-rays may be helpful in ruling out fractures.</p>\r\n\r\n<p>Treatment of an acute injury requires rest, ice, compression, elevation, and bracing of the injured ankle.\r\n\r\nEarly rehabilitation assists in a rapid recovery. Surgery (reconstruction of the ligaments) is only\r\n\r\nnecessary when the ankle is repeatedly sprained.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/librar",
+      "textLength": 255,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "111c4de43cd5": {
+      "id": "111c4de43cd5",
+      "plainText": "Ankle Active Range of Motion ▶ Video Ankle Joint Mobilization ▶ Video Ankle Joint Passive Range of Motion ▶ Video Ankle Progressive Resistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Isometric Exercise ▶ Video Plyometrics ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "</p>\r\n\r\n<p>Treatment of an acute injury requires rest, ice, compression, elevation, and bracing of the injured ankle.\r\n\r\nEarly rehabilitation assists in a rapid recovery. Surgery (reconstruction of the ligaments) is only\r\n\r\nnecessary when the ankle is repeatedly sprained.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improv",
+      "textLength": 468,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "1a7fab5d9732": {
+      "id": "1a7fab5d9732",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Decrease Risk of Reoccurrence Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.orthoga",
+      "textLength": 342,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "833581d324c6": {
+      "id": "833581d324c6",
+      "plainText": "3d Anatomy of the calf and foot Ankle Sprain Ankle/Foot from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/ankle/ankle-sprain-and-instability.html\" target=\"_blank\" rel=\"noopener\">Ankle Sprain</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "nt</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-j79s6x-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/ankle/ankle-sprain-and-instability.html\" target=\"_blank\" rel=\"noopener\">Ankle Sprain</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": false
+        }
+      ]
+    },
+    "936601ae4dcf": {
+      "id": "936601ae4dcf",
+      "plainText": "Ankle Sprains/Instability — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Ankle Sprains/Instability — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 66,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_12/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_12",
+          "isMeta": true
+        }
+      ]
+    },
+    "72c391eee48c": {
+      "id": "72c391eee48c",
+      "plainText": "← Back to Foot & Ankle Fractures (Broken Bones) Overview Treatments Goals",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Fractures (Broken Bones)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-4m3zbd\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-4m3zbd-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4m3zbd-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4m3zbd-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Fractures (Broken Bones)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-4m3zbd\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-4m3zbd-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4m3zbd-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4m3zbd-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4m3zbd-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures (Broken Bones)</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_h6j8xz_Bone_fractures.gif\" width=\"300\" height=\"2",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        }
+      ]
+    },
+    "67413326a0d8": {
+      "id": "67413326a0d8",
+      "plainText": "Fractures (Broken Bones) Fractures may involve the outside or inside of the leg. The signs and symptoms of fractures are pain, swelling and bony deformities. X-rays are essential and rapid &ldquo;reduction&rdquo; (setting the bones close together for healing) is necessary. In extreme cases, open surgery is necessary to reduce the fracture. Often pins, plates and screws are used to maintain the reduction.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4m3zbd-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures (Broken Bones)</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_h6j8xz_Bone_fractures.gif\" width=\"300\" height=\"215\" alt=\"Leg Fractures\" />\r\n\r\n\r\n\r\n<p>Fractures may involve the outside or inside of the leg. The signs and symptoms of fractures are pain, swelling and bony deformities. X-rays are essential and rapid &ldquo;reduction&rdquo; (setting the bones close together for healing) is necessary. In extreme cases, open surgery is necessary to reduce the fracture. Often pins, plates and screws are used to maintain the reduction.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "b-4m3zbd-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4m3zbd-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4m3zbd-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4m3zbd-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Fractures (Broken Bones)</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_h6j8xz_Bone_fractures.gif\" width=\"300\" height=\"215\" alt=\"Leg Fractures\" />\r\n\r\n\r\n\r\n<p>Fractures may involve the outside or inside of the leg. The signs and symptoms of fractures are pain, swelling and bony deformities. X-rays are essential and rapid &ldquo;reduction&rdquo; (setting the bones close together for healing) is necessary. In extreme cases, open surgery is necessary to reduce the fracture. Often pins, plates and screws are used to maintain the reduction.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4m3zbd-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 407,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        }
+      ]
+    },
+    "2af502b4ed87": {
+      "id": "2af502b4ed87",
+      "plainText": "Cryotherapy or Cold Therapy ▶ Video Isometric Exercise ▶ Video Physical Agents",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4m3zbd-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "and bony deformities. X-rays are essential and rapid &ldquo;reduction&rdquo; (setting the bones close together for healing) is necessary. In extreme cases, open surgery is necessary to reduce the fracture. Often pins, plates and screws are used to maintain the reduction.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4m3zbd-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4m3zbd-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range o",
+      "textLength": 78,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_wrist_46/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Wrist & Hand",
+          "pageName": "library_wrist_46",
+          "isMeta": false
+        }
+      ]
+    },
+    "6ac7a8611f44": {
+      "id": "6ac7a8611f44",
+      "plainText": "Improve Balance Improve Function Improve Muscle Strength and Power Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Safety Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4m3zbd-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ents_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4m3zbd-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 186,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": false
+        }
+      ]
+    },
+    "fff32532f853": {
+      "id": "fff32532f853",
+      "plainText": "Fractures (Broken Bones) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Fractures (Broken Bones) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 65,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_23/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_23",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_leg_23/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_23",
+          "isMeta": true
+        }
+      ]
+    },
+    "bfce7f4bd167": {
+      "id": "bfce7f4bd167",
+      "plainText": "← Back to Foot & Ankle Achilles Tendonitis and Rupture Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Achilles Tendonitis and Rupture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-oeut1w\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-oeut1w-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Achilles Tendonitis and Rupture</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-oeut1w\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-oeut1w-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-oeut1w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Achilles Tendonitis and Rupture</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_l91bur_AchillesTendonitis",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "dee6842a07d2": {
+      "id": "dee6842a07d2",
+      "plainText": "Achilles Tendonitis and Rupture",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-oeut1w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Achilles Tendonitis and Rupture</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_l91bur_AchillesTendonitis.gif\" alt=\"Achilles Tendonitis\" width=\"310\" height=\"290\" /></div>",
+      "tagName": "div",
+      "previewContext": "oeut1w-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-oeut1w-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-oeut1w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Achilles Tendonitis and Rupture</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_l91bur_AchillesTendonitis.gif\" alt=\"Achilles Tendonitis\" width=\"310\" height=\"290\" /></div>\r\n\r\n\r\n\r\n<p>The Achilles tendon attaches the calf muscle (called the gastrocnemius and soleus muscles) to the heel. Excessive stress or a tight or fatigued calf muscle can result in microtrauma, degeneration, and even inflammation of the tendon- a condition called Achilles Tendonitis/Tendinosis. Prol",
+      "textLength": 31,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "ec78b54615e5": {
+      "id": "ec78b54615e5",
+      "plainText": "The Achilles tendon attaches the calf muscle (called the gastrocnemius and soleus muscles) to the heel. Excessive stress or a tight or fatigued calf muscle can result in microtrauma, degeneration, and even inflammation of the tendon- a condition called Achilles Tendonitis/Tendinosis. Prolonged walking, overtraining (excessive running or jumping, or walking hills can cause this condition.",
+      "originalHtml": "<p>The Achilles tendon attaches the calf muscle (called the gastrocnemius and soleus muscles) to the heel. Excessive stress or a tight or fatigued calf muscle can result in microtrauma, degeneration, and even inflammation of the tendon- a condition called Achilles Tendonitis/Tendinosis. Prolonged walking, overtraining (excessive running or jumping, or walking hills can cause this condition.</p>",
+      "tagName": "p",
+      "previewContext": "ctive\" data-ml-tab-panel=\"ml-tab-oeut1w-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Achilles Tendonitis and Rupture</h4>\r\n\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_l91bur_AchillesTendonitis.gif\" alt=\"Achilles Tendonitis\" width=\"310\" height=\"290\" /></div>\r\n\r\n\r\n\r\n<p>The Achilles tendon attaches the calf muscle (called the gastrocnemius and soleus muscles) to the heel. Excessive stress or a tight or fatigued calf muscle can result in microtrauma, degeneration, and even inflammation of the tendon- a condition called Achilles Tendonitis/Tendinosis. Prolonged walking, overtraining (excessive running or jumping, or walking hills can cause this condition.</p>\r\n\r\n<p>Recent research suggests that a gradual onset of pain and prolonged recovery might be due to a similar condition called Achilles tendinosis.  Tendinosis is chronic degenerative condition and it differs from tendonitis in that there is no inflammation present.  It is probably more common than",
+      "textLength": 390,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "71885b2b1d58": {
+      "id": "71885b2b1d58",
+      "plainText": "Recent research suggests that a gradual onset of pain and prolonged recovery might be due to a similar condition called Achilles tendinosis. Tendinosis is chronic degenerative condition and it differs from tendonitis in that there is no inflammation present. It is probably more common than tendinitis because often times tendon pain is not accompanied by the classic inflammatory signs of swelling, redness, and warmth.",
+      "originalHtml": "<p>Recent research suggests that a gradual onset of pain and prolonged recovery might be due to a similar condition called Achilles tendinosis.  Tendinosis is chronic degenerative condition and it differs from tendonitis in that there is no inflammation present.  It is probably more common than tendinitis because often times tendon pain is not accompanied by the classic inflammatory signs of swelling, redness, and warmth.</p>",
+      "tagName": "p",
+      "previewContext": "heel. Excessive stress or a tight or fatigued calf muscle can result in microtrauma, degeneration, and even inflammation of the tendon- a condition called Achilles Tendonitis/Tendinosis. Prolonged walking, overtraining (excessive running or jumping, or walking hills can cause this condition.</p>\r\n\r\n<p>Recent research suggests that a gradual onset of pain and prolonged recovery might be due to a similar condition called Achilles tendinosis.  Tendinosis is chronic degenerative condition and it differs from tendonitis in that there is no inflammation present.  It is probably more common than tendinitis because often times tendon pain is not accompanied by the classic inflammatory signs of swelling, redness, and warmth.</p>\r\n\r\n<p>Treatment usually consists of rest, non-steroidal anti-inflammatory drugs (NSAIDs), ice, stretching, strengthening and progressive return to function or sport.</p>\r\n\r\n<img src=\"/assets/files/remote-images/v2_eie0af_a4a.gif\" alt=\"Achilles Tendon Rupture\" width=\"300\" height=\"281\" />\r\n\r\n<p>F",
+      "textLength": 420,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "4c527e97efa4": {
+      "id": "4c527e97efa4",
+      "plainText": "Treatment usually consists of rest, non-steroidal anti-inflammatory drugs (NSAIDs), ice, stretching, strengthening and progressive return to function or sport.",
+      "originalHtml": "<p>Treatment usually consists of rest, non-steroidal anti-inflammatory drugs (NSAIDs), ice, stretching, strengthening and progressive return to function or sport.</p>",
+      "tagName": "p",
+      "previewContext": "endinosis.  Tendinosis is chronic degenerative condition and it differs from tendonitis in that there is no inflammation present.  It is probably more common than tendinitis because often times tendon pain is not accompanied by the classic inflammatory signs of swelling, redness, and warmth.</p>\r\n\r\n<p>Treatment usually consists of rest, non-steroidal anti-inflammatory drugs (NSAIDs), ice, stretching, strengthening and progressive return to function or sport.</p>\r\n\r\n<img src=\"/assets/files/remote-images/v2_eie0af_a4a.gif\" alt=\"Achilles Tendon Rupture\" width=\"300\" height=\"281\" />\r\n\r\n<p>Forceful contraction of the calf muscle may rupture (completely tear) the Achilles tendon. It occurs\r\n\r\nduring jumping, running, and cutting and is often seen in basketbal",
+      "textLength": 159,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "c6d4214e9034": {
+      "id": "c6d4214e9034",
+      "plainText": "Forceful contraction of the calf muscle may rupture (completely tear) the Achilles tendon. It occurs during jumping, running, and cutting and is often seen in basketball and baseball players. The patient often reports the sensation of having been hit or violently kicked in the lower calf. There is pain and a &ldquo;divot&rdquo; in the tendon above the heel.",
+      "originalHtml": "<p>Forceful contraction of the calf muscle may rupture (completely tear) the Achilles tendon. It occurs\r\n\r\nduring jumping, running, and cutting and is often seen in basketball and baseball players.\r\n\r\nThe patient often reports the sensation of having been hit or violently kicked in the lower calf. There\r\n\r\nis pain and a &ldquo;divot&rdquo; in the tendon above the heel.</p>",
+      "tagName": "p",
+      "previewContext": "</p>\r\n\r\n<p>Treatment usually consists of rest, non-steroidal anti-inflammatory drugs (NSAIDs), ice, stretching, strengthening and progressive return to function or sport.</p>\r\n\r\n<img src=\"/assets/files/remote-images/v2_eie0af_a4a.gif\" alt=\"Achilles Tendon Rupture\" width=\"300\" height=\"281\" />\r\n\r\n<p>Forceful contraction of the calf muscle may rupture (completely tear) the Achilles tendon. It occurs\r\n\r\nduring jumping, running, and cutting and is often seen in basketball and baseball players.\r\n\r\nThe patient often reports the sensation of having been hit or violently kicked in the lower calf. There\r\n\r\nis pain and a &ldquo;divot&rdquo; in the tendon above the heel.</p>\r\n\r\n<p>Treatment- non-surgical rehabilitation and surgical repair are viable treatment options. Active people\r\n\r\nmay experience more benefit from surgical repair. Rehabilitation may require six to twelve months of\r\n\r\nprogressive care.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-",
+      "textLength": 359,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "d65fbf132308": {
+      "id": "d65fbf132308",
+      "plainText": "Treatment- non-surgical rehabilitation and surgical repair are viable treatment options. Active people may experience more benefit from surgical repair. Rehabilitation may require six to twelve months of progressive care.",
+      "originalHtml": "<p>Treatment- non-surgical rehabilitation and surgical repair are viable treatment options. Active people\r\n\r\nmay experience more benefit from surgical repair. Rehabilitation may require six to twelve months of\r\n\r\nprogressive care.</p>",
+      "tagName": "p",
+      "previewContext": "hilles tendon. It occurs\r\n\r\nduring jumping, running, and cutting and is often seen in basketball and baseball players.\r\n\r\nThe patient often reports the sensation of having been hit or violently kicked in the lower calf. There\r\n\r\nis pain and a &ldquo;divot&rdquo; in the tendon above the heel.</p>\r\n\r\n<p>Treatment- non-surgical rehabilitation and surgical repair are viable treatment options. Active people\r\n\r\nmay experience more benefit from surgical repair. Rehabilitation may require six to twelve months of\r\n\r\nprogressive care.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/librar",
+      "textLength": 221,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "73ce60c8789f": {
+      "id": "73ce60c8789f",
+      "plainText": "Ankle Active Range of Motion ▶ Video Ankle Joint Mobilization ▶ Video Ankle Joint Passive Range of Motion ▶ Video Ankle Progressive Resistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Heat Pack ▶ Video Isometric Exercise ▶ Video Plyometrics ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "quo; in the tendon above the heel.</p>\r\n\r\n<p>Treatment- non-surgical rehabilitation and surgical repair are viable treatment options. Active people\r\n\r\nmay experience more benefit from surgical repair. Rehabilitation may require six to twelve months of\r\n\r\nprogressive care.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improv",
+      "textLength": 486,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "e5d9481505c1": {
+      "id": "e5d9481505c1",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.orthoga",
+      "textLength": 318,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "d6bfba21bb61": {
+      "id": "d6bfba21bb61",
+      "plainText": "3d Anatomy of the calf and foot Achilles Tendinitis and Rupture Ankle/Foot from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/foot/achilles-tendonitis-and-achilles-tendon-rupture.html\" target=\"_blank\" rel=\"noopener\">Achilles Tendinitis and Rupture</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "n</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-oeut1w-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/foot/achilles-tendonitis-and-achilles-tendon-rupture.html\" target=\"_blank\" rel=\"noopener\">Achilles Tendinitis and Rupture</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 92,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": false
+        }
+      ]
+    },
+    "d020d6521d7e": {
+      "id": "d020d6521d7e",
+      "plainText": "Achilles Tendonitis and Rupture — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Achilles Tendonitis and Rupture — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 72,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_32/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_32",
+          "isMeta": true
+        }
+      ]
+    },
+    "78dde68bd7f1": {
+      "id": "78dde68bd7f1",
+      "plainText": "← Back to Foot & Ankle Plantar Fasciitis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Plantar Fasciitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-4qms5j\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-4qms5j-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Plantar Fasciitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-4qms5j\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-4qms5j-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4qms5j-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Plantar Fasciitis</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_e1cdw8_a5a.gif\" alt=\"Plantar Fasciitis\" width=\"300\" hei",
+      "textLength": 76,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        }
+      ]
+    },
+    "430b6087f902": {
+      "id": "430b6087f902",
+      "plainText": "Plantar Fasciitis Inflammation of the fascia on the bottom of the foot is the most common cause of heel pain. There are many documented causes of plantar fasciitis. Poor flexibility of the calf muscles, no arch support, a sudden increase in one's level of activity, poor footwear, being overweight, excessive pronation, or repetitive stress conditions (long distance running). Common causes of a bruised heel bone are poor cushioning of the heel due to fat pad atrophy (shrinkage in the size of the fat pad) poor footwear, excessive walking on hard surfaces, and being overweight. Depending on which medical study you read, anywhere form 8-21% of the population suffers from plantar fasciitis. The pain is typically located at the front of the base of the calcaneus. Less often, the pain extends along the arch of the foot. The result is micro-tearing of the plantar fascia where it attaches to the base of the calcaneus. An ensuing inflammatory response occurs producing pain, swelling, warmth, loss of function (difficulty with any standing or walking), and less often, redness. Plantar fasciitis is often worst in the morning when one takes his /her first steps out of bed. Theories propose that when we are sleeping, the inflamed fascia is shortening and perhaps attempting to heal. If the problem is chronic, a bone spur may be seen on x-ray. Currently, we believe that a bone spur is not the cause of the pain but the result of the body's attempt to heal the damaged plantar fascia.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4qms5j-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Plantar Fasciitis</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_e1cdw8_a5a.gif\" alt=\"Plantar Fasciitis\" width=\"300\" height=\"268\" />\r\n\r\n\r\n\r\n<p>Inflammation of the fascia on the bottom of the foot is the most common cause of heel pain.\r\n\r\n<p>There are many documented causes of plantar fasciitis. Poor flexibility of the calf muscles, no arch\r\n\r\nsupport, a sudden increase in one's level of activity, poor footwear, being overweight, excessive\r\n\r\npronation, or repetitive stress conditions (long distance running). Common causes of a bruised heel bone\r\n\r\nare poor cushioning of the heel due to fat pad atrophy (shrinkage in the size of the fat pad) poor footwear, excessive walking on hard surfaces, and being overweight.</p>\r\n\r\n<p>Depending on which medical study you read, anywhere form 8-21% of the population suffers from plantar\r\n\r\nfasciitis. The pain is typically located at the front of the base of the calcaneus. Less often, the pain\r\n\r\nextends along the arch of the foot. The result is micro-tearing of the plantar fascia where it attaches\r\n\r\nto the base of the calcaneus. An ensuing inflammatory response occurs producing pain, swelling, warmth,\r\n\r\nloss of function (difficulty with any standing or walking), and less often, redness.\r\n\r\n<p>Plantar fasciitis is often worst in the morning when one takes his /her first steps out of bed.\r\n\r\nTheories propose that when we are sleeping, the inflamed fascia is shortening and perhaps attempting to\r\n\r\nheal. If the problem is chronic, a bone spur may be seen on\r\n\r\nx-ray.</p>\r\n\r\n<p>Currently, we believe that a bone spur is not the cause of the pain but the result of the body's\r\n\r\nattempt to heal the damaged plantar fascia.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "4qms5j-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4qms5j-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4qms5j-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Plantar Fasciitis</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_e1cdw8_a5a.gif\" alt=\"Plantar Fasciitis\" width=\"300\" height=\"268\" />\r\n\r\n\r\n\r\n<p>Inflammation of the fascia on the bottom of the foot is the most common cause of heel pain.\r\n\r\n<p>There are many documented causes of plantar fasciitis. Poor flexibility of the calf muscles, no arch\r\n\r\nsupport, a sudden increase in one's level of activity, poor footwear, being overweight, excessive\r\n\r\npronation, or repetitive stress conditions (long distance running). Common causes of a bruised heel bone\r\n\r\nare poor cushioning of the heel due to fat pad atrophy (shrinkage in the size of the fat pad) poor footwear, excessive walking on hard surfaces, and being overweight.</p>\r\n\r\n<p>Depending on which medical study you read, anywhere form 8-21% of the population suffers from plantar\r\n\r\nfasciitis. The pain is typically located at the front of the base of the calcaneus. Less often, the pain\r\n\r\nextends along the arch of the foot. The result is micro-tearing of the plantar fascia where it attaches\r\n\r\nto the base of the calcaneus. An ensuing inflammatory response occurs producing pain, swelling, warmth,\r\n\r\nloss of function (difficulty with any standing or walking), and less often, redness.\r\n\r\n<p>Plantar fasciitis is often worst in the morning when one takes his /her first steps out of bed.\r\n\r\nTheories propose that when we are sleeping, the inflamed fascia is shortening and perhaps attempting to\r\n\r\nheal. If the problem is chronic, a bone spur may be seen on\r\n\r\nx-ray.</p>\r\n\r\n<p>Currently, we believe that a bone spur is not the cause of the pain but the result of the body's\r\n\r\nattempt to heal the damaged plantar fascia.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_",
+      "textLength": 1488,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        }
+      ]
+    },
+    "1091dcd94fd3": {
+      "id": "1091dcd94fd3",
+      "plainText": "Ankle Active Range of Motion ▶ Video Ankle Joint Mobilization ▶ Video Ankle Joint Passive Range of Motion ▶ Video Ankle Progressive Resistive Range of Motion ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Isometric Exercise ▶ Video Iontophoresis Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ascia is shortening and perhaps attempting to\r\n\r\nheal. If the problem is chronic, a bone spur may be seen on\r\n\r\nx-ray.</p>\r\n\r\n<p>Currently, we believe that a bone spur is not the cause of the pain but the result of the body's\r\n\r\nattempt to heal the damaged plantar fascia.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_35/\">Ankle Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_36/\">Ankle Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_37/\">Ankle Joint Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_38/\">Ankle Progressive Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_94/\">Iontophoresis</a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>",
+      "textLength": 427,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        }
+      ]
+    },
+    "a18aa47109da": {
+      "id": "a18aa47109da",
+      "plainText": "Improve Balance Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.nlm.nih",
+      "textLength": 251,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_11/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_11",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_13/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_13",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_9/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_9",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_24/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_24",
+          "isMeta": false
+        }
+      ]
+    },
+    "eb1202f34dc7": {
+      "id": "eb1202f34dc7",
+      "plainText": "3d Anatomy of the calf and foot Ankle/Foot from Medline Plus Plantar Fasciitis Plantar Fasciitis and Running",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/foot/plantar-fasciitis-heel-pain.html\" target=\"_blank\" rel=\"noopener\">Plantar Fasciitis</a></li>\r\n  <li><a href=\"http://www.active.com/running/Articles/Plantar_what_.htm\" target=\"_blank\" rel=\"noopener\">Plantar Fasciitis and Running</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4qms5j-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/foot/plantar-fasciitis-heel-pain.html\" target=\"_blank\" rel=\"noopener\">Plantar Fasciitis</a></li>\r\n  <li><a href=\"http://www.active.com/running/Articles/Plantar_what_.htm\" target=\"_blank\" rel=\"noopener\">Plantar Fasciitis and Running</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 108,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": false
+        }
+      ]
+    },
+    "2dc76395dee5": {
+      "id": "2dc76395dee5",
+      "plainText": "Plantar Fasciitis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Plantar Fasciitis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 58,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_43/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_43",
+          "isMeta": true
+        }
+      ]
+    },
+    "cedcd703bf0c": {
+      "id": "cedcd703bf0c",
+      "plainText": "← Back to Foot & Ankle Stress Fractures Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Stress Fractures</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-9e2lqc\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-9e2lqc-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Stress Fractures</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-9e2lqc\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-9e2lqc-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-9e2lqc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Stress Fractures</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_dkari1_a6a.gif\" alt=\"Stress Fractures\" width=\"300\" heigh",
+      "textLength": 75,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        }
+      ]
+    },
+    "ed3ad55e49a0": {
+      "id": "ed3ad55e49a0",
+      "plainText": "Stress Fractures These fractures result from repetitive submaximal loads applied to the foot, ankle, leg; they are usually the result of overuse (in athletes, over-training). They are common in long distance runners and female athletes. Common stress fracture sites include the lower leg (in runners), calcaneus, talus, metatarsals in distance runners, and the big toe. Pain and point tenderness, often relieved by rest, is typical. X-rays do not always show the fracture. Bone scans and MRI may be useful. Most heal with rest, immobilization and cross training. Avoid high-impact workouts, and wear good shoes.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-9e2lqc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Stress Fractures</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_dkari1_a6a.gif\" alt=\"Stress Fractures\" width=\"300\" height=\"300\"  />\r\n\r\n\r\n\r\n<p>These fractures result from repetitive submaximal loads applied to the foot, ankle, leg; they are usually the result of overuse (in athletes, over-training). They are common in long distance runners and female athletes.</p>\r\n\r\n<p>Common stress fracture sites include the lower leg (in runners), calcaneus, talus, metatarsals in distance runners, and the big toe.</p>\r\n\r\n<p>Pain and point tenderness, often relieved by rest, is typical. X-rays do not always show the fracture. Bone scans and MRI may be useful.</p>\r\n\r\n<p>Most heal with rest, immobilization and cross training. Avoid high-impact workouts, and wear good shoes.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "9e2lqc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-9e2lqc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-9e2lqc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Stress Fractures</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_dkari1_a6a.gif\" alt=\"Stress Fractures\" width=\"300\" height=\"300\"  />\r\n\r\n\r\n\r\n<p>These fractures result from repetitive submaximal loads applied to the foot, ankle, leg; they are usually the result of overuse (in athletes, over-training). They are common in long distance runners and female athletes.</p>\r\n\r\n<p>Common stress fracture sites include the lower leg (in runners), calcaneus, talus, metatarsals in distance runners, and the big toe.</p>\r\n\r\n<p>Pain and point tenderness, often relieved by rest, is typical. X-rays do not always show the fracture. Bone scans and MRI may be useful.</p>\r\n\r\n<p>Most heal with rest, immobilization and cross training. Avoid high-impact workouts, and wear good shoes.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-9e2lqc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_t",
+      "textLength": 611,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        }
+      ]
+    },
+    "121115f74eca": {
+      "id": "121115f74eca",
+      "plainText": "Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-9e2lqc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ents_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-9e2lqc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-9e2lqc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"htt",
+      "textLength": 187,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        }
+      ]
+    },
+    "28388d121cef": {
+      "id": "28388d121cef",
+      "plainText": "Ankle/Foot from Medline Plus Hand Fractures",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-9e2lqc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/hand-fractures/\" target=\"_blank\" rel=\"noopener\">Hand Fractures</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-9e2lqc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"https://orthoinfo.aaos.org/en/diseases--conditions/hand-fractures/\" target=\"_blank\" rel=\"noopener\">Hand Fractures</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 43,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": false
+        }
+      ]
+    },
+    "6bc702dbf54c": {
+      "id": "6bc702dbf54c",
+      "plainText": "Stress Fractures — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Stress Fractures — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 57,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_47/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_47",
+          "isMeta": true
+        },
+        {
+          "file": "library/library_leg_47/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Leg",
+          "pageName": "library_leg_47",
+          "isMeta": true
+        }
+      ]
+    },
+    "c67134f532a9": {
+      "id": "c67134f532a9",
+      "plainText": "← Back to Foot & Ankle Tibialis Posterior Tendonitis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Tibialis Posterior Tendonitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-rbe3rz\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-rbe3rz-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_ankle/\" class=\"ml-back-arrow\" aria-label=\"Back to Foot & Ankle\"><span class=\"ml-back-arrow-icon\">←</span> Back to Foot & Ankle</a>\r\n  <h1>Tibialis Posterior Tendonitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-rbe3rz\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-rbe3rz-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-rbe3rz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Tibialis Posterior Tendonitis</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_d3953u_a7a.gif\" width=\"300\" height+'279\" al",
+      "textLength": 88,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        }
+      ]
+    },
+    "6ff463eb0988": {
+      "id": "6ff463eb0988",
+      "plainText": "Tibialis Posterior Tendonitis This often occurs in overweight, middle aged women and men as a result of degenerative changes in the tendon. The rupture may be partial or complete with pain below or behind the inside ankle bone (medial malleolus). A flattened arch is common. Anti-inflammatory treatment (physical therapy modalities), orthoses, and surgical debridement are common treatments.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-rbe3rz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Tibialis Posterior Tendonitis</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_d3953u_a7a.gif\" width=\"300\" height+'279\" alt=\"Tibialis Posterior Tendonitis\" />\r\n\r\n\r\n\r\n<p>This often occurs in overweight, middle aged women and men as a result of degenerative changes in the tendon. The rupture may be partial or complete with pain below or behind the inside ankle bone (medial\r\n\r\nmalleolus). A flattened arch is common.  Anti-inflammatory treatment (physical therapy modalities),\r\n\r\northoses, and surgical debridement are common treatments.</p>\r\n\r\n</div>",
+      "tagName": "div",
+      "previewContext": "rbe3rz-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-rbe3rz-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-rbe3rz-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Tibialis Posterior Tendonitis</h4>\r\n\r\n<img src=\"/assets/files/remote-images/v2_d3953u_a7a.gif\" width=\"300\" height+'279\" alt=\"Tibialis Posterior Tendonitis\" />\r\n\r\n\r\n\r\n<p>This often occurs in overweight, middle aged women and men as a result of degenerative changes in the tendon. The rupture may be partial or complete with pain below or behind the inside ankle bone (medial\r\n\r\nmalleolus). A flattened arch is common.  Anti-inflammatory treatment (physical therapy modalities),\r\n\r\northoses, and surgical debridement are common treatments.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_tr",
+      "textLength": 391,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        }
+      ]
+    },
+    "ffee3c0066c4": {
+      "id": "ffee3c0066c4",
+      "plainText": "Aerobic/Endurance Exercise ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Gait or Walking Training ▶ Video Isometric Exercise ▶ Video Proprioception Exercises ▶ Video Physical Agents Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "n the tendon. The rupture may be partial or complete with pain below or behind the inside ankle bone (medial\r\n\r\nmalleolus). A flattened arch is common.  Anti-inflammatory treatment (physical therapy modalities),\r\n\r\northoses, and surgical debridement are common treatments.</p>\r\n\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_48/\">Gait or Walking Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improv",
+      "textLength": 282,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        }
+      ]
+    },
+    "4ae3e60e5cab": {
+      "id": "4ae3e60e5cab",
+      "plainText": "Improve Balance Improve ability to bear weight/stand on the leg(s) Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Balance</li>\r\n  <li>Improve ability to bear weight/stand on the leg(s)</li>\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.nlm.nih",
+      "textLength": 302,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_hip_7/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Hip",
+          "pageName": "library_hip_7",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_knee_7/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Knee",
+          "pageName": "library_knee_7",
+          "isMeta": false
+        }
+      ]
+    },
+    "c05d29ac4056": {
+      "id": "c05d29ac4056",
+      "plainText": "3d Anatomy of the calf and foot Ankle/Foot from Medline Plus Tibialis Posterior Tendonitis",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/foot/posterior-tibial-tendon-problems.html\" target=\"_blank\" rel=\"noopener\">Tibialis Posterior Tendonitis</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-rbe3rz-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/foot\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the calf and foot</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/footinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Ankle/Foot from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/foot/posterior-tibial-tendon-problems.html\" target=\"_blank\" rel=\"noopener\">Tibialis Posterior Tendonitis</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": false
+        }
+      ]
+    },
+    "77952a0e8a50": {
+      "id": "77952a0e8a50",
+      "plainText": "Tibialis Posterior Tendonitis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Tibialis Posterior Tendonitis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 70,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_ankle_48/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Foot & Ankle",
+          "pageName": "library_ankle_48",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

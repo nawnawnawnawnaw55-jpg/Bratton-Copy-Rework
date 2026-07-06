@@ -1,0 +1,8 @@
+{
+  "endpoint": "/verify-images",
+  "method": "GET",
+  "response": {
+    "summary": "Image Localization Verification",
+    "status": "See verification logic below"
+  }
+}

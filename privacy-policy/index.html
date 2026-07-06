@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Privacy Policy for Bratton Physical Therapy — how we collect, use, and protect your information.">
+<meta property="og:title" content="Privacy Policy — Bratton Physical Therapy">
+<meta property="og:description" content="Privacy Policy for Bratton Physical Therapy in Slidell, LA.">
+<meta property="og:url" content="/privacy-policy/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h1>Privacy Policy</h1>
+      <p style="font-size:1.15rem;line-height:1.7">Bratton Physical Therapy is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you visit our website or use our services.</p>
+
+      <h2>Information We Collect</h2>
+      <p>We may collect the following types of information:</p>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li><strong>Personal Information:</strong> Name, phone number, email address, and other contact details you provide when filling out forms, booking appointments, or contacting us.</li>
+        <li><strong>Health Information:</strong> Information related to your physical condition or injury that you share with us for treatment purposes. This information is protected under HIPAA regulations.</li>
+        <li><strong>Website Usage Data:</strong> Anonymous data such as pages visited, time spent on the site, and browser type, collected through standard web analytics.</li>
+      </ul>
+
+      <h2>How We Use Your Information</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>To schedule and manage appointments</li>
+        <li>To communicate with you regarding your treatment and care</li>
+        <li>To respond to your inquiries and requests</li>
+        <li>To improve our website and services</li>
+        <li>To comply with legal and regulatory obligations</li>
+      </ul>
+
+      <h2>HIPAA Compliance</h2>
+      <p>As a healthcare provider, we comply with the Health Insurance Portability and Accountability Act (HIPAA). Your protected health information (PHI) is kept confidential and is only used or disclosed as permitted by law and with your authorization.</p>
+
+      <h2>Information Sharing</h2>
+      <p>We do not sell, trade, or rent your personal information to third parties. We may share information with:</p>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>Healthcare providers involved in your treatment</li>
+        <li>Insurance companies for billing and authorization purposes</li>
+        <li>Service providers who assist us in operating our website and business (bound by confidentiality agreements)</li>
+        <li>As required by law or to protect our legal rights</li>
+      </ul>
+
+      <h2>Data Security</h2>
+      <p>We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.</p>
+
+      <h2>Cookies</h2>
+      <p>Our website may use cookies to enhance your browsing experience. You can control cookie settings through your browser preferences.</p>
+
+      <h2>Your Rights</h2>
+      <p>You have the right to:</p>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>Access your personal information</li>
+        <li>Request corrections to your information</li>
+        <li>Request restrictions on how your information is used</li>
+        <li>Receive a copy of this privacy policy</li>
+      </ul>
+
+      <h2>Contact Us</h2>
+      <p>If you have questions about this Privacy Policy or wish to exercise your rights, please contact us:</p>
+      <p>Bratton Physical Therapy<br>1346 Lindberg Drive Suite 3, Slidell, LA 70458<br>Phone: (985) 641-5825</p>
+
+      <p style="margin-top:16px;font-size:.85rem;color:var(--text-muted)">Last updated: January 2026</p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>fetch('/templates/footer.html').then(function(r){return r.text()}).then(function(f){document.getElementById('site-footer').innerHTML=f});</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

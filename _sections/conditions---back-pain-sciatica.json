@@ -1,0 +1,236 @@
+{
+  "section": "Conditions > Back Pain Sciatica",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 12,
+  "snippets": {
+    "943b9b6f8b48": {
+      "id": "943b9b6f8b48",
+      "plainText": "Back Pain & Sciatica Treatment Back pain is one of the most common reasons people seek physical therapy. Whether your pain is acute from a recent injury or chronic from years of wear and tear, our one-on-one treatment approach helps you find relief and get back to the activities you love. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Back Pain & Sciatica Treatment</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Back pain is one of the most common reasons people seek physical therapy. Whether your pain is acute from a recent injury or chronic from years of wear and tear, our one-on-one treatment approach helps you find relief and get back to the activities you love.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Back Pain & Sciatica Treatment</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">Back pain is one of the most common reasons people seek physical therapy. Whether your pain is acute from a recent injury or chronic from years of wear and tear, our one-on-one treatment approach helps you find relief and get back to the activities you love.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Back Conditions We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">We help patients recover and rehabilitate from a variety of spine-related conditions:</p>",
+      "textLength": 329,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "bfcbd674e19c": {
+      "id": "bfcbd674e19c",
+      "plainText": "Back Conditions We Treat We help patients recover and rehabilitate from a variety of spine-related conditions: Herniated & Bulging Discs Cervical, thoracic, and lumbar disc injuries causing pain, numbness, or weakness",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Back Conditions We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">We help patients recover and rehabilitate from a variety of spine-related conditions:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Herniated & Bulging Discs</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical, thoracic, and lumbar disc injuries causing pain, numbness, or weakness</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Back Conditions We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">We help patients recover and rehabilitate from a variety of spine-related conditions:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Herniated & Bulging Discs</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical, thoracic, and lumbar disc injuries causing pain, numbness, or weakness</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Sciatica</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Radiating leg pain from nerve compression in the lower ba",
+      "textLength": 217,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "2e8706c40f43": {
+      "id": "2e8706c40f43",
+      "plainText": "Sciatica Radiating leg pain from nerve compression in the lower back",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Sciatica</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Radiating leg pain from nerve compression in the lower back</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Herniated & Bulging Discs</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical, thoracic, and lumbar disc injuries causing pain, numbness, or weakness</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Sciatica</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Radiating leg pain from nerve compression in the lower back</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Spinal Stenosis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Narrowing of the spinal canal causing pain, crampi",
+      "textLength": 68,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "fd3913c6dde3": {
+      "id": "fd3913c6dde3",
+      "plainText": "Spinal Stenosis Narrowing of the spinal canal causing pain, cramping, or numbness",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Spinal Stenosis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Narrowing of the spinal canal causing pain, cramping, or numbness</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": ":var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Sciatica</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Radiating leg pain from nerve compression in the lower back</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Spinal Stenosis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Narrowing of the spinal canal causing pain, cramping, or numbness</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Muscle Strains & Sprains</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Acute injuries from lifting, twisting, or",
+      "textLength": 81,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "480c58654552": {
+      "id": "480c58654552",
+      "plainText": "Muscle Strains & Sprains Acute injuries from lifting, twisting, or overexertion",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Muscle Strains & Sprains</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Acute injuries from lifting, twisting, or overexertion</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Spinal Stenosis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Narrowing of the spinal canal causing pain, cramping, or numbness</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Muscle Strains & Sprains</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Acute injuries from lifting, twisting, or overexertion</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Approach to Back Pain</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "c7fe64e618ff": {
+      "id": "c7fe64e618ff",
+      "plainText": "Our Approach to Back Pain Comprehensive Exam Detailed assessment of posture, movement patterns, strength, and flexibility",
+      "originalHtml": "<div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Approach to Back Pain</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Comprehensive Exam</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Detailed assessment of posture, movement patterns, strength, and flexibility</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "<h3 style=\"color:var(--accent)\">Muscle Strains & Sprains</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Acute injuries from lifting, twisting, or overexertion</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:900px\">\r\n      <h2 style=\"text-align:center;margin-bottom:32px\">Our Approach to Back Pain</h2>\r\n      <div class=\"grid grid--3\" style=\"text-align:center\">\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Comprehensive Exam</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Detailed assessment of posture, movement patterns, strength, and flexibility</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Management</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, dry needling",
+      "textLength": 121,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "dde892e6eb5d": {
+      "id": "dde892e6eb5d",
+      "plainText": "Pain Management Manual therapy, dry needling, and modalities to reduce pain and muscle tension",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Management</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, dry needling, and modalities to reduce pain and muscle tension</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "dius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Comprehensive Exam</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Detailed assessment of posture, movement patterns, strength, and flexibility</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Management</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, dry needling, and modalities to reduce pain and muscle tension</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Long-Term Prevention</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Core strengthening, pos",
+      "textLength": 94,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "e52ad3f0b252": {
+      "id": "e52ad3f0b252",
+      "plainText": "Long-Term Prevention Core strengthening, posture training, and ergonomic education to prevent recurrence",
+      "originalHtml": "<div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Long-Term Prevention</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Core strengthening, posture training, and ergonomic education to prevent recurrence</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "adius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Pain Management</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Manual therapy, dry needling, and modalities to reduce pain and muscle tension</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:24px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1.1rem\">Long-Term Prevention</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Core strengthening, posture training, and ergonomic education to prevent recurrence</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Patients Choose Us for Back Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the en",
+      "textLength": 104,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "f58293fcebba": {
+      "id": "f58293fcebba",
+      "plainText": "Why Patients Choose Us for Back Pain One-on-one sessions — your therapist is with you the entire time 45–60 minute appointments — no rushed visits Advanced manual therapy techniques including McKenzie Method principles No referral needed in Louisiana — Direct Access",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Patients Choose Us for Back Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments — no rushed visits</li>\r\n        <li>Advanced manual therapy techniques including McKenzie Method principles</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ent);font-size:1.1rem\">Long-Term Prevention</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Core strengthening, posture training, and ergonomic education to prevent recurrence</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Why Patients Choose Us for Back Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments — no rushed visits</li>\r\n        <li>Advanced manual therapy techniques including McKenzie Method principles</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Relief from Back Pain</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-t",
+      "textLength": 266,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "92d295db6448": {
+      "id": "92d295db6448",
+      "plainText": "Get Relief from Back Pain Don't let back pain control your life. Call us or request an appointment online. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Relief from Back Pain</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Don't let back pain control your life. Call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "visits</li>\r\n        <li>Advanced manual therapy techniques including McKenzie Method principles</li>\r\n        <li>No referral needed in Louisiana — Direct Access</li>\r\n      </ul>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Relief from Back Pain</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">Don't let back pain control your life. Call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 146,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": false
+        }
+      ]
+    },
+    "e5c857d6f3e3": {
+      "id": "e5c857d6f3e3",
+      "plainText": "Back Pain & Sciatica Treatment — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Back Pain & Sciatica Treatment — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": true
+        }
+      ]
+    },
+    "a3baf858033b": {
+      "id": "a3baf858033b",
+      "plainText": "Expert physical therapy for back pain and sciatica in Slidell, LA. Treating herniated discs, spinal stenosis, sciatic nerve pain. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy for back pain and sciatica in Slidell, LA. Treating herniated discs, spinal stenosis, sciatic nerve pain. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 150,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "back-pain-sciatica/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Back Pain Sciatica",
+          "pageName": "back-pain-sciatica",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

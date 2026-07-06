@@ -1,0 +1,141 @@
+{
+  "section": "Footer",
+  "category": "templates",
+  "pageCount": 1,
+  "snippetCount": 7,
+  "snippets": {
+    "b3e9d6929ef8": {
+      "id": "b3e9d6929ef8",
+      "plainText": "Hours of Operation",
+      "originalHtml": "<div class=\"site-footer__inner\">\r\n    <div class=\"site-footer__brand\">\r\n      <img src=\"/files/bratton-logo-white.svg\" alt=\"Bratton Physical Therapy\" onerror=\"this.style.display='none'\">\r\n      <div class=\"site-footer__hours-label\">Hours of Operation</div>",
+      "tagName": "div",
+      "previewContext": "<footer class=\"site-footer\">\r\n  <div class=\"site-footer__accent-shape\"></div>\r\n  <div class=\"site-footer__accent-shape site-footer__accent-shape--2\"></div>\r\n  <div class=\"site-footer__inner\">\r\n    <div class=\"site-footer__brand\">\r\n      <img src=\"/files/bratton-logo-white.svg\" alt=\"Bratton Physical Therapy\" onerror=\"this.style.display='none'\">\r\n      <div class=\"site-footer__hours-label\">Hours of Operation</div>\r\n      <div class=\"site-footer__hours\">\r\n        Monday – Thursday: 7:00 AM – 5:30 PM<br>\r\n        Friday: 7:00 AM – 2:00 PM<br>\r\n        Saturday: 8:00 AM – 12:00 PM<br>\r\n        Sunday: Closed\r\n      </div>\r\n    </div>\r\n    <div class=\"site-footer__link-cols\">\r\n      <div class=\"site-footer__col\"",
+      "textLength": 18,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "div.site-footer__inner",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": false
+        }
+      ]
+    },
+    "89e1c8df9843": {
+      "id": "89e1c8df9843",
+      "plainText": "Monday – Thursday: 7:00 AM – 5:30 PM Friday: 7:00 AM – 2:00 PM Saturday: 8:00 AM – 12:00 PM Sunday: Closed",
+      "originalHtml": "<div class=\"site-footer__hours\">\r\n        Monday – Thursday: 7:00 AM – 5:30 PM<br>\r\n        Friday: 7:00 AM – 2:00 PM<br>\r\n        Saturday: 8:00 AM – 12:00 PM<br>\r\n        Sunday: Closed\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "-footer__accent-shape--2\"></div>\r\n  <div class=\"site-footer__inner\">\r\n    <div class=\"site-footer__brand\">\r\n      <img src=\"/files/bratton-logo-white.svg\" alt=\"Bratton Physical Therapy\" onerror=\"this.style.display='none'\">\r\n      <div class=\"site-footer__hours-label\">Hours of Operation</div>\r\n      <div class=\"site-footer__hours\">\r\n        Monday – Thursday: 7:00 AM – 5:30 PM<br>\r\n        Friday: 7:00 AM – 2:00 PM<br>\r\n        Saturday: 8:00 AM – 12:00 PM<br>\r\n        Sunday: Closed\r\n      </div>\r\n    </div>\r\n    <div class=\"site-footer__link-cols\">\r\n      <div class=\"site-footer__col\">\r\n        <h4>Quick Links</h4>\r\n        <a href=\"/about/\">About Us</a>\r\n        <a href=\"/staff/\">Our Team</a>\r\n        <a href=\"/services/\">Services</a>\r\n        <a href=\"/conditions/\">Conditions</a>",
+      "textLength": 106,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "div.site-footer__hours",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": false
+        }
+      ]
+    },
+    "76888ad39e6a": {
+      "id": "76888ad39e6a",
+      "plainText": "Quick Links About Us Our Team Services Conditions Request Appointment Contact",
+      "originalHtml": "<div class=\"site-footer__link-cols\">\r\n      <div class=\"site-footer__col\">\r\n        <h4>Quick Links</h4>\r\n        <a href=\"/about/\">About Us</a>\r\n        <a href=\"/staff/\">Our Team</a>\r\n        <a href=\"/services/\">Services</a>\r\n        <a href=\"/conditions/\">Conditions</a>\r\n        <a href=\"/booking/\">Request Appointment</a>\r\n        <a href=\"/contact/\">Contact</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "'\">\r\n      <div class=\"site-footer__hours-label\">Hours of Operation</div>\r\n      <div class=\"site-footer__hours\">\r\n        Monday – Thursday: 7:00 AM – 5:30 PM<br>\r\n        Friday: 7:00 AM – 2:00 PM<br>\r\n        Saturday: 8:00 AM – 12:00 PM<br>\r\n        Sunday: Closed\r\n      </div>\r\n    </div>\r\n    <div class=\"site-footer__link-cols\">\r\n      <div class=\"site-footer__col\">\r\n        <h4>Quick Links</h4>\r\n        <a href=\"/about/\">About Us</a>\r\n        <a href=\"/staff/\">Our Team</a>\r\n        <a href=\"/services/\">Services</a>\r\n        <a href=\"/conditions/\">Conditions</a>\r\n        <a href=\"/booking/\">Request Appointment</a>\r\n        <a href=\"/contact/\">Contact</a>\r\n      </div>\r\n      <div class=\"site-footer__col\">\r\n        <h4>Resources</h4>\r\n        <a href=\"/insurance/\">Insurance</a>\r\n        <a href=\"/faq/\">FAQ</a>\r\n        <a href=\"/library/\">Exercise Library</a>\r\n        <a href=\"/reviews/\">Patient Reviews</a>\r\n        <a href=\"/community/\">Community</a>\r\n        <a",
+      "textLength": 77,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "div.site-footer__link-cols",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": false
+        }
+      ]
+    },
+    "52a65c1fc1bf": {
+      "id": "52a65c1fc1bf",
+      "plainText": "Resources Insurance FAQ Exercise Library Patient Reviews Community New Patient Info",
+      "originalHtml": "<div class=\"site-footer__col\">\r\n        <h4>Resources</h4>\r\n        <a href=\"/insurance/\">Insurance</a>\r\n        <a href=\"/faq/\">FAQ</a>\r\n        <a href=\"/library/\">Exercise Library</a>\r\n        <a href=\"/reviews/\">Patient Reviews</a>\r\n        <a href=\"/community/\">Community</a>\r\n        <a href=\"/new-appointment/\">New Patient Info</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "ick Links</h4>\r\n        <a href=\"/about/\">About Us</a>\r\n        <a href=\"/staff/\">Our Team</a>\r\n        <a href=\"/services/\">Services</a>\r\n        <a href=\"/conditions/\">Conditions</a>\r\n        <a href=\"/booking/\">Request Appointment</a>\r\n        <a href=\"/contact/\">Contact</a>\r\n      </div>\r\n      <div class=\"site-footer__col\">\r\n        <h4>Resources</h4>\r\n        <a href=\"/insurance/\">Insurance</a>\r\n        <a href=\"/faq/\">FAQ</a>\r\n        <a href=\"/library/\">Exercise Library</a>\r\n        <a href=\"/reviews/\">Patient Reviews</a>\r\n        <a href=\"/community/\">Community</a>\r\n        <a href=\"/new-appointment/\">New Patient Info</a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"site-footer__bottom\">\r\n    <p>Copyright 2026 Bratton Physical Therapy, All Rights Reserved.</p>\r\n    <p style=\"margin-top:6px\">\r\n      <a href=\"/sitemap/\">Sitemap</a> |\r\n      <a href=\"/privacy-policy/\">Privacy Policy</a> |\r\n      <a href=\"/terms-of-use/\">Terms",
+      "textLength": 83,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "div.site-footer__col",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": false
+        }
+      ]
+    },
+    "c5d1063dc240": {
+      "id": "c5d1063dc240",
+      "plainText": "Copyright 2026 Bratton Physical Therapy, All Rights Reserved. Sitemap | Privacy Policy | Terms of Use 1346 Lindberg Drive Suite 3, Slidell, LA 70458 | (985) 641-5825",
+      "originalHtml": "<div class=\"site-footer__bottom\">\r\n    <p>Copyright 2026 Bratton Physical Therapy, All Rights Reserved.</p>\r\n    <p style=\"margin-top:6px\">\r\n      <a href=\"/sitemap/\">Sitemap</a> |\r\n      <a href=\"/privacy-policy/\">Privacy Policy</a> |\r\n      <a href=\"/terms-of-use/\">Terms of Use</a>\r\n    </p>\r\n    <p style=\"margin-top:6px\">1346 Lindberg Drive Suite 3, Slidell, LA 70458 | (985) 641-5825</p>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "insurance/\">Insurance</a>\r\n        <a href=\"/faq/\">FAQ</a>\r\n        <a href=\"/library/\">Exercise Library</a>\r\n        <a href=\"/reviews/\">Patient Reviews</a>\r\n        <a href=\"/community/\">Community</a>\r\n        <a href=\"/new-appointment/\">New Patient Info</a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"site-footer__bottom\">\r\n    <p>Copyright 2026 Bratton Physical Therapy, All Rights Reserved.</p>\r\n    <p style=\"margin-top:6px\">\r\n      <a href=\"/sitemap/\">Sitemap</a> |\r\n      <a href=\"/privacy-policy/\">Privacy Policy</a> |\r\n      <a href=\"/terms-of-use/\">Terms of Use</a>\r\n    </p>\r\n    <p style=\"margin-top:6px\">1346 Lindberg Drive Suite 3, Slidell, LA 70458 | (985) 641-5825</p>\r\n  </div>\r\n</footer>\r\n\r\n\r\n\r\n<button class=\"br-trigger-btn\" onclick=\"var t=this;var p=document.querySelector('.br-review-popup');if(!p){t.classList.add('br-hidden');var s=document.createElement('script');s.src='/js/br-reviews.js';s.onload=function(){var pp=document.querySelector('.br-review-popup');if(pp)pp.c",
+      "textLength": 165,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "div.site-footer__bottom",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": false
+        }
+      ]
+    },
+    "add1bda4e50b": {
+      "id": "add1bda4e50b",
+      "plainText": "★★★★★ Reviews",
+      "originalHtml": "<button class=\"br-trigger-btn\" onclick=\"var t=this;var p=document.querySelector('.br-review-popup');if(!p){t.classList.add('br-hidden');var s=document.createElement('script');s.src='/js/br-reviews.js';s.onload=function(){var pp=document.querySelector('.br-review-popup');if(pp)pp.classList.add('show')};document.body.appendChild(s)}else if(p.classList.contains('show')){p.classList.remove('show');t.classList.remove('br-hidden')}else{p.classList.add('show');t.classList.add('br-hidden')}\">★★★★★ Reviews</button>",
+      "tagName": "button",
+      "previewContext": "\"margin-top:6px\">\r\n      <a href=\"/sitemap/\">Sitemap</a> |\r\n      <a href=\"/privacy-policy/\">Privacy Policy</a> |\r\n      <a href=\"/terms-of-use/\">Terms of Use</a>\r\n    </p>\r\n    <p style=\"margin-top:6px\">1346 Lindberg Drive Suite 3, Slidell, LA 70458 | (985) 641-5825</p>\r\n  </div>\r\n</footer>\r\n\r\n\r\n\r\n<button class=\"br-trigger-btn\" onclick=\"var t=this;var p=document.querySelector('.br-review-popup');if(!p){t.classList.add('br-hidden');var s=document.createElement('script');s.src='/js/br-reviews.js';s.onload=function(){var pp=document.querySelector('.br-review-popup');if(pp)pp.classList.add('show')};document.body.appendChild(s)}else if(p.classList.contains('show')){p.classList.remove('show');t.classList.remove('br-hidden')}else{p.classList.add('show');t.classList.add('br-hidden')}\">★★★★★ Reviews</button>",
+      "textLength": 13,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "button.br-trigger-btn",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": false
+        }
+      ]
+    },
+    "c66cb68f1eee": {
+      "id": "c66cb68f1eee",
+      "plainText": "templates/footer.html",
+      "originalHtml": "<title>templates/footer.html</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 21,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "templates/footer.html",
+          "selector": "title",
+          "category": "templates",
+          "section": "Footer",
+          "pageName": "Global Footer",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

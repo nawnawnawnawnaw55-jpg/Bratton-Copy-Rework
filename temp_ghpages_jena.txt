@@ -1,0 +1,270 @@
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bratton PT ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Copy Editor</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%232257A6'/><stop offset='100%25' stop-color='%231B3B6F'/></linearGradient></defs><rect rx='14' width='64' height='64' fill='url(%23bg)'/><text x='28' y='52' font-size='38' font-family='Montserrat,sans-serif' font-weight='800' fill='white' text-anchor='middle'>B</text><g transform='translate(34,10) rotate(135)' stroke='%23F86F26' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><line x1='0' y1='18' x2='0' y2='0'/><polygon points='0,0 -3.5,6 3.5,6' fill='%23F86F26' stroke='none'/><line x1='-2' y1='18' x2='2' y2='18' stroke='%23F86F26' stroke-width='2.5'/><rect x='-5' y='18' width='10' height='5' rx='1.5' fill='%23F86F26' stroke='none'/></g></svg>">
+  <link rel="stylesheet" href="editor.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Google Fonts (matches v3) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400..800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400..800&display=swap" rel="stylesheet"></noscript>
+  <!-- Scoped v3 preview styles -->
+  <link rel="stylesheet" href="preview.css">
+  <!-- Global CSS variables from v3 (must be :root-level for scoped styles to inherit) -->
+   <style>
+     :root {
+       --font-body: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+       --font-heading: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+       --primary: #2257A6;
+       --primary-dark: #1B3B6F;
+       --accent: #F86F26;
+       --danger: #BE1E2D;
+       --success: #22B14C;
+       --white: #FFFFFF;
+       --light-bg: #FAFAFA;
+       --light-gray: #EFEFEF;
+       --gray: #666666;
+       --dark: #1A1A1A;
+       --shadow-sm: 0 1px 3px rgba(0,0,0,0.1);
+       --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+       --shadow-lg: 0 8px 24px rgba(0,0,0,0.15);
+       --radius-sm: 4px;
+       --radius-md: 8px;
+       --radius-lg: 16px;
+       --radius-pill: 999px;
+       --max-width: 1200px;
+       --header-height: 60px;
+     }
+   </style>
+</head>
+<body>
+
+  <!-- ===== TOP BAR ===== -->
+  <header id="top-bar">
+    <div class="top-bar__left">
+      <button id="btn-sidebar-toggle" class="btn btn--icon" title="Toggle Sidebar"><i class="fas fa-bars"></i></button>
+      <span class="top-bar__logo">Bratton PT <span class="top-bar__logo-sub">Copy Editor</span></span>
+    </div>
+    <div class="top-bar__center">
+      <span id="current-page-label" class="current-page-label">No page selected</span>
+    </div>
+    <div class="top-bar__right">
+      <span id="page-status" class="page-status" title="Page edit status"></span>
+      <span id="dirty-count" class="dirty-count" style="display:none;"></span>
+      <span id="stats-display" class="stats-display" title="Lifetime submission stats"></span>
+      <button id="btn-submit" class="btn btn--submit" disabled>Submit Changes</button>
+      <button id="btn-settings" class="btn btn--icon" title="Settings"><i class="fas fa-cog"></i></button>
+    </div>
+  </header>
+
+  <!-- ===== LAYOUT CONTAINER ===== -->
+  <div id="app-layout">
+    <!-- ===== LEFT SIDEBAR ===== -->
+  <aside id="sidebar" class="sidebar">
+      <div class="sidebar__header">
+        <span>Pages</span>
+        <input type="text" id="sidebar-search" class="sidebar__search" placeholder="Search pages...">
+      </div>
+      <nav id="sidebar-nav" class="sidebar__nav">
+        <!-- Dynamically populated -->
+      </nav>
+    </aside>
+
+    <!-- ===== MAIN CONTENT AREA ===== -->
+    <main id="editor-main">
+      <div id="page-render" class="page-render">
+        <!-- Snippets rendered here -->
+      </div>
+      <div id="page-loading" class="page-loading">
+        <div class="spinner"></div>
+        <p>Loading page...</p>
+      </div>
+      <div id="page-empty" class="page-empty">
+        <i class="fas fa-arrow-left"></i>
+        <p>Select a page from the sidebar to start editing.</p>
+      </div>
+    </main>
+  </div>
+
+  <!-- ===== FLOATING TEXT TOOLBAR ===== -->
+  <div id="floating-toolbar" class="floating-toolbar" style="display:none;">
+    <div class="ft-group">
+      <button class="ft-btn" data-cmd="bold" title="Bold (Ctrl+B)"><i class="fas fa-bold"></i></button>
+      <button class="ft-btn" data-cmd="italic" title="Italic (Ctrl+I)"><i class="fas fa-italic"></i></button>
+      <button class="ft-btn" data-cmd="underline" title="Underline (Ctrl+U)"><i class="fas fa-underline"></i></button>
+      <button class="ft-btn" data-cmd="strikeThrough" title="Strikethrough"><i class="fas fa-strikethrough"></i></button>
+    </div>
+    <div class="ft-divider"></div>
+    <div class="ft-group">
+      <button class="ft-btn" data-cmd="formatBlock" data-arg="h2" title="Heading 2">H2</button>
+      <button class="ft-btn" data-cmd="formatBlock" data-arg="h3" title="Heading 3">H3</button>
+      <button class="ft-btn" data-cmd="formatBlock" data-arg="h4" title="Heading 4">H4</button>
+      <button class="ft-btn" data-cmd="formatBlock" data-arg="p" title="Paragraph">P</button>
+    </div>
+    <div class="ft-divider"></div>
+    <div class="ft-group">
+      <button class="ft-btn" data-cmd="insertUnorderedList" title="Bullet List"><i class="fas fa-list-ul"></i></button>
+      <button class="ft-btn" data-cmd="insertOrderedList" title="Numbered List"><i class="fas fa-list-ol"></i></button>
+    </div>
+    <div class="ft-divider"></div>
+    <div class="ft-group">
+      <button class="ft-btn" data-cmd="justifyLeft" title="Align Left"><i class="fas fa-align-left"></i></button>
+      <button class="ft-btn" data-cmd="justifyCenter" title="Align Center"><i class="fas fa-align-center"></i></button>
+      <button class="ft-btn" data-cmd="justifyRight" title="Align Right"><i class="fas fa-align-right"></i></button>
+    </div>
+    <div class="ft-divider"></div>
+    <div class="ft-group">
+      <button class="ft-btn" data-cmd="createLink" title="Insert Link"><i class="fas fa-link"></i></button>
+    </div>
+    <div class="ft-divider"></div>
+    <div class="ft-group">
+      <button class="ft-btn ft-btn--danger" data-cmd="removeFormat" title="Clear Formatting"><i class="fas fa-remove-format"></i></button>
+    </div>
+  </div>
+
+  <!-- ===== IMAGE EDIT OVERLAY ===== -->
+  <div id="image-overlay" class="image-overlay" style="display:none;">
+    <div class="image-overlay__btns">
+      <button class="io-btn" id="img-btn-replace" title="Replace Image"><i class="fas fa-exchange-alt"></i> Replace</button>
+      <button class="io-btn" id="img-btn-remove" title="Remove Image"><i class="fas fa-trash"></i> Remove</button>
+      <button class="io-btn" id="img-btn-add-before" title="Add Image Before"><i class="fas fa-plus"></i> Add Before</button>
+      <button class="io-btn" id="img-btn-add-after" title="Add Image After"><i class="fas fa-plus"></i> Add After</button>
+      <button class="io-btn io-btn--close" id="img-btn-close" title="Close"><i class="fas fa-times"></i></button>
+    </div>
+  </div>
+
+  <!-- ===== TAB MANAGEMENT BAR ===== -->
+  <div id="tab-manager" class="tab-manager" style="display:none;">
+    <div id="tab-manager-tabs" class="tab-manager__tabs"></div>
+    <div class="tab-manager__controls">
+      <button id="btn-tab-add" class="btn btn--small btn--accent" title="Add Tab"><i class="fas fa-plus"></i> Tab</button>
+    </div>
+  </div>
+
+  <!-- ===== IMAGE URL MODAL ===== -->
+  <div id="image-url-modal" class="modal-overlay" style="display:none;">
+    <div class="modal">
+      <h2 class="modal__title">Insert Image</h2>
+      <p class="modal__desc">Enter an image URL, or paste a local file path.</p>
+      <input type="text" id="image-url-input" class="modal__input" placeholder="https://example.com/image.jpg">
+      <p class="modal__desc" style="text-align:center;">ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ or ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ</p>
+      <div id="image-file-drop" class="image-file-drop">
+        <i class="fas fa-cloud-upload-alt" style="font-size:32px;margin-bottom:8px;"></i>
+        <span>Click or drag an image here</span>
+        <input type="file" id="image-file-input" accept="image/*" style="display:none;">
+      </div>
+      <div class="modal__actions">
+        <button id="btn-image-cancel" class="btn btn--outline">Cancel</button>
+        <button id="btn-image-insert" class="btn btn--accent">Insert</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== TAB RENAME MODAL ===== -->
+  <div id="tab-rename-modal" class="modal-overlay" style="display:none;">
+    <div class="modal">
+      <h2 class="modal__title">Rename Tab</h2>
+      <input type="text" id="tab-rename-input" class="modal__input" placeholder="Tab name...">
+      <div class="modal__actions">
+        <button id="btn-tab-rename-cancel" class="btn btn--outline">Cancel</button>
+        <button id="btn-tab-rename-save" class="btn btn--accent">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SETTINGS MODAL ===== -->
+  <div id="settings-modal" class="modal-overlay" style="display:none;">
+    <div class="modal" style="max-width:480px;">
+      <h2 class="modal__title">Settings</h2>
+      <div class="settings__group">
+        <label class="settings__label">Discord Webhook URL</label>
+        <div class="settings__row">
+          <input type="text" id="settings-discord-input" class="modal__input" placeholder="https://discord.com/api/webhooks/...">
+          <button id="btn-settings-discord-save" class="btn btn--small btn--accent">Save</button>
+        </div>
+      </div>
+      <div class="settings__group">
+        <label class="settings__label">GitHub Personal Access Token</label>
+        <div class="settings__row">
+          <input type="password" id="settings-github-input" class="modal__input" placeholder="ghp_...">
+          <button id="btn-settings-github-save" class="btn btn--small btn--accent">Save</button>
+        </div>
+      </div>
+      <div class="settings__group">
+        <label class="settings__label">GitHub Repository</label>
+        <div class="settings__row">
+          <input type="text" id="settings-repo-input" class="modal__input" placeholder="owner/repo">
+          <button id="btn-settings-repo-save" class="btn btn--small btn--accent">Save</button>
+        </div>
+      </div>
+      <div class="modal__actions">
+        <button id="btn-settings-close" class="btn btn--outline">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SUBMIT SUMMARY MODAL ===== -->
+  <div id="submit-modal" class="modal-overlay" style="display:none;">
+    <div class="modal" style="max-width:600px;max-height:80vh;overflow-y:auto;">
+      <h2 class="modal__title">Review Changes</h2>
+      <div id="submit-summary" class="submit-summary"></div>
+      <div class="modal__actions">
+        <button id="btn-submit-cancel" class="btn btn--outline">Cancel</button>
+        <button id="btn-submit-confirm" class="btn btn--submit">Send to Discord & GitHub</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== TOAST CONTAINER ===== -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <!-- ===== CONTEXT MENU ===== -->
+  <div id="context-menu" class="context-menu" style="display:none;">
+    <div class="ctx-group ctx-main-actions">
+      <button class="ctx-item" data-cmd="bold"><i class="fas fa-bold"></i> Bold <span class="ctx-shortcut">Ctrl+B</span></button>
+      <button class="ctx-item" data-cmd="italic"><i class="fas fa-italic"></i> Italic <span class="ctx-shortcut">Ctrl+I</span></button>
+      <button class="ctx-item" data-cmd="underline"><i class="fas fa-underline"></i> Underline <span class="ctx-shortcut">Ctrl+U</span></button>
+      <button class="ctx-item" data-cmd="strikeThrough"><i class="fas fa-strikethrough"></i> Strikethrough</button>
+    </div>
+    <div class="ctx-divider"></div>
+    <div class="ctx-group">
+      <div class="ctx-submenu">
+        <button class="ctx-item ctx-submenu-toggle"><i class="fas fa-heading"></i> Heading ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸</button>
+        <div class="ctx-submenu-dropdown">
+          <button class="ctx-item" data-cmd="formatBlock" data-arg="h2">Heading 2</button>
+          <button class="ctx-item" data-cmd="formatBlock" data-arg="h3">Heading 3</button>
+          <button class="ctx-item" data-cmd="formatBlock" data-arg="h4">Heading 4</button>
+          <button class="ctx-item" data-cmd="formatBlock" data-arg="p">Paragraph</button>
+        </div>
+      </div>
+      <button class="ctx-item" data-cmd="insertUnorderedList"><i class="fas fa-list-ul"></i> Bullet List</button>
+      <button class="ctx-item" data-cmd="insertOrderedList"><i class="fas fa-list-ol"></i> Numbered List</button>
+    </div>
+    <div class="ctx-divider"></div>
+    <div class="ctx-group">
+      <button class="ctx-item" data-cmd="justifyLeft"><i class="fas fa-align-left"></i> Align Left</button>
+      <button class="ctx-item" data-cmd="justifyCenter"><i class="fas fa-align-center"></i> Align Center</button>
+      <button class="ctx-item" data-cmd="justifyRight"><i class="fas fa-align-right"></i> Align Right</button>
+    </div>
+    <div class="ctx-divider"></div>
+    <div class="ctx-group">
+      <button class="ctx-item" data-cmd="createLink"><i class="fas fa-link"></i> Insert Link</button>
+      <button class="ctx-item ctx-img-btn" data-cmd="insertImage"><i class="fas fa-image"></i> Insert Image</button>
+    </div>
+    <div class="ctx-divider"></div>
+    <div class="ctx-group">
+      <button class="ctx-item ctx-item--danger" data-cmd="removeFormat"><i class="fas fa-remove-format"></i> Clear Formatting</button>
+    </div>
+  </div>
+
+  <!-- Hidden file input for image replace -->
+  <input type="file" id="hidden-file-input" accept="image/*" style="display:none;">
+
+  <script src="editor.js"></script>
+</body>
+</html>

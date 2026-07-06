@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Us — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Learn about Bratton Physical Therapy's mission, team, and approach to one-on-one care in Slidell, LA.">
+<meta property="og:title" content="About Us — Bratton Physical Therapy">
+<meta property="og:description" content="One-on-One Care Focused on Faster, Safer Recovery in Slidell, LA.">
+<meta property="og:url" content="/about/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h1>About Bratton Physical Therapy</h1>
+      <p style="font-size:1.15rem;line-height:1.7">At Bratton Physical Therapy, we provide one-on-one, hands-on care focused on getting you back to the activities you love — faster and safer. Located in Slidell, Louisiana, our clinic is built on the belief that recovery should never feel rushed or impersonal.</p>
+
+      <h2>Our Mission</h2>
+      <p>To deliver individualized, evidence-based physical therapy that addresses the root cause of your pain — not just the symptoms. Every patient receives a customized treatment plan designed around their specific goals, lifestyle, and recovery timeline.</p>
+
+      <h2>What Makes Us Different</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li><strong>One-on-One Sessions:</strong> You work directly with a licensed physical therapist — never passed off to an aide or tech.</li>
+        <li><strong>Longer Appointments:</strong> We schedule 45–60 minute sessions so there's time to listen, assess, and treat thoroughly.</li>
+        <li><strong>No Referral Needed:</strong> Louisiana allows Direct Access — you can start treatment without a physician's prescription.</li>
+        <li><strong>Convenient Location:</strong> 1346 Lindberg Drive Suite 3, Slidell, LA 70458 — easy access from I-10 and I-12.</li>
+      </ul>
+
+      <h2>Our Approach</h2>
+      <p>We combine manual therapy, therapeutic exercise, and patient education to create lasting results. Whether you're recovering from surgery, managing a chronic condition, or looking to prevent future injuries, we meet you where you are and build a plan that fits.</p>
+
+   <p style="margin-top:32px"><a href="/booking/" class="btn btn--accent btn--lg">Request Appointment</a></p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

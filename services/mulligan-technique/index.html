@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mulligan Technique — Bratton Physical Therapy | Slidell, LA</title>
+  <meta name="description" content="Mulligan Technique physical therapy in Slidell, LA. Gentle, pain-free joint mobilizations to restore mobility and reduce pain. Call 985-641-5825.">
+  <meta property="og:title" content="Mulligan Technique — Bratton Physical Therapy">
+  <meta property="og:description" content="Mulligan Technique physical therapy in Slidell, LA. Gentle, pain-free joint mobilizations to restore mobility and reduce pain. Call 985-641-5825.">
+  <meta property="og:url" content="/services/mulligan-technique/">
+  <meta property="og:site_name" content="Bratton Physical Therapy">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/files/services/mulligan-technique.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/header.css">
+  <style>
+    /* === SERVICE PAGE LAYOUT (v2-style) === */
+    .svc-hero{background:var(--primary);color:var(--white);text-align:center;padding:clamp(36px,8vw,60px) 0}
+    .svc-hero h1{color:var(--white);margin-bottom:0}
+
+    .svc-content{padding:clamp(32px,6vw,56px) 0}
+    .svc-content .container{max-width:var(--max-width)}
+
+    /* Two-column: image left, text right (v2 style) */
+    .svc-layout{display:flex;gap:clamp(24px,4vw,40px);align-items:flex-start}
+    .svc-layout__img{flex:0 0 clamp(260px,35%,400px)}
+    .svc-layout__img img{border-radius:var(--radius-md);width:100%;height:auto;box-shadow:var(--shadow-md)}
+    .svc-layout__body{flex:1;min-width:0}
+    .svc-layout__body h2{font-size:1.3rem;margin-top:24px;margin-bottom:8px}
+    .svc-layout__body h3{font-size:1.1rem;margin-top:20px;margin-bottom:6px;color:var(--dark)}
+    .svc-layout__body p{margin-bottom:14px;line-height:1.7}
+    .svc-layout__body ul,.svc-layout__body ol{margin:0 0 16px 20px;line-height:1.7}
+    .svc-layout__body ul li,.svc-layout__body ol li{margin-bottom:6px}
+
+    /* Simple CTA row at bottom (not a blue box) */
+    .svc-cta-row{text-align:center;padding:clamp(32px,6vw,48px) 0;border-top:2px solid var(--light-gray);margin-top:clamp(32px,6vw,48px)}
+    .svc-cta-row p{font-size:1.1rem;font-weight:600;margin-bottom:16px}
+
+    @media(max-width:768px){
+      .svc-layout{flex-direction:column}
+      .svc-layout__img{flex:auto;max-width:100%}
+    }
+  </style>
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h});
+</script>
+<main>
+  <section class="svc-hero">
+    <div class="container">
+      <h1>Mulligan Technique</h1>
+    </div>
+  </section>
+
+  <section class="svc-content">
+    <div class="container">
+      <div class="svc-layout">
+        <div class="svc-layout__img">
+          <img src="/files/services/mulligan-technique.jpg" alt="Mulligan Technique" loading="lazy">
+        </div>
+        <div class="svc-layout__body">
+          <p>Mulligan Techniques are a type of manual therapy intervention developed by Brian Mulligan, a renowned physiotherapist from New Zealand. These techniques focus on <em>Mobilization with Movement (MWM)</em>, where gentle, pain-free joint mobilizations are combined with active or functional movements.</p>
+<p>The goal is to restore normal joint mechanics and reduce pain during movement. Mulligan Techniques are particularly effective in treating musculoskeletal conditions involving joints, soft tissues, and nerves. They are non-invasive and emphasize patient participation, making them a practical and efficient method for improving mobility and function.</p>
+<p>Physical therapists play a critical role in implementing Mulligan Techniques to help patients manage pain and regain function. By carefully assessing a patient's movement restrictions or pain, a physical therapist applies precise, sustained mobilizations while the patient actively moves the joint in question. This approach can quickly improve range of motion, reduce discomfort, and enable patients to perform daily activities more comfortably.</p>
+<p>Physical therapists also teach patients self-sustaining techniques and exercises that promote long-term recovery and independence, empowering them to maintain the progress made in therapy.</p>
+        </div>
+      </div>
+
+      <div class="svc-cta-row">
+        <p>Ready to get started? Call us or request an appointment today.</p>
+        <a href="tel:9856415825" class="btn btn--accent btn--lg">Call (985) 641-5825</a> <a href="/booking/" class="btn btn--outline btn--lg">Request Appointment</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sitemap — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Sitemap for Bratton Physical Therapy — find all pages on our website.">
+<meta property="og:title" content="Sitemap — Bratton Physical Therapy">
+<meta property="og:description" content="Complete sitemap for Bratton Physical Therapy in Slidell, LA.">
+<meta property="og:url" content="/sitemap/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:800px">
+      <h1>Sitemap</h1>
+
+      <h2>Main Pages</h2>
+      <ul style="line-height:2;font-size:1.05rem">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About Us</a></li>
+        <li><a href="/staff/">Staff</a></li>
+        <li><a href="/join-our-team/">Join Our Team</a></li>
+        <li><a href="/location/">Location</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/reviews/">Reviews</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="/sitemap/">Sitemap</a></li>
+      </ul>
+
+      <h2>Conditions</h2>
+      <ul style="line-height:2;font-size:1.05rem">
+        <li><a href="/conditions/">All Conditions</a></li>
+        <li><a href="/shoulder-pain/">Shoulder Pain</a></li>
+        <li><a href="/knee-pain/">Knee Pain</a></li>
+        <li><a href="/back-pain-sciatica/">Back Pain & Sciatica</a></li>
+        <li><a href="/neck-pain/">Neck Pain</a></li>
+        <li><a href="/sports-injuries/">Sports Injuries</a></li>
+        <li><a href="/acl-injury/">ACL Injury</a></li>
+        <li><a href="/labral-tear/">Labral Tear</a></li>
+        <li><a href="/meniscus-tear/">Meniscus Tear</a></li>
+        <li><a href="/knee-replacement/">Knee Replacement</a></li>
+        <li><a href="/joint-pain-arthritis/">Joint Pain & Arthritis</a></li>
+      </ul>
+
+      <h2>Services</h2>
+      <ul style="line-height:2;font-size:1.05rem">
+        <li><a href="/services/">All Services</a></li>
+        <li><a href="/services/therapeutic-exercise/">Therapeutic Exercise</a></li>
+        <li><a href="/services/dry-needling-certified/">Dry Needling</a></li>
+        <li><a href="/services/cupping/">Cupping</a></li>
+        <li><a href="/services/workers-compensation/">Workers Compensation</a></li>
+        <li><a href="/services/patient-education/">Patient Education</a></li>
+        <li><a href="/services/strength-conditioning/">Strength & Conditioning</a></li>
+        <li><a href="/services/blood-flow-restriction-therapy/">Blood Flow Restriction</a></li>
+        <li><a href="/services/mckenzie-method/">McKenzie Method</a></li>
+        <li><a href="/services/mulligan-technique/">Mulligan Technique</a></li>
+        <li><a href="/services/gait-balance-training/">Gait & Balance Training</a></li>
+        <li><a href="/services/vasopneumatic-compression/">Vasopneumatic Compression</a></li>
+        <li><a href="/services/moist-heat-ice/">Moist Heat & Ice</a></li>
+        <li><a href="/services/electrical-stimulation/">Electrical Stimulation</a></li>
+      </ul>
+
+      <h2>Patient Resources</h2>
+      <ul style="line-height:2;font-size:1.05rem">
+        <li><a href="/patcenter/">Patient Center</a></li>
+        <li><a href="/library/">Medical Library</a></li>
+        <li><a href="/insurance/">Insurance</a></li>
+        <li><a href="/booking/">Booking</a></li>
+        <li><a href="/new-appointment/">New Appointment</a></li>
+        <li><a href="/paperwork/">Paperwork</a></li>
+        <li><a href="/community/">Community</a></li>
+      </ul>
+
+      <h2>Legal</h2>
+      <ul style="line-height:2;font-size:1.05rem">
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/terms-of-use/">Terms of Use</a></li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>fetch('/templates/footer.html').then(function(r){return r.text()}).then(function(f){document.getElementById('site-footer').innerHTML=f});</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

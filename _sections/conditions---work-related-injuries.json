@@ -1,0 +1,388 @@
+{
+  "section": "Conditions > Work Related Injuries",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 20,
+  "snippets": {
+    "bf1c88bb2cc7": {
+      "id": "bf1c88bb2cc7",
+      "plainText": "Work Related Injuries The majority of injuries sustained in the workplace consist of sprains and strains that physical therapists are licensed to treat. We provide one-on-one, hands-on care to get you back to work safely and efficiently. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Work Related Injuries</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">The majority of injuries sustained in the workplace consist of sprains and strains that physical therapists are licensed to treat. We provide one-on-one, hands-on care to get you back to work safely and efficiently.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ss/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(48px,10vw,80px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h1>Work Related Injuries</h1>\r\n      <p style=\"font-size:1.2rem;line-height:1.7;margin-top:16px;opacity:0.95\">The majority of injuries sustained in the workplace consist of sprains and strains that physical therapists are licensed to treat. We provide one-on-one, hands-on care to get you back to work safely and efficiently.</p>\r\n      <p style=\"margin-top:28px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Workplace Injuries We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">A physical therapist can evaluate and treat a wide range of work-related injurie",
+      "textLength": 277,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "4e8c30620547": {
+      "id": "4e8c30620547",
+      "plainText": "Common Workplace Injuries We Treat A physical therapist can evaluate and treat a wide range of work-related injuries, including: Back Pain Lifting injuries, strains, sciatica, and disc issues",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Workplace Injuries We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">A physical therapist can evaluate and treat a wide range of work-related injuries, including:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Back Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Lifting injuries, strains, sciatica, and disc issues</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Common Workplace Injuries We Treat</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:16px\">A physical therapist can evaluate and treat a wide range of work-related injuries, including:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Back Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Lifting injuries, strains, sciatica, and disc issues</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Neck Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical strains, tension, posture-related pain</p>",
+      "textLength": 191,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "08b213039d1b": {
+      "id": "08b213039d1b",
+      "plainText": "Neck Pain Cervical strains, tension, posture-related pain",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Neck Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical strains, tension, posture-related pain</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ground:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Back Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Lifting injuries, strains, sciatica, and disc issues</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Neck Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical strains, tension, posture-related pain</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Rotator cuff strains, impingement, repetitive mo",
+      "textLength": 57,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "3f3b0a74e0dd": {
+      "id": "3f3b0a74e0dd",
+      "plainText": "Shoulder Injuries Rotator cuff strains, impingement, repetitive motion injuries",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Rotator cuff strains, impingement, repetitive motion injuries</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Neck Pain</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Cervical strains, tension, posture-related pain</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Rotator cuff strains, impingement, repetitive motion injuries</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Knee Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ligament sprains, meniscus injuries, joint pain</p>",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "799b46254d66": {
+      "id": "799b46254d66",
+      "plainText": "Knee Injuries Ligament sprains, meniscus injuries, joint pain",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Knee Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ligament sprains, meniscus injuries, joint pain</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "t-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Shoulder Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Rotator cuff strains, impingement, repetitive motion injuries</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Knee Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ligament sprains, meniscus injuries, joint pain</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Carpal Tunnel Syndrome</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Wrist and hand pain, numbness, tingling</p>",
+      "textLength": 61,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "d3d3903c4779": {
+      "id": "d3d3903c4779",
+      "plainText": "Carpal Tunnel Syndrome Wrist and hand pain, numbness, tingling",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Carpal Tunnel Syndrome</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Wrist and hand pain, numbness, tingling</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "kground:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Knee Injuries</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Ligament sprains, meniscus injuries, joint pain</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Carpal Tunnel Syndrome</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Wrist and hand pain, numbness, tingling</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Tendinitis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Elbow, wrist, and shoulder overuse conditions</p>",
+      "textLength": 62,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "933e7f21be6b": {
+      "id": "933e7f21be6b",
+      "plainText": "Tendinitis Elbow, wrist, and shoulder overuse conditions",
+      "originalHtml": "<div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Tendinitis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Elbow, wrist, and shoulder overuse conditions</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ground:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Carpal Tunnel Syndrome</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Wrist and hand pain, numbness, tingling</p>\r\n        </div>\r\n        <div style=\"background:var(--light-gray);padding:24px;border-radius:var(--radius-md);text-align:center\">\r\n          <h3 style=\"color:var(--accent)\">Tendinitis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Elbow, wrist, and shoulder overuse conditions</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>What to Expect at Physical Therapy</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:24px\">Once a patient is referred to physical",
+      "textLength": 56,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "8c83a9643600": {
+      "id": "8c83a9643600",
+      "plainText": "What to Expect at Physical Therapy Once a patient is referred to physical therapy with a work-related injury, the therapist will obtain important information about the injury, the patient's medical history, and pre-existing problems. Your evaluation may include assessment of: Your History Detailed review of how the injury occurred and relevant medical background",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>What to Expect at Physical Therapy</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:24px\">Once a patient is referred to physical therapy with a work-related injury, the therapist will obtain important information about the injury, the patient's medical history, and pre-existing problems. Your evaluation may include assessment of:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Your History</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Detailed review of how the injury occurred and relevant medical background</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ign:center\">\r\n          <h3 style=\"color:var(--accent)\">Tendinitis</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:8px\">Elbow, wrist, and shoulder overuse conditions</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>What to Expect at Physical Therapy</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-bottom:24px\">Once a patient is referred to physical therapy with a work-related injury, the therapist will obtain important information about the injury, the patient's medical history, and pre-existing problems. Your evaluation may include assessment of:</p>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Your History</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Detailed review of how the injury occurred and relevant medical background</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Range of Motion</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Measuring ho",
+      "textLength": 364,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "5f0349128a2b": {
+      "id": "5f0349128a2b",
+      "plainText": "Range of Motion Measuring how well your joints move and where restrictions exist",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Range of Motion</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Measuring how well your joints move and where restrictions exist</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": ";box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Your History</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Detailed review of how the injury occurred and relevant medical background</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Range of Motion</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Measuring how well your joints move and where restrictions exist</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Pain Levels</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Understanding wh",
+      "textLength": 80,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "9cee3985b894": {
+      "id": "9cee3985b894",
+      "plainText": "Pain Levels Understanding what activities trigger or relieve your symptoms",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Pain Levels</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Understanding what activities trigger or relieve your symptoms</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "ius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Range of Motion</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Measuring how well your joints move and where restrictions exist</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Pain Levels</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Understanding what activities trigger or relieve your symptoms</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Functional Limitations</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Ident",
+      "textLength": 74,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "e9396d88fffa": {
+      "id": "e9396d88fffa",
+      "plainText": "Functional Limitations Identifying specific work tasks that are currently difficult",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Functional Limitations</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Identifying specific work tasks that are currently difficult</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Pain Levels</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Understanding what activities trigger or relieve your symptoms</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm);text-align:center\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Functional Limitations</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Identifying specific work tasks that are currently difficult</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Getting Back to Work</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">The ultimate goal of any treatment for work-related injuries is returning the patient t",
+      "textLength": 83,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "76cc36fa1dbd": {
+      "id": "76cc36fa1dbd",
+      "plainText": "Getting Back to Work The ultimate goal of any treatment for work-related injuries is returning the patient to their prior level of function at work. The physical therapist will discuss specific job demands with the patient, educate them regarding the healing process, and develop a plan to safely progress back to full duty.",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Getting Back to Work</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">The ultimate goal of any treatment for work-related injuries is returning the patient to their prior level of function at work. The physical therapist will discuss specific job demands with the patient, educate them regarding the healing process, and develop a plan to safely progress back to full duty.</p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "style=\"color:var(--accent);font-size:1rem\">Functional Limitations</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Identifying specific work tasks that are currently difficult</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>Getting Back to Work</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">The ultimate goal of any treatment for work-related injuries is returning the patient to their prior level of function at work. The physical therapist will discuss specific job demands with the patient, educate them regarding the healing process, and develop a plan to safely progress back to full duty.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"margin-bottom:24px\">Your Treatment Plan May Include</h2>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(-",
+      "textLength": 324,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "446ccdb6667a": {
+      "id": "446ccdb6667a",
+      "plainText": "Your Treatment Plan May Include Therapeutic Exercise Strengthening and flexibility exercises tailored to your job demands",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"margin-bottom:24px\">Your Treatment Plan May Include</h2>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Strengthening and flexibility exercises tailored to your job demands</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "to their prior level of function at work. The physical therapist will discuss specific job demands with the patient, educate them regarding the healing process, and develop a plan to safely progress back to full duty.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--light\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2 style=\"margin-bottom:24px\">Your Treatment Plan May Include</h2>\r\n      <div class=\"grid grid--2\">\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Strengthening and flexibility exercises tailored to your job demands</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to reduce p",
+      "textLength": 121,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "a1ed601ceaf6": {
+      "id": "a1ed601ceaf6",
+      "plainText": "Manual Therapy Hands-on techniques to reduce pain and restore mobility",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to reduce pain and restore mobility</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Therapeutic Exercise</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Strengthening and flexibility exercises tailored to your job demands</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to reduce pain and restore mobility</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ergonomic Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Guidance on proper body me",
+      "textLength": 70,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "dbf1c87a672d": {
+      "id": "dbf1c87a672d",
+      "plainText": "Ergonomic Education Guidance on proper body mechanics and workstation setup",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ergonomic Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Guidance on proper body mechanics and workstation setup</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Manual Therapy</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Hands-on techniques to reduce pain and restore mobility</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ergonomic Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Guidance on proper body mechanics and workstation setup</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Return-to-Work Planning</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Progressive program to",
+      "textLength": 75,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "df48f4102ef0": {
+      "id": "df48f4102ef0",
+      "plainText": "Return-to-Work Planning Progressive program to safely transition back to full work duties",
+      "originalHtml": "<div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Return-to-Work Planning</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Progressive program to safely transition back to full work duties</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Ergonomic Education</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Guidance on proper body mechanics and workstation setup</p>\r\n        </div>\r\n        <div style=\"background:var(--white);padding:20px;border-radius:var(--radius-md);box-shadow:var(--shadow-sm)\">\r\n          <h3 style=\"color:var(--accent);font-size:1rem\">Return-to-Work Planning</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Progressive program to safely transition back to full work duties</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>When to Seek Help</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">If you've been injured on the job, early physical therapy intervention can help reduce pai",
+      "textLength": 89,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "121e1e794106": {
+      "id": "121e1e794106",
+      "plainText": "When to Seek Help If you've been injured on the job, early physical therapy intervention can help reduce pain, speed recovery, and get you back to work sooner. We accept workers' compensation cases. To see all our Conditions click here .",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h2>When to Seek Help</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">If you've been injured on the job, early physical therapy intervention can help reduce pain, speed recovery, and get you back to work sooner. We accept workers' compensation cases.</p>\r\n      <p style=\"font-size:1.05rem;margin-top:16px\">To see all our Conditions <a href=\"/conditions/\" style=\"font-weight:700\">click here</a>.</p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "=\"color:var(--accent);font-size:1rem\">Return-to-Work Planning</h3>\r\n          <p style=\"font-size:0.95rem;line-height:1.6;margin-top:4px\">Progressive program to safely transition back to full work duties</p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h2>When to Seek Help</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7\">If you've been injured on the job, early physical therapy intervention can help reduce pain, speed recovery, and get you back to work sooner. We accept workers' compensation cases.</p>\r\n      <p style=\"font-size:1.05rem;margin-top:16px\">To see all our Conditions <a href=\"/conditions/\" style=\"font-weight:700\">click here</a>.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Back to Work Safely</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top",
+      "textLength": 237,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "27976049c533": {
+      "id": "27976049c533",
+      "plainText": "Get Back to Work Safely No referral needed in Louisiana — call us or request an appointment online. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Back to Work Safely</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">No referral needed in Louisiana — call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "ept workers' compensation cases.</p>\r\n      <p style=\"font-size:1.05rem;margin-top:16px\">To see all our Conditions <a href=\"/conditions/\" style=\"font-weight:700\">click here</a>.</p>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"section section--primary\" style=\"padding:clamp(40px,8vw,60px) 0\">\r\n    <div class=\"container\" style=\"max-width:800px;text-align:center\">\r\n      <h2 style=\"color:var(--white)\">Get Back to Work Safely</h2>\r\n      <p style=\"font-size:1.1rem;line-height:1.7;margin-top:12px;opacity:0.95\">No referral needed in Louisiana — call us or request an appointment online.</p>\r\n      <p style=\"margin-top:24px\">\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a>\r\n        <a href=\"/booking/\" class=\"btn btn--outline btn--lg\" style=\"margin-left:12px;color:var(--white);border-color:var(--white)\">Request Appointment</a>\r\n      </p>\r\n    </div>\r\n  </section>\r\n\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 139,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": false
+        }
+      ]
+    },
+    "6526ac97304a": {
+      "id": "6526ac97304a",
+      "plainText": "Work Related Injuries Physical Therapy — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Work Related Injuries Physical Therapy — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": true
+        }
+      ]
+    },
+    "a443e62aa844": {
+      "id": "a443e62aa844",
+      "plainText": "Expert physical therapy for work related injuries in Slidell, LA. One-on-one care for back pain, carpal tunnel, joint injuries, and more. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy for work related injuries in Slidell, LA. One-on-one care for back pain, carpal tunnel, joint injuries, and more. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 158,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "work-related-injuries/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Work Related Injuries",
+          "pageName": "work-related-injuries",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

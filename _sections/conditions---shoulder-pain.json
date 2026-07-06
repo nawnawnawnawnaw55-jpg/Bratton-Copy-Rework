@@ -1,0 +1,217 @@
+{
+  "section": "Conditions > Shoulder Pain",
+  "category": "conditions",
+  "pageCount": 1,
+  "snippetCount": 11,
+  "snippets": {
+    "e77778e8f6ee": {
+      "id": "e77778e8f6ee",
+      "plainText": "Shoulder Pain Treatment Shoulder pain can make simple tasks — reaching for a cabinet, putting on a shirt, sleeping through the night — feel impossible. At Bratton Physical Therapy, we treat shoulder conditions with one-on-one, hands-on care that targets the root cause, not just the symptoms. Common Shoulder Conditions We Treat Rotator Cuff Tears Shoulder Impingement Labral Tears Frozen Shoulder Post-Surgical Rehab",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Shoulder Pain Treatment</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Shoulder pain can make simple tasks — reaching for a cabinet, putting on a shirt, sleeping through the night — feel impossible. At Bratton Physical Therapy, we treat shoulder conditions with one-on-one, hands-on care that targets the root cause, not just the symptoms.</p>\r\n\r\n      <h2>Common Shoulder Conditions We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Rotator Cuff Tears</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Shoulder Impingement</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Labral Tears</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Frozen Shoulder</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Post-Surgical Rehab</span>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Shoulder Pain Treatment</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Shoulder pain can make simple tasks — reaching for a cabinet, putting on a shirt, sleeping through the night — feel impossible. At Bratton Physical Therapy, we treat shoulder conditions with one-on-one, hands-on care that targets the root cause, not just the symptoms.</p>\r\n\r\n      <h2>Common Shoulder Conditions We Treat</h2>\r\n      <div class=\"conditions-pills\" style=\"justify-content:flex-start;margin:16px 0\">\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Rotator Cuff Tears</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Shoulder Impingement</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Labral Tears</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Frozen Shoulder</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Post-Surgical Rehab</span>\r\n      </div>\r\n\r\n      <h2>Our Approach</h2>\r\n      <p>Every shoulder is different. Your treatment plan may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your ac",
+      "textLength": 417,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "div.container",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "572e9d6922b5": {
+      "id": "572e9d6922b5",
+      "plainText": "Our Approach",
+      "originalHtml": "<h2>Our Approach</h2>",
+      "tagName": "h2",
+      "previewContext": "olor:#fff\">Labral Tears</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Frozen Shoulder</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Post-Surgical Rehab</span>\r\n      </div>\r\n\r\n      <h2>Our Approach</h2>\r\n      <p>Every shoulder is different. Your treatment plan may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered",
+      "textLength": 12,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "h2",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "c682a6847224": {
+      "id": "c682a6847224",
+      "plainText": "Every shoulder is different. Your treatment plan may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered one-on-one by a licensed physical therapist.",
+      "originalHtml": "<p>Every shoulder is different. Your treatment plan may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered one-on-one by a licensed physical therapist.</p>",
+      "tagName": "p",
+      "previewContext": ">\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Frozen Shoulder</span>\r\n        <span class=\"condition-pill\" style=\"cursor:default;background:var(--primary);color:#fff\">Post-Surgical Rehab</span>\r\n      </div>\r\n\r\n      <h2>Our Approach</h2>\r\n      <p>Every shoulder is different. Your treatment plan may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered one-on-one by a licensed physical therapist.</p>\r\n\r\n      <h2>Why Patients Choose Us for Shoulder Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques includin",
+      "textLength": 333,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "p",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "39dcde299259": {
+      "id": "39dcde299259",
+      "plainText": "Why Patients Choose Us for Shoulder Pain",
+      "originalHtml": "<h2>Why Patients Choose Us for Shoulder Pain</h2>",
+      "tagName": "h2",
+      "previewContext": "n may include manual therapy to restore joint mobility, targeted strengthening for the rotator cuff and scapular stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered one-on-one by a licensed physical therapist.</p>\r\n\r\n      <h2>Why Patients Choose Us for Shoulder Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques including dry needling and cupping</li>\r\n        <li>No referral ne",
+      "textLength": 40,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "h2",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "720014cdca6b": {
+      "id": "720014cdca6b",
+      "plainText": "One-on-one sessions — your therapist is with you the entire time",
+      "originalHtml": "<li>One-on-one sessions — your therapist is with you the entire time</li>",
+      "tagName": "li",
+      "previewContext": "stabilizers, dry needling for muscle tension, and guided exercise progression to return to your activities safely. All delivered one-on-one by a licensed physical therapist.</p>\r\n\r\n      <h2>Why Patients Choose Us for Shoulder Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques including dry needling and cupping</li>\r\n        <li>No referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Get Shou",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "c10bebdf3f92": {
+      "id": "c10bebdf3f92",
+      "plainText": "45–60 minute appointments for thorough care",
+      "originalHtml": "<li>45–60 minute appointments for thorough care</li>",
+      "tagName": "li",
+      "previewContext": "turn to your activities safely. All delivered one-on-one by a licensed physical therapist.</p>\r\n\r\n      <h2>Why Patients Choose Us for Shoulder Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques including dry needling and cupping</li>\r\n        <li>No referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Get Shoulder Pain Relief</a></p>\r\n    </div>\r\n  </section>\r\n</main>",
+      "textLength": 43,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "37dcb81a78ef": {
+      "id": "37dcb81a78ef",
+      "plainText": "Advanced techniques including dry needling and cupping",
+      "originalHtml": "<li>Advanced techniques including dry needling and cupping</li>",
+      "tagName": "li",
+      "previewContext": "licensed physical therapist.</p>\r\n\r\n      <h2>Why Patients Choose Us for Shoulder Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques including dry needling and cupping</li>\r\n        <li>No referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Get Shoulder Pain Relief</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 54,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "432adf439a49": {
+      "id": "432adf439a49",
+      "plainText": "No referral needed in Louisiana",
+      "originalHtml": "<li>No referral needed in Louisiana</li>",
+      "tagName": "li",
+      "previewContext": "Shoulder Pain</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques including dry needling and cupping</li>\r\n        <li>No referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Get Shoulder Pain Relief</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 31,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "li",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "01e92c897b02": {
+      "id": "01e92c897b02",
+      "plainText": "Get Shoulder Pain Relief",
+      "originalHtml": "<p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Get Shoulder Pain Relief</a></p>",
+      "tagName": "p",
+      "previewContext": "1.05rem\">\r\n        <li>One-on-one sessions — your therapist is with you the entire time</li>\r\n        <li>45–60 minute appointments for thorough care</li>\r\n        <li>Advanced techniques including dry needling and cupping</li>\r\n        <li>No referral needed in Louisiana</li>\r\n      </ul>\r\n\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Get Shoulder Pain Relief</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 24,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "p",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": false
+        }
+      ]
+    },
+    "e6dd15ef4fa0": {
+      "id": "e6dd15ef4fa0",
+      "plainText": "Shoulder Pain Treatment — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Shoulder Pain Treatment — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 64,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "title",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": true
+        }
+      ]
+    },
+    "6d9103142003": {
+      "id": "6d9103142003",
+      "plainText": "Expert physical therapy for shoulder pain in Slidell, LA. Treating rotator cuff tears, impingement, labral tears, and more. Call (985) 641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Expert physical therapy for shoulder pain in Slidell, LA. Treating rotator cuff tears, impingement, labral tears, and more. Call (985) 641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 144,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "shoulder-pain/index.html",
+          "selector": "meta[description]",
+          "category": "conditions",
+          "section": "Conditions > Shoulder Pain",
+          "pageName": "shoulder-pain",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

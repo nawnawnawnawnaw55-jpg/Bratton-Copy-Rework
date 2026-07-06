@@ -1,0 +1,65 @@
+{
+  "section": "Core Pages > Join Our Team",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "164d14148309": {
+      "id": "164d14148309",
+      "plainText": "Join Our Team Bratton Physical Therapy is always looking for talented, passionate professionals to join our team in Slidell, Louisiana. If you're committed to providing exceptional one-on-one patient care, we'd love to hear from you. Why Work at Bratton PT? One-on-One Care Model: Treat one patient at a time — no double-booking, no aides running your patients. Clinical Autonomy: Make clinical decisions based on your expertise, not productivity quotas. Collaborative Team: Work alongside experienced therapists who share knowledge and support each other. Great Location: Slidell, LA — a growing community on the Northshore with easy access to New Orleans. Open Positions We are currently accepting applications for: Licensed Physical Therapists (full-time and part-time) Physical Therapist Assistants Front Office / Patient Coordinator How to Apply Send your resume and a brief cover letter to our office. We'll reach out to qualified candidates to schedule an interview. Call to Inquire",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Join Our Team</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Bratton Physical Therapy is always looking for talented, passionate professionals to join our team in Slidell, Louisiana. If you're committed to providing exceptional one-on-one patient care, we'd love to hear from you.</p>\r\n\r\n      <h2>Why Work at Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li><strong>One-on-One Care Model:</strong> Treat one patient at a time — no double-booking, no aides running your patients.</li>\r\n        <li><strong>Clinical Autonomy:</strong> Make clinical decisions based on your expertise, not productivity quotas.</li>\r\n        <li><strong>Collaborative Team:</strong> Work alongside experienced therapists who share knowledge and support each other.</li>\r\n        <li><strong>Great Location:</strong> Slidell, LA — a growing community on the Northshore with easy access to New Orleans.</li>\r\n      </ul>\r\n\r\n      <h2>Open Positions</h2>\r\n      <p>We are currently accepting applications for:</p>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Licensed Physical Therapists (full-time and part-time)</li>\r\n        <li>Physical Therapist Assistants</li>\r\n        <li>Front Office / Patient Coordinator</li>\r\n      </ul>\r\n\r\n      <h2>How to Apply</h2>\r\n      <p>Send your resume and a brief cover letter to our office. We'll reach out to qualified candidates to schedule an interview.</p>\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call to Inquire</a></p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Join Our Team</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">Bratton Physical Therapy is always looking for talented, passionate professionals to join our team in Slidell, Louisiana. If you're committed to providing exceptional one-on-one patient care, we'd love to hear from you.</p>\r\n\r\n      <h2>Why Work at Bratton PT?</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li><strong>One-on-One Care Model:</strong> Treat one patient at a time — no double-booking, no aides running your patients.</li>\r\n        <li><strong>Clinical Autonomy:</strong> Make clinical decisions based on your expertise, not productivity quotas.</li>\r\n        <li><strong>Collaborative Team:</strong> Work alongside experienced therapists who share knowledge and support each other.</li>\r\n        <li><strong>Great Location:</strong> Slidell, LA — a growing community on the Northshore with easy access to New Orleans.</li>\r\n      </ul>\r\n\r\n      <h2>Open Positions</h2>\r\n      <p>We are currently accepting applications for:</p>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li>Licensed Physical Therapists (full-time and part-time)</li>\r\n        <li>Physical Therapist Assistants</li>\r\n        <li>Front Office / Patient Coordinator</li>\r\n      </ul>\r\n\r\n      <h2>How to Apply</h2>\r\n      <p>Send your resume and a brief cover letter to our office. We'll reach out to qualified candidates to schedule an interview.</p>\r\n      <p style=\"margin-top:32px\"><a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call to Inquire</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 989,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "join-our-team/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > Join Our Team",
+          "pageName": "join-our-team",
+          "isMeta": false
+        }
+      ]
+    },
+    "452ea88d9568": {
+      "id": "452ea88d9568",
+      "plainText": "Join Our Team — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Join Our Team — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 54,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "join-our-team/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > Join Our Team",
+          "pageName": "join-our-team",
+          "isMeta": true
+        }
+      ]
+    },
+    "95c107006cd4": {
+      "id": "95c107006cd4",
+      "plainText": "Join the Bratton Physical Therapy team in Slidell, LA. We",
+      "originalHtml": "<meta name=\"description\" content=\"Join the Bratton Physical Therapy team in Slidell, LA. We\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 57,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "join-our-team/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > Join Our Team",
+          "pageName": "join-our-team",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

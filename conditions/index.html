@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conditions We Treat — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Bratton Physical Therapy treats shoulder pain, knee pain, back pain, neck pain, sports injuries, ACL injuries, and more in Slidell, LA.">
+<meta property="og:title" content="Conditions We Treat — Bratton Physical Therapy">
+<meta property="og:description" content="Expert physical therapy for shoulder, knee, back, neck pain and more in Slidell, LA.">
+<meta property="og:url" content="/conditions/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:900px">
+      <h1>Conditions We Treat</h1>
+      <p style="font-size:1.15rem;line-height:1.7;max-width:700px">We specialize in treating a wide range of orthopedic and musculoskeletal conditions. Each treatment plan is customized to your specific diagnosis, goals, and lifestyle.</p>
+
+      <div class="conditions-pills" style="justify-content:flex-start;margin:24px 0">
+        <a href="/shoulder-pain/" class="condition-pill">Shoulder Pain</a>
+        <a href="/knee-pain/" class="condition-pill">Knee Pain</a>
+        <a href="/back-pain-sciatica/" class="condition-pill">Back Pain & Sciatica</a>
+        <a href="/neck-pain/" class="condition-pill">Neck Pain</a>
+        <a href="/acl-injury/" class="condition-pill">ACL Injury</a>
+        <a href="/sports-injuries/" class="condition-pill">Sports Injuries</a>
+        <a href="/labral-tear/" class="condition-pill">Labral Tear</a>
+        <a href="/meniscus-tear/" class="condition-pill">Meniscus Tear</a>
+        <a href="/knee-replacement/" class="condition-pill">Knee Replacement</a>
+        <a href="/joint-pain-arthritis/" class="condition-pill">Joint Pain & Arthritis</a>
+        <a href="/rotator-cuff-tear/" class="condition-pill">Rotator Cuff Tear</a>
+        <a href="/shoulder-impingement/" class="condition-pill">Shoulder Impingement</a>
+        <a href="/sprains-strains-tendinitis/" class="condition-pill">Sprains, Strains & Tendinitis</a>
+        <a href="/walking-balance-problems/" class="condition-pill">Walking & Balance Problems</a>
+        <a href="/pre-post-surgical-rehabilitation/" class="condition-pill">Pre- & Post-Surgical Rehab</a>
+        <a href="/work-related-injuries/" class="condition-pill">Work-Related Injuries</a>
+      </div>
+
+      <h2>Why Choose Bratton PT?</h2>
+      <ul style="line-height:1.8;font-size:1.05rem">
+        <li>One-on-one care with a licensed physical therapist every session</li>
+        <li>Evidence-based treatment plans — no cookie-cutter approaches</li>
+        <li>Manual therapy, therapeutic exercise, and patient education combined</li>
+        <li>Direct Access — no physician referral needed in Louisiana</li>
+      </ul>
+
+   <p style="margin-top:32px"><a href="/booking/" class="btn btn--accent btn--lg">Request Appointment</a></p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

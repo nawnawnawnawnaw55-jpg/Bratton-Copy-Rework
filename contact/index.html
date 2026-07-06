@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="/Bratton-Copy-Rework/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact Us — Bratton Physical Therapy | Slidell, LA</title>
+<meta name="description" content="Contact Bratton Physical Therapy in Slidell, LA. Call (985) 641-5825 or visit us at 1346 Lindberg Drive Suite 3, Slidell, LA 70458.">
+<meta property="og:title" content="Contact Us — Bratton Physical Therapy">
+<meta property="og:description" content="Contact Bratton Physical Therapy in Slidell, LA. Call (985) 641-5825.">
+<meta property="og:url" content="/contact/">
+<meta property="og:site_name" content="Bratton Physical Therapy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Google Fonts loaded asynchronously to avoid render-blocking -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/header.css"><link rel="stylesheet" href="/css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+<div id="site-header"></div>
+<script>
+  fetch('/templates/header.html')
+    .then(function(r){return r.text()})
+    .then(function(h){document.getElementById('site-header').innerHTML=h})
+    .then(function(){
+      var toggle=document.getElementById('menu-toggle');
+      var nav=document.getElementById('main-nav');
+      if(toggle&&nav){toggle.addEventListener('click',function(){nav.classList.toggle('nav--open')})}
+      var path=window.location.pathname;
+      document.querySelectorAll('.nav__link').forEach(function(link){
+        link.classList.toggle('nav__link--active',link.getAttribute('href')===path);
+      });
+      window.initStickyNav&&window.initStickyNav();
+    });
+</script>
+
+<main id="main-content">
+  <section class="section">
+    <div class="container" style="max-width:700px">
+      <h1>Contact Us</h1>
+      <p style="font-size:1.15rem;line-height:1.7">Ready to start your recovery? We're here to help. Call us to schedule your initial evaluation or stop by our clinic in Slidell.</p>
+
+      <div style="background:var(--light-gray);padding:24px;border-radius:8px;margin:24px 0">
+        <h3 style="margin-top:0">Phone</h3>
+        <p style="font-size:1.3rem;font-weight:700"><a href="tel:9856415825" style="color:var(--primary);text-decoration:none">(985) 641-5825</a></p>
+
+        <h3>Address</h3>
+        <p>1346 Lindberg Drive Suite 3<br>Slidell, LA 70458</p>
+
+        <h3>Hours</h3>
+        <p style="line-height:1.8">
+          Monday: 7:00 AM – 5:30 PM<br>
+          Tuesday: 7:00 AM – 5:30 PM<br>
+          Wednesday: 7:00 AM – 5:30 PM<br>
+          Thursday: 7:00 AM – 5:30 PM<br>
+          Friday: 7:00 AM – 2:00 PM<br>
+          Saturday: 8:00 AM – 12:00 PM<br>
+          Sunday: Closed
+        </p>
+      </div>
+
+      <p style="margin-top:32px"><a href="tel:9856415825" class="btn btn--accent btn--lg">Call (985) 641-5825</a></p>
+    </div>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+<script>
+  fetch('/templates/footer.html')
+    .then(function(r){return r.text()})
+    .then(function(f){document.getElementById('site-footer').innerHTML=f});
+</script>
+<script src="/js/main.js"></script>
+</body>
+</html>

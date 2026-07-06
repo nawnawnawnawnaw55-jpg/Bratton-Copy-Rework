@@ -1,0 +1,199 @@
+{
+  "section": "Services > Blood Flow Restriction Therapy",
+  "category": "services",
+  "pageCount": 13,
+  "snippetCount": 5,
+  "snippets": {
+    "2ba011df1ef8": {
+      "id": "2ba011df1ef8",
+      "plainText": "Blood Flow Restriction Therapy",
+      "originalHtml": "<div class=\"container\">\r\n      <h1>Blood Flow Restriction Therapy</h1>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "services/blood-flow-restriction-therapy.jpg\">\r\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\r\n  <link rel=\"stylesheet\" href=\"/css/main.css\">\r\n  <link rel=\"stylesheet\" href=\"/css/header.css\">\r\n  \r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n<main>\r\n  <section class=\"svc-hero\">\r\n    <div class=\"container\">\r\n      <h1>Blood Flow Restriction Therapy</h1>\r\n    </div>\r\n  </section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/blood-flow-restriction-therapy.jpg\" alt=\"Blood Flow Restriction Therapy\" loading=\"lazy\">\r\n        </div>",
+      "textLength": 30,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/blood-flow-restriction-therapy/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Blood Flow Restriction Therapy",
+          "pageName": "blood-flow-restriction-therapy",
+          "isMeta": false
+        }
+      ]
+    },
+    "21a72ce0df23": {
+      "id": "21a72ce0df23",
+      "plainText": "Blood Flow Restriction (BFR) therapy is an innovative treatment technique that uses a specialized tourniquet system to partially restrict blood flow to exercising muscles. This allows patients to achieve significant strength gains while using much lighter weights than traditional strength training requires. How BFR Works During BFR training, a specialized cuff is applied to the upper portion of the arm or leg. The cuff is inflated to a specific pressure that reduces venous blood flow (blood leaving the muscle) while maintaining arterial blood flow (blood entering the muscle). When combined with low-load exercise (typically 20–30% of your maximum), this creates a metabolic environment that stimulates muscle growth and strength gains similar to those seen with heavy resistance training. Benefits of BFR Therapy Builds muscle strength and size using light loads Reduces stress on joints and healing tissues Accelerates post-surgical recovery Improves outcomes for patients who cannot tolerate heavy lifting Safe and effective when administered by trained professionals Who Can Benefit from BFR? BFR therapy is particularly beneficial for patients who are unable to lift heavy weights due to: Post-surgical rehabilitation (ACL reconstruction, meniscus repair, rotator cuff repair) Joint pain and arthritis Tendon injuries Muscle atrophy after immobilization General weakness and deconditioning Is BFR Safe? When performed by a trained physical therapist, BFR is a safe and well-tolerated treatment. Your therapist will conduct a thorough screening to ensure BFR is appropriate for your specific condition and health status. Contact us today at (985) 641-5825 to learn if Blood Flow Restriction Therapy is right for you.",
+      "originalHtml": "<div class=\"svc-layout__body\">\r\n          <p>Blood Flow Restriction (BFR) therapy is an innovative treatment technique that uses a specialized tourniquet system to partially restrict blood flow to exercising muscles. This allows patients to achieve significant strength gains while using much lighter weights than traditional strength training requires.</p>\r\n<h2>How BFR Works</h2>\r\n<p>During BFR training, a specialized cuff is applied to the upper portion of the arm or leg. The cuff is inflated to a specific pressure that reduces venous blood flow (blood leaving the muscle) while maintaining arterial blood flow (blood entering the muscle). When combined with low-load exercise (typically 20–30% of your maximum), this creates a metabolic environment that stimulates muscle growth and strength gains similar to those seen with heavy resistance training.</p>\r\n<h2>Benefits of BFR Therapy</h2>\r\n<ul>\r\n<li>Builds muscle strength and size using light loads</li>\r\n<li>Reduces stress on joints and healing tissues</li>\r\n<li>Accelerates post-surgical recovery</li>\r\n<li>Improves outcomes for patients who cannot tolerate heavy lifting</li>\r\n<li>Safe and effective when administered by trained professionals</li>\r\n</ul>\r\n<h2>Who Can Benefit from BFR?</h2>\r\n<p>BFR therapy is particularly beneficial for patients who are unable to lift heavy weights due to:</p>\r\n<ul>\r\n<li>Post-surgical rehabilitation (ACL reconstruction, meniscus repair, rotator cuff repair)</li>\r\n<li>Joint pain and arthritis</li>\r\n<li>Tendon injuries</li>\r\n<li>Muscle atrophy after immobilization</li>\r\n<li>General weakness and deconditioning</li>\r\n</ul>\r\n<h2>Is BFR Safe?</h2>\r\n<p>When performed by a trained physical therapist, BFR is a safe and well-tolerated treatment. Your therapist will conduct a thorough screening to ensure BFR is appropriate for your specific condition and health status.</p>\r\n<p>Contact us today at (985) 641-5825 to learn if Blood Flow Restriction Therapy is right for you.</p>\r\n        </div>",
+      "tagName": "div",
+      "previewContext": "</section>\r\n\r\n  <section class=\"svc-content\">\r\n    <div class=\"container\">\r\n      <div class=\"svc-layout\">\r\n        <div class=\"svc-layout__img\">\r\n          <img src=\"/files/services/blood-flow-restriction-therapy.jpg\" alt=\"Blood Flow Restriction Therapy\" loading=\"lazy\">\r\n        </div>\r\n        <div class=\"svc-layout__body\">\r\n          <p>Blood Flow Restriction (BFR) therapy is an innovative treatment technique that uses a specialized tourniquet system to partially restrict blood flow to exercising muscles. This allows patients to achieve significant strength gains while using much lighter weights than traditional strength training requires.</p>\r\n<h2>How BFR Works</h2>\r\n<p>During BFR training, a specialized cuff is applied to the upper portion of the arm or leg. The cuff is inflated to a specific pressure that reduces venous blood flow (blood leaving the muscle) while maintaining arterial blood flow (blood entering the muscle). When combined with low-load exercise (typically 20–30% of your maximum), this creates a metabolic environment that stimulates muscle growth and strength gains similar to those seen with heavy resistance training.</p>\r\n<h2>Benefits of BFR Therapy</h2>\r\n<ul>\r\n<li>Builds muscle strength and size using light loads</li>\r\n<li>Reduces stress on joints and healing tissues</li>\r\n<li>Accelerates post-surgical recovery</li>\r\n<li>Improves outcomes for patients who cannot tolerate heavy lifting</li>\r\n<li>Safe and effective when administered by trained professionals</li>\r\n</ul>\r\n<h2>Who Can Benefit from BFR?</h2>\r\n<p>BFR therapy is particularly beneficial for patients who are unable to lift heavy weights due to:</p>\r\n<ul>\r\n<li>Post-surgical rehabilitation (ACL reconstruction, meniscus repair, rotator cuff repair)</li>\r\n<li>Joint pain and arthritis</li>\r\n<li>Tendon injuries</li>\r\n<li>Muscle atrophy after immobilization</li>\r\n<li>General weakness and deconditioning</li>\r\n</ul>\r\n<h2>Is BFR Safe?</h2>\r\n<p>When performed by a trained physical therapist, BFR is a safe and well-tolerated treatment. Your therapist will conduct a thorough screening to ensure BFR is appropriate for your specific condition and health status.</p>\r\n<p>Contact us today at (985) 641-5825 to learn if Blood Flow Restriction Therapy is right for you.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>",
+      "textLength": 1726,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/blood-flow-restriction-therapy/index.html",
+          "selector": "div.svc-layout__body",
+          "category": "services",
+          "section": "Services > Blood Flow Restriction Therapy",
+          "pageName": "blood-flow-restriction-therapy",
+          "isMeta": false
+        }
+      ]
+    },
+    "585c6b745c2a": {
+      "id": "585c6b745c2a",
+      "plainText": "Ready to get started? Call us or request an appointment today. Call (985) 641-5825 Request Appointment",
+      "originalHtml": "<div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>\r\n      </div>",
+      "tagName": "div",
+      "previewContext": "d well-tolerated treatment. Your therapist will conduct a thorough screening to ensure BFR is appropriate for your specific condition and health status.</p>\r\n<p>Contact us today at (985) 641-5825 to learn if Blood Flow Restriction Therapy is right for you.</p>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"svc-cta-row\">\r\n        <p>Ready to get started? Call us or request an appointment today.</p>\r\n        <a href=\"tel:9856415825\" class=\"btn btn--accent btn--lg\">Call (985) 641-5825</a> <a href=\"/booking/\" class=\"btn btn--outline btn--lg\">Request Appointment</a>\r\n      </div>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 102,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "services/blood-flow-restriction-therapy/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Blood Flow Restriction Therapy",
+          "pageName": "blood-flow-restriction-therapy",
+          "isMeta": false
+        },
+        {
+          "file": "services/cupping/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Cupping",
+          "pageName": "cupping",
+          "isMeta": false
+        },
+        {
+          "file": "services/dry-needling-certified/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Dry Needling Certified",
+          "pageName": "dry-needling-certified",
+          "isMeta": false
+        },
+        {
+          "file": "services/electrical-stimulation/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Electrical Stimulation",
+          "pageName": "electrical-stimulation",
+          "isMeta": false
+        },
+        {
+          "file": "services/gait-balance-training/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Gait Balance Training",
+          "pageName": "gait-balance-training",
+          "isMeta": false
+        },
+        {
+          "file": "services/mckenzie-method/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Mckenzie Method",
+          "pageName": "mckenzie-method",
+          "isMeta": false
+        },
+        {
+          "file": "services/moist-heat-ice/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Moist Heat Ice",
+          "pageName": "moist-heat-ice",
+          "isMeta": false
+        },
+        {
+          "file": "services/mulligan-technique/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Mulligan Technique",
+          "pageName": "mulligan-technique",
+          "isMeta": false
+        },
+        {
+          "file": "services/patient-education/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Patient Education",
+          "pageName": "patient-education",
+          "isMeta": false
+        },
+        {
+          "file": "services/strength-conditioning/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Strength Conditioning",
+          "pageName": "strength-conditioning",
+          "isMeta": false
+        },
+        {
+          "file": "services/therapeutic-exercise/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Therapeutic Exercise",
+          "pageName": "therapeutic-exercise",
+          "isMeta": false
+        },
+        {
+          "file": "services/vasopneumatic-compression/index.html",
+          "selector": "div.svc-cta-row",
+          "category": "services",
+          "section": "Services > Vasopneumatic Compression",
+          "pageName": "vasopneumatic-compression",
+          "isMeta": false
+        },
+        {
+          "file": "services/workers-compensation/index.html",
+          "selector": "div.container",
+          "category": "services",
+          "section": "Services > Workers Compensation",
+          "pageName": "workers-compensation",
+          "isMeta": false
+        }
+      ]
+    },
+    "18d82a91237b": {
+      "id": "18d82a91237b",
+      "plainText": "Blood Flow Restriction Therapy — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Blood Flow Restriction Therapy — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 71,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/blood-flow-restriction-therapy/index.html",
+          "selector": "title",
+          "category": "services",
+          "section": "Services > Blood Flow Restriction Therapy",
+          "pageName": "blood-flow-restriction-therapy",
+          "isMeta": true
+        }
+      ]
+    },
+    "f579c730f5c7": {
+      "id": "f579c730f5c7",
+      "plainText": "Blood Flow Restriction Therapy in Slidell, LA. Build strength with lighter loads using BFR — an innovative physical therapy technique. Call 985-641-5825.",
+      "originalHtml": "<meta name=\"description\" content=\"Blood Flow Restriction Therapy in Slidell, LA. Build strength with lighter loads using BFR — an innovative physical therapy technique. Call 985-641-5825.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 153,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "services/blood-flow-restriction-therapy/index.html",
+          "selector": "meta[description]",
+          "category": "services",
+          "section": "Services > Blood Flow Restriction Therapy",
+          "pageName": "blood-flow-restriction-therapy",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

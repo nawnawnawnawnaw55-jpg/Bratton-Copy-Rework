@@ -1,0 +1,84 @@
+═══════════════════════════════════════════════
+  COPY EXTRACTION REPORT
+═══════════════════════════════════════════════
+Total HTML files processed:    209
+Total unique text snippets:    1184
+Total snippet locations:       2037
+Shared snippets (used >1x):    72
+
+Sections:
+  Homepage                                           undefined snippets  (6 pages)
+  Core Pages > About                                 undefined snippets  (1 pages)
+  Core Pages > Booking                               undefined snippets  (3 pages)
+  Core Pages > Community                             undefined snippets  (1 pages)
+  Core Pages > Contact                               undefined snippets  (1 pages)
+  Core Pages > Faq                                   undefined snippets  (1 pages)
+  Core Pages > Insurance                             undefined snippets  (1 pages)
+  Core Pages > Join Our Team                         undefined snippets  (1 pages)
+  Core Pages > Location                              undefined snippets  (1 pages)
+  Core Pages > New Appointment                       undefined snippets  (1 pages)
+  Core Pages > Paperwork                             undefined snippets  (1 pages)
+  Core Pages > Patcenter                             undefined snippets  (1 pages)
+  Core Pages > Privacy Policy                        undefined snippets  (1 pages)
+  Core Pages > Reviews                               undefined snippets  (1 pages)
+  Core Pages > Sitemap                               undefined snippets  (1 pages)
+  Core Pages > Staff                                 undefined snippets  (1 pages)
+  Core Pages > Terms Of Use                          undefined snippets  (1 pages)
+  Conditions                                         undefined snippets  (1 pages)
+  Conditions > Acl Injury                            undefined snippets  (1 pages)
+  Conditions > Back Pain Sciatica                    undefined snippets  (1 pages)
+  Conditions > Joint Pain Arthritis                  undefined snippets  (1 pages)
+  Conditions > Knee Pain                             undefined snippets  (1 pages)
+  Conditions > Knee Replacement                      undefined snippets  (1 pages)
+  Conditions > Labral Tear                           undefined snippets  (1 pages)
+  Conditions > Meniscus Tear                         undefined snippets  (1 pages)
+  Conditions > Neck Pain                             undefined snippets  (1 pages)
+  Conditions > Pre Post Surgical Rehabilitation      undefined snippets  (1 pages)
+  Conditions > Rotator Cuff Tear                     undefined snippets  (2 pages)
+  Conditions > Shoulder Impingement                  undefined snippets  (1 pages)
+  Conditions > Shoulder Pain                         undefined snippets  (1 pages)
+  Conditions > Sports Injuries                       undefined snippets  (1 pages)
+  Conditions > Sprains Strains Tendinitis            undefined snippets  (1 pages)
+  Conditions > Walking Balance Problems              undefined snippets  (1 pages)
+  Conditions > Work Related Injuries                 undefined snippets  (1 pages)
+  Services > Blood Flow Restriction Therapy          undefined snippets  (13 pages)
+  Services > Cupping                                 undefined snippets  (1 pages)
+  Services > Dry Needling Certified                  undefined snippets  (1 pages)
+  Services > Electrical Stimulation                  undefined snippets  (2 pages)
+  Services > Gait Balance Training                   undefined snippets  (1 pages)
+  Services > Index.Html                              undefined snippets  (5 pages)
+  Services > Mckenzie Method                         undefined snippets  (1 pages)
+  Services > Moist Heat Ice                          undefined snippets  (1 pages)
+  Services > Mulligan Technique                      undefined snippets  (1 pages)
+  Services > Patient Education                       undefined snippets  (1 pages)
+  Services > Strength Conditioning                   undefined snippets  (1 pages)
+  Services > Therapeutic Exercise                    undefined snippets  (1 pages)
+  Services > Vasopneumatic Compression               undefined snippets  (1 pages)
+  Services > Workers Compensation                    undefined snippets  (1 pages)
+  Footer                                             undefined snippets  (1 pages)
+  Header                                             undefined snippets  (1 pages)
+  Medical Library                                    undefined snippets  (159 pages)
+  Medical Library > Back                             undefined snippets  (5 pages)
+  Medical Library > Directions                       undefined snippets  (6 pages)
+  Medical Library > Elbow                            undefined snippets  (9 pages)
+  Medical Library > Exercises                        undefined snippets  (4 pages)
+  Medical Library > First Visit                      undefined snippets  (1 pages)
+  Medical Library > Foot & Ankle                     undefined snippets  (58 pages)
+  Medical Library > For Physicians                   undefined snippets  (3 pages)
+  Medical Library > Health                           undefined snippets  (2 pages)
+  Medical Library > Hip                              undefined snippets  (15 pages)
+  Medical Library > Knee                             undefined snippets  (13 pages)
+  Medical Library > Leg                              undefined snippets  (4 pages)
+  Medical Library > Legal                            undefined snippets  (6 pages)
+  Medical Library > Neck                             undefined snippets  (7 pages)
+  Medical Library > Shoulder                         undefined snippets  (10 pages)
+  Medical Library > Systemic                         undefined snippets  (9 pages)
+  Medical Library > Treatments                       undefined snippets  (61 pages)
+  Medical Library > Wrist & Hand                     undefined snippets  (10 pages)
+
+Output written to: Bratton-Copy-Rework/
+  _master-snippets.json        All unique copy snippets
+  _page-index.json             Page-by-page index
+  _sections/                   Organized by section
+  _preview-context/            HTML context for live preview
+═══════════════════════════════════════════════

@@ -1,0 +1,1305 @@
+{
+  "section": "Medical Library > Shoulder",
+  "category": "medical-library",
+  "pageCount": 10,
+  "snippetCount": 67,
+  "snippets": {
+    "a01a94cb5e15": {
+      "id": "a01a94cb5e15",
+      "plainText": "Shoulder Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below. Pick a Body Area",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Shoulder</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>Shoulder</h1>\r\n<p style=\"font-size:1.15rem;line-height:1.7;margin-bottom:24px\">Browse our collection of educational resources, exercise guides, and treatment information. Click a body area or choose a category below.</p>\r\n\r\n<h2 style=\"text-align:center;margin-top:32px\">Pick a Body Area</h2>\r\n\r\n<div class=\"ml-diagram-wrapper\">\r\n  <div class=\"ml-svg-wrap\">\r\n    \r\n  </div>\r\n  <div class=\"ml-other-choices\">\r\n  <h2>Other Choices</h2>\r\n  <a href=\"/library/library_systemic/\" class=\"btn btn--accent\">Systemic</a>\r\n  <a href=\"/library/library_treatments/\" class=\"btn btn--accent\">Treatments</a>\r\n  <a href=\"/library/library_exercise_62/\" class=\"btn btn--accent\">Exercises</a>",
+      "textLength": 163,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        }
+      ]
+    },
+    "c9d479b3e6d7": {
+      "id": "c9d479b3e6d7",
+      "plainText": "Shoulder Articles Adhesive Capsulitis (Frozen Shoulder) Shoulder Instability Reoccurring Dislocations Posterior Dislocation Multidirectional Instability Signs and Symptoms Shoulder Tendonitis and Impingement Rotator Cuff Tears Acromioclavicular Separation (Separated Shoulder) Labral Tears",
+      "originalHtml": "<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Shoulder Articles</h2><ul><li><a href='/library/library_shoulder_26/'>Adhesive Capsulitis (Frozen Shoulder)</a></li><li><a href='/library/library_shoulder_27/'>Shoulder Instability</a></li><li><a href='/library/library_shoulder_28/'>Reoccurring Dislocations</a></li><li><a href='/library/library_shoulder_29/'>Posterior Dislocation</a></li><li><a href='/library/library_shoulder_30/'>Multidirectional Instability Signs and Symptoms</a></li><li><a href='/library/library_shoulder_31/'>Shoulder Tendonitis and Impingement</a></li><li><a href='/library/library_shoulder_33/'>Rotator Cuff Tears</a></li><li><a href='/library/library_shoulder_34/'>Acromioclavicular Separation (Separated Shoulder)</a></li><li><a href='/library/library_shoulder_35/'>Labral Tears</a></li></ul></div>",
+      "tagName": "div",
+      "previewContext": "class=\"ml-body-link\">Wrist & Hand</a><a href=\"/library/library_hip/\" class=\"ml-body-link\">Hip</a><a href=\"/library/library_knee/\" class=\"ml-body-link\">Knee</a><a href=\"/library/library_leg/\" class=\"ml-body-link\">Leg</a><a href=\"/library/library_ankle/\" class=\"ml-body-link\">Ankle & Foot</a></div>\r\n\r\n<div style=\"margin-top:32px\">\r\n  <div class=\"ml-parent-article-list\"><h2>Shoulder Articles</h2><ul><li><a href='/library/library_shoulder_26/'>Adhesive Capsulitis (Frozen Shoulder)</a></li><li><a href='/library/library_shoulder_27/'>Shoulder Instability</a></li><li><a href='/library/library_shoulder_28/'>Reoccurring Dislocations</a></li><li><a href='/library/library_shoulder_29/'>Posterior Dislocation</a></li><li><a href='/library/library_shoulder_30/'>Multidirectional Instability Signs and Symptoms</a></li><li><a href='/library/library_shoulder_31/'>Shoulder Tendonitis and Impingement</a></li><li><a href='/library/library_shoulder_33/'>Rotator Cuff Tears</a></li><li><a href='/library/library_shoulder_34/'>Acromioclavicular Separation (Separated Shoulder)</a></li><li><a href='/library/library_shoulder_35/'>Labral Tears</a></li></ul></div>\r\n</div>\r\n\r\n<h5 style=\"margin-top:32px; color:var(--primary)\">Disclaimer</h5><div style=\"font-size:0.85rem;color:#666;line-height:1.6;margin-bottom:24px\"><p>The information in this medical library is intended for informational and educational purposes only and in no way should be taken to be the pro",
+      "textLength": 289,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "div",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": false
+        }
+      ]
+    },
+    "50acae06f3c3": {
+      "id": "50acae06f3c3",
+      "plainText": "Shoulder — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Shoulder — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 49,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": true
+        }
+      ]
+    },
+    "b05e25780c63": {
+      "id": "b05e25780c63",
+      "plainText": "Medical Library Shoulder . Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder . Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 120,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder",
+          "isMeta": true
+        }
+      ]
+    },
+    "12b246affff4": {
+      "id": "12b246affff4",
+      "plainText": "← Back to Shoulder Adhesive Capsulitis Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Adhesive Capsulitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-eqrywj\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-eqrywj-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Adhesive Capsulitis</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-eqrywj\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-eqrywj-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-eqrywj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Adhesive Capsulitis</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_quoig8_frozen-shoulder.gif\" width=\"",
+      "textLength": 74,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "0e8076c5c625": {
+      "id": "0e8076c5c625",
+      "plainText": "Adhesive Capsulitis",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-eqrywj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Adhesive Capsulitis</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_quoig8_frozen-shoulder.gif\" width=\"300\" height=\"350\"  alt=\"Adhesive Capsulitis - Frozen Shoulder\" /></div>",
+      "tagName": "div",
+      "previewContext": "eqrywj-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-eqrywj-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-eqrywj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Adhesive Capsulitis</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_quoig8_frozen-shoulder.gif\" width=\"300\" height=\"350\"  alt=\"Adhesive Capsulitis - Frozen Shoulder\" /></div>\r\n\r\n<p>Adhesive Capsulitis, or a frozen shoulder, is a poorly understood condition in which the deepest layers of soft tissue, called the joint capsule, become diseased. Shoulder range of motion becomes very limited and painful. The cause of a frozen shoulder is still not known but minor traumas, hy",
+      "textLength": 19,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "e7ebe87bc366": {
+      "id": "e7ebe87bc366",
+      "plainText": "Adhesive Capsulitis, or a frozen shoulder, is a poorly understood condition in which the deepest layers of soft tissue, called the joint capsule, become diseased. Shoulder range of motion becomes very limited and painful. The cause of a frozen shoulder is still not known but minor traumas, hyperthyroidism, diabetes, psychiatric patients, post-surgical patients, and prolonged immobilization of the shoulder may in someway cause this condition. The disease is characterized as having freezing, frozen, and thawing stages, and is self-limiting (in time it goes away on its own). However, it can take two years or more to recover from this condition.",
+      "originalHtml": "<p>Adhesive Capsulitis, or a frozen shoulder, is a poorly understood condition in which the deepest layers of soft tissue, called the joint capsule, become diseased. Shoulder range of motion becomes very limited and painful. The cause of a frozen shoulder is still not known but minor traumas, hyperthyroidism, diabetes, psychiatric patients, post-surgical patients, and prolonged immobilization of the shoulder may in someway cause this condition. The disease is characterized as having freezing, frozen, and thawing stages, and is self-limiting (in time it goes away on its own). However, it can take two years or more to recover from this condition.</p>",
+      "tagName": "p",
+      "previewContext": "-active\" data-ml-tab-panel=\"ml-tab-eqrywj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Adhesive Capsulitis</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_quoig8_frozen-shoulder.gif\" width=\"300\" height=\"350\"  alt=\"Adhesive Capsulitis - Frozen Shoulder\" /></div>\r\n\r\n<p>Adhesive Capsulitis, or a frozen shoulder, is a poorly understood condition in which the deepest layers of soft tissue, called the joint capsule, become diseased. Shoulder range of motion becomes very limited and painful. The cause of a frozen shoulder is still not known but minor traumas, hyperthyroidism, diabetes, psychiatric patients, post-surgical patients, and prolonged immobilization of the shoulder may in someway cause this condition. The disease is characterized as having freezing, frozen, and thawing stages, and is self-limiting (in time it goes away on its own). However, it can take two years or more to recover from this condition.</p>\r\n<p>Physical therapy consisting of patient education, stretching, joint mobilization, and a home exercise program can help speed recovery.  For a small percentage of frozen shoulder patients, it may take two years or more to recover.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-pa",
+      "textLength": 649,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "c650997e4f6a": {
+      "id": "c650997e4f6a",
+      "plainText": "Physical therapy consisting of patient education, stretching, joint mobilization, and a home exercise program can help speed recovery. For a small percentage of frozen shoulder patients, it may take two years or more to recover.",
+      "originalHtml": "<p>Physical therapy consisting of patient education, stretching, joint mobilization, and a home exercise program can help speed recovery.  For a small percentage of frozen shoulder patients, it may take two years or more to recover.</p>",
+      "tagName": "p",
+      "previewContext": "atients, and prolonged immobilization of the shoulder may in someway cause this condition. The disease is characterized as having freezing, frozen, and thawing stages, and is self-limiting (in time it goes away on its own). However, it can take two years or more to recover from this condition.</p>\r\n<p>Physical therapy consisting of patient education, stretching, joint mobilization, and a home exercise program can help speed recovery.  For a small percentage of frozen shoulder patients, it may take two years or more to recover.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/libr",
+      "textLength": 228,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "02eda919e33b": {
+      "id": "02eda919e33b",
+      "plainText": "Active Assistive Range of Motion ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Heat Pack ▶ Video Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Posture Training ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "more to recover from this condition.</p>\r\n<p>Physical therapy consisting of patient education, stretching, joint mobilization, and a home exercise program can help speed recovery.  For a small percentage of frozen shoulder patients, it may take two years or more to recover.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_50/\">Heat Pack <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Pro",
+      "textLength": 481,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "a1167c974b15": {
+      "id": "a1167c974b15",
+      "plainText": "Decrease Risk of Reoccurrence Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Improve Relaxation Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": ">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogat",
+      "textLength": 195,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "955bb6ae6d22": {
+      "id": "955bb6ae6d22",
+      "plainText": "3d Anatomy of the Shoulder Frozen Shoulder/Adhesive Capsulitis Shoulder Problems from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/adhesive-capsulitis.html\" target=\"_blank\" rel=\"noopener\">Frozen Shoulder/Adhesive Capsulitis</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ase Risk of Reoccurrence</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-eqrywj-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/adhesive-capsulitis.html\" target=\"_blank\" rel=\"noopener\">Frozen Shoulder/Adhesive Capsulitis</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 98,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": false
+        }
+      ]
+    },
+    "7de461e998db": {
+      "id": "7de461e998db",
+      "plainText": "Adhesive Capsulitis — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Adhesive Capsulitis — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 60,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": true
+        }
+      ]
+    },
+    "26408a1938a4": {
+      "id": "26408a1938a4",
+      "plainText": "Medical Library Shoulder 26. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 26. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_26/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_26",
+          "isMeta": true
+        }
+      ]
+    },
+    "11bb64954dc5": {
+      "id": "11bb64954dc5",
+      "plainText": "← Back to Shoulder Shoulder Instability Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Shoulder Instability</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-1l2txc\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-1l2txc-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Shoulder Instability</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-1l2txc\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-1l2txc-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-1l2txc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Shoulder Instability</h4>\r\n<img src=\"/assets/files/remote-images/v2_rp4i89_anterior.gif\" width=\"300\" height=\"265\" alt=\"Sho",
+      "textLength": 75,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        }
+      ]
+    },
+    "b14b11ab0fff": {
+      "id": "b14b11ab0fff",
+      "plainText": "Shoulder Instability Shoulder instability occurs when the shoulder moves completely out of its socket (dislocation) and requires a medical professional to &ldquo;relocate it&rdquo;, or to a lesser degree, when it slips out of joint but spontaneously move back in place (subluxation). Usually, the shoulder dislocates or subluxes forward (this is called an anterior dislocation). Much less often, it dislocates backward (posterior dislocation), and sometimes, it can slip out forward, backward, or downward (this is called multidirectional instability). Remember, you may have an &ldquo;unstable&rdquo; shoulder that has not completely dislocated. The shoulder is most at risk for anterior dislocation when the arm is placed in an abducted and external rotated position (such as a fall on the outstretched hand or tackling a player). An anterior dislocation is obvious because it is immediately noticed by the person right after the trauma. However, minor instability may result in a sensation that the shoulder is slipping out of place with or without pain. One might also experience pain or a sense of &ldquo;apprehension&rdquo; when the arm is abducted and externally rotated (ask your physical therapist about this). A sudden dislocation is an emergency. The patient should be taken to the emergency room immediately to make sure there is no damage to the blood vessels or nerve that go to the shoulder, arm, and hand. Usually, the emergency room physician can move the arm in such a way that the dislocated shoulder reduces back into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is often prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after a dislocation to strengthen the muscles that support the shoulder joint.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-1l2txc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Shoulder Instability</h4>\r\n<img src=\"/assets/files/remote-images/v2_rp4i89_anterior.gif\" width=\"300\" height=\"265\" alt=\"Shoulder Instability\">\r\n\r\n\r\n<p>Shoulder instability occurs when the shoulder moves completely out of its socket (dislocation) and requires a medical professional to &ldquo;relocate it&rdquo;, or to a lesser degree, when it\r\nslips out of joint but spontaneously move back in place (subluxation). Usually, the shoulder dislocates\r\nor subluxes forward (this is called an anterior dislocation). Much less often, it dislocates backward\r\n(posterior dislocation), and sometimes, it can slip out forward, backward, or downward (this is called\r\nmultidirectional instability). Remember, you may have an &ldquo;unstable&rdquo; shoulder that has not\r\ncompletely dislocated.</p>\r\n<p>The shoulder is most at risk for anterior dislocation when the arm is placed in an abducted and external\r\nrotated position (such as a fall on the outstretched hand or tackling a player).</p>\r\n<p>An anterior dislocation is obvious because it is immediately noticed by the person right after the\r\ntrauma. However, minor instability may result in a sensation that the shoulder is slipping out of place\r\nwith or without pain. One might also experience pain or a sense of &ldquo;apprehension&rdquo; when the\r\narm is abducted and externally rotated (ask your physical therapist about this).</p>\r\n<p>A sudden dislocation is an emergency. The patient should be taken to the emergency room immediately to\r\nmake sure there is no damage to the blood vessels or nerve that go to the shoulder, arm, and hand.\r\nUsually, the emergency room physician can move the arm in such a way that the dislocated shoulder\r\nreduces back into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is\r\noften prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after\r\na dislocation to strengthen the muscles that support the shoulder joint.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "1l2txc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-1l2txc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-1l2txc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Shoulder Instability</h4>\r\n<img src=\"/assets/files/remote-images/v2_rp4i89_anterior.gif\" width=\"300\" height=\"265\" alt=\"Shoulder Instability\">\r\n\r\n\r\n<p>Shoulder instability occurs when the shoulder moves completely out of its socket (dislocation) and requires a medical professional to &ldquo;relocate it&rdquo;, or to a lesser degree, when it\r\nslips out of joint but spontaneously move back in place (subluxation). Usually, the shoulder dislocates\r\nor subluxes forward (this is called an anterior dislocation). Much less often, it dislocates backward\r\n(posterior dislocation), and sometimes, it can slip out forward, backward, or downward (this is called\r\nmultidirectional instability). Remember, you may have an &ldquo;unstable&rdquo; shoulder that has not\r\ncompletely dislocated.</p>\r\n<p>The shoulder is most at risk for anterior dislocation when the arm is placed in an abducted and external\r\nrotated position (such as a fall on the outstretched hand or tackling a player).</p>\r\n<p>An anterior dislocation is obvious because it is immediately noticed by the person right after the\r\ntrauma. However, minor instability may result in a sensation that the shoulder is slipping out of place\r\nwith or without pain. One might also experience pain or a sense of &ldquo;apprehension&rdquo; when the\r\narm is abducted and externally rotated (ask your physical therapist about this).</p>\r\n<p>A sudden dislocation is an emergency. The patient should be taken to the emergency room immediately to\r\nmake sure there is no damage to the blood vessels or nerve that go to the shoulder, arm, and hand.\r\nUsually, the emergency room physician can move the arm in such a way that the dislocated shoulder\r\nreduces back into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is\r\noften prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after\r\na dislocation to strengthen the muscles that support the shoulder joint.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/libr",
+      "textLength": 1801,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        }
+      ]
+    },
+    "aa5027404f99": {
+      "id": "aa5027404f99",
+      "plainText": "Active Assistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Posture Training ▶ Video Proprioception Exercises ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video Soft Tissue Mobilization ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ack into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is\r\noften prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after\r\na dislocation to strengthen the muscles that support the shoulder joint.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Pow",
+      "textLength": 518,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        }
+      ]
+    },
+    "026359ab81f2": {
+      "id": "026359ab81f2",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Decrease Postoperative Complications Improve Relaxation Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.nlm.nih.",
+      "textLength": 307,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        }
+      ]
+    },
+    "5569d6d7f2c8": {
+      "id": "5569d6d7f2c8",
+      "plainText": "3d Anatomy of the Shoulder Shoulder Problems from Medline Plus Shoulder Instability",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/shoulder-instability.html\" target=\"_blank\" rel=\"noopener\">Shoulder Instability</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ower</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Relaxation</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-1l2txc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/shoulder-instability.html\" target=\"_blank\" rel=\"noopener\">Shoulder Instability</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 83,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": false
+        }
+      ]
+    },
+    "b333ccaddd25": {
+      "id": "b333ccaddd25",
+      "plainText": "Shoulder Instability — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Shoulder Instability — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 61,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": true
+        }
+      ]
+    },
+    "777c7eecb321": {
+      "id": "777c7eecb321",
+      "plainText": "Medical Library Shoulder 27. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 27. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_27/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_27",
+          "isMeta": true
+        }
+      ]
+    },
+    "633713b1005d": {
+      "id": "633713b1005d",
+      "plainText": "← Back to Shoulder Reoccurring Dislocations Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Reoccurring Dislocations</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-281boc\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-281boc-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Reoccurring Dislocations</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-281boc\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-281boc-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-281boc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Reoccurring Dislocations</h4>\r\n\r\n<p>For those patients with reoccurring dislocations or instability, treatment is to modify or",
+      "textLength": 79,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        }
+      ]
+    },
+    "273ce2f752de": {
+      "id": "273ce2f752de",
+      "plainText": "Reoccurring Dislocations For those patients with reoccurring dislocations or instability, treatment is to modify or avoid the known activities, rehabilitate the shoulder with a physical therapist, and if theses are not successful, consider stabilizing surgical procedures.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-281boc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Reoccurring Dislocations</h4>\r\n\r\n<p>For those patients with reoccurring dislocations or instability, treatment is to modify or avoid the known activities, rehabilitate the shoulder with a physical therapist, and if theses are not successful, consider stabilizing surgical procedures.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "281boc-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-281boc-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-281boc-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Reoccurring Dislocations</h4>\r\n\r\n<p>For those patients with reoccurring dislocations or instability, treatment is to modify or avoid the known activities, rehabilitate the shoulder with a physical therapist, and if theses are not successful, consider stabilizing surgical procedures.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/libr",
+      "textLength": 272,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        }
+      ]
+    },
+    "631dca49210d": {
+      "id": "631dca49210d",
+      "plainText": "Active Assistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ng Dislocations</h4>\r\n\r\n<p>For those patients with reoccurring dislocations or instability, treatment is to modify or avoid the known activities, rehabilitate the shoulder with a physical therapist, and if theses are not successful, consider stabilizing surgical procedures.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Pow",
+      "textLength": 460,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        }
+      ]
+    },
+    "57896ce0dbce": {
+      "id": "57896ce0dbce",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pan></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 251,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        }
+      ]
+    },
+    "2d5d4188fb8b": {
+      "id": "2d5d4188fb8b",
+      "plainText": "3d Anatomy of the Shoulder",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "n</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-281boc-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 26,
+      "isShared": true,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        },
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        }
+      ]
+    },
+    "0f1fc3114098": {
+      "id": "0f1fc3114098",
+      "plainText": "Reoccurring Dislocations — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Reoccurring Dislocations — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 65,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": true
+        }
+      ]
+    },
+    "bc03fcb097bc": {
+      "id": "bc03fcb097bc",
+      "plainText": "Medical Library Shoulder 28. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 28. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_28/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_28",
+          "isMeta": true
+        }
+      ]
+    },
+    "cbd65e980973": {
+      "id": "cbd65e980973",
+      "plainText": "← Back to Shoulder Posterior Dislocation Overview Treatments Goals",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Posterior Dislocation</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-5blg34\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-5blg34-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-5blg34-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-5blg34-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Posterior Dislocation</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-5blg34\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-5blg34-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-5blg34-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-5blg34-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-5blg34-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Posterior Dislocation</h4>\r\n<img src=\"/assets/files/remote-images/v2_l3vcyu_posterior.gif\" width=\"300\" height=\"370\" alt=\"P",
+      "textLength": 66,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        }
+      ]
+    },
+    "3e01fd569dcd": {
+      "id": "3e01fd569dcd",
+      "plainText": "Posterior Dislocation Dislocations in which the arm moves backward out of the socket (called a posterior dislocation) are uncommon (4%). Posterior subluxation is being recognized more frequently in athletes involved in sports such as tennis and baseball. As mentioned above, sudden dislocation is an emergency. The patient should be taken to the emergency room immediately to make sure there is no damage to the blood vessels or nerve that go to the shoulder, arm, and hand. Usually, the emergency room physician can move the arm in such a way that the dislocated shoulder reduces back into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is often prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after a dislocation to strengthen the muscles that support the shoulder joint.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-5blg34-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Posterior Dislocation</h4>\r\n<img src=\"/assets/files/remote-images/v2_l3vcyu_posterior.gif\" width=\"300\" height=\"370\" alt=\"Posterior Dislocation\"/>\r\n\r\n<p>Dislocations in which the arm moves backward out of the socket (called a posterior dislocation) are uncommon (4%). Posterior subluxation is being recognized more frequently in athletes involved in sports such as tennis and baseball.</p>\r\n<p>As mentioned above, sudden dislocation is an emergency. The patient should be taken to the emergency room immediately to make sure there is no damage to the blood vessels or nerve that go to the shoulder, arm, and hand. Usually, the emergency room physician can move the arm in such a way that the dislocated shoulder reduces back into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is often prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after a dislocation to strengthen the muscles that support the shoulder joint.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "b-5blg34-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-5blg34-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-5blg34-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-5blg34-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Posterior Dislocation</h4>\r\n<img src=\"/assets/files/remote-images/v2_l3vcyu_posterior.gif\" width=\"300\" height=\"370\" alt=\"Posterior Dislocation\"/>\r\n\r\n<p>Dislocations in which the arm moves backward out of the socket (called a posterior dislocation) are uncommon (4%). Posterior subluxation is being recognized more frequently in athletes involved in sports such as tennis and baseball.</p>\r\n<p>As mentioned above, sudden dislocation is an emergency. The patient should be taken to the emergency room immediately to make sure there is no damage to the blood vessels or nerve that go to the shoulder, arm, and hand. Usually, the emergency room physician can move the arm in such a way that the dislocated shoulder reduces back into its proper place. Rarely is surgery indicated. Pain and muscle relaxant medication is often prescribed. Ice can also help reduce the pain. Physical therapy is usually started 2-3 weeks after a dislocation to strengthen the muscles that support the shoulder joint.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-5blg34-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/libr",
+      "textLength": 854,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        }
+      ]
+    },
+    "0e5ab6c604ac": {
+      "id": "0e5ab6c604ac",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-5blg34-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pan></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-5blg34-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 214,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": false
+        }
+      ]
+    },
+    "25d7a3185805": {
+      "id": "25d7a3185805",
+      "plainText": "Posterior Dislocation — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Posterior Dislocation — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 62,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": true
+        }
+      ]
+    },
+    "a75189f95229": {
+      "id": "a75189f95229",
+      "plainText": "Medical Library Shoulder 29. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 29. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_29/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_29",
+          "isMeta": true
+        }
+      ]
+    },
+    "9c81971c933b": {
+      "id": "9c81971c933b",
+      "plainText": "← Back to Shoulder Multidirectional Instability Signs and Symptoms Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Multidirectional Instability Signs and Symptoms</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-u5qnus\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-u5qnus-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Multidirectional Instability Signs and Symptoms</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-u5qnus\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-u5qnus-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-u5qnus-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Multidirectional Instability Signs and Symptoms</h4><img src=\"/assets/files/remote-images/v2_hpfoim_multidirectional.gif\"",
+      "textLength": 102,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        }
+      ]
+    },
+    "4dc1fbe066ac": {
+      "id": "4dc1fbe066ac",
+      "plainText": "Multidirectional Instability Signs and Symptoms Signs of ligamentous laxity are present. Pain and weakness are present in the shoulder that subluxes (partially moves out of joint) forward, backward, or downward. A positive &ldquo;sulcus sign&rdquo; is present on examination by a medical professional. Most patients respond well with physical therapy. Rarely surgery is indicated because it is hard to stabilize the shoulder in all directions.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-u5qnus-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Multidirectional Instability Signs and Symptoms</h4><img src=\"/assets/files/remote-images/v2_hpfoim_multidirectional.gif\" width=\"300\" height=\"400\" />\r\n\r\n\r\n<p>Signs of ligamentous laxity are present. Pain and weakness are present in the shoulder that subluxes (partially moves out of joint) forward, backward, or downward. A positive &ldquo;sulcus sign&rdquo; is present on examination by a medical professional.</p>\r\n<p>Most patients respond well with physical therapy. Rarely surgery is indicated because it is hard to stabilize the shoulder in all directions.</p></div>",
+      "tagName": "div",
+      "previewContext": "u5qnus-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-u5qnus-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-u5qnus-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Multidirectional Instability Signs and Symptoms</h4><img src=\"/assets/files/remote-images/v2_hpfoim_multidirectional.gif\" width=\"300\" height=\"400\" />\r\n\r\n\r\n<p>Signs of ligamentous laxity are present. Pain and weakness are present in the shoulder that subluxes (partially moves out of joint) forward, backward, or downward. A positive &ldquo;sulcus sign&rdquo; is present on examination by a medical professional.</p>\r\n<p>Most patients respond well with physical therapy. Rarely surgery is indicated because it is hard to stabilize the shoulder in all directions.</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/libr",
+      "textLength": 443,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        }
+      ]
+    },
+    "03a3aa582224": {
+      "id": "03a3aa582224",
+      "plainText": "Active Assistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Proprioception Exercises ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "int) forward, backward, or downward. A positive &ldquo;sulcus sign&rdquo; is present on examination by a medical professional.</p>\r\n<p>Most patients respond well with physical therapy. Rarely surgery is indicated because it is hard to stabilize the shoulder in all directions.</p></div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception",
+      "textLength": 404,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        }
+      ]
+    },
+    "0cf8e1ac0b00": {
+      "id": "0cf8e1ac0b00",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Improve Proprioception Self-care of Symptoms Improve Safety Improve Tolerance for Prolonged Activities Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "pan></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Safety</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-u5qnus-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 221,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": false
+        }
+      ]
+    },
+    "fd59d1b222e9": {
+      "id": "fd59d1b222e9",
+      "plainText": "Multidirectional Instability Signs and Symptoms — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Multidirectional Instability Signs and Symptoms — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 88,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": true
+        }
+      ]
+    },
+    "169c0df3e090": {
+      "id": "169c0df3e090",
+      "plainText": "Medical Library Shoulder 30. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 30. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_30/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_30",
+          "isMeta": true
+        }
+      ]
+    },
+    "1e838fda99ce": {
+      "id": "1e838fda99ce",
+      "plainText": "← Back to Shoulder Shoulder Tendonitis and Impingement Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Shoulder Tendonitis and Impingement</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-01d5l4\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-01d5l4-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Shoulder Tendonitis and Impingement</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-01d5l4\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-01d5l4-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-01d5l4-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Shoulder Tendonitis and Impingement</h4>\r\n<img src=\"/assets/files/remote-images/v2_uux160_impingement.gif\" width=\"300\" hei",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        }
+      ]
+    },
+    "454ff5393aca": {
+      "id": "454ff5393aca",
+      "plainText": "Shoulder Tendonitis and Impingement Tendonitis is an inflammation of the shoulder tendons. The signs of inflammation are pain, warmth, redness, tenderness to touch, and loss of function. Shoulder tendonitis (often called Rotator Cuff Tendonitis) can occur when the rotator cuff is overloaded, fatigued, traumatized, and with age-related degenerative changes. Pinching or impingement of the rotator cuff tendons occurs in a region under a bony structure called the acromion (the projection of the shoulder blade that forms the tip of the shoulder). Impingement happens when the arm is raised overhead repeatedly, or raised overhead with a heavy load in your hand, or may occur when you sleep on your shoulder. X-rays may show a hook or spur that increases the odds that you will pinch the rotator cuff tendons. Treatment for impingement or rotator cuff tendonitis usually involves rest, anti-inflammatory medications like ibuprofen, physical therapy to restore proper strength and movement, and less often, a cortisone injection.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-01d5l4-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Shoulder Tendonitis and Impingement</h4>\r\n<img src=\"/assets/files/remote-images/v2_uux160_impingement.gif\" width=\"300\" height=\"300\" alt=\"Shoulder Tgendonitis and Impingement\" />\r\n\r\n<p>Tendonitis is an inflammation of the shoulder tendons. The signs of inflammation are pain, warmth, redness, tenderness to touch, and loss of function. Shoulder tendonitis (often called Rotator Cuff Tendonitis) can occur when the rotator cuff is overloaded, fatigued, traumatized, and with age-related degenerative changes. Pinching or impingement of the rotator cuff tendons occurs in a region under a bony structure called the acromion (the projection of the shoulder blade that forms the tip of the shoulder). Impingement happens when the arm is raised overhead repeatedly, or raised overhead with a heavy load in your hand, or may occur when you sleep on your shoulder. X-rays may show a hook or spur that increases the odds that you will pinch the rotator cuff tendons.</p>\r\n<p>Treatment for impingement or rotator cuff tendonitis usually involves rest, anti-inflammatory medications like ibuprofen, physical therapy to restore proper strength and movement, and less often, a cortisone injection.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "01d5l4-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-01d5l4-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-01d5l4-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Shoulder Tendonitis and Impingement</h4>\r\n<img src=\"/assets/files/remote-images/v2_uux160_impingement.gif\" width=\"300\" height=\"300\" alt=\"Shoulder Tgendonitis and Impingement\" />\r\n\r\n<p>Tendonitis is an inflammation of the shoulder tendons. The signs of inflammation are pain, warmth, redness, tenderness to touch, and loss of function. Shoulder tendonitis (often called Rotator Cuff Tendonitis) can occur when the rotator cuff is overloaded, fatigued, traumatized, and with age-related degenerative changes. Pinching or impingement of the rotator cuff tendons occurs in a region under a bony structure called the acromion (the projection of the shoulder blade that forms the tip of the shoulder). Impingement happens when the arm is raised overhead repeatedly, or raised overhead with a heavy load in your hand, or may occur when you sleep on your shoulder. X-rays may show a hook or spur that increases the odds that you will pinch the rotator cuff tendons.</p>\r\n<p>Treatment for impingement or rotator cuff tendonitis usually involves rest, anti-inflammatory medications like ibuprofen, physical therapy to restore proper strength and movement, and less often, a cortisone injection.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/libr",
+      "textLength": 1028,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        }
+      ]
+    },
+    "15e239a1a284": {
+      "id": "15e239a1a284",
+      "plainText": "Active Assistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Plyometrics ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Posture Training ▶ Video Proprioception Exercises ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "s that you will pinch the rotator cuff tendons.</p>\r\n<p>Treatment for impingement or rotator cuff tendonitis usually involves rest, anti-inflammatory medications like ibuprofen, physical therapy to restore proper strength and movement, and less often, a cortisone injection.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_72/\">Plyometrics <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_74/\">Posture Training <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Prop",
+      "textLength": 578,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        }
+      ]
+    },
+    "45e8af322527": {
+      "id": "45e8af322527",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": ">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogat",
+      "textLength": 218,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        }
+      ]
+    },
+    "a06d1d64a6d5": {
+      "id": "a06d1d64a6d5",
+      "plainText": "3d Anatomy of the Shoulder Shoulder Impingement Shoulder Problems from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/impingement-syndrome.html\" target=\"_blank\" rel=\"noopener\">Shoulder Impingement</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "e</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-01d5l4-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/impingement-syndrome.html\" target=\"_blank\" rel=\"noopener\">Shoulder Impingement</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 83,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": false
+        }
+      ]
+    },
+    "cf11e67327f6": {
+      "id": "cf11e67327f6",
+      "plainText": "Shoulder Tendonitis and Impingement — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Shoulder Tendonitis and Impingement — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 76,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": true
+        }
+      ]
+    },
+    "f8ece0ff50c7": {
+      "id": "f8ece0ff50c7",
+      "plainText": "Medical Library Shoulder 31. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 31. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_31/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_31",
+          "isMeta": true
+        }
+      ]
+    },
+    "ac9e749b96f7": {
+      "id": "ac9e749b96f7",
+      "plainText": "← Back to Shoulder Rotator Cuff Tears Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Rotator Cuff Tears</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-sniaeo\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-sniaeo-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Rotator Cuff Tears</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-sniaeo\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-sniaeo-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-sniaeo-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Rotator Cuff Tears</h4>\r\n<img src=\"/assets/files/remote-images/v2_1ivff0_tears.gif\" width=\"300\" height=\"400\" alt=\"Rotator",
+      "textLength": 73,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        }
+      ]
+    },
+    "74bab9007926": {
+      "id": "74bab9007926",
+      "plainText": "Rotator Cuff Tears Rotator cuff tears happen in younger people when they experience a trauma such as a fall. In middle-aged people and seniors, rotator cuff tears are usually the result of a gradual wearing out of the rotator cuff tendon(s). The signs and symptoms of rotator cuff tears are pain in the shoulder often radiating down to the middle of the arm especially when the arm is raised overhead, weakness, and in severe cases, a complete loss of the ability to lift the arm. Diagnostic tests sometimes include an arthrogram (a radio-opaque dye is injected into the shoulder, and if it leaks out of the rotator cuff, it can be viewed on x-ray) or an ultrasound, but an M.R.I. of the rotator cuff is the most common test used for diagnosis. Treatment in young and middle-aged patients is usually arthroscopic or open repair of the torn tendons. In older patients, activity modification, anti-inflammatory medication, physical therapy and cortisone injections are typical. Surgery is an option for patients with pain and dysfunction that does not respond to conservative treatment.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-sniaeo-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Rotator Cuff Tears</h4>\r\n<img src=\"/assets/files/remote-images/v2_1ivff0_tears.gif\" width=\"300\" height=\"400\" alt=\"Rotator Cuff Tears\"/>\r\n\r\n<p>Rotator cuff tears happen in younger people when they experience a trauma such as a fall. In middle-aged people and seniors, rotator cuff tears are usually the result of a gradual wearing out of the rotator cuff tendon(s). The signs and symptoms of rotator cuff tears are pain in the shoulder often radiating down to the middle of the arm especially when the arm is raised overhead, weakness, and in severe cases, a complete loss of the ability to lift the arm. Diagnostic tests sometimes include an arthrogram (a radio-opaque dye is injected into the shoulder, and if it leaks out of the rotator cuff, it can be viewed on x-ray) or an ultrasound, but an M.R.I. of the rotator cuff is the most common test used for diagnosis.</p>\r\n<p>Treatment in young and middle-aged patients is usually arthroscopic or open repair of the torn tendons. In older patients, activity modification, anti-inflammatory medication, physical therapy and cortisone injections are typical. Surgery is an option for patients with pain and dysfunction that does not respond to conservative treatment.</p>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "sniaeo-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-sniaeo-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-sniaeo-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Rotator Cuff Tears</h4>\r\n<img src=\"/assets/files/remote-images/v2_1ivff0_tears.gif\" width=\"300\" height=\"400\" alt=\"Rotator Cuff Tears\"/>\r\n\r\n<p>Rotator cuff tears happen in younger people when they experience a trauma such as a fall. In middle-aged people and seniors, rotator cuff tears are usually the result of a gradual wearing out of the rotator cuff tendon(s). The signs and symptoms of rotator cuff tears are pain in the shoulder often radiating down to the middle of the arm especially when the arm is raised overhead, weakness, and in severe cases, a complete loss of the ability to lift the arm. Diagnostic tests sometimes include an arthrogram (a radio-opaque dye is injected into the shoulder, and if it leaks out of the rotator cuff, it can be viewed on x-ray) or an ultrasound, but an M.R.I. of the rotator cuff is the most common test used for diagnosis.</p>\r\n<p>Treatment in young and middle-aged patients is usually arthroscopic or open repair of the torn tendons. In older patients, activity modification, anti-inflammatory medication, physical therapy and cortisone injections are typical. Surgery is an option for patients with pain and dysfunction that does not respond to conservative treatment.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/libr",
+      "textLength": 1084,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        }
+      ]
+    },
+    "d0964cb98c37": {
+      "id": "d0964cb98c37",
+      "plainText": "Active Assistive Range of Motion ▶ Video Aerobic/Endurance Exercise ▶ Video Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Proprioception Exercises ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ic or open repair of the torn tendons. In older patients, activity modification, anti-inflammatory medication, physical therapy and cortisone injections are typical. Surgery is an option for patients with pain and dysfunction that does not respond to conservative treatment.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_40/\">Aerobic/Endurance Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tis",
+      "textLength": 533,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        }
+      ]
+    },
+    "3a28a281338a": {
+      "id": "3a28a281338a",
+      "plainText": "Decrease Risk of Reoccurrence Improve Fitness Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms Improve Tolerance for Prolonged Activities Improve Wound Healing",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": ">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Decrease Risk of Reoccurrence</li>\r\n  <li>Improve Fitness</li>\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n  <li>Improve Wound Healing</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-sniaeo-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>",
+      "textLength": 257,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": false
+        }
+      ]
+    },
+    "c57118b57035": {
+      "id": "c57118b57035",
+      "plainText": "Rotator Cuff Tears — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Rotator Cuff Tears — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 59,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": true
+        }
+      ]
+    },
+    "ec9acffeb9bd": {
+      "id": "ec9acffeb9bd",
+      "plainText": "Medical Library Shoulder 33. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 33. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_33/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_33",
+          "isMeta": true
+        }
+      ]
+    },
+    "2b58bd2573e8": {
+      "id": "2b58bd2573e8",
+      "plainText": "← Back to Shoulder Acromioclavicular Separation (Separated Shoulder) Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Acromioclavicular Separation (Separated Shoulder)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-4wtluj\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-4wtluj-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Acromioclavicular Separation (Separated Shoulder)</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-4wtluj\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-4wtluj-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4wtluj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Acromioclavicular Separation (Separated Shoulder)</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_pdsqb6_op",
+      "textLength": 104,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "21f2807d433c": {
+      "id": "21f2807d433c",
+      "plainText": "Acromioclavicular Separation (Separated Shoulder)",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4wtluj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Acromioclavicular Separation (Separated Shoulder)</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_s0lyv0_ACSprain.gif\" alt=\"Separated Shoulder or Acromioclavicular Separation\" width=\"300\" height=\"300\" /></div>",
+      "tagName": "div",
+      "previewContext": "4wtluj-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-4wtluj-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-4wtluj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Acromioclavicular Separation (Separated Shoulder)</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_s0lyv0_ACSprain.gif\" alt=\"Separated Shoulder or Acromioclavicular Separation\" width=\"300\" height=\"300\" /></div>\r\n\r\n<p>An &ldquo;AC Separation&rdquo; is commonly the result of a fall on the end of the shoulder. It results in pain, swelling, and often deformity in which it appears that the collar bone is &ldquo;sticking up.&rdquo;</p>\r\n<p>Treatment for a separated shoulder usually involves rest, ice, pain and",
+      "textLength": 49,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "306ee81235cb": {
+      "id": "306ee81235cb",
+      "plainText": "An &ldquo;AC Separation&rdquo; is commonly the result of a fall on the end of the shoulder. It results in pain, swelling, and often deformity in which it appears that the collar bone is &ldquo;sticking up.&rdquo;",
+      "originalHtml": "<p>An &ldquo;AC Separation&rdquo; is commonly the result of a fall on the end of the shoulder. It results in pain, swelling, and often deformity in which it appears that the collar bone is &ldquo;sticking up.&rdquo;</p>",
+      "tagName": "p",
+      "previewContext": "4wtluj-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Acromioclavicular Separation (Separated Shoulder)</h4>\r\n<div align=\"center\"><img src=\"/assets/files/remote-images/v2_s0lyv0_ACSprain.gif\" alt=\"Separated Shoulder or Acromioclavicular Separation\" width=\"300\" height=\"300\" /></div>\r\n\r\n<p>An &ldquo;AC Separation&rdquo; is commonly the result of a fall on the end of the shoulder. It results in pain, swelling, and often deformity in which it appears that the collar bone is &ldquo;sticking up.&rdquo;</p>\r\n<p>Treatment for a separated shoulder usually involves rest, ice, pain and anti-inflammatory medication, and physical therapy to restore motion. Rarely is surgery indicated. However, sometimes the ligaments that attach the collar bone to the shoulder blade are repaired.</p>\r\n</div>\r\n</div>\r\n    <d",
+      "textLength": 212,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "388cd037eedc": {
+      "id": "388cd037eedc",
+      "plainText": "Treatment for a separated shoulder usually involves rest, ice, pain and anti-inflammatory medication, and physical therapy to restore motion. Rarely is surgery indicated. However, sometimes the ligaments that attach the collar bone to the shoulder blade are repaired.",
+      "originalHtml": "<p>Treatment for a separated shoulder usually involves rest, ice, pain and anti-inflammatory medication, and physical therapy to restore motion. Rarely is surgery indicated. However, sometimes the ligaments that attach the collar bone to the shoulder blade are repaired.</p>",
+      "tagName": "p",
+      "previewContext": "Shoulder or Acromioclavicular Separation\" width=\"300\" height=\"300\" /></div>\r\n\r\n<p>An &ldquo;AC Separation&rdquo; is commonly the result of a fall on the end of the shoulder. It results in pain, swelling, and often deformity in which it appears that the collar bone is &ldquo;sticking up.&rdquo;</p>\r\n<p>Treatment for a separated shoulder usually involves rest, ice, pain and anti-inflammatory medication, and physical therapy to restore motion. Rarely is surgery indicated. However, sometimes the ligaments that attach the collar bone to the shoulder blade are repaired.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/libr",
+      "textLength": 267,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "p",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "e07f0c24b27d": {
+      "id": "e07f0c24b27d",
+      "plainText": "Active Assistive Range of Motion ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Proprioception Exercises ▶ Video Physical Agents Shoulder Active Range of Motion ▶ Video Shoulder Joint Mobilization ▶ Video Shoulder Passive Range of Motion ▶ Video Shoulder Resistive Range of Motion ▶ Video Soft Tissue Mobilization ▶ Video Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "p>\r\n<p>Treatment for a separated shoulder usually involves rest, ice, pain and anti-inflammatory medication, and physical therapy to restore motion. Rarely is surgery indicated. However, sometimes the ligaments that attach the collar bone to the shoulder blade are repaired.</p>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_33/\">Active Assistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_75/\">Proprioception Exercises <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_76/\">Shoulder Active Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_77/\">Shoulder Joint Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_78/\">Shoulder Passive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_79/\">Shoulder Resistive Range of Motion <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperati",
+      "textLength": 415,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "285cc84cb431": {
+      "id": "285cc84cb431",
+      "plainText": "Improve Function Optimize Joint Alignment Improve Muscle Strength and Power Improve Proprioception Decrease Postoperative Complications Improve Range of Motion Self-care of Symptoms Improve Tolerance for Prolonged Activities",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": ">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_80/\">Soft Tissue Mobilization <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Optimize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogat",
+      "textLength": 224,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "71aba3a16b8a": {
+      "id": "71aba3a16b8a",
+      "plainText": "3d Anatomy of the Shoulder AC Joint Problems/Shoulder Separation Shoulder Problems from Medline Plus",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/acromioclavicular-joint-separation.html\" target=\"_blank\" rel=\"noopener\">AC Joint Problems/Shoulder Separation</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "ize Joint Alignment</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Decrease Postoperative Complications</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n  <li>Improve Tolerance for Prolonged Activities</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-4wtluj-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.healthline.com/human-body-maps/shoulder\" target=\"_blank\" rel=\"noopener\">3d Anatomy of the Shoulder</a></li>\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/acromioclavicular-joint-separation.html\" target=\"_blank\" rel=\"noopener\">AC Joint Problems/Shoulder Separation</a></li>\r\n  <li><a href=\"http://www.nlm.nih.gov/medlineplus/shoulderinjuriesanddisorders.html\" target=\"_blank\" rel=\"noopener\">Shoulder Problems from Medline Plus</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 100,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": false
+        }
+      ]
+    },
+    "5232ce92d0e0": {
+      "id": "5232ce92d0e0",
+      "plainText": "Acromioclavicular Separation (Separated Shoulder) — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Acromioclavicular Separation (Separated Shoulder) — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 90,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": true
+        }
+      ]
+    },
+    "912727ebaf64": {
+      "id": "912727ebaf64",
+      "plainText": "Medical Library Shoulder 34. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 34. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_34/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_34",
+          "isMeta": true
+        }
+      ]
+    },
+    "0c1c4c92e963": {
+      "id": "0c1c4c92e963",
+      "plainText": "← Back to Shoulder Labral Tears Overview Treatments Goals Resources",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Labral Tears</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-bpbo7g\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-bpbo7g-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>",
+      "tagName": "div",
+      "previewContext": "ref=\"/css/main.css\">\r\n<link rel=\"stylesheet\" href=\"/css/header.css\">\r\n<link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <div class=\"library-article\">\r\n  <a href=\"/library/library_shoulder/\" class=\"ml-back-arrow\" aria-label=\"Back to Shoulder\"><span class=\"ml-back-arrow-icon\">←</span> Back to Shoulder</a>\r\n  <h1>Labral Tears</h1>\r\n  <div class=\"ml-tabs\" data-ml-tabs=\"ml-tab-bpbo7g\">\r\n  <div class=\"ml-tab-nav\" role=\"tablist\">\r\n    <button class=\"ml-tab-btn ml-tab-btn--active\" data-ml-tab=\"ml-tab-bpbo7g-0\" aria-selected=\"true\" role=\"tab\">Overview</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-bpbo7g-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Labral Tears</h4>\r\n<img src=\"/assets/files/remote-images/v2_dqsnx6_slapbankart.gif\" width=\"300\" height=\"400\" alt=\"Labral T",
+      "textLength": 67,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div.container",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        }
+      ]
+    },
+    "3bcd7bc9afd2": {
+      "id": "3bcd7bc9afd2",
+      "plainText": "Labral Tears The labrum is a cartilage ring that surrounds the shoulder socket (called the glenoid) and makes it deeper. In the above picture, it is numbered \"5\" - the thin blue ring around the glenoid. Since the socket is deepened by the labrum, the ball of the arm bone (called the head of the humerus) has a better fit into it. Labrum or labral tears are usually associated with trauma, instability of the shoulder, or repetitive throwing as with a baseball player. The signs and symptoms of a labral tear are painful clicking, locking, or popping. Instability may be present because the labrum is not doing its job of holding the ball in the socket. Medical intervention for a labral tear typically involves an MRI for diagnosis and arthroscopic repair but labral tears are often hard to diagnose. A special kind of labral tear, a superior labral anterior to posterior (SLAP) tear, often involves the biceps tendon as well.",
+      "originalHtml": "<div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-bpbo7g-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Labral Tears</h4>\r\n<img src=\"/assets/files/remote-images/v2_dqsnx6_slapbankart.gif\" width=\"300\" height=\"400\" alt=\"Labral Tear\" />\r\n\r\n<table>\r\n<tr valign=\"top\">\r\n<td><p>The labrum is a cartilage ring that surrounds the shoulder socket (called the glenoid) and makes it deeper. In the above picture, it is numbered \"5\" - the thin blue ring around the glenoid. Since the socket is deepened by the labrum, the ball of the arm bone (called the head of the humerus) has a better fit into it. Labrum or labral tears are usually associated with trauma, instability of the shoulder, or repetitive throwing as with a baseball player.</p>\r\n<p>The signs and symptoms of a labral tear are painful clicking, locking, or popping. Instability may be present because the labrum is not doing its job of holding the ball in the socket. Medical intervention for a labral tear typically involves an MRI for diagnosis and arthroscopic repair but labral tears are often hard to diagnose. A special kind of labral tear, a superior labral anterior to posterior (SLAP) tear, often involves the biceps tendon as well.</p></td>\r\n</tr>\r\n</table>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "bpbo7g-1\" aria-selected=\"false\" role=\"tab\">Treatments</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-2\" aria-selected=\"false\" role=\"tab\">Goals</button>\r\n    <button class=\"ml-tab-btn\" data-ml-tab=\"ml-tab-bpbo7g-3\" aria-selected=\"false\" role=\"tab\">Resources</button>\r\n  </div>\r\n  <div class=\"ml-tab-panels\">\r\n    <div class=\"ml-tab-panel ml-tab-panel--active\" data-ml-tab-panel=\"ml-tab-bpbo7g-0\" role=\"tabpanel\">\r\n  <div class=\"article-overview\"><h4>Labral Tears</h4>\r\n<img src=\"/assets/files/remote-images/v2_dqsnx6_slapbankart.gif\" width=\"300\" height=\"400\" alt=\"Labral Tear\" />\r\n\r\n<table>\r\n<tr valign=\"top\">\r\n<td><p>The labrum is a cartilage ring that surrounds the shoulder socket (called the glenoid) and makes it deeper. In the above picture, it is numbered \"5\" - the thin blue ring around the glenoid. Since the socket is deepened by the labrum, the ball of the arm bone (called the head of the humerus) has a better fit into it. Labrum or labral tears are usually associated with trauma, instability of the shoulder, or repetitive throwing as with a baseball player.</p>\r\n<p>The signs and symptoms of a labral tear are painful clicking, locking, or popping. Instability may be present because the labrum is not doing its job of holding the ball in the socket. Medical intervention for a labral tear typically involves an MRI for diagnosis and arthroscopic repair but labral tears are often hard to diagnose. A special kind of labral tear, a superior labral anterior to posterior (SLAP) tear, often involves the biceps tendon as well.</p></td>\r\n</tr>\r\n</table>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments",
+      "textLength": 927,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div.ml-tab-panels",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        }
+      ]
+    },
+    "4ceb9d0e1126": {
+      "id": "4ceb9d0e1126",
+      "plainText": "Core Strengthening ▶ Video Cryotherapy or Cold Therapy ▶ Video Electrotherapeutic Modalities Isometric Exercise ▶ Video Proprioceptive Neuromuscular Facilitation (PNF) ▶ Video Physical Agents Stretching/Flexibility Exercise ▶ Video",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "for a labral tear typically involves an MRI for diagnosis and arthroscopic repair but labral tears are often hard to diagnose. A special kind of labral tear, a superior labral anterior to posterior (SLAP) tear, often involves the biceps tendon as well.</p></td>\r\n</tr>\r\n</table>\r\n</div>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-1\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-treatment-list\">\r\n  <li><a href=\"/library/library_treatments_41/\">Core Strengthening <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_42/\">Cryotherapy or Cold Therapy <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_93/\">Electrotherapeutic Modalities</a></li>\r\n  <li><a href=\"/library/library_treatments_56/\">Isometric Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_73/\">Proprioceptive Neuromuscular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of M",
+      "textLength": 231,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        }
+      ]
+    },
+    "5ad509efbfee": {
+      "id": "5ad509efbfee",
+      "plainText": "Improve Function Improve Muscle Strength and Power Increase Oxygen to Tissues Improve Proprioception Improve Range of Motion Self-care of Symptoms",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "cular Facilitation (PNF) <span class=\"video-badge\">▶ Video</span></a></li>\r\n  <li><a href=\"/library/library_treatments_95/\">Physical Agents</a></li>\r\n  <li><a href=\"/library/library_treatments_81/\">Stretching/Flexibility Exercise <span class=\"video-badge\">▶ Video</span></a></li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/labral-tears.html\" target=\"_blank\" rel=\"noopener\">Labral Tear</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div",
+      "textLength": 146,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        }
+      ]
+    },
+    "252405f304c9": {
+      "id": "252405f304c9",
+      "plainText": "Labral Tear",
+      "originalHtml": "<div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/labral-tears.html\" target=\"_blank\" rel=\"noopener\">Labral Tear</a></li>\r\n</ul>\r\n</div>",
+      "tagName": "div",
+      "previewContext": "2\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-goal-list\">\r\n  <li>Improve Function</li>\r\n  <li>Improve Muscle Strength and Power</li>\r\n  <li>Increase Oxygen to Tissues</li>\r\n  <li>Improve Proprioception</li>\r\n  <li>Improve Range of Motion</li>\r\n  <li>Self-care of Symptoms</li>\r\n</ul>\r\n</div>\r\n    <div class=\"ml-tab-panel\" data-ml-tab-panel=\"ml-tab-bpbo7g-3\" role=\"tabpanel\" hidden>\r\n  <ul class=\"article-resource-list\">\r\n  <li><a href=\"http://www.orthogate.org/patient-education/shoulder/labral-tears.html\" target=\"_blank\" rel=\"noopener\">Labral Tear</a></li>\r\n</ul>\r\n</div>\r\n  </div>\r\n</div>\r\n  <div class=\"ml-body-links\"><a href=\"/library/library_neck/\" class=\"ml-body-link\">Neck</a><a href=\"/library/library_shoulder/\" class=\"ml-body-link\">Shoulder</a><a href=\"/library/library_back/\" class=\"ml-body-link\">Back</a><a href=\"/library/library_elbow/\" class=\"ml-body-link\">El",
+      "textLength": 11,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "div.ml-tab-panel",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": false
+        }
+      ]
+    },
+    "40f1c8e47447": {
+      "id": "40f1c8e47447",
+      "plainText": "Labral Tears — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>Labral Tears — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 53,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "title",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": true
+        }
+      ]
+    },
+    "a6ddfa627257": {
+      "id": "a6ddfa627257",
+      "plainText": "Medical Library Shoulder 35. Useful information to help you learn more about why physical therapy is a great first choice.",
+      "originalHtml": "<meta name=\"description\" content=\"Medical Library Shoulder 35. Useful information to help you learn more about why physical therapy is a great first choice.\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 122,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "library/library_shoulder_35/index.html",
+          "selector": "meta[description]",
+          "category": "medical-library",
+          "section": "Medical Library > Shoulder",
+          "pageName": "library_shoulder_35",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}

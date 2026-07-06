@@ -1,0 +1,65 @@
+{
+  "section": "Core Pages > About",
+  "category": "core-pages",
+  "pageCount": 1,
+  "snippetCount": 3,
+  "snippets": {
+    "10361842c2d1": {
+      "id": "10361842c2d1",
+      "plainText": "About Bratton Physical Therapy At Bratton Physical Therapy, we provide one-on-one, hands-on care focused on getting you back to the activities you love — faster and safer. Located in Slidell, Louisiana, our clinic is built on the belief that recovery should never feel rushed or impersonal. Our Mission To deliver individualized, evidence-based physical therapy that addresses the root cause of your pain — not just the symptoms. Every patient receives a customized treatment plan designed around their specific goals, lifestyle, and recovery timeline. What Makes Us Different One-on-One Sessions: You work directly with a licensed physical therapist — never passed off to an aide or tech. Longer Appointments: We schedule 45–60 minute sessions so there's time to listen, assess, and treat thoroughly. No Referral Needed: Louisiana allows Direct Access — you can start treatment without a physician's prescription. Convenient Location: 1346 Lindberg Drive Suite 3, Slidell, LA 70458 — easy access from I-10 and I-12. Our Approach We combine manual therapy, therapeutic exercise, and patient education to create lasting results. Whether you're recovering from surgery, managing a chronic condition, or looking to prevent future injuries, we meet you where you are and build a plan that fits. Request Appointment",
+      "originalHtml": "<div class=\"container\" style=\"max-width:800px\">\r\n      <h1>About Bratton Physical Therapy</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">At Bratton Physical Therapy, we provide one-on-one, hands-on care focused on getting you back to the activities you love — faster and safer. Located in Slidell, Louisiana, our clinic is built on the belief that recovery should never feel rushed or impersonal.</p>\r\n\r\n      <h2>Our Mission</h2>\r\n      <p>To deliver individualized, evidence-based physical therapy that addresses the root cause of your pain — not just the symptoms. Every patient receives a customized treatment plan designed around their specific goals, lifestyle, and recovery timeline.</p>\r\n\r\n      <h2>What Makes Us Different</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li><strong>One-on-One Sessions:</strong> You work directly with a licensed physical therapist — never passed off to an aide or tech.</li>\r\n        <li><strong>Longer Appointments:</strong> We schedule 45–60 minute sessions so there's time to listen, assess, and treat thoroughly.</li>\r\n        <li><strong>No Referral Needed:</strong> Louisiana allows Direct Access — you can start treatment without a physician's prescription.</li>\r\n        <li><strong>Convenient Location:</strong> 1346 Lindberg Drive Suite 3, Slidell, LA 70458 — easy access from I-10 and I-12.</li>\r\n      </ul>\r\n\r\n      <h2>Our Approach</h2>\r\n      <p>We combine manual therapy, therapeutic exercise, and patient education to create lasting results. Whether you're recovering from surgery, managing a chronic condition, or looking to prevent future injuries, we meet you where you are and build a plan that fits.</p>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>",
+      "tagName": "div",
+      "previewContext": "sheet\" href=\"/css/main.css\"><link rel=\"stylesheet\" href=\"/css/header.css\"><link rel=\"stylesheet\" href=\"/css/home.css\">\r\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n</head>\r\n<body>\r\n<div id=\"site-header\"></div>\r\n\r\n\r\n<main id=\"main-content\">\r\n  <section class=\"section\">\r\n    <div class=\"container\" style=\"max-width:800px\">\r\n      <h1>About Bratton Physical Therapy</h1>\r\n      <p style=\"font-size:1.15rem;line-height:1.7\">At Bratton Physical Therapy, we provide one-on-one, hands-on care focused on getting you back to the activities you love — faster and safer. Located in Slidell, Louisiana, our clinic is built on the belief that recovery should never feel rushed or impersonal.</p>\r\n\r\n      <h2>Our Mission</h2>\r\n      <p>To deliver individualized, evidence-based physical therapy that addresses the root cause of your pain — not just the symptoms. Every patient receives a customized treatment plan designed around their specific goals, lifestyle, and recovery timeline.</p>\r\n\r\n      <h2>What Makes Us Different</h2>\r\n      <ul style=\"line-height:1.8;font-size:1.05rem\">\r\n        <li><strong>One-on-One Sessions:</strong> You work directly with a licensed physical therapist — never passed off to an aide or tech.</li>\r\n        <li><strong>Longer Appointments:</strong> We schedule 45–60 minute sessions so there's time to listen, assess, and treat thoroughly.</li>\r\n        <li><strong>No Referral Needed:</strong> Louisiana allows Direct Access — you can start treatment without a physician's prescription.</li>\r\n        <li><strong>Convenient Location:</strong> 1346 Lindberg Drive Suite 3, Slidell, LA 70458 — easy access from I-10 and I-12.</li>\r\n      </ul>\r\n\r\n      <h2>Our Approach</h2>\r\n      <p>We combine manual therapy, therapeutic exercise, and patient education to create lasting results. Whether you're recovering from surgery, managing a chronic condition, or looking to prevent future injuries, we meet you where you are and build a plan that fits.</p>\r\n\r\n   <p style=\"margin-top:32px\"><a href=\"/booking/\" class=\"btn btn--accent btn--lg\">Request Appointment</a></p>\r\n    </div>\r\n  </section>\r\n</main>\r\n\r\n<div id=\"site-footer\"></div>\r\n\r\n\r\n</body>\r\n</html>",
+      "textLength": 1310,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "about/index.html",
+          "selector": "div.container",
+          "category": "core-pages",
+          "section": "Core Pages > About",
+          "pageName": "about",
+          "isMeta": false
+        }
+      ]
+    },
+    "0898e9ce3d38": {
+      "id": "0898e9ce3d38",
+      "plainText": "About Us — Bratton Physical Therapy | Slidell, LA",
+      "originalHtml": "<title>About Us — Bratton Physical Therapy | Slidell, LA</title>",
+      "tagName": "title",
+      "previewContext": "<head>",
+      "textLength": 49,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "about/index.html",
+          "selector": "title",
+          "category": "core-pages",
+          "section": "Core Pages > About",
+          "pageName": "about",
+          "isMeta": true
+        }
+      ]
+    },
+    "cb53ebe5d83c": {
+      "id": "cb53ebe5d83c",
+      "plainText": "Learn about Bratton Physical Therapy",
+      "originalHtml": "<meta name=\"description\" content=\"Learn about Bratton Physical Therapy\">",
+      "tagName": "meta",
+      "previewContext": "<head>",
+      "textLength": 36,
+      "isShared": false,
+      "locations": [
+        {
+          "file": "about/index.html",
+          "selector": "meta[description]",
+          "category": "core-pages",
+          "section": "Core Pages > About",
+          "pageName": "about",
+          "isMeta": true
+        }
+      ]
+    }
+  }
+}
