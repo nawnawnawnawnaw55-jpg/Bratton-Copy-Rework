@@ -700,6 +700,19 @@
     },
 
     /**
+     * Collect the current innerHTML of all rendered .br-snippet wrappers, keyed by snippet ID.
+     * Used to persist user edits to the local edit cache.
+     */
+    getCurrentRenderedSnippets() {
+      const result = {};
+      DOM.pageRender.querySelectorAll(".br-snippet").forEach(wrapper => {
+        const id = wrapper.dataset.snippetId;
+        if (id) result[id] = wrapper.innerHTML;
+      });
+      return result;
+    },
+
+    /**
      * Toggle the editor preview between Jena-edited content and the original (pristine) content.
      */
     _toggleJenaEdits() {
@@ -1115,6 +1128,13 @@
               };
               LOG.append(STATE.dirtySnapshots[snippetId], tab.id);
               TABS.markDirty(tab.id);
+              // Persist the current rendered HTML to local edit cache immediately
+              // Store flat {snippetId: html} to match saveCurrentPageEditsToCache format
+              const renderedState = REN.getCurrentRenderedSnippets();
+              if (renderedState && Object.keys(renderedState).length) {
+                Object.assign(STATE.editCache, renderedState);
+                saveEditCache();
+              }
             }
           }
         });
@@ -1823,14 +1843,6 @@ if (!src || src.startsWith("data:") || src.startsWith("files/") || src.startsWit
       }
     },
 
-    getCurrentRenderedSnippets() {
-      const result = {};
-      DOM.pageRender.querySelectorAll(".br-snippet").forEach(wrapper => {
-        const id = wrapper.dataset.snippetId;
-        result[id] = wrapper.innerHTML;
-      });
-      return result;
-    }
   };
 
   // ========== FLOATING TEXT TOOLBAR: FT ==========
