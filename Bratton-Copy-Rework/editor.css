@@ -94,15 +94,18 @@ html, body {
   padding: 5px 10px;
   font-size: 12px;
 }
-.btn--jena-toggle {
-  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
-  color: #1e40af;
-  border-color: #bfdbfe;
+.btn.btn--jena-toggle {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  color: #ffffff;
+  border: 2px solid #2563eb;
   font-weight: 600;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
 }
-.btn--jena-toggle:hover {
-  background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
-  color: #1e3a8a;
+.btn.btn--jena-toggle:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e3a8a 100%);
+  color: #ffffff;
+  border-color: #1e3a8a;
+  box-shadow: 0 3px 12px rgba(37, 99, 235, 0.4);
 }
 
 /* ---- TOP BAR ---- */
