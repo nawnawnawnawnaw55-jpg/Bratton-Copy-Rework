@@ -24,6 +24,7 @@
     loadedSections: {},     // file → { html, snippets }  (raw section data)
     dirtyFiles: {},         // file → true
     dirtySnapshots: {},     // snippetId → { file, oldHtml, newHtml, pageName }
+    editCache: {},          // snippetId → user's edited HTML (synced to localStorage 'br-editor-cache')
     activeTabId: null,
     tabs: [],               // [{ id, file, pageName, label, isDirty, snippets }]
     settings: {
@@ -86,6 +87,52 @@
     const div = document.createElement("div");
     div.textContent = str;
     return div.innerHTML;
+  }
+
+  // ========== EDIT CACHE (localStorage) ==========
+  const EDIT_CACHE_KEY = "br-editor-cache";
+
+  function loadEditCache() {
+    try {
+      const raw = localStorage.getItem(EDIT_CACHE_KEY);
+      if (raw) {
+        STATE.editCache = JSON.parse(raw);
+      }
+    } catch (e) {
+      STATE.editCache = {};
+    }
+  }
+
+  function saveEditCache() {
+    try {
+      localStorage.setItem(EDIT_CACHE_KEY, JSON.stringify(STATE.editCache));
+    } catch (e) {
+      // localStorage full or unavailable — fail silently
+    }
+  }
+
+  function clearEditCache() {
+    try {
+      localStorage.removeItem(EDIT_CACHE_KEY);
+    } catch (e) { /* ignore */ }
+    STATE.editCache = {};
+  }
+
+  function saveCurrentPageEditsToCache() {
+    // Only save when the user is viewing edited content (not pristine original).
+    // If jenaActive is false, the DOM currently shows pristine content and
+    // saving it would overwrite the user's actual edits in the cache.
+    if (!STATE.jenaActive) return;
+    // Save all currently rendered snippet HTMLs into the edit cache
+    const tab = STATE.tabs.find(t => t.id === STATE.activeTabId);
+    if (!tab || !tab.snippets) return;
+    const currentRendered = REN.getCurrentRenderedSnippets();
+    let changed = false;
+    for (const snippetId of Object.keys(currentRendered)) {
+      STATE.editCache[snippetId] = currentRendered[snippetId];
+      changed = true;
+    }
+    if (changed) saveEditCache();
   }
 
   // ========== TOAST ==========
@@ -360,6 +407,8 @@
   // ========== TAB MANAGEMENT: TABS ==========
   const TABS = {
     openTab(file) {
+      // Save current page's edited HTML before navigating away
+      saveCurrentPageEditsToCache();
       // Check if already open
       let tab = STATE.tabs.find(t => t.file === file);
       if (tab) {
@@ -571,7 +620,34 @@
      */
     async _checkJenaEditedPage(file, tab) {
       try {
-        // Fetch from the live URL (served from main branch)
+        // Check if there are cached unsaved edits from this session first.
+        // If the user edited text, navigated away, and came back, we restore from cache.
+        const cachedIds = tab.snippets.filter(s => STATE.editCache[s.id]).map(s => s.id);
+        if (cachedIds.length > 0) {
+          // Restore cached (user-edited) content as snippet.originalHtml
+          let restoredCount = 0;
+          STATE.pristineSnapshots = {};
+          for (const snippet of tab.snippets) {
+            // Save original HTML before overwriting
+            STATE.pristineSnapshots[snippet.id] = snippet.originalHtml;
+            if (STATE.editCache[snippet.id]) {
+              snippet.originalHtml = STATE.editCache[snippet.id];
+              restoredCount++;
+            }
+          }
+          if (restoredCount > 0) {
+            this.renderSnippets(tab);
+            STATE.jenaAvailable = true;
+            STATE.jenaActive = true;
+            DOM.btnJenaToggle.style.display = "";
+            DOM.btnJenaToggle.innerHTML = "👁 Show Original";
+            DOM.currentPageLabel.textContent = tab.label;
+            console.log(`[_checkJenaEditedPage] Restored ${restoredCount} cached edits for ${file}`);
+            return;
+          }
+        }
+
+        // No cache — fetch from GitHub Pages (served from main branch)
         const jenaFile = `JenaEditedPages/${file}`;
         const res = await fetch(jenaFile);
         if (!res.ok) {
@@ -631,7 +707,8 @@
       if (!tab || !tab.snippets) return;
 
       if (STATE.jenaActive) {
-        // Currently showing Jena edits — switch to pristine original
+        // Currently showing Jena edits — save current DOM to cache, then switch to pristine original
+        saveCurrentPageEditsToCache();
         for (const snippet of tab.snippets) {
           if (STATE.pristineSnapshots[snippet.id] !== undefined) {
             snippet.originalHtml = STATE.pristineSnapshots[snippet.id];
@@ -643,9 +720,25 @@
         this.renderSnippets(tab);
         console.log("[_toggleJenaEdits] Switched to ORIGINAL (pristine) content");
       } else {
-        // Currently showing original — switch back to Jena edits
-        // Need to re-fetch from the JenaEditedPages file
-        this._reloadJenaEdits(tab);
+        // Currently showing original — switch back to edited (from cache first, GitHub fallback)
+        // Do NOT save cache here — we don't want to overwrite user edits with pristine content
+        let restoredCount = 0;
+        for (const snippet of tab.snippets) {
+          if (STATE.editCache[snippet.id]) {
+            snippet.originalHtml = STATE.editCache[snippet.id];
+            restoredCount++;
+          }
+        }
+        if (restoredCount > 0) {
+          STATE.jenaActive = true;
+          DOM.btnJenaToggle.innerHTML = "👁 Show Original";
+          DOM.currentPageLabel.textContent = tab.label;
+          this.renderSnippets(tab);
+          console.log(`[_toggleJenaEdits] Restored ${restoredCount} cached edits for ${tab.file}`);
+        } else {
+          // No cache — fall back to re-fetching from GitHub
+          this._reloadJenaEdits(tab);
+        }
       }
     },
 
@@ -2339,6 +2432,8 @@ if (!src || src.startsWith("data:") || src.startsWith("files/") || src.startsWit
               });
             }
           });
+          // Clear the edit cache since changes are now saved to GitHub
+          clearEditCache();
           // Update sidebar green dots — submitted pages are now "finished"
           SB.refreshStatus();
 
@@ -2933,9 +3028,12 @@ if (!src || src.startsWith("data:") || src.startsWith("files/") || src.startsWit
     }
   }
 
-  init();
+    // Clear stale edit cache from previous sessions on page refresh.
+    // The cache is only valid within a single browser session.
+    clearEditCache();
+    init();
 
-  // ================================================================
+    // ================================================================
   // PROGRAMMATIC API (exposed for testing)
   // ================================================================
   window.BR = {
